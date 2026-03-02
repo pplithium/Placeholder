@@ -1,0 +1,4567 @@
+[
+  {
+    "number": 1,
+    "question": "How much does a pregnancy check-up cost in Norway?",
+    "options": [
+      "1,250 kroner.",
+      "25% of the full price.",
+      "It is free."
+    ],
+    "correctIndex": 2,
+    "explanation": "In Norway, all pregnant women are offered free pregnancy check-ups with a midwife and/or general practitioner to monitor the health of the mother and child."
+  },
+  {
+    "number": 2,
+    "question": "Which public service is responsible for sick pay if you are ill for a long time?",
+    "options": [
+      "NAV",
+      "The Police",
+      "The National Registry"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAV (The Norwegian Labour and Welfare Administration) is responsible for sick pay, pensions, child benefit, and other financial support schemes in the welfare state."
+  },
+  {
+    "number": 3,
+    "question": "What is meant by 'småskolen'?",
+    "options": [
+      "Fourth to sixth grade.",
+      "First to fourth grade.",
+      "Seventh to tenth grade."
+    ],
+    "correctIndex": 1,
+    "explanation": "Primary school in Norway is divided into 'småskolen' (grades 1–4), the middle stage (grades 5–7), and lower secondary school (grades 8–10)."
+  },
+  {
+    "number": 4,
+    "question": "Parliamentary elections are held every 4 years. Can foreign citizens vote?",
+    "options": [
+      "Yes, but only if they are over 21 years old.",
+      "No.",
+      "Yes, if they have lived in Norway for over 5 years."
+    ],
+    "correctIndex": 1,
+    "explanation": "To vote in parliamentary elections, you must be a Norwegian citizen. However, foreign citizens may have the right to vote in municipal and county elections if they have lived in Norway long enough."
+  },
+  {
+    "number": 5,
+    "question": "What is the before-and-after-school programme (SFO) or activity school (AKS)?",
+    "options": [
+      "A childcare offer before and after school hours for the youngest children.",
+      "An educational offer for all students from 8th to 10th grade.",
+      "A mandatory subject in high school."
+    ],
+    "correctIndex": 0,
+    "explanation": "SFO/AKS is a voluntary offer for children in grades 1-4 so they have a safe place to be while their parents are at work before and after regular school hours."
+  },
+  {
+    "number": 6,
+    "question": "Who is formally the head of state in Norway today?",
+    "options": [
+      "The Prime Minister",
+      "The King",
+      "The President of the Storting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway is a constitutional monarchy, which means the King is the head of state, but his power is strictly limited and mostly symbolic. The Prime Minister leads the government."
+  },
+  {
+    "number": 7,
+    "question": "When was the Norwegian Constitution signed at Eidsvoll?",
+    "options": [
+      "1814",
+      "1905",
+      "1945"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Constitution was adopted at Eidsvoll on May 17, 1814. This is the reason why May 17 is celebrated as Norway's national day."
+  },
+  {
+    "number": 8,
+    "question": "What is the general age of majority in Norway?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "When you turn 18, you reach the age of majority. You then have the right to enter into binding agreements, vote in elections, and have full financial responsibility for yourself."
+  },
+  {
+    "number": 9,
+    "question": "Approximately how many people live in Norway?",
+    "options": [
+      "Approx. 3.5 million",
+      "Approx. 5.5 million",
+      "Approx. 8.5 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "Just under 5.5 million people live in Norway, making it one of the most sparsely populated countries in Europe."
+  },
+  {
+    "number": 10,
+    "question": "What is one of the main goals of the introduction programme?",
+    "options": [
+      "To provide financial support to families with three or more children.",
+      "To prepare participants for work or education in Norway.",
+      "To teach participants about Norwegian Viking history."
+    ],
+    "correctIndex": 1,
+    "explanation": "The introduction programme aims to provide basic skills in Norwegian, insight into society, and prepare newly arrived refugees and immigrants to participate in the labor market or pursue education."
+  },
+  {
+    "number": 11,
+    "question": "How many representatives are there in the Norwegian Parliament (Stortinget)?",
+    "options": [
+      "169",
+      "150",
+      "181"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Storting has 169 representatives who are elected for four years at a time. They represent the country's various counties and political parties."
+  },
+  {
+    "number": 12,
+    "question": "In what year did the political union between Norway and Sweden end?",
+    "options": [
+      "1814",
+      "1905",
+      "1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway was in a union with Sweden from 1814 to 1905. The union was peacefully dissolved in 1905."
+  },
+  {
+    "number": 13,
+    "question": "What is the indigenous population of Norway called?",
+    "options": [
+      "The Sami",
+      "The Kven",
+      "The Forest Finns"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Sami have the status of an indigenous people in Norway. They have their own culture, language, and an elected assembly called the Sami Parliament (Sametinget)."
+  },
+  {
+    "number": 14,
+    "question": "What is the normal working hours per week for a 100% position in Norway?",
+    "options": [
+      "35 hours",
+      "37.5 hours",
+      "40 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "For most employees with a collective agreement, the normal working hours are 37.5 hours a week, excluding the lunch break."
+  },
+  {
+    "number": 15,
+    "question": "What is a 'deductible' (egenandel) in the Norwegian healthcare system?",
+    "options": [
+      "A fixed health tax you pay.",
+      "An amount you pay out of pocket when visiting the doctor, up to a certain limit.",
+      "The insurance you must buy before receiving medical care."
+    ],
+    "correctIndex": 1,
+    "explanation": "The state covers most healthcare costs, but you pay a deductible (egenandel) at the GP, for example. If you reach a certain amount in a year, you get an exemption card (frikort) for the rest of the year."
+  },
+  {
+    "number": 16,
+    "question": "Approximately what proportion of the population between 15 and 74 years old is employed in Norway?",
+    "options": [
+      "Approx. 45%",
+      "Approx. 65%",
+      "Approx. 85%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway has low unemployment. It is estimated that about 65% of everyone between 15 and 74 years old is employed."
+  },
+  {
+    "number": 17,
+    "question": "What is the largest industry for employees in Norway?",
+    "options": [
+      "Health and social services",
+      "Retail trade",
+      "Education"
+    ],
+    "correctIndex": 0,
+    "explanation": "Most people, a full 22%, work in health and social services, making this the largest industry."
+  },
+  {
+    "number": 18,
+    "question": "What does it mean to work in the public sector?",
+    "options": [
+      "Working for an international company.",
+      "Working for the state, county municipality, or municipality.",
+      "Running your own private business."
+    ],
+    "correctIndex": 1,
+    "explanation": "Working in the public sector means working for the state, county municipality, or municipality."
+  },
+  {
+    "number": 19,
+    "question": "Is Telenor part of the public or private sector?",
+    "options": [
+      "Public sector",
+      "Voluntary sector",
+      "Private sector"
+    ],
+    "correctIndex": 2,
+    "explanation": "Even though the state owns slightly over 50% of the shares, Telenor is part of private business and the private sector."
+  },
+  {
+    "number": 20,
+    "question": "What is an important principle for equality in the Norwegian workplace?",
+    "options": [
+      "Men should earn more than women.",
+      "Everyone should have equal pay for equal work.",
+      "Women should have shorter working days."
+    ],
+    "correctIndex": 1,
+    "explanation": "The section on equality focuses on the principle that everyone should have equal pay for equal work."
+  },
+  {
+    "number": 21,
+    "question": "Why do women on average earn less than men in Norway?",
+    "options": [
+      "Because women more often work part-time.",
+      "Because it is illegal to give women high salaries.",
+      "Because men have longer education."
+    ],
+    "correctIndex": 0,
+    "explanation": "Women earn less than men, which is especially due to the fact that women often work part-time."
+  },
+  {
+    "number": 22,
+    "question": "What were the most important industries in Norway in the old days?",
+    "options": [
+      "Oil, gas, and technology.",
+      "Agriculture, forestry, and fishing.",
+      "Tourism and hotels."
+    ],
+    "correctIndex": 1,
+    "explanation": "Traditionally, agriculture, forestry, and fishing have been the most important industries in Norway."
+  },
+  {
+    "number": 23,
+    "question": "What is a 'husmannsplass' (cotter's farm)?",
+    "options": [
+      "A large castle for the nobility.",
+      "A small house in the woods where a family could live in exchange for working for the farmer.",
+      "A hotel for tourists."
+    ],
+    "correctIndex": 1,
+    "explanation": "A cotter's farm was a small house where a man could live with his family, in exchange for working for the rich farmer."
+  },
+  {
+    "number": 24,
+    "question": "What does 'CV' stand for?",
+    "options": [
+      "Curriculum vitae",
+      "Current value",
+      "Control verification"
+    ],
+    "correctIndex": 0,
+    "explanation": "Curriculum vitae is Latin and can be translated to 'course of life', a log of your life."
+  },
+  {
+    "number": 25,
+    "question": "What is formal competence (formalkompetanse)?",
+    "options": [
+      "Voluntary work done in your free time.",
+      "Anything that can be documented with diplomas, exams, or certifications.",
+      "The languages you speak at home."
+    ],
+    "correctIndex": 1,
+    "explanation": "Anything that can be documented with diplomas, exams, trade certificates, or other certifications is called formal competence."
+  },
+  {
+    "number": 26,
+    "question": "What is real competence (realkompetanse)?",
+    "options": [
+      "The grades you get at school.",
+      "Experience from, for example, leisure activities and voluntary work.",
+      "Proof that you can drive a forklift."
+    ],
+    "correctIndex": 1,
+    "explanation": "Leisure activities and voluntary work do not provide formal competence, but are referred to as real competence."
+  },
+  {
+    "number": 27,
+    "question": "How long should a standard job application be?",
+    "options": [
+      "Half an A4 page.",
+      "At least two pages.",
+      "Maximum three sentences."
+    ],
+    "correctIndex": 0,
+    "explanation": "You should not write too long in a job application; you should have said the most important things within half an A4 page."
+  },
+  {
+    "number": 28,
+    "question": "What does the 'qualification principle' in the public sector entail?",
+    "options": [
+      "The boss can hire whoever they like best.",
+      "The person best qualified should get the job.",
+      "You must hire someone from abroad."
+    ],
+    "correctIndex": 1,
+    "explanation": "The qualification principle in the state, municipality, and county municipality dictates that the best-qualified person should get the job."
+  },
+  {
+    "number": 29,
+    "question": "Is it legal to work without an employment contract in Norway?",
+    "options": [
+      "Yes, if you only work during the summer.",
+      "No, it is not legal. Everyone who works must have a contract.",
+      "Yes, if you earn very little."
+    ],
+    "correctIndex": 1,
+    "explanation": "It is not legal to choose to work without an employment contract. Everyone who works must have a contract."
+  },
+  {
+    "number": 30,
+    "question": "Who is responsible for creating an employment contract?",
+    "options": [
+      "The employee.",
+      "The employer.",
+      "The state."
+    ],
+    "correctIndex": 1,
+    "explanation": "It is the employer's responsibility to create a written employment contract."
+  },
+  {
+    "number": 31,
+    "question": "What is an average monthly salary in Norway?",
+    "options": [
+      "Approx. 30,000 NOK",
+      "Approx. 50,000 NOK",
+      "Approx. 80,000 NOK"
+    ],
+    "correctIndex": 1,
+    "explanation": "An average monthly salary in Norway is approximately 50,000 NOK before tax."
+  },
+  {
+    "number": 32,
+    "question": "Do you usually get paid for your lunch break in Norway?",
+    "options": [
+      "Yes, always.",
+      "No, generally not, unless you have to be available for customers.",
+      "Only if you eat healthy food."
+    ],
+    "correctIndex": 1,
+    "explanation": "When you have a break, you generally do not get paid, with the exception of if you must be available during your lunch."
+  },
+  {
+    "number": 33,
+    "question": "How much can you earn in a year before you must have a tax deduction card?",
+    "options": [
+      "10,000 NOK",
+      "60,000 NOK",
+      "100,000 NOK"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you earn more than 60,000 NOK during a year, you must have a tax deduction card."
+  },
+  {
+    "number": 34,
+    "question": "What is a tax return (skattemelding)?",
+    "options": [
+      "An overview from the police about fines.",
+      "An overview of how much you have earned and paid in taxes during the year.",
+      "A bill for using the hospital."
+    ],
+    "correctIndex": 1,
+    "explanation": "When the year is over, you receive a tax return, which is an overview of how much you have earned and how much you have paid in tax."
+  },
+  {
+    "number": 35,
+    "question": "What percentage of your salary is usually made up of holiday pay?",
+    "options": [
+      "5.5 %",
+      "10.2 %",
+      "25.0 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Normally, holiday pay is 10.2% of your salary."
+  },
+  {
+    "number": 36,
+    "question": "When can most people start withdrawing their retirement pension in Norway?",
+    "options": [
+      "From the age of 55.",
+      "From the age of 62.",
+      "From the age of 70."
+    ],
+    "correctIndex": 1,
+    "explanation": "Most people can start withdrawing their retirement pension from the age of 62."
+  },
+  {
+    "number": 37,
+    "question": "What is it called when you work without paying taxes on what you earn?",
+    "options": [
+      "Undeclared work (svart arbeid)",
+      "Dugnad",
+      "Voluntary work"
+    ],
+    "correctIndex": 0,
+    "explanation": "If you work undeclared (svart), you do not pay tax on what you earn. This is strictly forbidden."
+  },
+  {
+    "number": 38,
+    "question": "How many days of holiday are all employees entitled to each year at a minimum?",
+    "options": [
+      "15 days",
+      "21 days",
+      "25 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "All employees are entitled to at least 25 days of holiday each year."
+  },
+  {
+    "number": 39,
+    "question": "What is 'potetferie' (potato holiday)?",
+    "options": [
+      "A holiday where you only eat potatoes.",
+      "The old name for the autumn holiday, because children had to help harvest potatoes.",
+      "A celebration of spring."
+    ],
+    "correctIndex": 1,
+    "explanation": "The autumn holiday is also called the potato holiday from the old days when children had to help on the farm to harvest potatoes."
+  },
+  {
+    "number": 40,
+    "question": "What can happen if you become 100% sick-listed in the middle of your holiday?",
+    "options": [
+      "You lose your holiday forever.",
+      "You may be entitled to get extra holiday days.",
+      "You have to pay back your holiday pay."
+    ],
+    "correctIndex": 1,
+    "explanation": "If you become 100% sick-listed during your holiday, you may be entitled to extra holiday days."
+  },
+  {
+    "number": 41,
+    "question": "How long can a self-certification (egenmelding) last at most?",
+    "options": [
+      "Up to 1 day",
+      "Up to 3 days",
+      "Up to 7 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "A self-certification can last for up to three days."
+  },
+  {
+    "number": 42,
+    "question": "How many times a year can you normally submit a self-certification?",
+    "options": [
+      "Up to 4 times",
+      "Up to 10 times",
+      "Unlimited"
+    ],
+    "correctIndex": 0,
+    "explanation": "You can submit a self-certification up to four times a year."
+  },
+  {
+    "number": 43,
+    "question": "Who pays your sick pay for the first 16 days you are sick?",
+    "options": [
+      "NAV",
+      "The National Registry",
+      "The employer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Your employer pays your sick pay for the first 16 calendar days you are sick."
+  },
+  {
+    "number": 44,
+    "question": "Can you use self-certification if your child gets sick?",
+    "options": [
+      "Yes, it is exactly the same.",
+      "No, then you use care days (omsorgsdager) and the employer pays your salary.",
+      "You do not get paid if your child is sick."
+    ],
+    "correctIndex": 1,
+    "explanation": "If your child gets sick, you should not use self-certification. The employer pays salary as usual through care days."
+  },
+  {
+    "number": 45,
+    "question": "Up to what age do care days for a sick child usually apply?",
+    "options": [
+      "Until the child turns 12.",
+      "Until the child turns 16.",
+      "Until the child turns 18."
+    ],
+    "correctIndex": 0,
+    "explanation": "Care days only apply if the child has not turned 12, unless they have a chronic illness."
+  },
+  {
+    "number": 46,
+    "question": "What is the main purpose of a trade union?",
+    "options": [
+      "To organize holidays for employees.",
+      "To gather workers to share experiences and fight for good working conditions.",
+      "To decide who will be the boss in the company."
+    ],
+    "correctIndex": 1,
+    "explanation": "A trade union is an organization that gathers workers to ensure regulated conditions, share experiences, and provide legal help."
+  },
+  {
+    "number": 47,
+    "question": "Which main organization for employees is the largest in Norway?",
+    "options": [
+      "Unio",
+      "Akademikerne",
+      "The Norwegian Confederation of Trade Unions (LO)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Norwegian Confederation of Trade Unions (LO) is the largest. They organize around 180 different occupational groups."
+  },
+  {
+    "number": 48,
+    "question": "What is a collective agreement (tariffavtale)?",
+    "options": [
+      "A contract between the state and other countries.",
+      "An agreement the trade union negotiates with the workplace concerning, among other things, salary and working hours.",
+      "A tax you pay to the municipality."
+    ],
+    "correctIndex": 1,
+    "explanation": "In a collective agreement, the trade union can negotiate with the workplace about working hours, supplements, and other benefits."
+  },
+  {
+    "number": 49,
+    "question": "What is the largest association for employers in Norway called?",
+    "options": [
+      "NHO (Confederation of Norwegian Enterprise)",
+      "FAU",
+      "NAV"
+    ],
+    "correctIndex": 0,
+    "explanation": "The largest association for employers is called the Confederation of Norwegian Enterprise (NHO)."
+  },
+  {
+    "number": 50,
+    "question": "What is the collaboration between employers, employees, and the State called?",
+    "options": [
+      "The triangle agreement",
+      "The tripartite cooperation",
+      "The community meeting"
+    ],
+    "correctIndex": 1,
+    "explanation": "When associations for employers, associations for employees, and the State work together, it is called a tripartite cooperation."
+  },
+  {
+    "number": 51,
+    "question": "When does your notice period normally start if you resign from your job on January 5th?",
+    "options": [
+      "January 6th",
+      "February 1st",
+      "February 15th"
+    ],
+    "correctIndex": 1,
+    "explanation": "The normal notice period always starts on the first date of the next month, so if you resign on January 5th, it starts on February 1st."
+  },
+  {
+    "number": 52,
+    "question": "What does the seniority principle (ansiennitetsprinsippet) mean during downsizing?",
+    "options": [
+      "The one who has worked the shortest time is laid off first.",
+      "The one who earns the most money gets to keep the job.",
+      "The oldest employee must quit first."
+    ],
+    "correctIndex": 0,
+    "explanation": "The seniority principle means that the person who was hired last (worked the shortest time) is laid off first."
+  },
+  {
+    "number": 53,
+    "question": "When do children in Norway start primary school?",
+    "options": [
+      "The year they turn 5.",
+      "The year they turn 6.",
+      "When they are 8 years old."
+    ],
+    "correctIndex": 1,
+    "explanation": "Children start school the year they turn six."
+  },
+  {
+    "number": 54,
+    "question": "Is it legal to homeschool your children in Norway?",
+    "options": [
+      "Yes, because we have compulsory education, but not compulsory schooling.",
+      "No, all children must attend a public school.",
+      "Only if you live abroad."
+    ],
+    "correctIndex": 0,
+    "explanation": "There is no obligation to attend school. Some people choose to homeschool their children."
+  },
+  {
+    "number": 55,
+    "question": "How many years does primary and lower secondary school (grunnskolen) last in total?",
+    "options": [
+      "7 years",
+      "10 years",
+      "13 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "In total, children attend 10 years of grunnskole; seven of these are in primary school."
+  },
+  {
+    "number": 56,
+    "question": "Do students receive grades in primary school (barneskolen)?",
+    "options": [
+      "Yes, in all subjects.",
+      "No, no one gets grades in primary school.",
+      "Only in mathematics and Norwegian."
+    ],
+    "correctIndex": 1,
+    "explanation": "In primary school, all students have the same subjects, and no one receives grades."
+  },
+  {
+    "number": 57,
+    "question": "What is a curriculum (læreplan)?",
+    "options": [
+      "A map of the school building.",
+      "An overview of the goals for a subject determined by the state.",
+      "The student's personal timetable."
+    ],
+    "correctIndex": 1,
+    "explanation": "A curriculum is an overview of the goals for a subject, created by the state."
+  },
+  {
+    "number": 58,
+    "question": "Can you freely choose which public primary school your child will attend?",
+    "options": [
+      "Yes, you can choose completely freely throughout the country.",
+      "No, normally you must attend the school closest to your home (school district).",
+      "Only if you pay tuition fees."
+    ],
+    "correctIndex": 1,
+    "explanation": "You cannot choose yourself which primary school you want to attend. Normally, you must go to the school closest to your home."
+  },
+  {
+    "number": 59,
+    "question": "What does SFO stand for?",
+    "options": [
+      "Skolefritidsordningen (Before and after-school programme)",
+      "Samarbeid for opplæring",
+      "Sentrert faglig oppfølging"
+    ],
+    "correctIndex": 0,
+    "explanation": "The before and after-school programme (SFO) is an offer for students in first to fourth grade before and after school."
+  },
+  {
+    "number": 60,
+    "question": "Which grade levels are covered by lower secondary school (ungdomsskolen)?",
+    "options": [
+      "Fifth, sixth, and seventh grade.",
+      "Eighth, ninth, and tenth grade.",
+      "Eleventh and twelfth grade."
+    ],
+    "correctIndex": 1,
+    "explanation": "Lower secondary school consists of grades eight, nine, and ten."
+  },
+  {
+    "number": 61,
+    "question": "What does 'skulking' (truancy) mean?",
+    "options": [
+      "Forgetting your books.",
+      "Not coming to school without a valid absence.",
+      "Speaking badly to the teacher."
+    ],
+    "correctIndex": 1,
+    "explanation": "Truancy (skulking) means that the student does not come to school, without a valid absence."
+  },
+  {
+    "number": 62,
+    "question": "What is a school nurse (helsesykepleier)?",
+    "options": [
+      "A nurse at the hospital who operates on teenagers.",
+      "A nurse with further education to help youth physically and mentally at school.",
+      "A teacher who teaches physical education."
+    ],
+    "correctIndex": 1,
+    "explanation": "It is a nurse with further education to help youth physically and mentally."
+  },
+  {
+    "number": 63,
+    "question": "What are the three years at upper secondary school called?",
+    "options": [
+      "Class 11, 12, and 13",
+      "Vg1, Vg2, and Vg3",
+      "Year 1, Year 2, and Year 3"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classes in upper secondary school (vgs) are called Vg1, Vg2, and Vg3."
+  },
+  {
+    "number": 64,
+    "question": "What does it mean to be an apprentice (lærling)?",
+    "options": [
+      "That you study at the university.",
+      "That you work at a workplace within the profession you are training for.",
+      "That you teach children."
+    ],
+    "correctIndex": 1,
+    "explanation": "Being an apprentice means that you work at a workplace within the profession you are educating yourself for."
+  },
+  {
+    "number": 65,
+    "question": "Is there an exam at a folk high school (folkehøgskole)?",
+    "options": [
+      "Yes, at the end of the year.",
+      "No, you pass by completing the year.",
+      "Only in mathematics and Norwegian."
+    ],
+    "correctIndex": 1,
+    "explanation": "There are no exams at a folk high school. Students pass the folk high school by completing it."
+  },
+  {
+    "number": 66,
+    "question": "What does it mean to live in a boarding school/dormitory ('internat')?",
+    "options": [
+      "To live in a hotel abroad.",
+      "To live at the school together with the other students.",
+      "To live in a tent all year round."
+    ],
+    "correctIndex": 1,
+    "explanation": "Living in a boarding facility ('internat') means that you live at the school, together with the people you attend school with."
+  },
+  {
+    "number": 67,
+    "question": "What is education at university colleges and universities called?",
+    "options": [
+      "Primary school",
+      "Higher education",
+      "Upper secondary education"
+    ],
+    "correctIndex": 1,
+    "explanation": "University colleges and universities are referred to as higher education (høyere utdanning)."
+  },
+  {
+    "number": 68,
+    "question": "How many study credits (studiepoeng) does a normal full-time study provide during one year?",
+    "options": [
+      "30 study credits",
+      "60 study credits",
+      "100 study credits"
+    ],
+    "correctIndex": 1,
+    "explanation": "A full-time study program amounts to 60 study credits each year (30 credits in each of the two semesters)."
+  },
+  {
+    "number": 69,
+    "question": "What degree do you normally get after a three-year study at a university college or university?",
+    "options": [
+      "University college candidate",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you complete a three-year degree program, you receive the title of Bachelor."
+  },
+  {
+    "number": 70,
+    "question": "Does Norway have a state church today?",
+    "options": [
+      "Yes, it is stated in the Constitution.",
+      "No, until 2012 Norway had a state church, but not today.",
+      "Yes, but only for the king."
+    ],
+    "correctIndex": 1,
+    "explanation": "Until 2012, Norway had a state church. Today, the state no longer has an official religion."
+  },
+  {
+    "number": 71,
+    "question": "Which religion is the largest in Norway?",
+    "options": [
+      "Islam",
+      "Buddhism",
+      "Christianity"
+    ],
+    "correctIndex": 2,
+    "explanation": "The largest religion in Norway is Christianity."
+  },
+  {
+    "number": 72,
+    "question": "What does the Norwegian Constitution (§ 2) say about the foundation of values?",
+    "options": [
+      "That society must be completely neutral.",
+      "That the foundation of values remains our Christian and humanist heritage.",
+      "That the state shall determine the faith of its citizens."
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 2 of the Constitution states: The value basis remains our Christian and humanistic heritage."
+  },
+  {
+    "number": 73,
+    "question": "What does freedom of religion mean in Norway?",
+    "options": [
+      "That everyone must belong to the same religion.",
+      "That no one can dictate what you should believe in.",
+      "That religion is forbidden in public."
+    ],
+    "correctIndex": 1,
+    "explanation": "There is freedom of religion in Norway. This means you can believe in the religion you want, and no one can decide what you should believe in."
+  },
+  {
+    "number": 74,
+    "question": "How old must a child be to independently join or leave a religious or philosophical community?",
+    "options": [
+      "12 years",
+      "15 years",
+      "18 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "When a child has turned 15, the child themselves registers to join or leave a religious or life stance community."
+  },
+  {
+    "number": 75,
+    "question": "What does secularization mean in a Norwegian context?",
+    "options": [
+      "That the church gets more power.",
+      "That increasingly fewer Norwegians say they believe in a god.",
+      "That more churches are being built."
+    ],
+    "correctIndex": 1,
+    "explanation": "When it is said that Norway is experiencing secularization, it means that fewer and fewer Norwegians say they believe in a god."
+  },
+  {
+    "number": 76,
+    "question": "What does HEF stand for?",
+    "options": [
+      "Human-Ethical Association (Human-Etisk Forbund)",
+      "Health and Energy Association",
+      "Historical Gospel Board"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Human-Ethical Association (HEF) is one of the largest life stance organizations in Norway."
+  },
+  {
+    "number": 77,
+    "question": "What is the name of the oldest stave church in Norway?",
+    "options": [
+      "Nidaros Cathedral",
+      "Urnes Stave Church",
+      "Oseberg Church"
+    ],
+    "correctIndex": 1,
+    "explanation": "The oldest stave church is Urnes stave church, which is believed to have been built in 1130."
+  },
+  {
+    "number": 78,
+    "question": "When is Christmas Eve celebrated in Norway?",
+    "options": [
+      "December 23",
+      "December 24",
+      "December 25"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, we celebrate Christmas Eve on December 24. That is when Santa Claus comes and good food is eaten."
+  },
+  {
+    "number": 79,
+    "question": "Can two men or two women marry each other in Norway?",
+    "options": [
+      "No, marriage is only for a man and a woman.",
+      "Yes, a marriage can consist of two men or two women.",
+      "Only if they get married abroad."
+    ],
+    "correctIndex": 1,
+    "explanation": "In a marriage, there can be a man and a woman, two men, or two women."
+  },
+  {
+    "number": 80,
+    "question": "Are forced marriages or arranged marriages legal in Norway?",
+    "options": [
+      "Yes, if it is a tradition.",
+      "No, both are strictly forbidden.",
+      "Arranged marriages are legal, but not forced ones."
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, both forced marriage and arranged marriage are strictly forbidden."
+  },
+  {
+    "number": 81,
+    "question": "What is a budget?",
+    "options": [
+      "A letter from the bank.",
+      "An overview of how you plan to spend the money you have.",
+      "A shopping list for the grocery store."
+    ],
+    "correctIndex": 1,
+    "explanation": "A budget is an overview of how you plan to allocate the money you have available."
+  },
+  {
+    "number": 82,
+    "question": "What are you often expected to accept when visiting Norwegians at home?",
+    "options": [
+      "Dinner",
+      "Coffee",
+      "A glass of wine"
+    ],
+    "correctIndex": 1,
+    "explanation": "The vast majority of Norwegians love coffee. If you are visiting, do not be surprised if they ask if you would like some coffee."
+  },
+  {
+    "number": 83,
+    "question": "Is it acceptable to ask others which political party they vote for?",
+    "options": [
+      "Yes, it is very common in Norway.",
+      "It is not illegal, but it is not common because voting is a secret and a private matter.",
+      "No, it results in a fine."
+    ],
+    "correctIndex": 1,
+    "explanation": "Which party one votes for is secret. It is not common to ask others about it, as it is considered a private matter."
+  },
+  {
+    "number": 84,
+    "question": "What is voluntary work (frivillig arbeid)?",
+    "options": [
+      "Work where you do overtime.",
+      "Work where you do not get paid, for example, coaching a football team.",
+      "Work you do for your family."
+    ],
+    "correctIndex": 1,
+    "explanation": "Voluntary work is work where you do not get paid, such as coaching the children's football team."
+  },
+  {
+    "number": 85,
+    "question": "What does the word 'dugnad' mean?",
+    "options": [
+      "A tax to the municipality.",
+      "Helping out voluntarily in a community, for example, cutting grass in a housing cooperative.",
+      "Singing in a choir."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dugnad can mean helping out voluntarily to mow the lawn in the housing cooperative or wash the toys in the kindergarten."
+  },
+  {
+    "number": 86,
+    "question": "Approximately how many children does a Norwegian woman have on average?",
+    "options": [
+      "1.5 children",
+      "2.5 children",
+      "3.0 children"
+    ],
+    "correctIndex": 0,
+    "explanation": "On average, a Norwegian woman has 1.5 children."
+  },
+  {
+    "number": 87,
+    "question": "Who is responsible for ensuring a birth is reported to the National Registry?",
+    "options": [
+      "The priest in the church.",
+      "The doctor, midwife, or the mother.",
+      "The police."
+    ],
+    "correctIndex": 1,
+    "explanation": "After birth, it is the doctor, midwife, or mother who has the responsibility to report the birth to the National Registry."
+  },
+  {
+    "number": 88,
+    "question": "When can children usually start kindergarten (barnehage) in Norway?",
+    "options": [
+      "When they are 3 months old.",
+      "When they are around 1 year old.",
+      "When they turn 3 years old."
+    ],
+    "correctIndex": 1,
+    "explanation": "Children can usually start kindergarten when they are around one year old."
+  },
+  {
+    "number": 89,
+    "question": "What is cash benefit (kontantstøtte)?",
+    "options": [
+      "Extra money for those with a large family.",
+      "Financial support if you have a child between 1 and 2 years old who is not in full-time kindergarten.",
+      "Salary for undeclared work."
+    ],
+    "correctIndex": 1,
+    "explanation": "If you have a child between 1 and 2 years old who is not in a full-time kindergarten, you can receive cash benefit."
+  },
+  {
+    "number": 90,
+    "question": "Is it legal to hit one's children as part of their upbringing in Norway?",
+    "options": [
+      "Yes, if they do not listen.",
+      "No, it is not legal to hit your children.",
+      "Only a light slap is allowed."
+    ],
+    "correctIndex": 1,
+    "explanation": "For example, it is not legal to hit your children, and it is also illegal to frighten or threaten them."
+  },
+  {
+    "number": 91,
+    "question": "Which convention states that children have the right to protection and development, and takes precedence over Norwegian laws?",
+    "options": [
+      "The UN Convention on the Rights of the Child",
+      "Norway's Constitution",
+      "The Children Act"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway has decided that the UN Convention on the Rights of the Child must be followed, and it applies ahead of Norway's own laws."
+  },
+  {
+    "number": 92,
+    "question": "From what age must GREAT weight be placed on what the child thinks before a decision is made?",
+    "options": [
+      "7 years",
+      "12 years",
+      "18 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "When the child turns 12, great weight shall be attached to the child's opinion in personal matters."
+  },
+  {
+    "number": 93,
+    "question": "What is the name of the organization that can intervene if children are exposed to violence or neglect at home?",
+    "options": [
+      "The Ombudsman for Children",
+      "The Child Welfare Service (Barnevernet)",
+      "The Health Station"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Child Welfare Service (Barnevernet) is an agency that can intervene if children are not doing well, for example due to neglect or violence."
+  },
+  {
+    "number": 94,
+    "question": "Do you need health insurance to get treatment at a hospital in Norway?",
+    "options": [
+      "Yes, it is mandatory.",
+      "No, in Norway you do not need health insurance to get help at a hospital.",
+      "Only if you are an immigrant."
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, you do not need health insurance to get help at the hospital."
+  },
+  {
+    "number": 95,
+    "question": "What is the age limit for buying beer and wine in Norway?",
+    "options": [
+      "16 years",
+      "18 years",
+      "20 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "The age limit for buying alcohol is 18 years in Norway. If you want to buy spirits, you must be 20 years old."
+  },
+  {
+    "number": 96,
+    "question": "Is it legal to smoke inside restaurants and libraries in Norway?",
+    "options": [
+      "Yes, in designated smoking rooms.",
+      "No, it is illegal to smoke in premises open to the public.",
+      "Yes, after 10 PM."
+    ],
+    "correctIndex": 1,
+    "explanation": "It is forbidden to smoke in premises and means of transport that are open to the public, such as the library and the restaurant."
+  },
+  {
+    "number": 97,
+    "question": "What is a GP (fastlege)?",
+    "options": [
+      "A doctor you randomly meet at the hospital.",
+      "A doctor with special responsibility for you, whom you contact when sick.",
+      "A dentist for adults."
+    ],
+    "correctIndex": 1,
+    "explanation": "A GP (fastlege) is a doctor with a special responsibility for you, whom you contact in case of illness."
+  },
+  {
+    "number": 98,
+    "question": "Who gets free dental treatment from the public sector?",
+    "options": [
+      "Everyone in Norway.",
+      "Pensioners over 67 years old.",
+      "Children up to 18 years old."
+    ],
+    "correctIndex": 2,
+    "explanation": "Children up to 18 years old only pay for orthodontics (braces), not for other dental treatment, so it is free for them."
+  },
+  {
+    "number": 99,
+    "question": "What happens when you reach the 'exemption card limit' (frikortgrensen) for deductibles in the healthcare system?",
+    "options": [
+      "You have to pay double for the next visit.",
+      "You do not have to pay any more deductibles for the rest of the year.",
+      "You lose your GP."
+    ],
+    "correctIndex": 1,
+    "explanation": "When all deductibles are added together and reach a certain sum, you are exempt from paying more deductibles (frikort) for the rest of the year."
+  },
+  {
+    "number": 100,
+    "question": "What phone number do you call to get an ambulance in an acute emergency?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 2,
+    "explanation": "If you need acute medical help or an ambulance, you must dial 113."
+  },
+  {
+    "number": 101,
+    "question": "What does 'duty of confidentiality' (taushetsplikt) mean for healthcare personnel?",
+    "options": [
+      "That they are not allowed to talk to you during surgery.",
+      "That no one should know what you and your doctor talk about.",
+      "That they can never tell parents about their children's illnesses."
+    ],
+    "correctIndex": 1,
+    "explanation": "Healthcare personnel have a duty of confidentiality. This means that no one should find out what you and your doctor discuss."
+  },
+  {
+    "number": 102,
+    "question": "What is the name of Norway's highest mountain?",
+    "options": [
+      "Stetinden",
+      "Galdhøpiggen",
+      "Glittertind"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway's highest mountain is called Galdhøpiggen and is 2469 meters high."
+  },
+  {
+    "number": 103,
+    "question": "What is the name of Norway's longest river?",
+    "options": [
+      "Mjøsa",
+      "Glomma",
+      "Sognefjorden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glomma is Norway's longest river; it is over 600 km long."
+  },
+  {
+    "number": 104,
+    "question": "What is the name of the capital of Norway?",
+    "options": [
+      "Bergen",
+      "Trondheim",
+      "Oslo"
+    ],
+    "correctIndex": 2,
+    "explanation": "The capital of Norway is named Oslo. It is located at the innermost part of the Oslofjord."
+  },
+  {
+    "number": 105,
+    "question": "What does the right to roam (Allemannsretten) entail?",
+    "options": [
+      "That everyone is allowed to own a car.",
+      "That everyone is allowed to use nature, as long as they show consideration.",
+      "That everyone can build a cabin in the mountains."
+    ],
+    "correctIndex": 1,
+    "explanation": "The right to roam is about everyone having the right to use the nature around us, but we must show consideration."
+  },
+  {
+    "number": 106,
+    "question": "Which Norwegian archipelago in the Arctic is governed by its own treaty where many countries have equal rights to fishing and business?",
+    "options": [
+      "Lofoten",
+      "Jan Mayen",
+      "Svalbard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Svalbard is governed by the Svalbard Treaty, where everyone who has signed has an equal right to fishing and hunting."
+  },
+  {
+    "number": 107,
+    "question": "Which three countries make up Scandinavia?",
+    "options": [
+      "Norway, Sweden, and Finland",
+      "Norway, Denmark, and Sweden",
+      "Norway, Iceland, and Denmark"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway, Denmark, and Sweden are referred to as Scandinavia."
+  },
+  {
+    "number": 108,
+    "question": "What are the two Norwegian official written languages (målformer)?",
+    "options": [
+      "Norwegian and Sami",
+      "Bokmål and Nynorsk",
+      "Dialect and Riksmål"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Norwegian language has two official written forms: Bokmål and Nynorsk."
+  },
+  {
+    "number": 109,
+    "question": "What is the name of the Sami's elected parliament in Norway?",
+    "options": [
+      "The Storting",
+      "The Sami Parliament (Sametinget)",
+      "The County Council (Fylkestinget)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sami Parliament (Sametinget) is the Sami people's elected parliament in Norway."
+  },
+  {
+    "number": 110,
+    "question": "Which Norwegian person was the first in the world to reach the South Pole in 1911?",
+    "options": [
+      "Edvard Munch",
+      "Magnus Carlsen",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Roald Amundsen led the first expedition to the South Pole and arrived in 1911."
+  },
+  {
+    "number": 111,
+    "question": "What do we celebrate on Norway's national day, May 17th?",
+    "options": [
+      "That World War II ended.",
+      "That the Constitution was signed at Eidsvoll in 1814.",
+      "That Norway discovered oil."
+    ],
+    "correctIndex": 1,
+    "explanation": "May 17 marks the date when the Constitution was signed at Eidsvoll in 1814."
+  },
+  {
+    "number": 112,
+    "question": "What happened on April 9, 1940?",
+    "options": [
+      "Norway got its first king.",
+      "The union with Sweden was dissolved.",
+      "Germany attacked Norway."
+    ],
+    "correctIndex": 2,
+    "explanation": "On April 9, 1940, Germany attacked Norway at the start of the Second World War."
+  },
+  {
+    "number": 113,
+    "question": "When was the union between Norway and Sweden (the Personal Union)?",
+    "options": [
+      "1397 - 1523",
+      "1814 - 1905",
+      "1940 - 1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway was in a union with Sweden from 1814 until the union was dissolved on June 7, 1905."
+  },
+  {
+    "number": 114,
+    "question": "How often are Parliamentary elections (Stortingsvalg) held in Norway?",
+    "options": [
+      "Every two years",
+      "Every four years",
+      "Every eight years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elections for the Storting are held every 4 years."
+  },
+  {
+    "number": 115,
+    "question": "Who has the executive power according to the principle of separation of powers in Norway?",
+    "options": [
+      "The Storting",
+      "The courts",
+      "The Government and the King"
+    ],
+    "correctIndex": 2,
+    "explanation": "The executive power ensures that what the Storting decides happens, and in Norway, this is the government and the king."
+  },
+  {
+    "number": 116,
+    "question": "What proportion of the population between 15 and 74 years old is in work in Norway, according to the text?",
+    "options": [
+      "Approx. 50.5%",
+      "Approx. 69.4%",
+      "Approx. 82.1%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, it is estimated that 69.4% of everyone between 15 and 74 is in work, and unemployment is low."
+  },
+  {
+    "number": 117,
+    "question": "What are two of the largest websites in Norway where employers and employees can meet?",
+    "options": [
+      "Jobbnorge.no and finn.no",
+      "Norgejobb.no and jobb.no",
+      "Arbeid.no and nav.com"
+    ],
+    "correctIndex": 0,
+    "explanation": "The largest online meeting places for job searching in Norway are jobbnorge.no and finn.no, in addition to NAV's websites."
+  },
+  {
+    "number": 118,
+    "question": "What proportion of all jobs in Norway are in the public sector?",
+    "options": [
+      "Around 10%",
+      "Around 33%",
+      "Around 60%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Around 33% of all jobs in Norway are in the public sector."
+  },
+  {
+    "number": 119,
+    "question": "What is an average monthly salary before tax in Norway, according to the text?",
+    "options": [
+      "Approx. 45,000 NOK",
+      "Approx. 62,070 NOK",
+      "Approx. 75,500 NOK"
+    ],
+    "correctIndex": 1,
+    "explanation": "The text states that an average monthly salary in Norway is approximately 62,070 NOK before tax."
+  },
+  {
+    "number": 120,
+    "question": "When is it legally required that you have a tax deduction card?",
+    "options": [
+      "When you earn more than 10,000 NOK a year.",
+      "When you earn more than 60,000 NOK in the course of a year.",
+      "When you work more than 10 hours a week."
+    ],
+    "correctIndex": 1,
+    "explanation": "If you earn more than the limit of 60,000 NOK during a year, the law requires you to have a tax deduction card."
+  },
+  {
+    "number": 121,
+    "question": "What is one of the consequences of working undeclared (black)?",
+    "options": [
+      "You do not get holiday pay, sick pay, or accrue pension rights.",
+      "You pay double tax the following year.",
+      "You automatically get a higher salary."
+    ],
+    "correctIndex": 0,
+    "explanation": "Undeclared work is strictly forbidden. The person who works undeclared does not get rights like holiday pay, sick pay, or pension accrual."
+  },
+  {
+    "number": 122,
+    "question": "How many holiday days are all employees entitled to each year?",
+    "options": [
+      "At least 15 days",
+      "At least 21 days",
+      "At least 25 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norwegian law gives all employees the right to at least 25 days of holiday each year."
+  },
+  {
+    "number": 123,
+    "question": "How much does holiday pay normally constitute of your salary?",
+    "options": [
+      "10.2%",
+      "12.0%",
+      "15.5%"
+    ],
+    "correctIndex": 0,
+    "explanation": "When you take holiday, you are entitled to holiday pay, which normally constitutes 10.2% of your salary."
+  },
+  {
+    "number": 124,
+    "question": "How long can a self-certification of sickness (egenmelding) last?",
+    "options": [
+      "Up to 1 day",
+      "Up to 3 days",
+      "Up to 7 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "A self-certification is a message you give to the boss that you are sick, and it can be used for up to three days."
+  },
+  {
+    "number": 125,
+    "question": "Who pays your sick pay after you have been sick for more than 16 days?",
+    "options": [
+      "The employer",
+      "The trade union",
+      "NAV"
+    ],
+    "correctIndex": 2,
+    "explanation": "For the first 16 days, your employer pays your sick pay, but after this, NAV takes over the payments."
+  },
+  {
+    "number": 126,
+    "question": "Approximately how many Norwegian employees are members of a trade union?",
+    "options": [
+      "Approx. 500,000",
+      "Over 1,000,000",
+      "Over 2,000,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Norwegian labor market has strong unionization, and over 2,000,000 employees are members."
+  },
+  {
+    "number": 127,
+    "question": "What is the most important thing a trade union can contribute to a workplace?",
+    "options": [
+      "Organizing social parties.",
+      "A collective agreement on working hours, holidays, and other benefits.",
+      "Paying the employees' taxes."
+    ],
+    "correctIndex": 1,
+    "explanation": "The most important thing a trade union contributes is a collective agreement, ensuring regulated conditions like working hours, weekend supplements, and holidays."
+  },
+  {
+    "number": 128,
+    "question": "What is the collaboration called when trade unions, employer associations, and the state work together?",
+    "options": [
+      "Tripartite cooperation (Trepartssamarbeid)",
+      "The community pledge",
+      "The working life agreement"
+    ],
+    "correctIndex": 0,
+    "explanation": "When employers (like NHO), employees (like LO), and the State cooperate, it is called a tripartite cooperation."
+  },
+  {
+    "number": 129,
+    "question": "How many years does it take to complete the entire compulsory primary and lower secondary school in Norway?",
+    "options": [
+      "7 years",
+      "10 years",
+      "13 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "The basic school (grunnskole) consists of primary school (grades 1-7) and lower secondary school (grades 8-10), taking 10 years in total."
+  },
+  {
+    "number": 130,
+    "question": "When do students in the Norwegian school system start getting grades?",
+    "options": [
+      "In primary school",
+      "In lower secondary school",
+      "In upper secondary school"
+    ],
+    "correctIndex": 1,
+    "explanation": "In primary school, no one gets grades. Students only start receiving grades (from 1 to 6) when they start lower secondary school."
+  },
+  {
+    "number": 131,
+    "question": "What two main types of educational programs can you choose between in upper secondary school?",
+    "options": [
+      "Public and private",
+      "University preparatory and vocational",
+      "Theoretical and practical"
+    ],
+    "correctIndex": 1,
+    "explanation": "A distinction is made between university preparatory (which qualifies for higher education) and vocational (which gives occupational competence) programs."
+  },
+  {
+    "number": 132,
+    "question": "What often characterizes a vocational program in upper secondary school?",
+    "options": [
+      "Three years of only theoretical subjects in the classroom.",
+      "Often two years at school followed by two years as an apprentice in a company.",
+      "That you don't have to take any exams."
+    ],
+    "correctIndex": 1,
+    "explanation": "Vocational education programs provide occupational competence, and often consist of 2 years in school and 2 years as an apprentice."
+  },
+  {
+    "number": 133,
+    "question": "What is special about folk high schools?",
+    "options": [
+      "You do not get grades and have no exams.",
+      "You have to pay tuition fees for five years.",
+      "It is mandatory for all 18-year-olds."
+    ],
+    "correctIndex": 0,
+    "explanation": "Folk high school is a special school year where students live at the school, and the year is completed without exams or grades."
+  },
+  {
+    "number": 134,
+    "question": "How many study credits are normally required to get a bachelor's degree?",
+    "options": [
+      "60 study credits",
+      "120 study credits",
+      "180 study credits"
+    ],
+    "correctIndex": 2,
+    "explanation": "A bachelor's degree corresponds to 3 years of study, which amounts to 180 study credits."
+  },
+  {
+    "number": 135,
+    "question": "How many extra years does a master's degree usually take after completing a bachelor's degree?",
+    "options": [
+      "1 year",
+      "2 years",
+      "4 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "A master's degree usually takes 2 extra years after completing a bachelor's degree, giving 300 study credits in total."
+  },
+  {
+    "number": 136,
+    "question": "What does the State Educational Loan Fund (Lånekassen) do?",
+    "options": [
+      "They decide what grades students should get.",
+      "They provide loans and grants to cover living costs and study materials.",
+      "They build new schools in the municipalities."
+    ],
+    "correctIndex": 1,
+    "explanation": "Although education is often free, Lånekassen provides financial support (loans) to help students with living costs."
+  },
+  {
+    "number": 137,
+    "question": "In what year did Norway abolish the state church?",
+    "options": [
+      "1905",
+      "2001",
+      "2012"
+    ],
+    "correctIndex": 2,
+    "explanation": "Until 2012, Norway had a state church, but today the state no longer has an official religion."
+  },
+  {
+    "number": 138,
+    "question": "What does the Constitution say about Norway's values today?",
+    "options": [
+      "That the state must be completely neutral.",
+      "That the foundation of values remains our Christian and humanist heritage.",
+      "That all citizens must be members of the church."
+    ],
+    "correctIndex": 1,
+    "explanation": "Even without a state church, the Constitution establishes that the foundation of values remains our Christian and humanistic heritage."
+  },
+  {
+    "number": 139,
+    "question": "What is meant by the concept of secularization in Norway?",
+    "options": [
+      "That the state is building more churches.",
+      "That increasingly fewer Norwegians believe in a god, and faith becomes a private matter.",
+      "That religion becomes mandatory in schools."
+    ],
+    "correctIndex": 1,
+    "explanation": "Secularization means that religion takes up less space in society, fewer believe in a god, and faith becomes something private."
+  },
+  {
+    "number": 140,
+    "question": "What is the largest religious community in Norway?",
+    "options": [
+      "The Human-Ethical Association",
+      "The Catholic Church",
+      "The Church of Norway"
+    ],
+    "correctIndex": 2,
+    "explanation": "By far the largest religious community in Norway is the Church of Norway (Christian, Protestant)."
+  },
+  {
+    "number": 141,
+    "question": "Which organization is especially large for people who base their life stance on humanism rather than religion?",
+    "options": [
+      "Human-Ethical Association (HEF)",
+      "Norwegian Humanist Society",
+      "Atheists in Norway"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Human-Ethical Association (HEF) is one of the largest life stance organizations for those who are not religious."
+  },
+  {
+    "number": 142,
+    "question": "How old must a child be to independently join or leave a religious community?",
+    "options": [
+      "12 years",
+      "15 years",
+      "18 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parents decide for children under 12, but when the child turns 15, they are allowed to choose their religious community completely themselves."
+  },
+  {
+    "number": 143,
+    "question": "When is Christmas Eve celebrated in Norway?",
+    "options": [
+      "December 23",
+      "December 24",
+      "December 25"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, Christmas Eve is on December 24. This is when Santa Claus comes and families open gifts."
+  },
+  {
+    "number": 144,
+    "question": "What traditional food dishes are especially common on Christmas Eve in Norway?",
+    "options": [
+      "Tacos and pizza",
+      "Pork ribs (ribbe), cured mutton (pinnekjøtt), or Christmas cod",
+      "Meatballs and stew (lapskaus)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Traditional Christmas dishes in Norway often include pork ribs, cured mutton, or Christmas cod."
+  },
+  {
+    "number": 145,
+    "question": "Can two people of the same sex legally marry in Norway?",
+    "options": [
+      "No, marriage is only for a man and a woman.",
+      "Yes, in Norway two men or two women can enter into marriage.",
+      "Yes, but only if they do not do it in a church."
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, everyone has the right to enter into marriage with the one they love, whether it is a man and a woman, two men, or two women."
+  },
+  {
+    "number": 146,
+    "question": "What is the age limit for getting married in Norway?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "You must be an adult, which means at least 18 years old, to be able to marry."
+  },
+  {
+    "number": 147,
+    "question": "Are forced marriages or arranged marriages permitted in Norway?",
+    "options": [
+      "Yes, if the parents demand it.",
+      "No, both are strictly forbidden.",
+      "Arranged marriages are legal, but forced marriages are forbidden."
+    ],
+    "correctIndex": 1,
+    "explanation": "Marriage must be one hundred percent voluntary. Both forced marriages and arranged marriages are strictly forbidden in Norway."
+  },
+  {
+    "number": 148,
+    "question": "Approximately how many hours of free time do Norwegians have on average every weekday?",
+    "options": [
+      "Approx. 4 hours",
+      "Approx. 6.5 hours",
+      "Approx. 8 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leisure time is important to Norwegians, and they have an average of about 6.5 hours of free time every weekday."
+  },
+  {
+    "number": 149,
+    "question": "What is a very common concept in Norway where neighbors work voluntarily together to improve the local environment?",
+    "options": [
+      "Dugnad",
+      "Samarbeid",
+      "Velferdsarbeid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dugnad is a unique Norwegian concept that means collective, voluntary work, for example mowing the grass in a housing cooperative."
+  },
+  {
+    "number": 150,
+    "question": "Is it legal to use violence, threats, or intimidation in raising children in Norway?",
+    "options": [
+      "Yes, if the child does something dangerous.",
+      "No, it is strictly forbidden.",
+      "A light slap is allowed."
+    ],
+    "correctIndex": 1,
+    "explanation": "Raising children in Norway is based on safety, and the law strictly forbids all use of violence, threats, and intimidation."
+  },
+  {
+    "number": 151,
+    "question": "Until what age do parents have formal financial responsibility for their children?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parents have the responsibility to provide for the child financially and socially until the child turns 18 and becomes of age."
+  },
+  {
+    "number": 152,
+    "question": "Is kindergarten mandatory (a requirement) for children in Norway?",
+    "options": [
+      "Yes, all children over 3 must go to kindergarten.",
+      "No, it is a voluntary offer.",
+      "Yes, if both parents work."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kindergarten is a completely voluntary educational offer for children before they start school."
+  },
+  {
+    "number": 153,
+    "question": "What is the most serious action the child welfare service can take to protect a child?",
+    "options": [
+      "Give the parents a fine.",
+      "Send the child to a special boarding school.",
+      "Move the child out of the home and to a foster family."
+    ],
+    "correctIndex": 2,
+    "explanation": "In the worst case, if a child is exposed to serious neglect or violence, the child welfare service can intervene and move the child to a foster family."
+  },
+  {
+    "number": 154,
+    "question": "What is the maximum amount an adult must pay in 'deductibles' for health services before it becomes free for the rest of the year?",
+    "options": [
+      "1,500 NOK",
+      "3,278 NOK",
+      "5,000 NOK"
+    ],
+    "correctIndex": 1,
+    "explanation": "When you have paid up to a maximum limit of 3,278 NOK in a year in deductibles, you get an exemption card, and further healthcare is free for the rest of the year."
+  },
+  {
+    "number": 155,
+    "question": "Who is your main contact in the Norwegian healthcare system for sick notes and hospital referrals?",
+    "options": [
+      "The emergency room (legevakten)",
+      "The nurse at the hospital",
+      "Your GP (fastlege)"
+    ],
+    "correctIndex": 2,
+    "explanation": "All residents have the right to a GP. The GP is your primary contact for all healthcare, sick notes, and referrals."
+  },
+  {
+    "number": 156,
+    "question": "What phone number do you call to get an ambulance in an acute, life-threatening emergency?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 2,
+    "explanation": "In acute emergencies (danger to life), you should always call the medical emergency number 113 to get an ambulance."
+  },
+  {
+    "number": 157,
+    "question": "Where do you turn if you need medical help in the evening when your GP is closed?",
+    "options": [
+      "You call an ambulance.",
+      "You call the emergency room (legevakten).",
+      "You go straight to the hospital."
+    ],
+    "correctIndex": 1,
+    "explanation": "If you need medical help outside of the GP's regular opening hours, you should contact the emergency room (legevakten)."
+  },
+  {
+    "number": 158,
+    "question": "Which group has the right to completely free dental treatment (except orthodontics)?",
+    "options": [
+      "Pensioners",
+      "Children and youth up to 18 years old",
+      "Students"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, all dental treatment, with the exception of braces, is free for children and young people until they are 18 years old."
+  },
+  {
+    "number": 159,
+    "question": "What is the rule for dental bills for adults over 26?",
+    "options": [
+      "The state pays 50%.",
+      "It is completely free.",
+      "They must pay the entire bill themselves, with a few exceptions."
+    ],
+    "correctIndex": 2,
+    "explanation": "Adults over 26 must fundamentally pay the entire cost of dental treatment themselves."
+  },
+  {
+    "number": 160,
+    "question": "What is a 'prescription' (resept)?",
+    "options": [
+      "A bill from the hospital.",
+      "An approval from a doctor required to buy certain medicines at the pharmacy.",
+      "A document confirming that you are healthy."
+    ],
+    "correctIndex": 1,
+    "explanation": "Many strong medicines require a prescription. This is a written approval from a doctor so that the pharmacy can sell them to you."
+  },
+  {
+    "number": 161,
+    "question": "What does it mean that healthcare professionals have a duty of confidentiality?",
+    "options": [
+      "They cannot tell their boss that they are sick.",
+      "They are not allowed to talk to the press.",
+      "They are not allowed to share private medical information about you with unauthorized persons."
+    ],
+    "correctIndex": 2,
+    "explanation": "Everyone in the healthcare system has strict confidentiality, which protects your privacy and your medical information."
+  },
+  {
+    "number": 162,
+    "question": "What is the age limit for buying strong alcohol (spirits) in Norway?",
+    "options": [
+      "18 years",
+      "20 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "The age limit for beer and wine is 18, but for strong alcohol (spirits), the limit is 20 years."
+  },
+  {
+    "number": 163,
+    "question": "Is it permitted to smoke inside a public school in Norway?",
+    "options": [
+      "Yes, in designated smoking rooms.",
+      "No, smoking is prohibited in all public indoor places, including schools.",
+      "Only for the teachers."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norwegian law prohibits smoking in all public indoor places, including schools and means of transport."
+  },
+  {
+    "number": 164,
+    "question": "Approximately how long is Norway's coastline?",
+    "options": [
+      "Over 500 km",
+      "Over 1000 km",
+      "Over 2500 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norway is a very long country with a coastline that stretches over 2500 km."
+  },
+  {
+    "number": 165,
+    "question": "Which mountain is known as Norway's national mountain?",
+    "options": [
+      "Galdhøpiggen",
+      "Stetinden",
+      "Snøhetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Even though Galdhøpiggen is the highest, Stetinden holds the title of Norway's national mountain."
+  },
+  {
+    "number": 166,
+    "question": "What is the name of the largest lake in Norway?",
+    "options": [
+      "Mjøsa",
+      "Røssvatnet",
+      "Femunden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mjøsa is Norway's largest lake."
+  },
+  {
+    "number": 167,
+    "question": "Which right gives you permission to pitch a tent in uncultivated land (nature) as long as you show consideration for the environment?",
+    "options": [
+      "The Uncultivated Land Act",
+      "The Right to Roam (Allemannsretten)",
+      "The Nature Right"
+    ],
+    "correctIndex": 1,
+    "explanation": "The right to roam is an important right that allows everyone to use nature freely and pitch a tent, provided that consideration is shown."
+  },
+  {
+    "number": 168,
+    "question": "What is the name of the archipelago in the Arctic that belongs to Norway?",
+    "options": [
+      "The Faroe Islands",
+      "Lofoten",
+      "Svalbard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norway owns the archipelago Svalbard in the Arctic, which is administered by a Governor (Sysselmester)."
+  },
+  {
+    "number": 169,
+    "question": "Approximately what proportion of the population in Norway consists of immigrants?",
+    "options": [
+      "Approx. 5%",
+      "Approx. 15%",
+      "Approx. 25%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Out of the over 5.6 million inhabitants in Norway, approximately 15% are immigrants."
+  },
+  {
+    "number": 170,
+    "question": "What are the two official written forms of the Norwegian language?",
+    "options": [
+      "Swedish and Danish",
+      "Bokmål and Nynorsk",
+      "Riksmål and Sami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norwegian has two equal official written languages: Bokmål and Nynorsk."
+  },
+  {
+    "number": 171,
+    "question": "In which municipality is the Sami parliament, Sametinget, located?",
+    "options": [
+      "Tromsø",
+      "Alta",
+      "Karasjok"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sametinget, the elected parliament of the indigenous Sami people, is located in Karasjok."
+  },
+  {
+    "number": 172,
+    "question": "What is the traditional Sami singing style called?",
+    "options": [
+      "Kveding",
+      "Joik",
+      "Stev"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sami have their own traditional singing style called joik."
+  },
+  {
+    "number": 173,
+    "question": "What are Norway's two largest and most important export goods?",
+    "options": [
+      "Timber and furniture",
+      "Energy (oil/gas) and fish",
+      "Cars and electronics"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway's economy is highly dependent on exports, and the two largest industries here are energy (from the North Sea) and fish."
+  },
+  {
+    "number": 174,
+    "question": "Why do so many Norwegians in particular buy electric cars?",
+    "options": [
+      "Petrol cars are illegal in Norway.",
+      "The state provides tax advantages to encourage green choices.",
+      "It is illegal to drive petrol cars in winter."
+    ],
+    "correctIndex": 1,
+    "explanation": "To reach its climate goals in the 'Green Shift', the state has provided significant tax advantages for those who buy electric cars."
+  },
+  {
+    "number": 175,
+    "question": "In which historical period did the Vikings live?",
+    "options": [
+      "Years 500-800",
+      "Years 800-1050",
+      "Years 1200-1400"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Viking Age is considered to have lasted for about 1000 years ago, between the years 800 and 1050."
+  },
+  {
+    "number": 176,
+    "question": "What were slaves called in the Viking Age?",
+    "options": [
+      "Thralls (Treller)",
+      "Farmers",
+      "Chieftains"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the stratified Viking society, the slaves at the bottom of society were called thralls."
+  },
+  {
+    "number": 177,
+    "question": "Which date marks Norway's national day in memory of the Constitution at Eidsvoll?",
+    "options": [
+      "April 9",
+      "May 8",
+      "May 17"
+    ],
+    "correctIndex": 2,
+    "explanation": "On May 17, 1814, Norway's Constitution was signed, and this is celebrated every year as the national day."
+  },
+  {
+    "number": 178,
+    "question": "In what year was the union with Sweden peacefully dissolved?",
+    "options": [
+      "1814",
+      "1905",
+      "1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway was in a union with Sweden until June 7, 1905, when the union was dissolved and Norway became completely independent."
+  },
+  {
+    "number": 179,
+    "question": "Which date marks Liberation Day, when Norway became free after five years of occupation?",
+    "options": [
+      "April 9, 1940",
+      "May 17, 1945",
+      "May 8, 1945"
+    ],
+    "correctIndex": 2,
+    "explanation": "On May 8, 1945, the Germans capitulated, and this date is celebrated today as Liberation Day."
+  },
+  {
+    "number": 180,
+    "question": "What event in 1969 completely transformed Norway's economy?",
+    "options": [
+      "The mobile phone was invented.",
+      "Massive amounts of oil were found in the North Sea.",
+      "Norway became a member of the EU."
+    ],
+    "correctIndex": 1,
+    "explanation": "The day before Christmas Eve in 1969, major oil discoveries were made at the Ekofisk field, making Norway one of the richest countries in the world."
+  },
+  {
+    "number": 181,
+    "question": "In which two cities has Norway hosted the Winter Olympics?",
+    "options": [
+      "Tromsø and Bergen",
+      "Oslo and Lillehammer",
+      "Trondheim and Stavanger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway has hosted the Winter Olympics twice: First in Oslo in 1952, and a second time in Lillehammer in 1994."
+  },
+  {
+    "number": 182,
+    "question": "What terrible event struck Oslo and Utøya on July 22, 2011?",
+    "options": [
+      "A major earthquake.",
+      "A violent and deadly terrorist attack.",
+      "A large forest fire."
+    ],
+    "correctIndex": 1,
+    "explanation": "On July 22, 2011, Norway was struck by a politically motivated terrorist attack where 77 people were killed."
+  },
+  {
+    "number": 183,
+    "question": "What is it called when a state has a king or queen, but their power is limited by the constitution?",
+    "options": [
+      "Absolute monarchy",
+      "Constitutional monarchy",
+      "Republic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway is a constitutional monarchy. This means we have a king, but his power is strictly limited and mostly symbolic."
+  },
+  {
+    "number": 184,
+    "question": "Which body in Norway holds the legislative power?",
+    "options": [
+      "The Government",
+      "The Supreme Court",
+      "The Storting (Parliament)"
+    ],
+    "correctIndex": 2,
+    "explanation": "According to the principle of separation of powers, it is the Storting, elected by the people, that has the power to pass laws."
+  },
+  {
+    "number": 185,
+    "question": "Who is the leader of the Government (the executive power) in Norway?",
+    "options": [
+      "The King",
+      "The Prime Minister",
+      "The Chief Justice"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Government represents the executive power, and it is led daily by the Prime Minister."
+  },
+  {
+    "number": 186,
+    "question": "How many elected representatives serve in the Storting?",
+    "options": [
+      "100",
+      "169",
+      "200"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Storting consists of exactly 169 representatives who are elected for four years at a time."
+  },
+  {
+    "number": 187,
+    "question": "Which political side do parties like the Labour Party, Socialist Left Party, and Red Party usually belong to?",
+    "options": [
+      "The Center",
+      "The Left (socialist)",
+      "The Right (conservative)"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the Norwegian multi-party system, these parties are placed on the left side of the political axis."
+  },
+  {
+    "number": 188,
+    "question": "Who can vote in local elections (municipal and county council elections) even if they are not Norwegian citizens?",
+    "options": [
+      "All tourists in the country.",
+      "Foreign citizens who have legally resided in Norway for at least 3 years.",
+      "Only foreign citizens over 30 years old."
+    ],
+    "correctIndex": 1,
+    "explanation": "In local elections, foreign citizens have the right to vote if they have resided in Norway for a minimum of three years."
+  },
+  {
+    "number": 189,
+    "question": "What is the main activity in the streets on Norway's national day?",
+    "options": [
+      "Military parades with tanks.",
+      "Children's parades with music, bands, and flags.",
+      "Large car motorcades."
+    ],
+    "correctIndex": 1,
+    "explanation": "The national day is strongly focused on children, and the tradition is to arrange large children's parades filled with music and marching bands instead of military parades."
+  },
+  {
+    "number": 190,
+    "question": "What is the name of Norway's national anthem?",
+    "options": [
+      "Ja, vi elsker dette landet (Yes, we love this country)",
+      "Gud sign vår konge god (God bless our good king)",
+      "Norge i rødt, hvitt og blått (Norway in red, white and blue)"
+    ],
+    "correctIndex": 0,
+    "explanation": "The national anthem sung in the parades on May 17 is 'Ja, vi elsker dette landet'."
+  },
+  {
+    "number": 191,
+    "question": "What does the concept of 'universal design' (universell utforming) involve?",
+    "options": [
+      "That all buildings should have the same color.",
+      "That public buildings and services must be built so they are accessible to everyone, including the disabled.",
+      "That all clothes should fit both genders."
+    ],
+    "correctIndex": 1,
+    "explanation": "This principle ensures that society is designed to be inclusive and physically accessible to absolutely everyone."
+  },
+  {
+    "number": 192,
+    "question": "What does the money you pay in tax mainly go towards?",
+    "options": [
+      "To the King's private bank account.",
+      "To finance the welfare state, such as hospitals, schools, and roads.",
+      "To build hotels abroad."
+    ],
+    "correctIndex": 1,
+    "explanation": "The tax system in Norway exists to finance the common goods in the welfare state."
+  },
+  {
+    "number": 193,
+    "question": "What is the function of SIFO's reference budget?",
+    "options": [
+      "It determines how much you are allowed to spend on food.",
+      "It shows an overview of what common consumer expenses are for families in Norway.",
+      "It is the state's budget for defense."
+    ],
+    "correctIndex": 1,
+    "explanation": "SIFO creates budgets that give an indication of what it normally costs to live in Norway, to help people plan their finances."
+  },
+  {
+    "number": 194,
+    "question": "What do you usually need to have saved up to get a mortgage in a Norwegian bank?",
+    "options": [
+      "Deposit",
+      "Equity (egenkapital)",
+      "Guarantor"
+    ],
+    "correctIndex": 1,
+    "explanation": "To get a loan to buy a home, banks require you to provide your own saved money, called equity."
+  },
+  {
+    "number": 195,
+    "question": "What acts as financial security for the landlord when you rent a home?",
+    "options": [
+      "A deposit",
+      "Home contents insurance",
+      "A credit card"
+    ],
+    "correctIndex": 0,
+    "explanation": "When you sign a lease, you often have to pay a deposit into a locked account as security for the landlord."
+  },
+  {
+    "number": 196,
+    "question": "What type of insurance covers your belongings if there is a fire in your apartment?",
+    "options": [
+      "Life insurance",
+      "Liability insurance",
+      "Home contents insurance (innboforsikring)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Home contents insurance covers all the movable items you have in your home against things like fire or theft."
+  },
+  {
+    "number": 197,
+    "question": "How many days of right of withdrawal (angrerett) do consumers generally have when buying a product online in Norway?",
+    "options": [
+      "7 days",
+      "14 days",
+      "30 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norwegian consumer rights normally give you a 14-day right of withdrawal for distance selling, such as over the internet."
+  },
+  {
+    "number": 198,
+    "question": "What is meant by waste sorting (kildesortering)?",
+    "options": [
+      "That you divide your garbage into different types, such as plastic, paper, and food waste.",
+      "That you collect all garbage in one large bag.",
+      "That you check which news sources you read online."
+    ],
+    "correctIndex": 0,
+    "explanation": "Waste sorting is an important environmental effort that involves sorting our waste before we throw it away."
+  },
+  {
+    "number": 199,
+    "question": "What do you do with hazardous waste such as old batteries and chemicals?",
+    "options": [
+      "You throw it in the residual waste.",
+      "You bury it in the garden.",
+      "You deliver it to a designated recycling station."
+    ],
+    "correctIndex": 2,
+    "explanation": "Environmental toxins and hazardous waste must never be thrown in normal garbage, but delivered safely to a recycling station."
+  },
+  {
+    "number": 200,
+    "question": "What major international agreement has Norway signed to commit to reducing greenhouse gas emissions?",
+    "options": [
+      "The Svalbard Treaty",
+      "The Human Rights Agreement",
+      "The Paris Agreement"
+    ],
+    "correctIndex": 2,
+    "explanation": "To combat global climate change, Norway has signed the Paris Agreement to lower emissions."
+  },
+  {
+    "number": 201,
+    "question": "Why is source criticism especially important when reading information on the internet and social media?",
+    "options": [
+      "Because everything on the internet is written by the state.",
+      "To be able to distinguish between real news and fake news.",
+      "Because the internet costs money."
+    ],
+    "correctIndex": 1,
+    "explanation": "Source criticism is the tool we use to avoid being fooled by fake news and misinformation online."
+  },
+  {
+    "number": 202,
+    "question": "What should you do if you want to post a picture of someone else on social media?",
+    "options": [
+      "Post it right away.",
+      "Make sure to get permission (consent) from the person first.",
+      "Edit the picture first."
+    ],
+    "correctIndex": 1,
+    "explanation": "Privacy laws in Norway require that you have consent before publishing pictures of other people on the internet."
+  },
+  {
+    "number": 203,
+    "question": "What do we call it when someone uses pressure or threats to prevent a person from deciding who they should be friends with or who they should marry?",
+    "options": [
+      "Cultural difference",
+      "Neglect",
+      "Negative social control"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negative social control is a form of abuse where someone restricts another's freedom to make decisions over their own life."
+  },
+  {
+    "number": 204,
+    "question": "What kind of help does the Crisis Center (Krisesenter) provide?",
+    "options": [
+      "Financial support for the unemployed.",
+      "A free and safe place to live for those exposed to violence or abuse.",
+      "Medical treatment for serious illnesses."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Crisis Center is a 24-hour, free service that offers protection and advice to victims of violence."
+  },
+  {
+    "number": 205,
+    "question": "Which public agency processes applications for residence permits and family reunification?",
+    "options": [
+      "NAV",
+      "The Norwegian Tax Administration",
+      "The Norwegian Directorate of Immigration (UDI)"
+    ],
+    "correctIndex": 2,
+    "explanation": "People who wish to move to or continue living in Norway must send their applications to UDI."
+  },
+  {
+    "number": 206,
+    "question": "What kind of documentation is often required to prove that one has not committed serious crime when applying for citizenship?",
+    "options": [
+      "A CV",
+      "A tax return",
+      "A police certificate (politiattest)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A police certificate (certificate of good conduct) is a common requirement to prove that one meets the law's requirement for good conduct."
+  },
+  {
+    "number": 207,
+    "question": "What is the official title of the test that assesses knowledge about Norwegian society to get citizenship?",
+    "options": [
+      "The Norwegian test",
+      "The social studies test (Samfunnskunnskapsprøven)",
+      "The culture test"
+    ],
+    "correctIndex": 1,
+    "explanation": "The test that must be passed to document knowledge about politics, history, and rights is called the social studies test."
+  },
+  {
+    "number": 208,
+    "question": "In which sector do you work if you are employed directly by a municipality or county municipality?",
+    "options": [
+      "Private sector",
+      "Public sector",
+      "Voluntary sector"
+    ],
+    "correctIndex": 1,
+    "explanation": "Municipalities, county municipalities, and the state constitute what is known as the public sector."
+  },
+  {
+    "number": 209,
+    "question": "What does the abbreviation CV stand for when applying for a job?",
+    "options": [
+      "Control value",
+      "Curriculum vitae",
+      "Center vision"
+    ],
+    "correctIndex": 1,
+    "explanation": "CV stands for Curriculum vitae, which is Latin and translates to 'course of life'."
+  },
+  {
+    "number": 210,
+    "question": "What forms the basis for formal competence (formalkompetanse)?",
+    "options": [
+      "Things you have taught yourself in your free time.",
+      "Education you can prove with diplomas or trade certificates.",
+      "How long you have lived in Norway."
+    ],
+    "correctIndex": 1,
+    "explanation": "Formal competence refers to documented education, such as diplomas and certificates."
+  },
+  {
+    "number": 211,
+    "question": "If an employee in Norway refuses to pay tax on their salary because it was an oral agreement, what happens then?",
+    "options": [
+      "It is fine if the agreement was oral.",
+      "The employee is committing illegal undeclared work (svart arbeid).",
+      "The state pays the tax for them."
+    ],
+    "correctIndex": 1,
+    "explanation": "Both not having a written contract and failing to pay tax (undeclared work) are strictly illegal."
+  },
+  {
+    "number": 212,
+    "question": "Is a written employment contract something the employer can choose not to create if the job is short-term?",
+    "options": [
+      "Yes, under one month does not require a contract.",
+      "No, everyone who works is entitled to a written contract regardless of length.",
+      "Only students need a contract."
+    ],
+    "correctIndex": 1,
+    "explanation": "It is required by law that absolutely all employment relationships must have a written employment contract from day one."
+  },
+  {
+    "number": 213,
+    "question": "When did Norway get its first independent Constitution?",
+    "options": [
+      "1050",
+      "1814",
+      "1905"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution was drafted and signed in 1814 at Eidsvoll."
+  },
+  {
+    "number": 214,
+    "question": "What task do the courts have in the Norwegian state?",
+    "options": [
+      "They create the new laws.",
+      "They hold the judicial power.",
+      "They choose the prime minister."
+    ],
+    "correctIndex": 1,
+    "explanation": "In the principle of separation of powers, the courts, with the Supreme Court at the top, hold the judicial power."
+  },
+  {
+    "number": 215,
+    "question": "What is the capital of Norway and where is the Sami parliament located?",
+    "options": [
+      "Oslo and Karasjok",
+      "Bergen and Tromsø",
+      "Trondheim and Alta"
+    ],
+    "correctIndex": 0,
+    "explanation": "The capital of Norway is Oslo, while Sametinget (the Sami parliament) is located in Karasjok."
+  },
+  {
+    "number": 216,
+    "question": "What does the abbreviation HMS stand for in the Norwegian workplace?",
+    "options": [
+      "Health, food, and safety",
+      "Health, safety, and environment (Helse, miljø og sikkerhet)",
+      "Help, medicine, and hospital"
+    ],
+    "correctIndex": 1,
+    "explanation": "HMS stands for Health, Environment, and Safety, and is mandatory work to prevent injuries and environmental disturbances at a workplace."
+  },
+  {
+    "number": 217,
+    "question": "How long is a probationary period usually in a new job in Norway?",
+    "options": [
+      "Up to 3 months",
+      "Up to 6 months",
+      "Up to 12 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is common to have a probationary period of up to 6 months so that both employer and employee can see if the job is a good fit."
+  },
+  {
+    "number": 218,
+    "question": "Can an employer fire you (dismissal) without a reason?",
+    "options": [
+      "Yes, at any time.",
+      "No, a valid reason is required according to the Working Environment Act.",
+      "Only if one is in a trade union."
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, employees have strong job protection. The employer must have a valid/factual reason to dismiss an employee."
+  },
+  {
+    "number": 219,
+    "question": "What is parental benefit (foreldrepenger)?",
+    "options": [
+      "Money the state pays to all grandparents.",
+      "Financial support that replaces your salary when you are home with a newborn or adopted child.",
+      "A prize you get for having many children."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parental benefit secures income for parents who are on leave to be at home with small children."
+  },
+  {
+    "number": 220,
+    "question": "What is meant by the 'paternal quota' (fedrekvote/pappaperm)?",
+    "options": [
+      "A share of the parental leave reserved for the father or co-mother.",
+      "An extra tax for men.",
+      "Time the father must work extra to pay for the child."
+    ],
+    "correctIndex": 0,
+    "explanation": "To promote equality, a specific part of the parental leave (currently 15 weeks) is reserved for the father/co-mother."
+  },
+  {
+    "number": 221,
+    "question": "What is child benefit (barnetrygd)?",
+    "options": [
+      "Money children earn from working.",
+      "A monthly financial support the state gives to everyone who has children under 18 years old.",
+      "A tax parents must pay for their children."
+    ],
+    "correctIndex": 1,
+    "explanation": "Child benefit is intended to help cover expenses that come with having children, and is paid monthly until the child turns 18."
+  },
+  {
+    "number": 222,
+    "question": "What do women who give birth, but who have not earned the right to parental benefit, receive?",
+    "options": [
+      "They get nothing.",
+      "They get a tax increase.",
+      "They receive a lump-sum grant (engangsstønad) from NAV."
+    ],
+    "correctIndex": 2,
+    "explanation": "A lump-sum grant is a tax-free one-time payment given to mothers who have not worked long enough to get parental benefit."
+  },
+  {
+    "number": 223,
+    "question": "When can you be entitled to unemployment benefit (dagpenger) from NAV?",
+    "options": [
+      "When you are on holiday.",
+      "When you become fully or partially unemployed.",
+      "When you are on sick leave."
+    ],
+    "correctIndex": 1,
+    "explanation": "Unemployment benefit is financial support that replaces parts of your work income if you lose your job."
+  },
+  {
+    "number": 224,
+    "question": "What does AAP stand for in the welfare system?",
+    "options": [
+      "Work assessment allowance (Arbeidsavklaringspenger)",
+      "General retirement pension",
+      "Employer's national insurance contributions"
+    ],
+    "correctIndex": 0,
+    "explanation": "AAP is a benefit you can get from NAV if your ability to work is reduced due to illness or injury."
+  },
+  {
+    "number": 225,
+    "question": "Which emergency number do you call to notify the fire department?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 0,
+    "explanation": "The emergency number 110 goes directly to the fire department in case of fire or serious accidents."
+  },
+  {
+    "number": 226,
+    "question": "Which emergency number do you call to get immediate help from the police?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 1,
+    "explanation": "112 is the emergency number for the police. It is used when there is a danger to life and health, or in case of serious crimes in progress."
+  },
+  {
+    "number": 227,
+    "question": "What is value-added tax (moms/MVA)?",
+    "options": [
+      "A tax the employer pays on your salary.",
+      "A tax added to almost all goods and services we buy.",
+      "An annual fee for owning a car."
+    ],
+    "correctIndex": 1,
+    "explanation": "Value-added tax is a tax to the state that is included in the price of goods and services you buy in the store."
+  },
+  {
+    "number": 228,
+    "question": "What is the general age limit for having the right to vote in elections in Norway?",
+    "options": [
+      "You must have turned 16 by election day.",
+      "You must turn 18 by the end of the election year.",
+      "You must have turned 21."
+    ],
+    "correctIndex": 1,
+    "explanation": "The voting age in Norway is 18. You have the right to vote in the year you turn 18."
+  },
+  {
+    "number": 229,
+    "question": "Can a person without Norwegian citizenship vote in Parliamentary elections (Stortingsvalg)?",
+    "options": [
+      "No, only Norwegian citizens have the right to vote in Parliamentary elections.",
+      "Yes, if they have lived in Norway for 3 years.",
+      "Yes, everyone who lives in Norway can vote."
+    ],
+    "correctIndex": 0,
+    "explanation": "The parliamentary election determines the country's government, and here only Norwegian citizens have the right to vote."
+  },
+  {
+    "number": 230,
+    "question": "What is one of the main tasks of the county municipality (fylkeskommunen)?",
+    "options": [
+      "To run primary schools.",
+      "To run upper secondary schools and county roads.",
+      "To control the country's military defense."
+    ],
+    "correctIndex": 1,
+    "explanation": "The county municipality is responsible for large regional tasks such as upper secondary education, county roads, and dental health services."
+  },
+  {
+    "number": 231,
+    "question": "What is one of the main tasks of the municipality (kommunen)?",
+    "options": [
+      "To run the police.",
+      "To run the hospitals.",
+      "To run primary schools, kindergartens, and elderly care."
+    ],
+    "correctIndex": 2,
+    "explanation": "The municipality is responsible for the close welfare services, such as primary school, lower secondary school, and nursing homes."
+  },
+  {
+    "number": 232,
+    "question": "What is the title of the top political leader in a municipality?",
+    "options": [
+      "Prime Minister",
+      "Mayor (Ordfører)",
+      "Chief Municipal Executive"
+    ],
+    "correctIndex": 1,
+    "explanation": "The mayor is the elected politician who leads the municipal council and represents the municipality externally."
+  },
+  {
+    "number": 233,
+    "question": "What is the title of the head of Norway's government?",
+    "options": [
+      "Prime Minister (Statsminister)",
+      "President",
+      "Chancellor"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Prime Minister is the head of the government and the most powerful politician in the country."
+  },
+  {
+    "number": 234,
+    "question": "How is a government formed in Norway?",
+    "options": [
+      "The King freely chooses whoever he wants.",
+      "The party or parties that get a majority or support in the Storting form the government.",
+      "The courts appoint the government."
+    ],
+    "correctIndex": 1,
+    "explanation": "Due to parliamentarism, the government must be formed by parties that have support from a majority in the Storting."
+  },
+  {
+    "number": 235,
+    "question": "What is a motion of no confidence (mistillitsforslag)?",
+    "options": [
+      "When the people vote to depose the king.",
+      "When the Storting votes that the government must resign because they no longer have confidence.",
+      "When the government fires a mayor."
+    ],
+    "correctIndex": 1,
+    "explanation": "If the majority in the Storting passes a motion of no confidence against the government (or a single minister), they must resign."
+  },
+  {
+    "number": 236,
+    "question": "What is it called when the government threatens to resign if the Storting does not vote for the government's proposal?",
+    "options": [
+      "Motion of no confidence",
+      "Cabinet question (Kabinettsspørsmål)",
+      "Veto"
+    ],
+    "correctIndex": 1,
+    "explanation": "The government can raise a cabinet question to pressure the Storting: 'Either you pass the matter, or we quit.'"
+  },
+  {
+    "number": 237,
+    "question": "What does it mean that Norway is governed by parliamentarism?",
+    "options": [
+      "That the king decides everything.",
+      "That we have direct democracy.",
+      "That the government must have support from the majority in the Storting to keep power."
+    ],
+    "correctIndex": 2,
+    "explanation": "Parliamentarism is the political system where the Storting (the parliament) has the real power over the government."
+  },
+  {
+    "number": 238,
+    "question": "In what year was parliamentarism introduced in Norway?",
+    "options": [
+      "1814",
+      "1884",
+      "1905"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parliamentarism was introduced in 1884, which took power from the king and gave it to the elected Storting."
+  },
+  {
+    "number": 239,
+    "question": "Who became Norway's first prime minister when parliamentarism was introduced in 1884?",
+    "options": [
+      "Christian Michelsen",
+      "Einar Gerhardsen",
+      "Johan Sverdrup"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Liberal Party leader Johan Sverdrup is considered the father of parliamentarism and became Norway's first modern prime minister."
+  },
+  {
+    "number": 240,
+    "question": "When did women get universal suffrage in Norway?",
+    "options": [
+      "1814",
+      "1913",
+      "1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway was one of the first countries in the world to give women universal suffrage in the year 1913."
+  },
+  {
+    "number": 241,
+    "question": "In what year was the union between Norway and Sweden dissolved?",
+    "options": [
+      "1814",
+      "1905",
+      "1940"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway was in a personal union with Sweden until 1905, when the country finally became a completely independent nation."
+  },
+  {
+    "number": 242,
+    "question": "Who was elected Norway's first king after the dissolution of the union in 1905?",
+    "options": [
+      "King Haakon VII",
+      "King Olav V",
+      "King Harald V"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Danish Prince Carl was elected King of Norway and took the name Haakon VII."
+  },
+  {
+    "number": 243,
+    "question": "What is the name of the current king in Norway?",
+    "options": [
+      "King Olav V",
+      "King Haakon VII",
+      "King Harald V"
+    ],
+    "correctIndex": 2,
+    "explanation": "King Harald V took over as king in 1991 after his father, King Olav V, passed away."
+  },
+  {
+    "number": 244,
+    "question": "Who has the right to vote in the election for the Sami Parliament?",
+    "options": [
+      "All inhabitants in Northern Norway.",
+      "Only those enrolled in the Sami Parliament's electoral register.",
+      "All Norwegian citizens."
+    ],
+    "correctIndex": 1,
+    "explanation": "To vote for representatives to the Sami Parliament, you must prove Sami affiliation and enroll in the electoral register."
+  },
+  {
+    "number": 245,
+    "question": "What is 'Sápmi'?",
+    "options": [
+      "The Sami word for snow.",
+      "The historical settlement area of the Sami across Norway, Sweden, Finland, and Russia.",
+      "The traditional Sami clothing."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sápmi is the name of the areas where the Sami have traditionally lived throughout history."
+  },
+  {
+    "number": 246,
+    "question": "When is the Sami national day celebrated?",
+    "options": [
+      "February 6",
+      "May 17",
+      "December 24"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Sami national day is celebrated on February 6 in memory of the first Sami national meeting in Trondheim in 1917."
+  },
+  {
+    "number": 247,
+    "question": "Which group of people living in the north of the country is recognized as a national minority and has historical roots in Finland?",
+    "options": [
+      "The Kven people",
+      "Forest Finns",
+      "The Sami"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Kvens have immigrated from Northern Finland to Northern Norway since the 1700s and hold the status of a national minority."
+  },
+  {
+    "number": 248,
+    "question": "How many groups are officially recognized as national minorities in Norway?",
+    "options": [
+      "2 groups",
+      "5 groups",
+      "10 groups"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 5 national minorities are Kvens/Norwegian Finns, Forest Finns, Jews, Romani people/Taters, and Roma."
+  },
+  {
+    "number": 249,
+    "question": "What are the rules for conscription (military service) in Norway today?",
+    "options": [
+      "Only men have conscription.",
+      "It is completely voluntary for everyone.",
+      "Both women and men have universal conscription."
+    ],
+    "correctIndex": 2,
+    "explanation": "In 2015, Norway introduced, as one of the few countries in the world, compulsory military service for both women and men."
+  },
+  {
+    "number": 250,
+    "question": "What is the age limit for buying tobacco, snus, and e-cigarettes in Norway?",
+    "options": [
+      "16 years",
+      "18 years",
+      "20 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "There is a strict 18-year age limit for all sales of tobacco products in Norway."
+  },
+  {
+    "number": 251,
+    "question": "Why is it strongly recommended that cohabitants (samboere) set up a 'cohabitation agreement'?",
+    "options": [
+      "So the state knows where they live.",
+      "Because the law does not give cohabitants the same financial protection as spouses if the relationship ends.",
+      "Because it is required by law."
+    ],
+    "correctIndex": 1,
+    "explanation": "Cohabitants lack many of the legal rights spouses have; therefore, a cohabitation agreement is important for their finances."
+  },
+  {
+    "number": 252,
+    "question": "What does it mean to have 'joint property' (felleseie) in a marriage?",
+    "options": [
+      "That all wealth belongs to the state.",
+      "That the values should basically be divided equally between the spouses if they divorce.",
+      "That they have to share everything with their neighbors."
+    ],
+    "correctIndex": 1,
+    "explanation": "The main rule for married couples is joint property, which ensures an equal division of values in the event of a divorce."
+  },
+  {
+    "number": 253,
+    "question": "What is 'separate property' (særeie) in a marriage?",
+    "options": [
+      "Something one of the spouses owns that is not to be shared with the other upon divorce.",
+      "Money saved for the children.",
+      "A joint bank account for both."
+    ],
+    "correctIndex": 0,
+    "explanation": "Separate property is often agreed upon through a marriage pact, and ensures that specific assets are kept out of the division."
+  },
+  {
+    "number": 254,
+    "question": "How long must spouses in Norway normally be separated before they can be formally divorced?",
+    "options": [
+      "1 month",
+      "1 year",
+      "3 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "To get a divorce in Norway, the main rule is that you must first have been separated for one year."
+  },
+  {
+    "number": 255,
+    "question": "What is mandatory for parents with children under 16 before they can be granted separation and divorce?",
+    "options": [
+      "They must attend mediation to make an agreement about the children.",
+      "They must sell their house.",
+      "They must pay a fee to the state."
+    ],
+    "correctIndex": 0,
+    "explanation": "To ensure the child's best interests, the state requires parents to attend mandatory mediation at the family counseling office."
+  },
+  {
+    "number": 256,
+    "question": "What is meant by the concept of 'shared residence' for children of divorced parents?",
+    "options": [
+      "That the child lives in an orphanage.",
+      "That the child lives about as much with both parents after the breakup.",
+      "That the child lives with their grandparents."
+    ],
+    "correctIndex": 1,
+    "explanation": "Shared residence means that the parents have the child with them approximately equally, for example, one week each."
+  },
+  {
+    "number": 257,
+    "question": "Who has a statutory right to the majority of the inheritance (pliktdelsarv) when a person dies?",
+    "options": [
+      "The state",
+      "The person's children (direct descendants)",
+      "The person's friends"
+    ],
+    "correctIndex": 1,
+    "explanation": "The law ensures that two-thirds of the fortune goes to the children. This cannot be opted out of in a will."
+  },
+  {
+    "number": 258,
+    "question": "Is polygamy allowed in Norway?",
+    "options": [
+      "No, bigamy and polygamy are illegal and punishable.",
+      "Yes, but only for religious reasons.",
+      "Yes, if both wives consent."
+    ],
+    "correctIndex": 0,
+    "explanation": "In Norway, you can only be married to one person at a time."
+  },
+  {
+    "number": 259,
+    "question": "What kind of help does a Crisis Center provide?",
+    "options": [
+      "They give loans to people with money problems.",
+      "They offer a safe and secret place to live for people who are exposed to violence in close relationships.",
+      "They fix cars that have crashed."
+    ],
+    "correctIndex": 1,
+    "explanation": "Crisis centers exist all over the country to protect and guide victims of violence from family members."
+  },
+  {
+    "number": 260,
+    "question": "Can parents be punished in Norway if they send their daughters abroad to be circumcised (genital mutilation)?",
+    "options": [
+      "No, the law does not apply abroad.",
+      "Yes, genital mutilation is strictly illegal and punishable even if it happens in another country.",
+      "Only if the daughter is over 18 years old."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norwegian law forbids all forms of genital mutilation and also punishes those who contribute to it happening abroad."
+  },
+  {
+    "number": 261,
+    "question": "What is the age limit for getting a driver's license for a car (class B) in Norway?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "You can start practice driving a car from the age of 16, but you can only take the actual driver's license when you are 18."
+  },
+  {
+    "number": 262,
+    "question": "What is the age limit for driving a moped (class AM) in Norway?",
+    "options": [
+      "15 years",
+      "16 years",
+      "18 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "For lighter vehicles like a moped, the age limit for a driver's license is 16 years."
+  },
+  {
+    "number": 263,
+    "question": "What is the general speed limit in built-up areas (cities/residential areas) if there are no signs posted?",
+    "options": [
+      "30 km/h",
+      "50 km/h",
+      "80 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "The general speed limit within built-up areas is 50 km/h."
+  },
+  {
+    "number": 264,
+    "question": "What is the general speed limit outside built-up areas (country roads) if there are no signs posted?",
+    "options": [
+      "70 km/h",
+      "80 km/h",
+      "90 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "When not signposted, the general rule of 80 km/h applies outside built-up areas."
+  },
+  {
+    "number": 265,
+    "question": "Is it mandatory to use seat belts for passengers in the back seat?",
+    "options": [
+      "No, only for the driver and the person in the front seat.",
+      "Yes, it is mandatory for everyone in the car regardless of where they sit.",
+      "Only for children."
+    ],
+    "correctIndex": 1,
+    "explanation": "The use of seat belts is required by law for all persons in a car."
+  },
+  {
+    "number": 266,
+    "question": "Which large ocean lies along the west coast of Norway?",
+    "options": [
+      "The Barents Sea",
+      "The Norwegian Sea (part of the Atlantic Ocean)",
+      "The Baltic Sea"
+    ],
+    "correctIndex": 1,
+    "explanation": "The coast of Western Norway faces the Norwegian Sea, which provides rich fishing resources."
+  },
+  {
+    "number": 267,
+    "question": "Which sea area separates Southern Norway from Denmark?",
+    "options": [
+      "Skagerrak",
+      "The Gulf of Bothnia",
+      "Kattegat"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sea area south of Norway, between Norway, Sweden, and Denmark, is called Skagerrak."
+  },
+  {
+    "number": 268,
+    "question": "Which sea lies furthest north of Norway?",
+    "options": [
+      "The Mediterranean Sea",
+      "The Barents Sea",
+      "The Black Sea"
+    ],
+    "correctIndex": 1,
+    "explanation": "North of Finnmark, towards the Arctic, lies the ice-cold Barents Sea."
+  },
+  {
+    "number": 269,
+    "question": "Which three countries does Norway share a land border with?",
+    "options": [
+      "Sweden, Denmark, and Iceland",
+      "Sweden, Finland, and Germany",
+      "Sweden, Finland, and Russia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norway shares its longest border with Sweden in the east, and shorter borders with Finland and Russia in the northeast."
+  },
+  {
+    "number": 270,
+    "question": "What is Norway's (and Europe's) longest and deepest fjord?",
+    "options": [
+      "Geirangerfjord",
+      "Sognefjord",
+      "Hardangerfjord"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sognefjord cuts over 200 kilometers inland and is more than 1300 meters deep."
+  },
+  {
+    "number": 271,
+    "question": "Which Norwegian city often goes by the nickname 'Paris of the North'?",
+    "options": [
+      "Bodø",
+      "Tromsø",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tromsø is called 'Paris of the North' due to its bustling city life and international environment far up north."
+  },
+  {
+    "number": 272,
+    "question": "In which major Norwegian city is the Nidaros Cathedral located?",
+    "options": [
+      "Trondheim",
+      "Bergen",
+      "Oslo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nidaros Cathedral is Norway's most important church and is located in Trondheim. This is where Norway's kings were crowned."
+  },
+  {
+    "number": 273,
+    "question": "Which Norwegian city is known for the colorful wooden houses on 'Bryggen' that are on the UNESCO World Heritage List?",
+    "options": [
+      "Stavanger",
+      "Ålesund",
+      "Bergen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bergen was an important trading city for the Hanseatic League in the Middle Ages, and Bryggen is proof of this."
+  },
+  {
+    "number": 274,
+    "question": "What is the name of Norway's largest island, if we do not count the islands in Svalbard?",
+    "options": [
+      "Senja",
+      "Karmøy",
+      "Hinnøya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hinnøya in Northern Norway is the largest island on the Norwegian mainland."
+  },
+  {
+    "number": 275,
+    "question": "What is the natural phenomenon called where the sun never sets below the horizon during the summer in Northern Norway?",
+    "options": [
+      "Polar night (Mørketid)",
+      "Northern lights (Nordlys)",
+      "Midnight sun (Midnattssol)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Due to the Earth's tilt, areas north of the Arctic Circle experience days in the summer when the sun never sets, known as the midnight sun."
+  },
+  {
+    "number": 276,
+    "question": "What is the cause of the polar night (mørketid) in Northern Norway?",
+    "options": [
+      "Large mountains block the sun.",
+      "The Earth's axial tilt means the sun does not rise above the horizon in winter.",
+      "It rains almost every day."
+    ],
+    "correctIndex": 1,
+    "explanation": "In winter, the northern hemisphere tilts away from the sun, creating weeks of polar night north of the Arctic Circle."
+  },
+  {
+    "number": 277,
+    "question": "What is the name of the largest glacier on the European mainland, which is located in Norway?",
+    "options": [
+      "Svartisen",
+      "Folgefonna",
+      "Jostedalsbreen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jostedalsbreen in Vestland county is the largest glacier in mainland Europe."
+  },
+  {
+    "number": 278,
+    "question": "Which ocean current contributes to Norway having a much milder and warmer climate than expected this far north?",
+    "options": [
+      "The Arctic Ocean Current",
+      "The Gulf Stream",
+      "The North Sea Current"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Gulf Stream carries warm water from the Gulf of Mexico up along the coast of Norway, preventing the coast from freezing."
+  },
+  {
+    "number": 279,
+    "question": "Who was Edvard Munch?",
+    "options": [
+      "A Norwegian prime minister.",
+      "A world-famous Norwegian painter and printmaker.",
+      "A famous actor."
+    ],
+    "correctIndex": 1,
+    "explanation": "Munch is Norway's most famous artist of all time, recognized for his expressive paintings."
+  },
+  {
+    "number": 280,
+    "question": "Which world-famous painting is Edvard Munch's most famous work?",
+    "options": [
+      "The Scream (Skrik)",
+      "Sunflowers",
+      "Bridal Procession on the Hardangerfjord"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The Scream' exists in several versions and is one of the world's most iconic and recognizable artworks."
+  },
+  {
+    "number": 281,
+    "question": "Who was Henrik Ibsen?",
+    "options": [
+      "A famous pop star.",
+      "Norway's most famous author and playwright.",
+      "The discoverer of the North Pole."
+    ],
+    "correctIndex": 1,
+    "explanation": "Henrik Ibsen wrote plays in the 19th century and is considered the father of modern drama in world literature."
+  },
+  {
+    "number": 282,
+    "question": "Which famous play did Henrik Ibsen write about a woman named Nora who leaves her husband and children to find herself?",
+    "options": [
+      "Peer Gynt",
+      "A Doll's House (Et dukkehjem)",
+      "The Wild Duck (Villanden)"
+    ],
+    "correctIndex": 1,
+    "explanation": "'A Doll's House' sparked massive debate in Europe when it was published in 1879 due to its critique of gender roles."
+  },
+  {
+    "number": 283,
+    "question": "Who was Edvard Grieg?",
+    "options": [
+      "A famous Norwegian composer who made classical music.",
+      "An author.",
+      "A football player."
+    ],
+    "correctIndex": 0,
+    "explanation": "Grieg is Norway's greatest composer, and he drew much of his inspiration from Norwegian nature and folk music."
+  },
+  {
+    "number": 284,
+    "question": "Which Norwegian author won the Nobel Prize in Literature in 1920 for the book 'Growth of the Soil' (Markens Grøde)?",
+    "options": [
+      "Bjørnstjerne Bjørnson",
+      "Knut Hamsun",
+      "Jo Nesbø"
+    ],
+    "correctIndex": 1,
+    "explanation": "Knut Hamsun won the Nobel Prize, but later became controversial for supporting the Nazis during World War II."
+  },
+  {
+    "number": 285,
+    "question": "Which female Norwegian author won the Nobel Prize in Literature in 1928, especially for her novels from the Middle Ages (Kristin Lavransdatter)?",
+    "options": [
+      "Sigrid Undset",
+      "Amalie Skram",
+      "Gro Harlem Brundtland"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sigrid Undset won the Nobel Prize for her detailed depictions of life in the Nordic countries during the Middle Ages."
+  },
+  {
+    "number": 286,
+    "question": "In which city is the Nobel Peace Prize awarded every year?",
+    "options": [
+      "Stockholm",
+      "Oslo",
+      "Copenhagen"
+    ],
+    "correctIndex": 1,
+    "explanation": "While the other Nobel Prizes are awarded in Sweden, the Peace Prize is always awarded in Oslo City Hall in Norway."
+  },
+  {
+    "number": 287,
+    "question": "Who decides who will win the Nobel Peace Prize?",
+    "options": [
+      "The King of Norway",
+      "The Prime Minister",
+      "The Norwegian Nobel Committee, appointed by the Storting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alfred Nobel determined in his will that a committee appointed by the Norwegian Storting shall choose the winner of the Peace Prize."
+  },
+  {
+    "number": 288,
+    "question": "Who was Fridtjof Nansen?",
+    "options": [
+      "A king in the Viking Age.",
+      "A famous polar explorer, scientist, and diplomat who won the Nobel Peace Prize.",
+      "The inventor of the cheese slicer."
+    ],
+    "correctIndex": 1,
+    "explanation": "Nansen is a national hero known for his Arctic expeditions, but he won the Peace Prize in 1922 for his enormous humanitarian work for refugees."
+  },
+  {
+    "number": 289,
+    "question": "What was the 'Black Death' (svartedauden) in Norway's history?",
+    "options": [
+      "An especially cold winter.",
+      "A plague epidemic that arrived in 1349 and killed about half of Norway's population.",
+      "A war against the Swedes."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Black Death, or bubonic plague, devastated all of Europe and weakened Norway so much that we lost our independence for many centuries."
+  },
+  {
+    "number": 290,
+    "question": "What was the 'Kalmar Union'?",
+    "options": [
+      "A trade agreement for fish.",
+      "A political union between the kingdoms of Denmark, Norway, and Sweden, established in 1397.",
+      "An agreement with the EU."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Kalmar Union brought the three Nordic countries together under one common monarch, ruled from Denmark."
+  },
+  {
+    "number": 291,
+    "question": "For how long was Norway under Danish rule (often called the '400-year night')?",
+    "options": [
+      "Approx. 100 years",
+      "Approx. 200 years",
+      "Approx. 400 years (from 1380 to 1814)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norway was the weakest party and was ruled from Copenhagen in Denmark for over 400 years until the Treaty of Kiel in 1814."
+  },
+  {
+    "number": 292,
+    "question": "What does the life stance called 'humanism' mean?",
+    "options": [
+      "Belief in multiple nature gods.",
+      "A life stance that puts humans, reason, and human rights at the center, without being based on religion.",
+      "Believing that the universe was created in 7 days."
+    ],
+    "correctIndex": 1,
+    "explanation": "Secular (non-religious) humanism today forms an important foundation in Norwegian society along with the Christian heritage."
+  },
+  {
+    "number": 293,
+    "question": "What does it mean for a state to be 'neutral in matters of life stance' (livssynsnøytral)?",
+    "options": [
+      "That the state does not favor one specific religion and gives everyone the right to believe what they want.",
+      "That religion is forbidden in the country.",
+      "That only the state church is allowed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Since 2012, Norway separates state and church, which means the state should in practice treat all religions and life stances equally."
+  },
+  {
+    "number": 294,
+    "question": "What is the 'free principle' (gratisprinsippet) in the Norwegian school system?",
+    "options": [
+      "That teachers work for free.",
+      "That all public primary and upper secondary education is completely free for students.",
+      "That you do not need to buy food during recess."
+    ],
+    "correctIndex": 1,
+    "explanation": "The law states that education in public schools must be free, ensuring everyone has an equal right to education regardless of finances."
+  },
+  {
+    "number": 295,
+    "question": "What is the equipment grant (utstyrsstipend)?",
+    "options": [
+      "Money you get from parents for clothes.",
+      "A financial grant from Lånekassen for all upper secondary students with youth rights, to buy a PC and school books.",
+      "A prize for good grades."
+    ],
+    "correctIndex": 1,
+    "explanation": "Regardless of what your parents earn, you are entitled to this grant from the state when attending upper secondary school, and it does not have to be repaid."
+  },
+  {
+    "number": 296,
+    "question": "What does it mean to have 'youth rights' (ungdomsrett)?",
+    "options": [
+      "The right to drive a car when you turn 16.",
+      "A statutory right to three years of upper secondary education for youths between 15 and 24 years old.",
+      "The right to vote when you are 16."
+    ],
+    "correctIndex": 1,
+    "explanation": "Youth rights ensure that everyone who has completed lower secondary school has a right to a place in upper secondary education."
+  },
+  {
+    "number": 297,
+    "question": "What is an 'independent school' (friskole / privatskole) in Norway?",
+    "options": [
+      "A school out in the forest.",
+      "A school run by private owners (for example, religious communities or pedagogical alternatives) that often charges tuition fees.",
+      "A school where students have no classes."
+    ],
+    "correctIndex": 1,
+    "explanation": "Independent schools are not owned by the state or municipality; they receive state subsidies but can require students to pay tuition fees."
+  },
+  {
+    "number": 298,
+    "question": "When sorting waste at home, where do you throw clean jam jars and tin cans?",
+    "options": [
+      "In the residual waste.",
+      "In the food waste.",
+      "In separate bins or return points for glass and metal packaging."
+    ],
+    "correctIndex": 2,
+    "explanation": "Glass and metal must be sorted out so the materials can be melted down and reused, in line with environmental rules."
+  },
+  {
+    "number": 299,
+    "question": "What is 'pant' (deposit) on a bottle?",
+    "options": [
+      "The contents of the bottle itself.",
+      "An extra fee you pay at the register, which you get back in money when you return the bottle to the store.",
+      "The label on the bottle showing it is healthy."
+    ],
+    "correctIndex": 1,
+    "explanation": "The deposit system ensures that Norwegians recycle the vast majority of empty plastic bottles and beverage cans in exchange for money."
+  },
+  {
+    "number": 300,
+    "question": "In most grocery stores, you can return bottles for a deposit. How do you usually receive the deposit money?",
+    "options": [
+      "Chocolate",
+      "A receipt with an amount you can use to pay for goods in the store.",
+      "Tickets for a state lottery."
+    ],
+    "correctIndex": 1,
+    "explanation": "The machine gives you a receipt with a barcode that you hand over at the checkout to deduct the amount from your purchases."
+  },
+  {
+    "number": 301,
+    "question": "What is Vinmonopolet?",
+    "options": [
+      "A board game.",
+      "The only retail chain in Norway, owned by the state, that is allowed to sell wine and spirits.",
+      "A place where wine is produced."
+    ],
+    "correctIndex": 1,
+    "explanation": "To limit alcohol consumption in the population, the Norwegian state has a monopoly (Vinmonopolet) on the sale of strong alcohol."
+  },
+  {
+    "number": 302,
+    "question": "How strong can alcohol be for regular grocery stores in Norway to legally sell it (for example, beer and cider)?",
+    "options": [
+      "Up to 4.7% alcohol",
+      "Up to 10.0% alcohol",
+      "Up to 15.0% alcohol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grocery stores are only allowed to sell alcoholic beverages containing up to 4.7% alcohol by volume."
+  },
+  {
+    "number": 303,
+    "question": "What is the national time limit for when the sale of beer stops in grocery stores on regular weekdays (Monday to Friday)?",
+    "options": [
+      "8:00 PM (18:00)",
+      "8:00 PM (20:00)",
+      "11:00 PM (23:00)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The law states that alcohol sales in regular stores close at 8:00 PM (20:00) on weekdays."
+  },
+  {
+    "number": 304,
+    "question": "What is the national time limit for when the sale of beer stops in grocery stores on Saturdays?",
+    "options": [
+      "3:00 PM (15:00)",
+      "6:00 PM (18:00)",
+      "8:00 PM (20:00)"
+    ],
+    "correctIndex": 1,
+    "explanation": "On Saturdays and days before public holidays, the sale of alcohol ends early, exactly at 6:00 PM (18:00)."
+  },
+  {
+    "number": 305,
+    "question": "What is the 'Law of Jante' (Janteloven)?",
+    "options": [
+      "Norway's constitution from 1814.",
+      "An unwritten, cultural 'rule' stating that you should not think you are any better than anyone else.",
+      "The law on how to pay taxes."
+    ],
+    "correctIndex": 1,
+    "explanation": "Janteloven is a well-known concept in Scandinavia, taken from a novel, reflecting small-town life where no one should stand out or brag."
+  },
+  {
+    "number": 306,
+    "question": "What is celebrated on June 23rd in Norway, usually with a large bonfire along the coast?",
+    "options": [
+      "Midsummer Eve (Sankthansaften)",
+      "Pentecost (Pinse)",
+      "Olsok"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sankthans celebrates the peak of summer (solstice), and the tradition is to light large bonfires in the evening."
+  },
+  {
+    "number": 307,
+    "question": "What is the 'russefeiring' (russetiden)?",
+    "options": [
+      "The time in the autumn when it rains a lot.",
+      "A week-long festival for pensioners.",
+      "A celebration in the spring for graduating upper secondary school students, where they often wear red or blue clothes."
+    ],
+    "correctIndex": 2,
+    "explanation": "Norwegian youth traditionally celebrate the end of 13 years of schooling in May, right before the final exams, with 'russetiden'."
+  },
+  {
+    "number": 308,
+    "question": "What does it mean that the state offers the scheme 'free legal aid' (fri rettshjelp)?",
+    "options": [
+      "That it is free to go to the cinema.",
+      "That people with very low income and wealth can have the state pay for lawyer expenses in important cases.",
+      "That the police help everyone for free."
+    ],
+    "correctIndex": 1,
+    "explanation": "To ensure that the law is equal for everyone, free legal aid provides financial support for a lawyer to those who cannot afford it."
+  },
+  {
+    "number": 309,
+    "question": "What does the principle of 'equal pay' (likelønn) mean in working life?",
+    "options": [
+      "That everyone in the company gets paid exactly the same, regardless of the job.",
+      "That men and women should have equal pay for equal work, or work of equal value.",
+      "That salary is paid on the same date every month."
+    ],
+    "correctIndex": 1,
+    "explanation": "Equal pay is a central equality requirement that establishes that gender should never affect how much you get paid."
+  },
+  {
+    "number": 310,
+    "question": "What is the task of the Equality and Anti-Discrimination Ombudsman (LDO)?",
+    "options": [
+      "To ensure that all parties in the Storting have the same number of representatives.",
+      "To fight discrimination and promote equality regardless of gender, ethnicity, religion, and sexual orientation in society.",
+      "To sentence people to prison for racist comments."
+    ],
+    "correctIndex": 1,
+    "explanation": "LDO is a state body that works to ensure anti-discrimination laws are followed in practice."
+  },
+  {
+    "number": 311,
+    "question": "What is the 'National Insurance Scheme' (Folketrygden) in Norway?",
+    "options": [
+      "A private insurance company for the rich.",
+      "The state's universal insurance scheme that ensures economic security, for example in case of illness, old age, and unemployment.",
+      "A savings account you open in the bank."
+    ],
+    "correctIndex": 1,
+    "explanation": "The National Insurance Scheme is the backbone of the welfare state. Almost all benefits, pensions, and sick pay are paid through it."
+  },
+  {
+    "number": 312,
+    "question": "What does the term 'the elder boom' (eldrebølgen), which creates challenges for the welfare state, mean?",
+    "options": [
+      "That older people like to swim more than before.",
+      "That an increasingly large percentage of Norway's population is getting older and living longer.",
+      "That young people are moving out of the country."
+    ],
+    "correctIndex": 1,
+    "explanation": "As the large post-war generations grow old, the elder boom means that more people are needed in elderly care."
+  },
+  {
+    "number": 313,
+    "question": "What is required for the student loan from Lånekassen to be partially converted into a grant (money you do not have to pay back)?",
+    "options": [
+      "That you move back to your home municipality.",
+      "That you complete your education and pass your exams.",
+      "That you work alongside your studies."
+    ],
+    "correctIndex": 1,
+    "explanation": "If you live away from your parents and pass your exams (earn study credits), up to 40% of the student loan is converted to a grant."
+  },
+  {
+    "number": 314,
+    "question": "Do you lose the right to use self-certification (egenmelding) if you have used up your statutory days in one year?",
+    "options": [
+      "No, you can use as many as you want.",
+      "Yes, if you have used all 4 periods (or the days the company allows) in 12 months, you must have a sick note from a doctor.",
+      "No, but you get a deduction in your salary."
+    ],
+    "correctIndex": 1,
+    "explanation": "When the quota for self-certification during a 12-month period is used up, only a valid sick note from a doctor gives the right to sick pay."
+  },
+  {
+    "number": 315,
+    "question": "Which three parties make up the famous 'tripartite cooperation' (trepartssamarbeidet) in Norwegian working life?",
+    "options": [
+      "The Storting, the courts, and the government.",
+      "The teachers, the students, and the parents.",
+      "The employers, the employees, and the State."
+    ],
+    "correctIndex": 2,
+    "explanation": "Through cooperation and negotiations between these three parties (e.g., NHO, LO, and the government), peace and security are created in the Norwegian labor market."
+  },
+  {
+    "number": 316,
+    "question": "Which country does Norway share its longest border with?",
+    "options": [
+      "Russia",
+      "Sweden",
+      "Finland"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway shares its absolute longest land border with Sweden in the east."
+  },
+  {
+    "number": 317,
+    "question": "What are the indigenous people of Norway called?",
+    "options": [
+      "The Sami",
+      "The Kven people",
+      "Forest Finns"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Sami hold the status of indigenous people (urfolk) in Norway."
+  },
+  {
+    "number": 318,
+    "question": "Who has the main responsibility for running upper secondary schools and county roads?",
+    "options": [
+      "The State",
+      "The County Municipality (Fylkeskommunen)",
+      "The Municipality"
+    ],
+    "correctIndex": 1,
+    "explanation": "The county municipality is responsible for large regional tasks, such as upper secondary schools, the dental health service, and county roads."
+  },
+  {
+    "number": 319,
+    "question": "Do you have the right to an interpreter when meeting the Norwegian healthcare system if you do not understand Norwegian?",
+    "options": [
+      "Yes, it is a free right.",
+      "Yes, but you have to pay the interpreter yourself.",
+      "No, it is not offered."
+    ],
+    "correctIndex": 0,
+    "explanation": "If you need it, you have the right to a free interpreter to understand the information you receive in the healthcare system."
+  },
+  {
+    "number": 320,
+    "question": "How much does it cost to go to the GP for children under 16?",
+    "options": [
+      "The normal deductible.",
+      "Half price.",
+      "It is completely free."
+    ],
+    "correctIndex": 2,
+    "explanation": "Children under 16 do not have to pay a deductible at the doctor. It is completely free."
+  },
+  {
+    "number": 321,
+    "question": "Who normally has to pay for dental treatment in Norway?",
+    "options": [
+      "The state pays for everyone.",
+      "Adults over 26 usually pay for everything themselves.",
+      "The dentist works for free."
+    ],
+    "correctIndex": 1,
+    "explanation": "For adults over 26, the public sector normally covers nothing of the dental bill."
+  },
+  {
+    "number": 322,
+    "question": "Which organization is the largest main organization for employees in Norway?",
+    "options": [
+      "The Norwegian Confederation of Trade Unions (LO)",
+      "The Confederation of Norwegian Enterprise (NHO)",
+      "NAV"
+    ],
+    "correctIndex": 0,
+    "explanation": "LO is by far the largest umbrella organization for trade unions and employees in Norway."
+  },
+  {
+    "number": 323,
+    "question": "Which organization is the largest for employers in Norway?",
+    "options": [
+      "The Norwegian Labour Inspection Authority",
+      "LO",
+      "The Confederation of Norwegian Enterprise (NHO)"
+    ],
+    "correctIndex": 2,
+    "explanation": "NHO represents employers in negotiations on collective agreements with employees."
+  },
+  {
+    "number": 324,
+    "question": "Which law regulates the working environment and ensures safe employment conditions in Norway?",
+    "options": [
+      "The National Insurance Act",
+      "The Working Environment Act (Arbeidsmiljøloven)",
+      "The Constitution"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Working Environment Act is designed to ensure a safe working environment and fair conditions for all employees."
+  },
+  {
+    "number": 325,
+    "question": "How long is it common and legal to have as a maximum probationary period in a new job?",
+    "options": [
+      "3 months",
+      "4 months",
+      "6 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "A probationary period can be agreed upon in writing, but it can last a maximum of 6 months."
+  },
+  {
+    "number": 326,
+    "question": "How many holiday days are all employees entitled to at a minimum according to the Norwegian Holidays Act?",
+    "options": [
+      "14 days",
+      "25 working days (4 weeks and 1 day)",
+      "30 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Holidays Act gives everyone the right to 25 working days (Saturdays count as working days). Many have 5 weeks through collective agreements."
+  },
+  {
+    "number": 327,
+    "question": "Which state agency is responsible for providing loans and grants to students?",
+    "options": [
+      "NAV",
+      "The Tax Administration",
+      "Lånekassen (The State Educational Loan Fund)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lånekassen provides financial support for education in the form of loans and grants."
+  },
+  {
+    "number": 328,
+    "question": "For how long do parents normally receive child benefit (barnetrygd) for a child in Norway?",
+    "options": [
+      "Until the child starts school.",
+      "Until the child turns 18.",
+      "Until the child moves away from home."
+    ],
+    "correctIndex": 1,
+    "explanation": "Child benefit is a monthly payment that parents receive from the state until the child turns 18."
+  },
+  {
+    "number": 329,
+    "question": "Who can receive cash benefit (kontantstøtte) from the state?",
+    "options": [
+      "Elderly people living in nursing homes.",
+      "Parents with children between 1 and 2 years old who do not attend full-time kindergarten.",
+      "Students renting a home."
+    ],
+    "correctIndex": 1,
+    "explanation": "Cash benefit is given to parents for children aged 1 to 2 who do not fully utilize a publicly subsidized kindergarten place."
+  },
+  {
+    "number": 330,
+    "question": "What is the lump-sum maternity grant (engangsstønad)?",
+    "options": [
+      "A sum of money paid to mothers who have not earned the right to parental benefit.",
+      "A prize for anyone having twins.",
+      "A gift card for baby equipment from the municipality."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mothers who have not been employed and lack the right to parental benefit receive a lump-sum payment from NAV instead."
+  },
+  {
+    "number": 331,
+    "question": "What is the purpose of parental benefit (foreldrepenger)?",
+    "options": [
+      "To pay for the kindergarten spot.",
+      "To replace your income when you are at home with a small child during the first year.",
+      "To cover expenses for confirmation."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parental benefit ensures that parents retain an income while they are on parental leave after birth or adoption."
+  },
+  {
+    "number": 332,
+    "question": "How many days can you usually be away from work with a self-certification of sickness (egenmelding) at a time (without the company having an extended arrangement)?",
+    "options": [
+      "Up to 3 days",
+      "Up to 5 days",
+      "Up to 10 days"
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the National Insurance Act, a self-certification can be used for up to 3 calendar days at a time."
+  },
+  {
+    "number": 333,
+    "question": "What must you have from a doctor if you are sick longer than the self-certification days?",
+    "options": [
+      "A new employment contract.",
+      "A sick note (sykemelding).",
+      "A resignation."
+    ],
+    "correctIndex": 1,
+    "explanation": "When the self-certification days are used up, a sick note from a doctor is required to be entitled to sick pay."
+  },
+  {
+    "number": 334,
+    "question": "What is the National Insurance Scheme (Folketrygden)?",
+    "options": [
+      "A state insurance system providing financial support in the event of, for example, illness, disability, and old age.",
+      "A private insurance company for cars.",
+      "A bank for the state."
+    ],
+    "correctIndex": 0,
+    "explanation": "The National Insurance Scheme is the backbone of the Norwegian welfare system and ensures income and healthcare for all residents."
+  },
+  {
+    "number": 335,
+    "question": "What percentage of equity (egenkapital) is usually required that you have saved yourself to get a mortgage in the bank?",
+    "options": [
+      "5%",
+      "15%",
+      "30%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norwegian authorities normally require home buyers to provide a minimum of 15% equity."
+  },
+  {
+    "number": 336,
+    "question": "What does the abbreviation BSU stand for?",
+    "options": [
+      "Housing security for the disabled",
+      "Housing savings for youth (Boligsparing for ungdom)",
+      "The bank's savings offer for foreigners"
+    ],
+    "correctIndex": 1,
+    "explanation": "BSU is a savings scheme that gives young people tax benefits and good interest rates when they save for their first home."
+  },
+  {
+    "number": 337,
+    "question": "What is a deposit when renting a home?",
+    "options": [
+      "The first rent payment.",
+      "A fee to the state for renting a home.",
+      "A security for the landlord, usually 3 months' rent placed in a blocked bank account."
+    ],
+    "correctIndex": 2,
+    "explanation": "The deposit is security against non-payment of rent or damage to the home."
+  },
+  {
+    "number": 338,
+    "question": "How long is the standard notice period according to the Tenancy Act if nothing else is agreed?",
+    "options": [
+      "1 month",
+      "3 months",
+      "6 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unless otherwise written in the contract, the statutory notice period for rental housing is 3 months."
+  },
+  {
+    "number": 339,
+    "question": "Is it mandatory to have a written rental contract?",
+    "options": [
+      "Yes, if one of the parties demands it.",
+      "No, it is illegal.",
+      "Only for rentals over 10 years."
+    ],
+    "correctIndex": 0,
+    "explanation": "The law states that the tenancy agreement must be made in writing if one of the parties demands it. It is always recommended to have it in writing."
+  },
+  {
+    "number": 340,
+    "question": "What does home contents insurance (innboforsikring) cover?",
+    "options": [
+      "Health expenses related to illness.",
+      "Your belongings inside the home (furniture, clothes, electronics) in the event of fire, theft, or water damage.",
+      "Only the building itself and the walls."
+    ],
+    "correctIndex": 1,
+    "explanation": "Home contents insurance covers all the loose items you have in your home."
+  },
+  {
+    "number": 341,
+    "question": "Which car insurance is mandatory by law in Norway if you own a vehicle with license plates?",
+    "options": [
+      "Liability insurance (Ansvarsforsikring)",
+      "Comprehensive insurance (Kaskoforsikring)",
+      "Travel insurance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Liability insurance is mandatory and covers damage your car causes to other people or other people's property."
+  },
+  {
+    "number": 342,
+    "question": "How long is your right of withdrawal (angrerett) when you buy an item online from a Norwegian store?",
+    "options": [
+      "7 days",
+      "14 days",
+      "30 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "For distance sales (like online shopping), the Right of Withdrawal Act gives you the right to cancel the purchase within 14 days."
+  },
+  {
+    "number": 343,
+    "question": "Which organization can help you for free if you have a conflict with a seller regarding an item you purchased?",
+    "options": [
+      "The Tax Administration",
+      "The Police",
+      "The Consumer Council (Forbrukerrådet)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Consumer Council advises consumers on their rights and assists with dispute resolution."
+  },
+  {
+    "number": 344,
+    "question": "How many years of right to complain (reklamasjonsrett) do you have on goods that are meant to last a long time (for example, a TV or washing machine)?",
+    "options": [
+      "1 year",
+      "2 years",
+      "5 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "According to the Consumer Purchases Act, you have a 5-year right to complain about products intended to last significantly longer than 2 years."
+  },
+  {
+    "number": 345,
+    "question": "What does your tax return (skattemelding) show?",
+    "options": [
+      "An overview of your income, your deductions, and the tax you paid over the past year.",
+      "A bill for the use of police services.",
+      "A confirmation that you are a Norwegian citizen."
+    ],
+    "correctIndex": 0,
+    "explanation": "The tax return is sent out every year by the Tax Administration to verify that you have paid the correct amount of tax."
+  },
+  {
+    "number": 346,
+    "question": "What is the exemption card limit (frikortgrensen)?",
+    "options": [
+      "The age limit for paying taxes.",
+      "The amount you can earn during a year before you have to start paying income tax.",
+      "The limit on how many hours you can work."
+    ],
+    "correctIndex": 1,
+    "explanation": "The exemption card limit is an annually set tax-free amount. If you earn below this, you do not have to pay tax on the income."
+  },
+  {
+    "number": 347,
+    "question": "What does gross salary (brutto lønn) mean?",
+    "options": [
+      "Salary before tax is deducted.",
+      "Salary after tax is deducted.",
+      "The same as holiday pay."
+    ],
+    "correctIndex": 0,
+    "explanation": "Gross salary is the amount you have earned before tax deductions and other deductions have been made."
+  },
+  {
+    "number": 348,
+    "question": "What does net salary (netto lønn) mean?",
+    "options": [
+      "The salary you receive after tax has been deducted (what you get in your account).",
+      "What you pay in tax.",
+      "The salary you have before tax."
+    ],
+    "correctIndex": 0,
+    "explanation": "Net salary is the money actually paid into your bank account after tax has been deducted."
+  },
+  {
+    "number": 349,
+    "question": "What is holiday pay (feriepenger)?",
+    "options": [
+      "Money you earned last year, which the employer pays out instead of salary when you take a holiday this year.",
+      "Extra money you get from the state to travel abroad.",
+      "The tax you get back."
+    ],
+    "correctIndex": 0,
+    "explanation": "When you take a holiday, you do not get a regular salary, but instead holiday pay earned the year before (often 10.2% of income)."
+  },
+  {
+    "number": 350,
+    "question": "Who is considered in history to be the first king to unite Norway into one kingdom (around the year 872)?",
+    "options": [
+      "Olav the Holy",
+      "Harald Fairhair (Harald Hårfagre)",
+      "King Haakon VII"
+    ],
+    "correctIndex": 1,
+    "explanation": "According to the sagas, Harald Fairhair was the king who first united Norway into one kingdom after the battle of Hafrsfjord."
+  },
+  {
+    "number": 351,
+    "question": "During which historical period did the Viking Age last?",
+    "options": [
+      "Approx. 800 to 1050",
+      "Approx. 1200 to 1400",
+      "Approx. 1814 to 1905"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Viking Age is considered to be from the attack on Lindisfarne in 793 to the battle of Stiklestad/Stamford Bridge in the mid-1000s."
+  },
+  {
+    "number": 352,
+    "question": "What major disaster struck Norway in 1349 and killed almost half the population?",
+    "options": [
+      "World War I",
+      "A great fire",
+      "The Black Death (the plague)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Black Death was a massive plague epidemic that hit Norway hard and led to the country being severely weakened."
+  },
+  {
+    "number": 353,
+    "question": "Which country was Norway in a union with and ruled by for over 400 years (often called the '400-year night')?",
+    "options": [
+      "Denmark",
+      "Sweden",
+      "Great Britain"
+    ],
+    "correctIndex": 0,
+    "explanation": "From 1380 until 1814, Norway was under Danish rule, with the capital in Copenhagen."
+  },
+  {
+    "number": 354,
+    "question": "What historically important event happened at Eidsvoll in the spring of 1814?",
+    "options": [
+      "Norway found oil.",
+      "Norway got its own Constitution.",
+      "The Black Death started."
+    ],
+    "correctIndex": 1,
+    "explanation": "112 men of Eidsvoll gathered and adopted Norway's Constitution, which we celebrate today on May 17th."
+  },
+  {
+    "number": 355,
+    "question": "In what year was the personal union between Norway and Sweden dissolved?",
+    "options": [
+      "1814",
+      "1884",
+      "1905"
+    ],
+    "correctIndex": 2,
+    "explanation": "On June 7, 1905, the Storting broke the union with Sweden, and Norway became a completely independent nation."
+  },
+  {
+    "number": 356,
+    "question": "Did Norway participate with military forces in World War I (1914-1918)?",
+    "options": [
+      "No, Norway declared itself neutral.",
+      "Yes, on Germany's side.",
+      "Yes, on Great Britain's side."
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway was neutral during World War I and did not fight, but lost many sailors in attacks on its merchant fleet."
+  },
+  {
+    "number": 357,
+    "question": "Which country occupied Norway during World War II (from April 9, 1940)?",
+    "options": [
+      "The Soviet Union",
+      "Germany",
+      "Sweden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nazi Germany attacked and occupied Norway for five years until liberation in May 1945."
+  },
+  {
+    "number": 358,
+    "question": "What did Norway find in the North Sea at the end of the 1960s that changed the country to become one of the richest in the world?",
+    "options": [
+      "Gold",
+      "Coal",
+      "Oil"
+    ],
+    "correctIndex": 2,
+    "explanation": "The oil discoveries at the Ekofisk field in 1969 started the Norwegian oil adventure that created the foundation for today's welfare state."
+  },
+  {
+    "number": 359,
+    "question": "What is the EEA Agreement (EØS-avtalen)?",
+    "options": [
+      "An agreement that makes Norway part of the EU's internal market (free movement of goods, services, capital, and persons).",
+      "An agreement on fishing in Northern Norway.",
+      "A military defense agreement."
+    ],
+    "correctIndex": 0,
+    "explanation": "Through the EEA Agreement, Norway is closely linked to the economic market in Europe, even without being a member of the EU."
+  },
+  {
+    "number": 360,
+    "question": "Is Norway a member of the EU (European Union)?",
+    "options": [
+      "Yes, since 1994.",
+      "No, the people have voted no in two referendums.",
+      "Norway is a member but does not use the Euro."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway is not a member of the EU, after the majority of the population voted no in both 1972 and 1994."
+  },
+  {
+    "number": 361,
+    "question": "Is Norway a member of the UN (United Nations)?",
+    "options": [
+      "Yes, Norway helped establish the UN in 1945.",
+      "No, Norway is not in international organizations.",
+      "Yes, Norway became a member in 2010."
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway was one of the founding countries of the United Nations (UN) when the organization was established after World War II."
+  },
+  {
+    "number": 362,
+    "question": "Is Norway a member of the military defense alliance NATO?",
+    "options": [
+      "Yes, Norway was one of the founding countries of NATO.",
+      "No, Norway is militarily neutral.",
+      "Norway is only a supporting member."
+    ],
+    "correctIndex": 0,
+    "explanation": "Following the experiences from World War II, Norway helped found NATO in 1949."
+  },
+  {
+    "number": 363,
+    "question": "Who was the very first Secretary-General of the UN?",
+    "options": [
+      "Jens Stoltenberg",
+      "Trygve Lie",
+      "Kofi Annan"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Norwegian Trygve Lie was elected as history's first Secretary-General of the UN in 1946."
+  },
+  {
+    "number": 364,
+    "question": "Who became Norway's first female Prime Minister in 1981?",
+    "options": [
+      "Erna Solberg",
+      "Siv Jensen",
+      "Gro Harlem Brundtland"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gro Harlem Brundtland broke barriers when she became the country's first female prime minister, often referred to as the 'mother of the nation'."
+  },
+  {
+    "number": 365,
+    "question": "In what year was the Sami Parliament officially opened?",
+    "options": [
+      "1814",
+      "1989",
+      "2005"
+    ],
+    "correctIndex": 1,
+    "explanation": "King Olav V formally opened the Sami Parliament in 1989 to ensure the Sami's right to political participation."
+  },
+  {
+    "number": 366,
+    "question": "What does it mean that Norway is a 'constitutional monarchy'?",
+    "options": [
+      "That the king is the head of state, but his power is limited by the constitution.",
+      "That the king decides the laws.",
+      "That we have a president."
+    ],
+    "correctIndex": 0,
+    "explanation": "The king has no real political power in Norway today; his duties are mainly representative and ceremonial."
+  },
+  {
+    "number": 367,
+    "question": "What is the purpose of the 'principle of separation of powers' on which the Constitution is based?",
+    "options": [
+      "To give all power to the courts.",
+      "To divide state power among three independent bodies to prevent abuse of power.",
+      "To share power equally between men and women."
+    ],
+    "correctIndex": 1,
+    "explanation": "To ensure democracy, power was divided between the Storting, the Government, and the Courts, so they can check each other."
+  },
+  {
+    "number": 368,
+    "question": "Which body in Norway holds the legislative, appropriating, and controlling power?",
+    "options": [
+      "The Storting",
+      "The Government",
+      "The King"
+    ],
+    "correctIndex": 0,
+    "explanation": "Only the elected Storting can pass new laws and determine the national budget (taxes and fees)."
+  },
+  {
+    "number": 369,
+    "question": "Which body in Norway holds the executive power?",
+    "options": [
+      "The Supreme Court",
+      "The Government",
+      "The Armed Forces"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Government, led by the Prime Minister, implements (executes) what the Storting has decided."
+  },
+  {
+    "number": 370,
+    "question": "Which body in Norway constitutes the judicial power?",
+    "options": [
+      "The Storting",
+      "The Police",
+      "The Courts (with the Supreme Court at the top)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The courts are to independently and impartially judge according to the laws passed by the Storting."
+  },
+  {
+    "number": 371,
+    "question": "What does 'parliamentarism' mean in practice in Norway?",
+    "options": [
+      "That all decisions are made by referendum.",
+      "That the government must have the support, or at least be accepted by, the majority in the Storting to rule.",
+      "That only those with the highest education are allowed to vote."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parliamentarism allows the Storting to overthrow the government if they disagree with how the country is governed."
+  },
+  {
+    "number": 372,
+    "question": "What does freedom of speech entail in Norway?",
+    "options": [
+      "That one can freely say, write, and express what one means, as long as it does not break the law (e.g., hate speech or threats).",
+      "That one can say bad things without any consequences.",
+      "That only journalists are allowed to criticize the government."
+    ],
+    "correctIndex": 0,
+    "explanation": "Freedom of speech is protected in the Constitution and applies to everyone, but has limits to protect against racism and serious threats."
+  },
+  {
+    "number": 373,
+    "question": "What does freedom of religion mean in practice in Norway?",
+    "options": [
+      "One must choose one of the Christian religions.",
+      "All inhabitants have the right to freely choose their own religion, and the right to not belong to any religion.",
+      "Only the state decides which religion one should have."
+    ],
+    "correctIndex": 1,
+    "explanation": "Freedom of religion is a fundamental human right that protects the right to believe, practice religion, and change religion."
+  },
+  {
+    "number": 374,
+    "question": "What is strictly prohibited according to Norwegian anti-discrimination legislation?",
+    "options": [
+      "Hiring people with good education.",
+      "Criticizing political parties.",
+      "To unfairly treat someone differently due to ethnicity, religion, disability, gender, or sexual orientation."
+    ],
+    "correctIndex": 2,
+    "explanation": "Discrimination means being treated worse than others on an unfair basis, and the law protects against this."
+  },
+  {
+    "number": 375,
+    "question": "Which special ombudsman in Norway is tasked with promoting and protecting the interests of children in society?",
+    "options": [
+      "The Ombudsman for Children (Barneombudet)",
+      "The Patient Ombudsman",
+      "The Consumer Ombudsman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway was the first country in the world to establish its own Ombudsman for Children (in 1981) to safeguard children's rights."
+  },
+  {
+    "number": 376,
+    "question": "What is the most important task of the child welfare service (barnevernet) in Norway?",
+    "options": [
+      "To punish parents who make mistakes.",
+      "To ensure that children and young people living under harmful or poor conditions receive necessary help and care in due time.",
+      "To pay for the children's leisure activities."
+    ],
+    "correctIndex": 1,
+    "explanation": "The child welfare service's primary task is to support families (e.g. through counseling), and in serious cases, protect the child."
+  },
+  {
+    "number": 377,
+    "question": "Which international agreement is incorporated into Norwegian law and takes precedence over other Norwegian laws in matters concerning children?",
+    "options": [
+      "The Climate Convention",
+      "The UN Convention on the Rights of the Child",
+      "The Schengen Agreement"
+    ],
+    "correctIndex": 1,
+    "explanation": "The UN Convention on the Rights of the Child was incorporated into Norwegian law in 2003, and states that 'the best interests of the child' must always be the primary consideration."
+  },
+  {
+    "number": 378,
+    "question": "What is the primary task of the Equality and Anti-Discrimination Ombudsman (LDO)?",
+    "options": [
+      "To promote genuine equality and fight against discrimination in Norwegian society.",
+      "To control the salary of all Norwegians.",
+      "To issue passports to immigrants."
+    ],
+    "correctIndex": 0,
+    "explanation": "LDO is an independent body that anyone can contact for free if they feel unfairly treated or discriminated against."
+  },
+  {
+    "number": 379,
+    "question": "Which public agency is responsible for checking that companies follow the requirements in the Working Environment Act?",
+    "options": [
+      "The Police",
+      "The Trade Unions",
+      "The Norwegian Labour Inspection Authority (Arbeidstilsynet)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Labour Inspection Authority can make unannounced visits (inspections) to ensure that the workplace is safe and legal."
+  },
+  {
+    "number": 380,
+    "question": "Which public agency manages unemployment benefits, sick pay, child benefits, and pensions?",
+    "options": [
+      "NAV (The Norwegian Labour and Welfare Administration)",
+      "The Ministry of Finance",
+      "Lånekassen"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAV constitutes the safety net of the welfare state and handles support schemes for those who need financial help or assistance in finding work."
+  },
+  {
+    "number": 381,
+    "question": "Which public agency is responsible for ensuring that all residents and businesses pay the correct amount of tax and duties?",
+    "options": [
+      "The Customs Agency",
+      "The Norwegian Tax Administration (Skatteetaten)",
+      "Norges Bank"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Tax Administration issues tax deduction cards and processes the annual tax returns for the entire population."
+  },
+  {
+    "number": 382,
+    "question": "Which authority is the first instance to process applications for residence permits, asylum, visas, and citizenship?",
+    "options": [
+      "UDI (The Norwegian Directorate of Immigration)",
+      "The Storting",
+      "The Municipal Administration"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Directorate of Immigration (UDI) is the central agency that handles all types of immigration cases."
+  },
+  {
+    "number": 383,
+    "question": "If UDI rejects (says no to) your application for a residence permit, who normally processes your appeal regarding the rejection?",
+    "options": [
+      "The King",
+      "The Immigration Appeals Board (UNE)",
+      "The Police Immigration Unit"
+    ],
+    "correctIndex": 1,
+    "explanation": "UNE is an independent, court-like body that processes appeals against decisions made by UDI."
+  },
+  {
+    "number": 384,
+    "question": "What is the purpose of the 'introduction program' (introduksjonsprogrammet)?",
+    "options": [
+      "To give newly arrived refugees basic skills in Norwegian, social studies, and prepare them for work or education.",
+      "To teach Norwegians about foreign countries.",
+      "A computer program for paying bills."
+    ],
+    "correctIndex": 0,
+    "explanation": "Municipalities are responsible for offering this program to newly arrived refugees and their families to ensure good integration."
+  },
+  {
+    "number": 385,
+    "question": "Do all immigrants coming to Norway have the right to free Norwegian language training?",
+    "options": [
+      "Yes, that applies to absolutely everyone regardless of the reason.",
+      "No, no one gets free Norwegian language training.",
+      "It depends on what type of residence permit one has (e.g., asylum or labor migration)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Labor immigrants, for example from the EEA, normally have to pay for Norwegian language training themselves, while refugees often have the right to free lessons."
+  },
+  {
+    "number": 386,
+    "question": "What is one of the requirements the state sets before you can be granted Norwegian citizenship?",
+    "options": [
+      "You must buy a home in Norway.",
+      "You must document Norwegian language skills and pass the social studies test or the citizenship test.",
+      "You must be married to a Norwegian."
+    ],
+    "correctIndex": 1,
+    "explanation": "To become a citizen, you must show that you know the language to a certain level and have basic knowledge about Norwegian society."
+  },
+  {
+    "number": 387,
+    "question": "Is it legal to hold dual citizenship in Norway (for example, being both a Norwegian and Swedish citizen at the same time)?",
+    "options": [
+      "No, you must always renounce your previous citizenship.",
+      "Yes, the Storting allowed dual citizenship from January 1, 2020.",
+      "Only if you are under 18 years old."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway changed the law in 2020, so you are now allowed to keep your original citizenship when you become Norwegian, and vice versa."
+  },
+  {
+    "number": 388,
+    "question": "What does 'the right to roam' (allemannsretten) give you the right to do?",
+    "options": [
+      "To travel freely on foot and on skis in uncultivated land (forests and mountains), and pick berries, mushrooms, and common flowers.",
+      "To drive a car everywhere in nature.",
+      "To build a house anywhere in the forest."
+    ],
+    "correctIndex": 0,
+    "explanation": "The right to roam ensures that nature is a common good, but it requires that we clean up after ourselves and show consideration for animals and people."
+  },
+  {
+    "number": 389,
+    "question": "When is the mandatory 'general leash law' (båndtvang) for dogs in all of Norway to protect wildlife?",
+    "options": [
+      "Only in the winter.",
+      "From April 1 to August 20.",
+      "All year, everywhere."
+    ],
+    "correctIndex": 1,
+    "explanation": "During this period, wildlife and animals in nature are particularly vulnerable (for example, because they have young offspring), and dog owners must keep their dogs on a leash."
+  },
+  {
+    "number": 390,
+    "question": "What is the general speed limit for cars in built-up areas (residential areas and cities) if no speed sign is posted?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Traffic rules state that if you are in a built-up area and there are no signs, the maximum speed is 50 km/h."
+  },
+  {
+    "number": 391,
+    "question": "Is it mandatory to wear a seat belt if you are riding a large public bus in Norway?",
+    "options": [
+      "No, it only applies to passenger cars.",
+      "Yes, if the bus is equipped with seat belts, passengers are required by law to use them.",
+      "Only if you sit right at the front of the bus."
+    ],
+    "correctIndex": 1,
+    "explanation": "For safety reasons, the Road Traffic Act requires you to always fasten your seat belt in all vehicles where it is installed."
+  },
+  {
+    "number": 392,
+    "question": "What is the legal limit for blood alcohol concentration (promille) when driving a car in Norway?",
+    "options": [
+      "0.2 per mille",
+      "0.5 per mille",
+      "0.8 per mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway has very strict rules for drunk driving. If you have 0.2 per mille or more, it is illegal to drive a motor vehicle."
+  },
+  {
+    "number": 393,
+    "question": "Why is it strongly recommended to use a small plastic tag called a 'reflector' (refleks) when walking outdoors in the winter?",
+    "options": [
+      "To warm up your hands.",
+      "To become visible to drivers during the dark time of the year, which saves many lives in traffic.",
+      "To show that you support the national team."
+    ],
+    "correctIndex": 1,
+    "explanation": "Without a reflector, you are almost invisible in the dark, but with a reflector, a driver can see you from a good distance."
+  },
+  {
+    "number": 394,
+    "question": "What does the Norwegian expression 'dugnad' mean?",
+    "options": [
+      "Joint, voluntary, and unpaid work to solve tasks in a local community, housing cooperative, or sports club.",
+      "A celebration where everyone brings food.",
+      "Paying your neighbor to wash your house."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dugnad is a strong tradition in Norway, where the community gathers to clean, build, or fix things together without getting paid."
+  },
+  {
+    "number": 395,
+    "question": "Do you get a salary (money) for performing 'voluntary work' (for example, in the Red Cross)?",
+    "options": [
+      "Yes, you get minimum wage.",
+      "No, voluntary work is defined as unpaid effort for a good cause.",
+      "Yes, the state pays."
+    ],
+    "correctIndex": 1,
+    "explanation": "Voluntary work means that you use your own free time without payment to help other people or organizations."
+  },
+  {
+    "number": 396,
+    "question": "Do cohabitants (two people living together without being married) automatically inherit from each other in Norway?",
+    "options": [
+      "Yes, after 2 years the same rules apply as for marriage.",
+      "No, basically cohabitants have no right of inheritance. They must write a will to secure each other.",
+      "Yes, if they rent an apartment together."
+    ],
+    "correctIndex": 1,
+    "explanation": "Cohabitants are legally and financially much weaker than spouses if one of them dies, unless they have drawn up a will."
+  },
+  {
+    "number": 397,
+    "question": "Can gay and lesbian (same-sex) couples get married in the Church of Norway?",
+    "options": [
+      "Yes, the Church Council decided in 2016 that same-sex couples can also marry in the church.",
+      "No, they can only marry civilly (at the city hall).",
+      "Yes, but only if they adopt a child first."
+    ],
+    "correctIndex": 0,
+    "explanation": "Both the Norwegian Marriage Act (2009) and the Church of Norway allow same-sex marriage."
+  },
+  {
+    "number": 398,
+    "question": "How long must a married couple normally be formally separated before they have the right to get divorced?",
+    "options": [
+      "1 month",
+      "6 months",
+      "1 year"
+    ],
+    "correctIndex": 2,
+    "explanation": "The main rule is that the County Governor (Statsforvalteren) can grant a divorce after the spouses have lived apart with a separation license for at least one year."
+  },
+  {
+    "number": 399,
+    "question": "What is mandatory by law for parents with common children under 16 who wish to separate or divorce?",
+    "options": [
+      "They must go to couples therapy to try to get back together.",
+      "They must attend a one-hour mediation at the family counseling office to make an agreement about the children.",
+      "They must ask the children who they want to live with in a court of law."
+    ],
+    "correctIndex": 1,
+    "explanation": "Mediation is intended to help parents cooperate and enter into a written agreement on parental responsibility, visitation, and where the children will live permanently."
+  },
+  {
+    "number": 400,
+    "question": "What is a 'GP' (fastlege)?",
+    "options": [
+      "A general practitioner in the municipality who has the main responsibility for providing healthcare to the patients on their list.",
+      "A doctor who operates at the hospital.",
+      "A doctor who works abroad."
+    ],
+    "correctIndex": 0,
+    "explanation": "Through the regular GP scheme, all inhabitants in Norway have the right to have a specific doctor to relate to for common illnesses."
+  },
+  {
+    "number": 401,
+    "question": "What is the function of an exemption card (frikort) for health services in Norway?",
+    "options": [
+      "It gives you free bus rides to the hospital.",
+      "It means you do not have to pay deductibles for public health services for the rest of the year after reaching a maximum amount.",
+      "It lets you skip the queue at the emergency room."
+    ],
+    "correctIndex": 1,
+    "explanation": "The exemption card scheme ensures that people with a great need for healthcare do not get too high expenses during a calendar year."
+  },
+  {
+    "number": 402,
+    "question": "What is the amount you pay yourself when you visit the GP or receive physiotherapy called?",
+    "options": [
+      "Tax",
+      "Health fee",
+      "Deductible (egenandel)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The state pays the majority of the costs for your doctor's appointment, but you usually have to pay a small deductible."
+  },
+  {
+    "number": 403,
+    "question": "What is a prescription (resept)?",
+    "options": [
+      "A written (or electronic) order from a doctor that gives the pharmacy permission to give you specific medicines.",
+      "The receipt you get when you have been to the dentist.",
+      "An instruction on how to eat healthy."
+    ],
+    "correctIndex": 0,
+    "explanation": "Many strong medicines require a prescription in Norway to prevent misuse, and can only be dispensed at the pharmacy if a doctor has decided it."
+  },
+  {
+    "number": 404,
+    "question": "Where is the only place in Norway you can legally pick up prescription medicines (such as antibiotics)?",
+    "options": [
+      "At the grocery store.",
+      "At the pharmacy.",
+      "At the gas station."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pharmacies in Norway have the exclusive right and professional responsibility to dispense and provide information about prescription medicines."
+  },
+  {
+    "number": 405,
+    "question": "When is it appropriate to contact the emergency room / out-of-hours medical service (legevakten) at 116 117?",
+    "options": [
+      "When you need to renew a prescription for allergy medicine.",
+      "When you need acute medical help and your GP is closed (evening, night, weekend).",
+      "When your life is in danger."
+    ],
+    "correctIndex": 1,
+    "explanation": "The emergency room is for acute situations that cannot wait until the next day. If life is in danger, you must call an ambulance (113)."
+  },
+  {
+    "number": 406,
+    "question": "Which phone number do you call to report a fire?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emergency number 110 puts you directly in contact with the nearest fire control center."
+  },
+  {
+    "number": 407,
+    "question": "Which phone number do you call to get immediate help from the police for, for example, ongoing violence, robbery, or dangerous accidents?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emergency number 112 is the police operations center for emergency situations where life and health are at stake."
+  },
+  {
+    "number": 408,
+    "question": "Which phone number do you call to get an ambulance for acute and serious illness or an accident (life-threatening)?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 2,
+    "explanation": "Emergency number 113 connects you to the acute medical communication center, which guides you and dispatches an ambulance."
+  },
+  {
+    "number": 409,
+    "question": "What does the law on duty of confidentiality (taushetsplikt) for doctors, nurses, and pharmacy staff entail?",
+    "options": [
+      "That they cannot share your personal health information with unauthorized persons, not even your family, without your consent.",
+      "That they cannot talk during operations.",
+      "That the patient is not allowed to ask the doctor questions."
+    ],
+    "correctIndex": 0,
+    "explanation": "The duty of confidentiality is strict and exists so that patients will feel safe sharing everything with healthcare professionals."
+  },
+  {
+    "number": 410,
+    "question": "Can you smoke tobacco inside a public library or a restaurant in Norway?",
+    "options": [
+      "Yes, if you open the window.",
+      "No, the smoking law prohibits smoking in premises where the public has access, including restaurants.",
+      "Yes, in the evening."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway has strict rules for smoking (the smoking act) to protect people and employees from passive smoking."
+  },
+  {
+    "number": 411,
+    "question": "What is the age limit in Norway to buy beer and wine in a store or restaurant?",
+    "options": [
+      "16 years",
+      "18 years",
+      "20 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "The age limit for alcohol up to 22 percent by volume (like beer and wine) is 18 years. For spirits, the limit is 20 years."
+  },
+  {
+    "number": 412,
+    "question": "Which Norwegian store has an exclusive right and monopoly to sell alcoholic beverages stronger than 4.7% (like wine and spirits)?",
+    "options": [
+      "Tax-free",
+      "The pharmacy",
+      "Vinmonopolet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vinmonopolet is owned by the state and is the only place in Norway where you can legally buy wine and spirits for home use."
+  },
+  {
+    "number": 413,
+    "question": "Is it mandatory (required) for parents to send their children to kindergarten in Norway?",
+    "options": [
+      "No, kindergarten is a voluntary offer.",
+      "Yes, all children must go to kindergarten from age 1.",
+      "Yes, for children of immigrants."
+    ],
+    "correctIndex": 0,
+    "explanation": "Kindergarten is a voluntary, educational offer, even though the vast majority of children in Norway attend before starting school."
+  },
+  {
+    "number": 414,
+    "question": "For how many years of primary and lower secondary school is there a mandatory (statutory) duty of education in Norway?",
+    "options": [
+      "7 years (only primary school)",
+      "10 years (primary and lower secondary school)",
+      "13 years (up to and including upper secondary)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The law states that all children have a right and a duty to ten years of primary and lower secondary education."
+  },
+  {
+    "number": 415,
+    "question": "What does 'youth right' (ungdomsrett) mean in the education system?",
+    "options": [
+      "That all youth have a statutory right to at least 3 years of upper secondary education after completing lower secondary school.",
+      "That youth can decide the school's rules.",
+      "The right to work and pay taxes from age 13."
+    ],
+    "correctIndex": 0,
+    "explanation": "The youth right ensures that you get into one of the educational programs you have applied for."
+  }
+]

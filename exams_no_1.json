@@ -1,0 +1,4567 @@
+[
+  {
+    "number": 1,
+    "question": "Hvor mye koster en svangerskapskontroll i Norge?",
+    "options": [
+      "1 250 kroner.",
+      "25 % av full pris.",
+      "Det er gratis."
+    ],
+    "correctIndex": 2,
+    "explanation": "I Norge får alle gravide tilbud om gratis svangerskapskontroller hos jordmor og/eller fastlege for å følge med på helsen til mor og barn."
+  },
+  {
+    "number": 2,
+    "question": "Hvilken offentlig tjeneste har ansvar for sykepenger dersom du er syk lenge?",
+    "options": [
+      "NAV",
+      "Politiet",
+      "Folkeregisteret"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAV (Arbeids- og velferdsetaten) har ansvaret for sykepenger, pensjon, barnetrygd og andre økonomiske støtteordninger i velferdsstaten."
+  },
+  {
+    "number": 3,
+    "question": "Hva menes med småskolen?",
+    "options": [
+      "Fjerde til sjette klasse.",
+      "Første til fjerde klasse.",
+      "Syvende til tiende klasse."
+    ],
+    "correctIndex": 1,
+    "explanation": "Grunnskolen i Norge er delt inn i småskolen (1.–4. trinn), mellomtrinnet (5.–7. trinn) og ungdomsskolen (8.–10. trinn)."
+  },
+  {
+    "number": 4,
+    "question": "Det er stortingsvalg hvert 4. år. Kan utenlandske statsborgere stemme?",
+    "options": [
+      "Ja, men kun dersom de har fylt 21 år.",
+      "Nei.",
+      "Ja, hvis de har bodd i Norge i over 5 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å stemme ved stortingsvalg må du være norsk statsborger. Utenlandske statsborgere kan derimot ha stemmerett ved kommune- og fylkestingsvalg hvis de har bodd i Norge lenge nok."
+  },
+  {
+    "number": 5,
+    "question": "Hva er skolefritidsordning (SFO) eller aktivitetsskole (AKS)?",
+    "options": [
+      "Et tilbud om barnepass før og etter skoletid for de yngste barna.",
+      "Et pedagogisk tilbud til alle elever fra 8. til 10. trinn.",
+      "Et obligatorisk fag på videregående skole."
+    ],
+    "correctIndex": 0,
+    "explanation": "SFO/AKS er et frivillig tilbud for barn i småskolen (1.-4. klasse) slik at de har et trygt sted å være mens foreldrene er på jobb før og etter vanlig skoletid."
+  },
+  {
+    "number": 6,
+    "question": "Hvem er formelt statsoverhode i Norge i dag?",
+    "options": [
+      "Statsministeren",
+      "Kongen",
+      "Stortingspresidenten"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge er et konstitusjonelt monarki, som betyr at Kongen er statsoverhode, men hans makt er sterkt begrenset og mest symbolsk. Statsministeren leder regjeringen."
+  },
+  {
+    "number": 7,
+    "question": "Når ble den norske Grunnloven underskrevet på Eidsvoll?",
+    "options": [
+      "1814",
+      "1905",
+      "1945"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grunnloven ble vedtatt på Eidsvoll 17. mai 1814. Dette er grunnen til at 17. mai feires som Norges nasjonaldag."
+  },
+  {
+    "number": 8,
+    "question": "Hva er den generelle myndighetsalderen i Norge?",
+    "options": [
+      "16 år",
+      "18 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Når du fyller 18 år blir du myndig. Da har du rett til å inngå bindende avtaler, stemme ved valg, og du har fullt økonomisk ansvar for deg selv."
+  },
+  {
+    "number": 9,
+    "question": "Omtrent hvor mange mennesker bor det i Norge?",
+    "options": [
+      "Ca. 3,5 millioner",
+      "Ca. 5,5 millioner",
+      "Ca. 8,5 millioner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Det bor i underkant av 5,5 millioner mennesker i Norge, noe som gjør det til et av de tynnest befolkede landene i Europa."
+  },
+  {
+    "number": 10,
+    "question": "Hva er et av hovedmålene til introduksjonsprogrammet?",
+    "options": [
+      "Å gi økonomisk støtte til familier med tre eller flere barn.",
+      "Å forberede deltakerne til arbeid eller utdanning i Norge.",
+      "Å lære deltakerne om norsk vikinghistorie."
+    ],
+    "correctIndex": 1,
+    "explanation": "Introduksjonsprogrammet skal gi grunnleggende ferdigheter i norsk, innsikt i samfunnet og forberede nyankomne flyktninger og innvandrere på å delta i arbeidslivet eller ta utdanning."
+  },
+  {
+    "number": 11,
+    "question": "Hvor mange representanter sitter det på Stortinget?",
+    "options": [
+      "169",
+      "150",
+      "181"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stortinget har 169 representanter som velges for fire år av gangen. Disse representerer landets ulike fylker og partier."
+  },
+  {
+    "number": 12,
+    "question": "Hvilket år var Norge sist i en politisk union med Sverige?",
+    "options": [
+      "1814",
+      "1905",
+      "1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge var i union med Sverige fra 1814 til 1905. Unionen ble oppløst på fredelig vis i 1905."
+  },
+  {
+    "number": 13,
+    "question": "Hva kalles urfolket i Norge?",
+    "options": [
+      "Samer",
+      "Kvenene",
+      "Skogfinner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samene har status som urfolk i Norge. De har sin egen kultur, sitt eget språk og et eget folkevalgt organ, Sametinget."
+  },
+  {
+    "number": 14,
+    "question": "Hva er den normale arbeidstiden per uke for en i 100 % stilling i Norge?",
+    "options": [
+      "35 timer",
+      "37,5 timer",
+      "40 timer"
+    ],
+    "correctIndex": 1,
+    "explanation": "For de fleste arbeidstakere med tariffavtale er den normale arbeidstiden 37,5 timer i uken, ekskludert lunsjpause."
+  },
+  {
+    "number": 15,
+    "question": "Hva er en 'egenandel' i det norske helsevesenet?",
+    "options": [
+      "En fast skatt du betaler for helse.",
+      "En sum du må betale selv når du er hos legen, opp til et visst tak.",
+      "Forsikringen du må kjøpe før du får legehjelp."
+    ],
+    "correctIndex": 1,
+    "explanation": "Staten dekker mesteparten av utgiftene til helse, men man betaler en egenandel hos for eksempel fastlege. Hvis du når et bestemt beløp i løpet av et år, får du frikort."
+  },
+  {
+    "number": 16,
+    "question": "Omtrent hvor stor andel av befolkningen mellom 15 og 74 år er i jobb i Norge?",
+    "options": [
+      "Ca 45%",
+      "Ca 65%",
+      "Ca 85%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge har lav arbeidsledighet. Man regner med at ca 65% av alle mellom 15 og 74 år er i jobb."
+  },
+  {
+    "number": 17,
+    "question": "Hva er den største næringen for arbeidstakere i Norge?",
+    "options": [
+      "Helse- og sosialtjenester",
+      "Varehandel",
+      "Undervisning"
+    ],
+    "correctIndex": 0,
+    "explanation": "De fleste, hele 22 %, jobber i helse- og sosialtjenester, som gjør dette til den største næringen."
+  },
+  {
+    "number": 18,
+    "question": "Hva betyr det å jobbe i offentlig sektor?",
+    "options": [
+      "At man jobber for et internasjonalt selskap.",
+      "At man jobber i staten, fylkeskommunen eller i kommunen.",
+      "At man driver sin egen private bedrift."
+    ],
+    "correctIndex": 1,
+    "explanation": "Offentlig sektor betyr at man jobber i staten, fylkeskommunen eller i kommunen."
+  },
+  {
+    "number": 19,
+    "question": "Er Telenor en del av offentlig eller privat sektor?",
+    "options": [
+      "Offentlig sektor",
+      "Frivillig sektor",
+      "Privat sektor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Selv om staten eier litt over 50 % av aksjene, er Telenor en del av det private næringslivet og privat sektor."
+  },
+  {
+    "number": 20,
+    "question": "Hva er et viktig prinsipp for likestilling i det norske arbeidslivet?",
+    "options": [
+      "Menn skal tjene mer enn kvinner.",
+      "Alle skal ha lik lønn for likt arbeid.",
+      "Kvinner skal ha kortere arbeidsdager."
+    ],
+    "correctIndex": 1,
+    "explanation": "I avsnittet om likestilling fokuseres det på at alle skal ha lik lønn for likt arbeid."
+  },
+  {
+    "number": 21,
+    "question": "Hvorfor tjener kvinner i snitt mindre enn menn i Norge?",
+    "options": [
+      "Fordi kvinner oftere jobber deltid.",
+      "Fordi det er ulovlig å gi kvinner høy lønn.",
+      "Fordi menn har lengre utdanning."
+    ],
+    "correctIndex": 0,
+    "explanation": "Kvinner tjener mindre enn menn, noe som spesielt skyldes at kvinner jobber deltid."
+  },
+  {
+    "number": 22,
+    "question": "Hva var de viktigste næringene i Norge i gamle dager?",
+    "options": [
+      "Olje, gass og teknologi.",
+      "Jordbruk, skogbruk og fiske.",
+      "Turisme og hotell."
+    ],
+    "correctIndex": 1,
+    "explanation": "Tradisjonelt har jordbruk, skogbruk og fiske vært de viktigste næringene i Norge."
+  },
+  {
+    "number": 23,
+    "question": "Hva er en 'husmannsplass'?",
+    "options": [
+      "Et stort slott for adelen.",
+      "Et lite hus i skogen hvor en familie fikk bo mot å jobbe for bonden.",
+      "Et hotell for turister."
+    ],
+    "correctIndex": 1,
+    "explanation": "En husmannsplass var et lite hus der en mann fikk bo med familien sin, mot at han jobbet for den rike bonden."
+  },
+  {
+    "number": 24,
+    "question": "Hva står 'CV' for?",
+    "options": [
+      "Curriculum vitae",
+      "Current value",
+      "Control verification"
+    ],
+    "correctIndex": 0,
+    "explanation": "Curriculum vitae er latin og kan oversettes til 'livsløp', en logg over livet ditt."
+  },
+  {
+    "number": 25,
+    "question": "Hva er formalkompetanse?",
+    "options": [
+      "Frivillig arbeid man har gjort på fritiden.",
+      "Alt som kan dokumenteres med vitnemål, eksamener eller sertifiseringer.",
+      "Språkene man snakker hjemme."
+    ],
+    "correctIndex": 1,
+    "explanation": "Alt som kan dokumenteres med vitnemål, eksamener, svennebrev, fagprøve eller andre sertifiseringer kalles formalkompetanse."
+  },
+  {
+    "number": 26,
+    "question": "Hva er realkompetanse?",
+    "options": [
+      "Karakterene man får på skolen.",
+      "Erfaring fra for eksempel fritidsaktiviteter og frivillig arbeid.",
+      "Bevis på at man kan kjøre gaffeltruck."
+    ],
+    "correctIndex": 1,
+    "explanation": "Fritidsaktiviteter og frivillig arbeid gir ingen formalkompetanse, men kalles for realkompetanse."
+  },
+  {
+    "number": 27,
+    "question": "Hvor lang bør en vanlig jobbsøknad være?",
+    "options": [
+      "En halv A4-side.",
+      "Minst to sider.",
+      "Maksimalt tre setninger."
+    ],
+    "correctIndex": 0,
+    "explanation": "I jobbsøknaden må du ikke skrive for langt; du bør ha sagt det viktigste i løpet av en halv A4-side."
+  },
+  {
+    "number": 28,
+    "question": "Hva går 'kvalifikasjonsprinsippet' i det offentlige ut på?",
+    "options": [
+      "At sjefen kan ansette den de liker best.",
+      "At den som er best kvalifisert, skal ha jobben.",
+      "At man må ansette noen fra utlandet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kvalifikasjonsprinsippet i stat, kommune og fylkeskommune sier at den som er best kvalifisert, skal ha jobben."
+  },
+  {
+    "number": 29,
+    "question": "Er det lov å jobbe uten arbeidskontrakt i Norge?",
+    "options": [
+      "Ja, hvis man bare jobber om sommeren.",
+      "Nei, det er ikke lov. Alle som jobber må ha en kontrakt.",
+      "Ja, hvis man tjener lite."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er ikke lov å velge å jobbe uten arbeidskontrakt. Alle som jobber må ha en kontrakt."
+  },
+  {
+    "number": 30,
+    "question": "Hvem har ansvaret for å lage en arbeidskontrakt?",
+    "options": [
+      "Arbeidstakeren.",
+      "Arbeidsgiveren.",
+      "Staten."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er arbeidsgivers ansvar å lage en skriftlig arbeidskontrakt."
+  },
+  {
+    "number": 31,
+    "question": "Hvor mye er en gjennomsnittlig månedslønn i Norge?",
+    "options": [
+      "Ca 30 000 kroner",
+      "Ca 50 000 kroner",
+      "Ca 80 000 kroner"
+    ],
+    "correctIndex": 1,
+    "explanation": "En gjennomsnittlig månedslønn i Norge er ca 50 000 kroner før skatt."
+  },
+  {
+    "number": 32,
+    "question": "Får du vanligvis betalt for lunsjpausen din i Norge?",
+    "options": [
+      "Ja, alltid.",
+      "Nei, i utgangspunktet ikke, med mindre du må være tilgjengelig for kunder.",
+      "Bare hvis du spiser sunn mat."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når du har pause får du i utgangspunktet ikke lønn, med unntak av dersom du er tilgjengelig når du har lunsj."
+  },
+  {
+    "number": 33,
+    "question": "Hvor mye kan du tjene i løpet av et år før du må ha skattekort?",
+    "options": [
+      "10 000 kroner",
+      "60 000 kroner",
+      "100 000 kroner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom du tjener mer enn 60 000 kroner i løpet av et år, må du ha skattekort."
+  },
+  {
+    "number": 34,
+    "question": "Hva er en skattemelding?",
+    "options": [
+      "En oversikt fra politiet om bøter.",
+      "En oversikt over hvor mye du har tjent og betalt i skatt i løpet av året.",
+      "En regning for bruk av sykehus."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når året er over får du en skattemelding, som er en oversikt over hvor mye du har tjent og hvor mye du har betalt i skatt."
+  },
+  {
+    "number": 35,
+    "question": "Hvor stor prosentandel av lønnen din utgjør vanligvis feriepengene?",
+    "options": [
+      "5,5 %",
+      "10,2 %",
+      "25,0 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Normalt er feriepengene 10,2 % av lønnen din."
+  },
+  {
+    "number": 36,
+    "question": "Når kan de fleste ta ut alderspensjon i Norge?",
+    "options": [
+      "Fra de er 55 år gamle.",
+      "Fra de er 62 år gamle.",
+      "Fra de er 70 år gamle."
+    ],
+    "correctIndex": 1,
+    "explanation": "De fleste kan ta ut alderspensjon fra de er 62 år gamle."
+  },
+  {
+    "number": 37,
+    "question": "Hva kalles det når man jobber uten å betale skatt av det man tjener?",
+    "options": [
+      "Svart arbeid",
+      "Dugnad",
+      "Frivillig arbeid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hvis du jobber svart, betaler du ikke skatt av det du tjener. Dette er strengt forbudt."
+  },
+  {
+    "number": 38,
+    "question": "Hvor mange feriedager har alle arbeidstakere minst krav på hvert år?",
+    "options": [
+      "15 dager",
+      "21 dager",
+      "25 dager"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alle arbeidstakere har rett til minst 25 dager ferie hvert år."
+  },
+  {
+    "number": 39,
+    "question": "Hva er potetferie?",
+    "options": [
+      "En ferie hvor man bare spiser poteter.",
+      "Det gamle navnet på høstferien, fordi barn måtte hjelpe til med å ta opp poteter.",
+      "En feiring av våren."
+    ],
+    "correctIndex": 1,
+    "explanation": "Høstferien kalles også potetferie fra gamle dager da barn måtte hjelpe til på gården med å ta opp poteter."
+  },
+  {
+    "number": 40,
+    "question": "Hva kan skje hvis du blir 100 % sykemeldt midt i ferien din?",
+    "options": [
+      "Du mister ferien din for alltid.",
+      "Du kan ha krav på å få ekstra feriedager.",
+      "Du må betale tilbake feriepengene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom du blir 100 % sykemeldt i ferien kan du ha krav på å få ekstra feriedager."
+  },
+  {
+    "number": 41,
+    "question": "Hvor lenge kan en egenmelding maksimalt vare?",
+    "options": [
+      "Inntil 1 dag",
+      "Inntil 3 dager",
+      "Inntil 7 dager"
+    ],
+    "correctIndex": 1,
+    "explanation": "En egenmelding kan vare inntil tre dager."
+  },
+  {
+    "number": 42,
+    "question": "Hvor mange ganger i året kan du normalt levere en egenmelding?",
+    "options": [
+      "Inntil 4 ganger",
+      "Inntil 10 ganger",
+      "Ubegrenset"
+    ],
+    "correctIndex": 0,
+    "explanation": "Du kan levere en egenmelding inntil fire ganger i året."
+  },
+  {
+    "number": 43,
+    "question": "Hvem betaler sykepengene dine de første 16 dagene du er syk?",
+    "options": [
+      "NAV",
+      "Folkeregisteret",
+      "Arbeidsgiveren"
+    ],
+    "correctIndex": 2,
+    "explanation": "De første 16 kalenderdagene du er syk betaler arbeidsgiveren din sykepenger."
+  },
+  {
+    "number": 44,
+    "question": "Kan du bruke egenmelding hvis barnet ditt blir sykt?",
+    "options": [
+      "Ja, det er akkurat det samme.",
+      "Nei, da bruker du omsorgsdager og arbeidsgiver betaler lønn.",
+      "Du får ikke betalt hvis barnet er sykt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom barnet blir sykt skal du ikke bruke egenmelding. Arbeidsgiveren betaler lønn som vanlig gjennom omsorgsdager."
+  },
+  {
+    "number": 45,
+    "question": "Opp til hvilken alder gjelder vanligvis omsorgsdager for sykt barn?",
+    "options": [
+      "Til barnet fyller 12 år.",
+      "Til barnet fyller 16 år.",
+      "Til barnet fyller 18 år."
+    ],
+    "correctIndex": 0,
+    "explanation": "Omsorgsdager gjelder kun hvis barnet ikke har fylt 12 år, med mindre det har en kronisk sykdom."
+  },
+  {
+    "number": 46,
+    "question": "Hva er hovedformålet med en fagforening?",
+    "options": [
+      "Å arrangere ferier for de ansatte.",
+      "Å samle arbeidere for å dele erfaringer og kjempe for gode arbeidsvilkår.",
+      "Å bestemme hvem som skal være sjef i bedriften."
+    ],
+    "correctIndex": 1,
+    "explanation": "En fagforening er en organisasjon som samler arbeidere for å sikre ordnede forhold, dele erfaringer og gi juridisk hjelp."
+  },
+  {
+    "number": 47,
+    "question": "Hvilken hovedorganisasjon for arbeidstakere er den største i Norge?",
+    "options": [
+      "Unio",
+      "Akademikerne",
+      "Landsorganisasjonen i Norge (LO)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Landsorganisasjonen i Norge (LO) er den største. De organiserer rundt 180 ulike yrkesgrupper."
+  },
+  {
+    "number": 48,
+    "question": "Hva er en tariffavtale?",
+    "options": [
+      "En kontrakt mellom staten og andre land.",
+      "En avtale fagforeningen forhandler med arbeidsplassen om blant annet lønn og arbeidstid.",
+      "En skatt man betaler til kommunen."
+    ],
+    "correctIndex": 1,
+    "explanation": "I en tariffavtale kan fagforeningen forhandle med arbeidsplassen om arbeidstid, tillegg og andre goder."
+  },
+  {
+    "number": 49,
+    "question": "Hva heter den største foreningen for arbeidsgivere i Norge?",
+    "options": [
+      "NHO (Næringslivets Hovedorganisasjon)",
+      "FAU",
+      "NAV"
+    ],
+    "correctIndex": 0,
+    "explanation": "Den største foreningen for arbeidsgivere heter Næringslivets Hovedorganisasjon (NHO)."
+  },
+  {
+    "number": 50,
+    "question": "Hva kalles samarbeidet mellom arbeidsgivere, arbeidstakere og Staten?",
+    "options": [
+      "Trekantsavtalen",
+      "Trepartssamarbeidet",
+      "Fellesskapsmøtet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Når foreninger for arbeidsgivere, foreninger for arbeidstakere og Staten jobber sammen, kalles det for et trepartssamarbeid."
+  },
+  {
+    "number": 51,
+    "question": "Når starter normalt oppsigelsestiden din hvis du sier opp jobben 5. januar?",
+    "options": [
+      "6. januar",
+      "1. februar",
+      "15. februar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Den normale oppsigelsestiden starter alltid den første datoen i neste måned, så sier du opp 5. januar, starter den 1. februar."
+  },
+  {
+    "number": 52,
+    "question": "Hva betyr ansiennitets-prinsippet ved nedbemanning?",
+    "options": [
+      "Den som har jobbet kortest tid blir sagt opp først.",
+      "Den som tjener mest penger får beholde jobben.",
+      "Den eldste ansatte må slutte først."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ansiennitets-prinsippet betyr at den som ble sist ansatt (jobbet kortest), blir sagt opp først."
+  },
+  {
+    "number": 53,
+    "question": "Når starter barn i Norge på barneskolen?",
+    "options": [
+      "Det året de fyller 5 år.",
+      "Det året de fyller 6 år.",
+      "Når de er 8 år gamle."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barn starter på skolen det året de fyller seks år."
+  },
+  {
+    "number": 54,
+    "question": "Er det lov å undervise barna sine hjemme i Norge?",
+    "options": [
+      "Ja, fordi vi har opplæringsplikt, men ikke skoleplikt.",
+      "Nei, alle barn må gå på en offentlig skole.",
+      "Bare hvis man bor i utlandet."
+    ],
+    "correctIndex": 0,
+    "explanation": "Det er ikke plikt til å gå på skolen. Noen velger nemlig å undervise barna sine hjemme."
+  },
+  {
+    "number": 55,
+    "question": "Hvor mange år utgjør grunnskolen totalt?",
+    "options": [
+      "7 år",
+      "10 år",
+      "13 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Til sammen går barna ti år på grunnskole, syv av dem er på barneskolen."
+  },
+  {
+    "number": 56,
+    "question": "Får elever karakterer på barneskolen?",
+    "options": [
+      "Ja, i alle fag.",
+      "Nei, ingen får karakterer på barneskolen.",
+      "Bare i matematikk og norsk."
+    ],
+    "correctIndex": 1,
+    "explanation": "På barneskolen har alle elevene de samme fagene, og ingen får karakterer."
+  },
+  {
+    "number": 57,
+    "question": "Hva er en læreplan?",
+    "options": [
+      "Et kart over skolebygningen.",
+      "En oversikt over målene for et fag som staten har bestemt.",
+      "Elevens personlige timeplan."
+    ],
+    "correctIndex": 1,
+    "explanation": "En læreplan er en oversikt over målene for et fag, som staten lager."
+  },
+  {
+    "number": 58,
+    "question": "Kan du fritt velge hvilken offentlig barneskole barnet ditt skal gå på?",
+    "options": [
+      "Ja, man kan velge helt fritt i hele landet.",
+      "Nei, normalt må man gå på den skolen som ligger nærmest hjemmet (skolekretsen).",
+      "Bare hvis du betaler skolepenger."
+    ],
+    "correctIndex": 1,
+    "explanation": "Man kan ikke selv velge hvilken barneskole man vil gå på. Normalt må man gå på den skolen som ligger nærmest hjemmet."
+  },
+  {
+    "number": 59,
+    "question": "Hva står SFO for?",
+    "options": [
+      "Skolefritidsordningen",
+      "Samarbeid for opplæring",
+      "Sentrert faglig oppfølging"
+    ],
+    "correctIndex": 0,
+    "explanation": "Skolefritidsordningen (SFO) er et tilbud til elever i første til fjerde klasse før og etter skolen."
+  },
+  {
+    "number": 60,
+    "question": "Hvilke klassetrinn dekker ungdomsskolen?",
+    "options": [
+      "Femte, sjette og syvende klasse.",
+      "Åttende, niende og tiende klasse.",
+      "Ellevte og tolvte klasse."
+    ],
+    "correctIndex": 1,
+    "explanation": "På ungdomsskolen finnes klassetrinnene åtte, ni og ti."
+  },
+  {
+    "number": 61,
+    "question": "Hva betyr 'skulking'?",
+    "options": [
+      "Å glemme bøkene sine.",
+      "Å ikke komme på skolen uten gyldig fravær.",
+      "Å snakke stygt til læreren."
+    ],
+    "correctIndex": 1,
+    "explanation": "Skulking betyr at eleven ikke kommer på skolen, uten gyldig fravær."
+  },
+  {
+    "number": 62,
+    "question": "Hva er en helsesykepleier?",
+    "options": [
+      "En sykepleier på sykehuset som opererer ungdom.",
+      "En sykepleier med videreutdanning i å hjelpe ungdom fysisk og psykisk på skolen.",
+      "En lærer som underviser i gym."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er en sykepleier med videreutdanning i å hjelpe ungdom fysisk og psykisk."
+  },
+  {
+    "number": 63,
+    "question": "Hva kalles de tre årene på videregående skole?",
+    "options": [
+      "Klasse 11, 12 og 13",
+      "Vg1, Vg2 og Vg3",
+      "År 1, År 2 og År 3"
+    ],
+    "correctIndex": 1,
+    "explanation": "Klassene på videregående (vgs) heter Vg1, Vg2 og Vg3."
+  },
+  {
+    "number": 64,
+    "question": "Hva innebærer det å være lærling?",
+    "options": [
+      "At man studerer på universitetet.",
+      "At man jobber på en arbeidsplass med det yrket man utdanner seg til.",
+      "At man underviser barn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Å være lærling betyr at man jobber på en arbeidsplass med det yrket man utdanner seg til."
+  },
+  {
+    "number": 65,
+    "question": "Er det eksamen på en folkehøgskole?",
+    "options": [
+      "Ja, på slutten av året.",
+      "Nei, man består ved å fullføre året.",
+      "Bare i matematikk og norsk."
+    ],
+    "correctIndex": 1,
+    "explanation": "På en folkehøgskole er det ikke eksamen. Elevene består folkehøgskolen ved å fullføre."
+  },
+  {
+    "number": 66,
+    "question": "Hva betyr det å bo på 'internat'?",
+    "options": [
+      "Å bo på et hotell i utlandet.",
+      "Å bo på skolen sammen med de andre elevene.",
+      "Å bo i telt hele året."
+    ],
+    "correctIndex": 1,
+    "explanation": "Å bo på internat betyr at du bor på skolen, sammen med dem du går på skole sammen med."
+  },
+  {
+    "number": 67,
+    "question": "Hva kalles utdanningen på høgskoler og universiteter?",
+    "options": [
+      "Grunnskole",
+      "Høyere utdanning",
+      "Videregående opplæring"
+    ],
+    "correctIndex": 1,
+    "explanation": "Høgskoler og universiteter kalles for høyere utdanning."
+  },
+  {
+    "number": 68,
+    "question": "Hvor mange studiepoeng gir et vanlig fulltidsstudie i løpet av ett år?",
+    "options": [
+      "30 studiepoeng",
+      "60 studiepoeng",
+      "100 studiepoeng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Et fulltidsstudie blir 60 studiepoeng hvert år (30 poeng i hvert av de to semestrene)."
+  },
+  {
+    "number": 69,
+    "question": "Hvilken grad får du normalt etter et treårig studie på høgskole eller universitet?",
+    "options": [
+      "Høgskolekandidat",
+      "Bachelor",
+      "Master"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fullfører du et treårig studie, får du tittelen bachelor."
+  },
+  {
+    "number": 70,
+    "question": "Har Norge en statskirke i dag?",
+    "options": [
+      "Ja, det står i Grunnloven.",
+      "Nei, frem til 2012 hadde Norge en statskirke, men ikke i dag.",
+      "Ja, men bare for kongen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Frem til 2012 hadde Norge en statskirke. I dag har ikke staten lenger en religion."
+  },
+  {
+    "number": 71,
+    "question": "Hvilken religion er den største i Norge?",
+    "options": [
+      "Islam",
+      "Buddhisme",
+      "Kristendom"
+    ],
+    "correctIndex": 2,
+    "explanation": "Den største religionen i Norge er kristendom."
+  },
+  {
+    "number": 72,
+    "question": "Hva står det om verdigrunnlaget i den norske Grunnloven (§ 2)?",
+    "options": [
+      "At samfunnet skal være helt nøytralt.",
+      "At verdigrunnlaget forblir vår kristne og humanistiske arv.",
+      "At staten skal bestemme borgernes tro."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Grunnloven § 2 står det: Verdigrunnlaget forblir vår kristne og humanistiske arv."
+  },
+  {
+    "number": 73,
+    "question": "Hva betyr religionsfrihet i Norge?",
+    "options": [
+      "At alle må tilhøre samme religion.",
+      "At ingen kan bestemme hva du skal tro på.",
+      "At religion er forbudt i offentligheten."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge er det religionsfrihet. Det betyr at du kan tro på den religionen du vil. Ingen kan bestemme hva du skal tro på."
+  },
+  {
+    "number": 74,
+    "question": "Hvor gammelt må et barn være for å selv melde seg inn eller ut av et trossamfunn?",
+    "options": [
+      "12 år",
+      "15 år",
+      "18 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Når barnet har fylt 15 år, er det barnet som selv melder seg inn eller ut av tros- eller livssynssamfunn."
+  },
+  {
+    "number": 75,
+    "question": "Hva betyr sekularisering i norsk sammenheng?",
+    "options": [
+      "At kirken får mer makt.",
+      "At stadig færre nordmenn sier at de tror på en gud.",
+      "At man bygger flere kirker."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når man sier at Norge har sekularisering, betyr det at stadig færre nordmenn sier at de tror på en gud."
+  },
+  {
+    "number": 76,
+    "question": "Hva står HEF for?",
+    "options": [
+      "Human-etisk forbund",
+      "Helse- og energiforbundet",
+      "Historisk evangeliestyre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Human-etisk forbund (HEF) er en av de største livssynsorganisasjonene i Norge."
+  },
+  {
+    "number": 77,
+    "question": "Hva heter den eldste stavkirken i Norge?",
+    "options": [
+      "Nidarosdomen",
+      "Ornes stavkirke",
+      "Oseberg kirke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Den eldste stavkirken er Ornes stavkirke, som man tror ble bygget i 1130."
+  },
+  {
+    "number": 78,
+    "question": "Når feires julaften i Norge?",
+    "options": [
+      "23. desember",
+      "24. desember",
+      "25. desember"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge feirer vi julaften 24. desember. Det er da julenissen kommer og man spiser god mat."
+  },
+  {
+    "number": 79,
+    "question": "Kan to menn eller to kvinner gifte seg med hverandre i Norge?",
+    "options": [
+      "Nei, ekteskap er bare for mann og kvinne.",
+      "Ja, i et ekteskap kan det være to menn eller to kvinner.",
+      "Bare hvis de gifter seg i utlandet."
+    ],
+    "correctIndex": 1,
+    "explanation": "I et ekteskap kan det være en mann og en kvinne, to menn eller to kvinner."
+  },
+  {
+    "number": 80,
+    "question": "Er tvangsekteskap eller arrangert ekteskap lov i Norge?",
+    "options": [
+      "Ja, hvis det er tradisjon.",
+      "Nei, begge deler er strengt forbudt.",
+      "Arrangert ekteskap er lov, men ikke tvang."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge er både tvangsekteskap og arrangert ekteskap strengt forbudt."
+  },
+  {
+    "number": 81,
+    "question": "Hva er et budsjett?",
+    "options": [
+      "Et brev fra banken.",
+      "En oversikt over hvordan du planlegger å disponere pengene du har.",
+      "En handleliste for matbutikken."
+    ],
+    "correctIndex": 1,
+    "explanation": "Et budsjett er en oversikt over hvordan du planlegger å disponere pengene du har."
+  },
+  {
+    "number": 82,
+    "question": "Hva forventes det ofte at du takker ja til når du besøker nordmenn hjemme?",
+    "options": [
+      "Middag",
+      "Kaffe",
+      "Et glass vin"
+    ],
+    "correctIndex": 1,
+    "explanation": "De aller fleste nordmenn er veldig glade i kaffe. Om du er på besøk, må du ikke bli overrasket om de spør om du vil ha kaffe."
+  },
+  {
+    "number": 83,
+    "question": "Er det lov til å spørre andre hvilket politisk parti de stemmer på?",
+    "options": [
+      "Ja, det er veldig vanlig i Norge.",
+      "Det er ikke ulovlig, men det er ikke vanlig fordi valget er hemmelig og en privatsak.",
+      "Nei, det gir bøter."
+    ],
+    "correctIndex": 1,
+    "explanation": "Hvilket parti man stemmer på, er hemmelig. Det er ikke vanlig å spørre andre om det, for det er en privatsak."
+  },
+  {
+    "number": 84,
+    "question": "Hva er frivillig arbeid?",
+    "options": [
+      "Arbeid der du jobber overtid.",
+      "Arbeid der du ikke får betalt, for eksempel å trene et fotballag.",
+      "Arbeid du gjør for familien din."
+    ],
+    "correctIndex": 1,
+    "explanation": "Frivillig arbeid er arbeid der du ikke får betalt for å jobbe, for eksempel å trene fotballaget til barna."
+  },
+  {
+    "number": 85,
+    "question": "Hva betyr ordet dugnad?",
+    "options": [
+      "En skatt til kommunen.",
+      "Å hjelpe til frivillig i fellesskap, for eksempel å klippe gress i borettslaget.",
+      "Å synge i kor."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dugnad kan være å hjelpe til med å klippe gresset i borettslaget, eller vaske lekene i barnehagen frivillig."
+  },
+  {
+    "number": 86,
+    "question": "Omtrent hvor mange barn får en norsk kvinne i snitt?",
+    "options": [
+      "1,5 barn",
+      "2,5 barn",
+      "3,0 barn"
+    ],
+    "correctIndex": 0,
+    "explanation": "I snitt får en norsk kvinne 1,5 barn."
+  },
+  {
+    "number": 87,
+    "question": "Hvem har ansvaret for at en fødsel meldes til Folkeregisteret?",
+    "options": [
+      "Presten i kirken.",
+      "Legen, jordmoren eller moren.",
+      "Politiet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Etter fødselen er det legen, jordmoren eller moren som har ansvaret for å melde fødselen til Folkeregisteret."
+  },
+  {
+    "number": 88,
+    "question": "Når kan barn vanligvis begynne i barnehage i Norge?",
+    "options": [
+      "Når de er 3 måneder.",
+      "Når de er rundt 1 år gamle.",
+      "Når de fyller 3 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barna kan som regel begynne i barnehagen når de er rundt ett år gamle."
+  },
+  {
+    "number": 89,
+    "question": "Hva er kontantstøtte?",
+    "options": [
+      "Ekstra penger til de som har stor familie.",
+      "Økonomisk støtte hvis du har et barn mellom 1 og 2 år som ikke er i barnehage på fulltid.",
+      "Lønn for å jobbe svart."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom du har et barn mellom 1 og 2 år som ikke er i barnehage på fulltid, kan du få kontantstøtte."
+  },
+  {
+    "number": 90,
+    "question": "Er det lov å slå barna sine som en del av oppdragelsen i Norge?",
+    "options": [
+      "Ja, hvis de ikke hører etter.",
+      "Nei, det er ikke lov å slå barna sine.",
+      "Bare et lett klaps er lov."
+    ],
+    "correctIndex": 1,
+    "explanation": "For eksempel er det ikke lov å slå barna sine, og det er heller ikke lov å skremme eller true dem."
+  },
+  {
+    "number": 91,
+    "question": "Hvilken konvensjon sier at barn har rett til beskyttelse og utvikling, og som gjelder foran norske lover?",
+    "options": [
+      "FNs barnekonvensjon",
+      "Norges grunnlov",
+      "Barnelova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norge har bestemt at FNs barnekonvensjon skal følges, og den gjelder foran Norges lover."
+  },
+  {
+    "number": 92,
+    "question": "Fra hvilken alder skal det legges STOR vekt på hva barnet mener før en avgjørelse tas?",
+    "options": [
+      "7 år",
+      "12 år",
+      "18 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Når barnet er fylt 12 år, skal det legges stor vekt på hva barnet mener i personlige forhold."
+  },
+  {
+    "number": 93,
+    "question": "Hva heter organisasjonen som kan gripe inn dersom barn utsettes for vold eller omsorgssvikt hjemme?",
+    "options": [
+      "Barneombudet",
+      "Barnevernet",
+      "Helsestasjonen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnevernet er en etat som kan gripe inn dersom barn ikke har det bra, for eksempel ved omsorgssvikt eller vold."
+  },
+  {
+    "number": 94,
+    "question": "Må du ha helseforsikring for å få behandling på sykehus i Norge?",
+    "options": [
+      "Ja, det er påbudt.",
+      "Nei, i Norge trenger man ingen helseforsikring for å få hjelp på sykehus.",
+      "Bare hvis man er innvandrer."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge trenger man ingen helseforsikring for å få hjelp på sykehus."
+  },
+  {
+    "number": 95,
+    "question": "Hva er aldersgrensen for å kjøpe øl og vin i Norge?",
+    "options": [
+      "16 år",
+      "18 år",
+      "20 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aldersgrensen for å kjøpe alkohol er 18 år i Norge. Skal du kjøpe sprit, må du ha fylt 20 år."
+  },
+  {
+    "number": 96,
+    "question": "Er det lov å røyke inne på restauranter og bibliotek i Norge?",
+    "options": [
+      "Ja, på egne røykerom.",
+      "Nei, det er forbudt å røyke i lokaler som er åpne for alle.",
+      "Ja, etter klokken 22."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er forbudt å røyke i lokaler og transportmidler som er åpne for alle, som biblioteket og restauranten."
+  },
+  {
+    "number": 97,
+    "question": "Hva er en fastlege?",
+    "options": [
+      "En lege du møter tilfeldig på sykehuset.",
+      "En lege med spesielt ansvar for deg som du kan kontakte ved sykdom.",
+      "En tannlege for voksne."
+    ],
+    "correctIndex": 1,
+    "explanation": "En fastlege er en lege med spesielt ansvar for deg som du kontakter ved sykdom."
+  },
+  {
+    "number": 98,
+    "question": "Hvem får gratis tannbehandling av det offentlige?",
+    "options": [
+      "Alle i Norge.",
+      "Pensjonister over 67 år.",
+      "Barn opp til 18 år."
+    ],
+    "correctIndex": 2,
+    "explanation": "Barn opp til 18 år betaler kun for tannregulering, ikke for annen tannbehandling, så det er gratis for dem."
+  },
+  {
+    "number": 99,
+    "question": "Hva skjer når du når 'frikortgrensen' for egenandeler i helsevesenet?",
+    "options": [
+      "Du må betale dobbelt for neste besøk.",
+      "Du slipper å betale flere egenandeler ut det året.",
+      "Du mister fastlegen din."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når alle egenandeler legges sammen og når en viss sum, slipper du å betale flere egenandeler (frikort) ut året."
+  },
+  {
+    "number": 100,
+    "question": "Hvilket telefonnummer ringer du for å få ambulanse ved en akutt nødsituasjon?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hvis du trenger akutt helsehjelp eller ambulanse, skal du ringe 113."
+  },
+  {
+    "number": 101,
+    "question": "Hva betyr 'taushetsplikt' for helsepersonell?",
+    "options": [
+      "At de ikke har lov til å snakke med deg under operasjonen.",
+      "At ingen skal få vite hva du og legen din snakker om.",
+      "At de aldri kan fortelle foreldre om barnas sykdom."
+    ],
+    "correctIndex": 1,
+    "explanation": "Helsepersonell har taushetsplikt. Det betyr at ingen skal få vite hva du og legen din snakker om."
+  },
+  {
+    "number": 102,
+    "question": "Hva heter Norges høyeste fjell?",
+    "options": [
+      "Stetinden",
+      "Galdhøpiggen",
+      "Glittertind"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norges høyeste fjell heter Galdhøpiggen og er 2469 meter høyt."
+  },
+  {
+    "number": 103,
+    "question": "Hva heter Norges lengste elv?",
+    "options": [
+      "Mjøsa",
+      "Glomma",
+      "Sognefjorden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glomma er Norges lengste elv, den er over 600 km lang."
+  },
+  {
+    "number": 104,
+    "question": "Hva heter hovedstaden i Norge?",
+    "options": [
+      "Bergen",
+      "Trondheim",
+      "Oslo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hovedstaten i Norge heter Oslo. Den ligger innerst i Oslofjorden."
+  },
+  {
+    "number": 105,
+    "question": "Hva innebærer Allemannsretten?",
+    "options": [
+      "At alle har lov til å eie en bil.",
+      "At alle har lov til å bruke naturen, så lenge man tar hensyn.",
+      "At alle kan bygge hytte i fjellet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Allemannsretten handler om at alle har lov til bruke naturen rundt oss, men vi skal ta hensyn."
+  },
+  {
+    "number": 106,
+    "question": "Hvilken norsk øygruppe i Arktis styres etter en egen traktat hvor mange land har lik rett til fiske og næring?",
+    "options": [
+      "Lofoten",
+      "Jan Mayen",
+      "Svalbard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Svalbard styres av Svalbardtraktaten, der alle som har signert har lik rett til fiske og fangst."
+  },
+  {
+    "number": 107,
+    "question": "Hvilke tre land utgjør Skandinavia?",
+    "options": [
+      "Norge, Sverige og Finland",
+      "Norge, Danmark og Sverige",
+      "Norge, Island og Danmark"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge, Danmark og Sverige kalles for Skandinavia."
+  },
+  {
+    "number": 108,
+    "question": "Hva er de to norske målformene (skriftspråkene)?",
+    "options": [
+      "Norsk og samisk",
+      "Bokmål og nynorsk",
+      "Dialekt og riksmål"
+    ],
+    "correctIndex": 1,
+    "explanation": "Det norske språket har to målformer (skriftspråk): Bokmål og nynorsk."
+  },
+  {
+    "number": 109,
+    "question": "Hva heter samenes folkevalgte parlament i Norge?",
+    "options": [
+      "Stortinget",
+      "Sametinget",
+      "Fylkestinget"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sametinget er det samiske folkets folkevalgte parlament i Norge."
+  },
+  {
+    "number": 110,
+    "question": "Hvilken norsk person var den første i verden til å nå Sydpolen i 1911?",
+    "options": [
+      "Edvard Munch",
+      "Magnus Carlsen",
+      "Roald Amundsen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Roald Amundsen ledet den første ekspedisjonen til Sydpolen og kom frem i 1911."
+  },
+  {
+    "number": 111,
+    "question": "Hva feirer vi på Norges nasjonaldag, 17. mai?",
+    "options": [
+      "At 2. verdenskrig sluttet.",
+      "At Grunnloven ble underskrevet på Eidsvoll i 1814.",
+      "At Norge fant olje."
+    ],
+    "correctIndex": 1,
+    "explanation": "17. mai markerer datoen da grunnloven ble underskrevet på Eidsvoll i 1814."
+  },
+  {
+    "number": 112,
+    "question": "Hva skjedde 9. april 1940?",
+    "options": [
+      "Norge fikk sin første konge.",
+      "Unionen med Sverige ble oppløst.",
+      "Tyskland angrep Norge."
+    ],
+    "correctIndex": 2,
+    "explanation": "9. april 1940 angrep Tyskland Norge i starten av andre verdenskrig."
+  },
+  {
+    "number": 113,
+    "question": "Når var unionen mellom Norge og Sverige (Personalunionen)?",
+    "options": [
+      "1397 - 1523",
+      "1814 - 1905",
+      "1940 - 1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge var i union med Sverige fra 1814 til unionen ble oppløst 7. juni 1905."
+  },
+  {
+    "number": 114,
+    "question": "Hvor ofte er det Stortingsvalg i Norge?",
+    "options": [
+      "Hvert andre år",
+      "Hvert fjerde år",
+      "Hvert åttende år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valg til Stortinget avholdes hvert 4. år."
+  },
+  {
+    "number": 115,
+    "question": "Hvem har den utøvende makten ifølge maktfordelingsprinsippet i Norge?",
+    "options": [
+      "Stortinget",
+      "Domstolene",
+      "Regjeringen og kongen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Den utøvende makten sørger for at det Stortinget bestemmer skjer, og i Norge er dette regjeringen og kongen."
+  },
+  {
+    "number": 116,
+    "question": "Hvor stor andel av befolkningen mellom 15 og 74 år er i jobb i Norge, ifølge teksten?",
+    "options": [
+      "Ca 50,5 %",
+      "Ca 69,4 %",
+      "Ca 82,1 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge regner man med at 69,4 % av alle mellom 15 og 74 år er i jobb, og arbeidsledigheten er lav."
+  },
+  {
+    "number": 117,
+    "question": "Hva er to av de største nettsidene i Norge hvor arbeidsgivere og arbeidstakere kan møtes?",
+    "options": [
+      "Jobbnorge.no og finn.no",
+      "Norgejobb.no og jobb.no",
+      "Arbeid.no og nav.com"
+    ],
+    "correctIndex": 0,
+    "explanation": "De største møteplassene for jobbsøking på internett i Norge er jobbnorge.no og finn.no, i tillegg til NAV sine nettsider."
+  },
+  {
+    "number": 118,
+    "question": "Hvor stor del av alle jobber i Norge er i offentlig sektor?",
+    "options": [
+      "Rundt 10 %",
+      "Rundt 33 %",
+      "Rundt 60 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rundt 33 % av alle jobber i Norge er i den offentlige sektoren."
+  },
+  {
+    "number": 119,
+    "question": "Hva er en gjennomsnittlig månedslønn før skatt i Norge, ifølge teksten?",
+    "options": [
+      "Ca 45 000 kroner",
+      "Ca 62 070 kroner",
+      "Ca 75 500 kroner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Teksten oppgir at en gjennomsnittlig månedslønn i Norge er ca 62 070 kroner før skatt."
+  },
+  {
+    "number": 120,
+    "question": "Når er det lovpålagt at du må ha et skattekort?",
+    "options": [
+      "Når du tjener mer enn 10 000 kroner i året.",
+      "Når du tjener mer enn 60 000 kroner i løpet av et år.",
+      "Når du jobber mer enn 10 timer i uken."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom du tjener mer enn grensen på 60 000 kroner i løpet av et år, krever loven at du har skattekort."
+  },
+  {
+    "number": 121,
+    "question": "Hva er en av konsekvensene ved å jobbe svart?",
+    "options": [
+      "Man får ikke feriepenger, sykepenger eller opptjening til pensjon.",
+      "Man betaler dobbel skatt året etter.",
+      "Man får automatisk høyere lønn."
+    ],
+    "correctIndex": 0,
+    "explanation": "Svart arbeid er strengt forbudt. Den som jobber svart får ikke rettigheter som feriepenger, sykepenger eller pensjonsopptjening."
+  },
+  {
+    "number": 122,
+    "question": "Hvor mange feriedager har alle arbeidstakere krav på hvert år?",
+    "options": [
+      "Minst 15 dager",
+      "Minst 21 dager",
+      "Minst 25 dager"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norsk lov gir alle arbeidstakere rett til minst 25 dager ferie hvert år."
+  },
+  {
+    "number": 123,
+    "question": "Hvor mye utgjør feriepengene normalt av lønnen din?",
+    "options": [
+      "10,2 %",
+      "12,0 %",
+      "15,5 %"
+    ],
+    "correctIndex": 0,
+    "explanation": "Når du har ferie har du krav på feriepenger, som normalt utgjør 10,2 % av lønnen din."
+  },
+  {
+    "number": 124,
+    "question": "Hvor lenge kan en egenmelding vare?",
+    "options": [
+      "Inntil 1 dag",
+      "Inntil 3 dager",
+      "Inntil 7 dager"
+    ],
+    "correctIndex": 1,
+    "explanation": "En egenmelding er en beskjed du gir til sjefen om at du er syk, og den kan brukes for inntil tre dager."
+  },
+  {
+    "number": 125,
+    "question": "Hvem betaler sykepengene dine etter at du har vært syk i mer enn 16 dager?",
+    "options": [
+      "Arbeidsgiveren",
+      "Fagforeningen",
+      "NAV"
+    ],
+    "correctIndex": 2,
+    "explanation": "De første 16 dagene betaler arbeidsgiveren din sykepenger, men etter dette tar NAV over utbetalingen."
+  },
+  {
+    "number": 126,
+    "question": "Omtrent hvor mange norske arbeidstakere er medlem av en fagforening?",
+    "options": [
+      "Ca 500 000",
+      "Over 1 000 000",
+      "Over 2 000 000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Det norske arbeidsmarkedet har en sterk fagorganisering, og over 2 000 000 arbeidstakere er medlem."
+  },
+  {
+    "number": 127,
+    "question": "Hva er det viktigste en fagforening kan bidra med på en arbeidsplass?",
+    "options": [
+      "Å arrangere sosiale fester.",
+      "En tariffavtale om arbeidstid, ferie og andre goder.",
+      "Å betale de ansattes skatt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det viktigste fagforeningen bidrar med er en tariffavtale, som sikrer ordnede forhold som arbeidstid, helgetillegg og ferie."
+  },
+  {
+    "number": 128,
+    "question": "Hva kalles samarbeidet når fagforeninger, arbeidsgiverforeninger og staten jobber sammen?",
+    "options": [
+      "Trepartssamarbeid",
+      "Fellesskapsløftet",
+      "Arbeidslivsavtalen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Når arbeidsgivere (som NHO), arbeidstakere (som LO) og Staten samarbeider, kalles dette et trepartssamarbeid."
+  },
+  {
+    "number": 129,
+    "question": "Hvor mange år tar det å fullføre hele grunnskolen i Norge?",
+    "options": [
+      "7 år",
+      "10 år",
+      "13 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grunnskolen består av barneskolen (1.-7. klasse) og ungdomsskolen (8.-10. klasse), og tar til sammen 10 år."
+  },
+  {
+    "number": 130,
+    "question": "Når begynner elevene i den norske skolen å få karakterer?",
+    "options": [
+      "På barneskolen",
+      "På ungdomsskolen",
+      "På videregående skole"
+    ],
+    "correctIndex": 1,
+    "explanation": "På barneskolen får ingen karakterer. Elevene begynner først å få karakterer (fra 1 til 6) når de starter på ungdomsskolen."
+  },
+  {
+    "number": 131,
+    "question": "Hvilke to hovedtyper utdanningsprogram kan man velge mellom på videregående skole?",
+    "options": [
+      "Offentlig og privat",
+      "Studieforberedende og yrkesfaglige",
+      "Teoretisk og praktisk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Man skiller mellom studieforberedende (som kvalifiserer til universitet) og yrkesfaglige (som gir yrkeskompetanse) utdanningsprogram."
+  },
+  {
+    "number": 132,
+    "question": "Hva kjennetegner ofte et yrkesfaglig løp på videregående skole?",
+    "options": [
+      "Tre år med kun teoretiske fag i klasserommet.",
+      "Ofte to år på skole etterfulgt av to år som lærling i en bedrift.",
+      "At man ikke trenger å ta noen eksamener."
+    ],
+    "correctIndex": 1,
+    "explanation": "Yrkesfaglige utdanningsprogram gir yrkeskompetanse, og består ofte av 2 år på skole og 2 år som lærling."
+  },
+  {
+    "number": 133,
+    "question": "Hva er spesielt med folkehøgskole?",
+    "options": [
+      "Man får ikke karakterer og har ingen eksamener.",
+      "Man må betale skolepenger i fem år.",
+      "Det er obligatorisk for alle 18-åringer."
+    ],
+    "correctIndex": 0,
+    "explanation": "Folkehøgskole er et spesielt skoleår der elevene bor på skolen, og året gjennomføres uten eksamen eller karakterer."
+  },
+  {
+    "number": 134,
+    "question": "Hvor mange studiepoeng kreves normalt for å få en bachelorgrad?",
+    "options": [
+      "60 studiepoeng",
+      "120 studiepoeng",
+      "180 studiepoeng"
+    ],
+    "correctIndex": 2,
+    "explanation": "En bachelorgrad tilsvarer 3 års studier, som utgjør 180 studiepoeng."
+  },
+  {
+    "number": 135,
+    "question": "Hvor mange år ekstra tar vanligvis en mastergrad etter at man har fullført en bachelor?",
+    "options": [
+      "1 år",
+      "2 år",
+      "4 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "En mastergrad tar vanligvis 2 ekstra år etter at man har fullført en bachelorgrad, og gir 300 studiepoeng totalt."
+  },
+  {
+    "number": 136,
+    "question": "Hva gjør statens Lånekasse for utdanning?",
+    "options": [
+      "De bestemmer hvilke karakterer studentene skal få.",
+      "De gir lån og stipend for å dekke levekostnader og studiemateriell.",
+      "De bygger nye skoler i kommunene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Selv om utdanning ofte er gratis, gir Lånekassen økonomisk støtte (lån) for å hjelpe studentene med levekostnader."
+  },
+  {
+    "number": 137,
+    "question": "Hvilket år avviklet Norge statskirken?",
+    "options": [
+      "1905",
+      "2001",
+      "2012"
+    ],
+    "correctIndex": 2,
+    "explanation": "Frem til 2012 hadde Norge en statskirke, men i dag har ikke staten lenger en offisiell religion."
+  },
+  {
+    "number": 138,
+    "question": "Hva sier Grunnloven om Norges verdigrunnlag i dag?",
+    "options": [
+      "At staten skal være helt nøytral.",
+      "At verdigrunnlaget forblir vår kristne og humanistiske arv.",
+      "At alle borgere må være medlem av kirken."
+    ],
+    "correctIndex": 1,
+    "explanation": "Selv uten statskirke, slår Grunnloven fast at verdigrunnlaget forblir vår kristne og humanistiske arv."
+  },
+  {
+    "number": 139,
+    "question": "Hva menes med begrepet sekularisering i Norge?",
+    "options": [
+      "At staten bygger flere kirker.",
+      "At stadig færre nordmenn tror på en gud, og at tro blir en privatsak.",
+      "At religion blir obligatorisk i skolen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sekularisering betyr at religion får mindre plass i samfunnet, stadig færre tror på en gud, og tro blir noe privat."
+  },
+  {
+    "number": 140,
+    "question": "Hva er det største trossamfunnet i Norge?",
+    "options": [
+      "Human-Etisk Forbund",
+      "Den katolske kirke",
+      "Den norske kirke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Det desidert største trossamfunnet i Norge er Den norske kirke (kristent, protestantisk)."
+  },
+  {
+    "number": 141,
+    "question": "Hvilken organisasjon er spesielt stor for mennesker som bygger sitt livssyn på humanisme fremfor religion?",
+    "options": [
+      "Human-Etisk Forbund (HEF)",
+      "Norsk Humanistisk Samfunn",
+      "Ateistene i Norge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Human-Etisk Forbund (HEF) er en av de største livssynsorganisasjonene for de som ikke er religiøse."
+  },
+  {
+    "number": 142,
+    "question": "Hvor gammelt må et barn være for å selv kunne melde seg inn eller ut av et trossamfunn?",
+    "options": [
+      "12 år",
+      "15 år",
+      "18 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Foreldre bestemmer for barn under 12 år, men når barnet fyller 15 år har de lov til å velge trossamfunn helt selv."
+  },
+  {
+    "number": 143,
+    "question": "Når feires julaften i Norge?",
+    "options": [
+      "23. desember",
+      "24. desember",
+      "25. desember"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge er julaften den 24. desember. Det er da julenissen kommer og familiene åpner gaver."
+  },
+  {
+    "number": 144,
+    "question": "Hvilke tradisjonelle matretter er spesielt vanlige på julaften i Norge?",
+    "options": [
+      "Taco og pizza",
+      "Ribbe, pinnekjøtt eller juletorsk",
+      "Kjøttkaker og lapskaus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tradisjonelle juleretter i Norge inkluderer ofte ribbe, pinnekjøtt eller juletorsk."
+  },
+  {
+    "number": 145,
+    "question": "Kan to personer av samme kjønn gifte seg lovlig i Norge?",
+    "options": [
+      "Nei, ekteskap er kun for mann og kvinne.",
+      "Ja, i Norge kan to menn eller to kvinner inngå ekteskap.",
+      "Ja, men bare hvis de ikke gjør det i en kirke."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge har alle rett til å inngå ekteskap med den de elsker, enten det er mann og kvinne, to menn eller to kvinner."
+  },
+  {
+    "number": 146,
+    "question": "Hvilken aldersgrense gjelder for å kunne inngå ekteskap i Norge?",
+    "options": [
+      "16 år",
+      "18 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Man må være voksen, det vil si minst 18 år gammel, for å kunne gifte seg."
+  },
+  {
+    "number": 147,
+    "question": "Er det tillatt med tvangsekteskap eller arrangerte ekteskap i Norge?",
+    "options": [
+      "Ja, hvis foreldrene krever det.",
+      "Nei, begge deler er strengt forbudt.",
+      "Arrangerte ekteskap er lov, men tvangsekteskap er forbudt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ekteskap skal være hundre prosent frivillig. Både tvangsekteskap og arrangerte ekteskap er strengt forbudt i Norge."
+  },
+  {
+    "number": 148,
+    "question": "Omtrent hvor mange timer fritid har nordmenn i gjennomsnitt hver ukedag?",
+    "options": [
+      "Ca 4 timer",
+      "Ca 6,5 timer",
+      "Ca 8 timer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fritid er viktig for nordmenn, og de har i gjennomsnitt cirka 6,5 timer fritid hver ukedag."
+  },
+  {
+    "number": 149,
+    "question": "Hva er et veldig vanlig konsept i Norge der naboer jobber frivillig sammen for å forbedre nærmiljøet?",
+    "options": [
+      "Dugnad",
+      "Samarbeid",
+      "Velferdsarbeid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dugnad er et unikt norsk konsept som betyr felles, frivillig arbeid, for eksempel å klippe gresset i borettslaget."
+  },
+  {
+    "number": 150,
+    "question": "Er det lov å bruke vold, trusler eller skremsel i barneoppdragelsen i Norge?",
+    "options": [
+      "Ja, hvis barnet gjør noe farlig.",
+      "Nei, det er strengt forbudt.",
+      "Et lett klaps er tillatt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barneoppdragelsen i Norge bygger på trygghet, og loven forbyr strengt all bruk av vold, trusler og skremsel."
+  },
+  {
+    "number": 151,
+    "question": "Til hvilken alder har foreldre formelt forsørgeransvar for barna sine?",
+    "options": [
+      "16 år",
+      "18 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Foreldre har ansvaret for å forsørge barnet økonomisk og sosialt frem til barnet fyller 18 år og blir myndig."
+  },
+  {
+    "number": 152,
+    "question": "Er barnehage obligatorisk (et krav) for barn i Norge?",
+    "options": [
+      "Ja, alle barn over 3 år må gå i barnehage.",
+      "Nei, det er et frivillig tilbud.",
+      "Ja, hvis begge foreldrene jobber."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnehage er et helt frivillig pedagogisk tilbud for barn før de begynner på skolen."
+  },
+  {
+    "number": 153,
+    "question": "Hva er den mest alvorlige handlingen barnevernet kan gjøre for å beskytte et barn?",
+    "options": [
+      "Gi foreldrene en bot.",
+      "Sende barnet på en spesiell kostskole.",
+      "Flytte barnet ut av hjemmet og til en fosterfamilie."
+    ],
+    "correctIndex": 2,
+    "explanation": "I verste fall, dersom et barn utsettes for alvorlig omsorgssvikt eller vold, kan barnevernet gripe inn og flytte barnet til en fosterfamilie."
+  },
+  {
+    "number": 154,
+    "question": "Hva er det høyeste beløpet en voksen person må betale i 'egenandel' for helsetjenester før det blir gratis ut året?",
+    "options": [
+      "1 500 kr",
+      "3 278 kr",
+      "5 000 kr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Når man har betalt opp til et makstak på 3 278 kr i året i egenandeler, får man frikort og videre helsehjelp er gratis ut året."
+  },
+  {
+    "number": 155,
+    "question": "Hvem er din hovedkontakt i det norske helsevesenet for sykemeldinger og henvisninger til sykehus?",
+    "options": [
+      "Legevakten",
+      "Sykepleieren på sykehuset",
+      "Fastlegen din"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alle innbyggere har rett til en Fastlege. Fastlegen er din primære kontakt for all helsehjelp, sykemeldinger og henvisninger."
+  },
+  {
+    "number": 156,
+    "question": "Hvilket telefonnummer ringer du for å få tak i ambulanse ved en akutt, livstruende nødssituasjon?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ved akutt nød (livsfare) skal man alltid ringe det medisinske nødnummeret 113 for å få ambulanse."
+  },
+  {
+    "number": 157,
+    "question": "Hvor henvender du deg hvis du trenger legehjelp på kvelden når fastlegen har stengt?",
+    "options": [
+      "Du ringer ambulanse.",
+      "Du ringer legevakten.",
+      "Du drar direkte til sykehuset."
+    ],
+    "correctIndex": 1,
+    "explanation": "Hvis du trenger legehjelp utenom fastlegens ordinære åpningstid, skal du kontakte legevakten."
+  },
+  {
+    "number": 158,
+    "question": "Hvilken gruppe har rett til helt gratis tannbehandling (unntatt tannregulering)?",
+    "options": [
+      "Pensjonister",
+      "Barn og ungdom opp til 18 år",
+      "Studenter"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge er all tannbehandling, med unntak av tannregulering, gratis for barn og ungdom opp til de er 18 år."
+  },
+  {
+    "number": 159,
+    "question": "Hva er regelen for tannlegeregninger for voksne over 26 år?",
+    "options": [
+      "Staten betaler 50 %.",
+      "Det er helt gratis.",
+      "De må betale hele regningen selv, med noen få unntak."
+    ],
+    "correctIndex": 2,
+    "explanation": "Voksne over 26 år må i utgangspunktet betale hele kostnaden for tannbehandling selv."
+  },
+  {
+    "number": 160,
+    "question": "Hva er en 'resept'?",
+    "options": [
+      "En regning fra sykehuset.",
+      "En godkjenning fra lege som kreves for å kjøpe visse medisiner på apoteket.",
+      "Et dokument som bekrefter at du er frisk."
+    ],
+    "correctIndex": 1,
+    "explanation": "Mange sterke medisiner krever en resept. Dette er en skriftlig godkjenning fra en lege for at apoteket skal kunne selge dem til deg."
+  },
+  {
+    "number": 161,
+    "question": "Hva betyr det at helsepersonell har taushetsplikt?",
+    "options": [
+      "De kan ikke fortelle sjefen sin at de er syke.",
+      "De har ikke lov til å snakke med pressen.",
+      "De har ikke lov til å dele private medisinske opplysninger om deg med uvedkommende."
+    ],
+    "correctIndex": 2,
+    "explanation": "Alle i helsevesenet har streng taushetsplikt, som beskytter ditt personvern og dine medisinske opplysninger."
+  },
+  {
+    "number": 162,
+    "question": "Hva er aldersgrensen for å kjøpe sterk alkohol (sprit) i Norge?",
+    "options": [
+      "18 år",
+      "20 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aldersgrensen for øl og vin er 18 år, men for sterk alkohol (sprit) er grensen 20 år."
+  },
+  {
+    "number": 163,
+    "question": "Er det tillatt å røyke inne på en offentlig skole i Norge?",
+    "options": [
+      "Ja, på egne røykerom.",
+      "Nei, røyking er forbudt på alle offentlige innendørs steder, inkludert skoler.",
+      "Bare for lærerne."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norsk lov forbyr røyking på alle offentlige innendørs steder, inkludert skoler og transportmidler."
+  },
+  {
+    "number": 164,
+    "question": "Omtrent hvor lang kystlinje har Norge?",
+    "options": [
+      "Over 500 km",
+      "Over 1000 km",
+      "Over 2500 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norge er et veldig langt land med en kystlinje som strekker seg over 2500 km."
+  },
+  {
+    "number": 165,
+    "question": "Hvilket fjell er kjent som Norges nasjonalfjell?",
+    "options": [
+      "Galdhøpiggen",
+      "Stetinden",
+      "Snøhetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Selv om Galdhøpiggen er det høyeste, er det Stetinden som har tittelen som Norges nasjonalfjell."
+  },
+  {
+    "number": 166,
+    "question": "Hva heter den største innsjøen i Norge?",
+    "options": [
+      "Mjøsa",
+      "Røssvatnet",
+      "Femunden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mjøsa er Norges aller største innsjø."
+  },
+  {
+    "number": 167,
+    "question": "Hvilken rettighet gir deg lov til å sette opp telt i utmark (naturen) så lenge du tar hensyn til miljøet?",
+    "options": [
+      "Utmarksloven",
+      "Allemannsretten",
+      "Naturretten"
+    ],
+    "correctIndex": 1,
+    "explanation": "Allemannsretten er en viktig rettighet som lar alle bruke naturen fritt og sette opp telt, forutsatt at man tar hensyn."
+  },
+  {
+    "number": 168,
+    "question": "Hva heter øygruppen i Arktis som tilhører Norge?",
+    "options": [
+      "Færøyene",
+      "Lofoten",
+      "Svalbard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norge eier øygruppen Svalbard i Arktis, som administreres av en Sysselmester."
+  },
+  {
+    "number": 169,
+    "question": "Omtrent hvor stor andel av befolkningen i Norge utgjøres av innvandrere?",
+    "options": [
+      "Ca 5 %",
+      "Ca 15 %",
+      "Ca 25 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ut av de over 5,6 millioner innbyggerne i Norge, er omtrent 15 % innvandrere."
+  },
+  {
+    "number": 170,
+    "question": "Hvilke to skriftspråk har det norske språket?",
+    "options": [
+      "Svensk og dansk",
+      "Bokmål og nynorsk",
+      "Riksmål og samisk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norsk har to likestilte offisielle skriftspråk: Bokmål og nynorsk."
+  },
+  {
+    "number": 171,
+    "question": "I hvilken kommune ligger det samiske parlamentet, Sametinget?",
+    "options": [
+      "Tromsø",
+      "Alta",
+      "Karasjok"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sametinget, det folkevalgte parlamentet til urfolket samene, ligger i Karasjok."
+  },
+  {
+    "number": 172,
+    "question": "Hva kalles den tradisjonelle samiske sangstilen?",
+    "options": [
+      "Kveding",
+      "Joik",
+      "Stev"
+    ],
+    "correctIndex": 1,
+    "explanation": "Samene har en helt egen tradisjonell sangstil som kalles for joik."
+  },
+  {
+    "number": 173,
+    "question": "Hva er Norges to største og viktigste eksportvarer?",
+    "options": [
+      "Tømmer og møbler",
+      "Energi (olje/gass) og fisk",
+      "Biler og elektronikk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norges økonomi er svært avhengig av eksport, og de to største næringene her er energi (fra Nordsjøen) og fisk."
+  },
+  {
+    "number": 174,
+    "question": "Hvorfor kjøper spesielt mange nordmenn elektriske biler (elbiler)?",
+    "options": [
+      "Bensinbiler er ulovlig i Norge.",
+      "Staten gir avgiftsfordeler for å oppmuntre til grønne valg.",
+      "Det er ikke lov å kjøre bensinbiler om vinteren."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å nå klimamålene sine i 'Det grønne skiftet', har staten gitt store avgiftsfordeler til de som kjøper elbil."
+  },
+  {
+    "number": 175,
+    "question": "I hvilken historisk periode levde vikingene?",
+    "options": [
+      "År 500-800",
+      "År 800-1050",
+      "År 1200-1400"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vikingtiden regnes å ha pågått for omtrent 1000 år siden, mellom år 800 og 1050."
+  },
+  {
+    "number": 176,
+    "question": "Hva ble slavene kalt i vikingtiden?",
+    "options": [
+      "Treller",
+      "Bønder",
+      "Høvdinger"
+    ],
+    "correctIndex": 0,
+    "explanation": "I det lagdelte vikingsamfunnet ble slavene på bunnen av samfunnet kalt treller."
+  },
+  {
+    "number": 177,
+    "question": "Hvilken dato markerer Norges nasjonaldag til minne om Grunnloven på Eidsvoll?",
+    "options": [
+      "9. april",
+      "8. mai",
+      "17. mai"
+    ],
+    "correctIndex": 2,
+    "explanation": "17. mai 1814 ble Norges Grunnlov skrevet under, og dette feires hvert år som nasjonaldagen."
+  },
+  {
+    "number": 178,
+    "question": "Hvilket år ble unionen med Sverige fredelig oppløst?",
+    "options": [
+      "1814",
+      "1905",
+      "1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge var i union med Sverige frem til 7. juni 1905, da unionen ble oppløst og Norge ble helt selvstendig."
+  },
+  {
+    "number": 179,
+    "question": "Hvilken dato markerer Frigjøringsdagen, da Norge ble fritt etter fem års okkupasjon?",
+    "options": [
+      "9. april 1940",
+      "17. mai 1945",
+      "8. mai 1945"
+    ],
+    "correctIndex": 2,
+    "explanation": "Den 8. mai 1945 kapitulerte tyskerne, og denne datoen feires i dag som Frigjøringsdagen."
+  },
+  {
+    "number": 180,
+    "question": "Hvilken hendelse i 1969 forvandlet Norges økonomi fullstendig?",
+    "options": [
+      "Man oppfant mobiltelefonen.",
+      "Man fant enorme mengder olje i Nordsjøen.",
+      "Norge ble medlem av EU."
+    ],
+    "correctIndex": 1,
+    "explanation": "Lille julaften 1969 gjorde man store funn av olje på Ekofisk-feltet, noe som gjorde Norge til et av verdens rikeste land."
+  },
+  {
+    "number": 181,
+    "question": "I hvilke to byer har Norge arrangert Vinter-OL?",
+    "options": [
+      "Tromsø og Bergen",
+      "Oslo og Lillehammer",
+      "Trondheim og Stavanger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge har arrangert Vinter-OL to ganger: Første gang i Oslo i 1952, og andre gang på Lillehammer i 1994."
+  },
+  {
+    "number": 182,
+    "question": "Hvilken forferdelig hendelse rammet Oslo og Utøya den 22. juli 2011?",
+    "options": [
+      "Et stort jordskjelv.",
+      "Et voldsomt og dødelig terrorangrep.",
+      "En stor brann i skogen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Den 22. juli 2011 ble Norge rammet av et politisk motivert terrorangrep hvor 77 mennesker ble drept."
+  },
+  {
+    "number": 183,
+    "question": "Hva kalles det når en stat har en konge eller dronning, men makten deres er begrenset av grunnloven?",
+    "options": [
+      "Absolutt monarki",
+      "Konstitusjonelt monarki",
+      "Republikk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge er et konstitusjonelt monarki. Det betyr at vi har en konge, men hans makt er sterkt begrenset og mest symbolsk."
+  },
+  {
+    "number": 184,
+    "question": "Hvilket organ i Norge har den lovgivende makten?",
+    "options": [
+      "Regjeringen",
+      "Høyesterett",
+      "Stortinget"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ifølge maktfordelingsprinsippet er det Stortinget, valgt av folket, som har makten til å vedta lover."
+  },
+  {
+    "number": 185,
+    "question": "Hvem er lederen for Regjeringen (den utøvende makten) i Norge?",
+    "options": [
+      "Kongen",
+      "Statsministeren",
+      "Høyesterettsjustitiarius"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regjeringen representerer den utøvende makten, og den ledes til daglig av Statsministeren."
+  },
+  {
+    "number": 186,
+    "question": "Hvor mange folkevalgte representanter sitter det på Stortinget?",
+    "options": [
+      "100",
+      "169",
+      "200"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stortinget består av nøyaktig 169 representanter som velges for fire år av gangen."
+  },
+  {
+    "number": 187,
+    "question": "Hvilken politisk side tilhører vanligvis partier som Arbeiderpartiet, SV og Rødt?",
+    "options": [
+      "Sentrum",
+      "Venstresiden (sosialistisk)",
+      "Høyresiden (konservativt)"
+    ],
+    "correctIndex": 1,
+    "explanation": "I det norske flerpartisystemet plasseres disse partiene på venstresiden av den politiske aksen."
+  },
+  {
+    "number": 188,
+    "question": "Hvem kan stemme ved lokalvalg (kommune- og fylkestingsvalg) selv om de ikke er norske statsborgere?",
+    "options": [
+      "Alle turister i landet.",
+      "Utenlandske statsborgere som har bodd lovlig i Norge i minst 3 år.",
+      "Bare utenlandske statsborgere over 30 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ved lokalvalg har utenlandske statsborgere stemmerett dersom de har vært bosatt i Norge i minimum tre år."
+  },
+  {
+    "number": 189,
+    "question": "Hva er hovedaktiviteten i gatene på Norges nasjonaldag?",
+    "options": [
+      "Militærparader med stridsvogner.",
+      "Barnetog med musikk, korps og flagg.",
+      "Store bilkortesjer."
+    ],
+    "correctIndex": 1,
+    "explanation": "Nasjonaldagen er sterkt fokusert på barn, og tradisjonen er å arrangere store barnetog fylt med musikk og korps i stedet for militærparader."
+  },
+  {
+    "number": 190,
+    "question": "Hva heter Norges nasjonalsang?",
+    "options": [
+      "Ja, vi elsker dette landet",
+      "Gud sign vår konge god",
+      "Norge i rødt, hvitt og blått"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nasjonalsangen som synges i togene på 17. mai heter 'Ja, vi elsker dette landet'."
+  },
+  {
+    "number": 191,
+    "question": "Hva innebærer begrepet 'universell utforming'?",
+    "options": [
+      "At alle bygninger skal ha samme farge.",
+      "At offentlige bygg og tjenester skal bygges slik at de er tilgjengelige for alle, inkludert funksjonshemmede.",
+      "At alle klær skal passe begge kjønn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dette prinsippet sikrer at samfunnet designes for å inkludere og være fysisk tilgjengelig for absolutt alle."
+  },
+  {
+    "number": 192,
+    "question": "Hva går pengene du betaler i skatt hovedsakelig til?",
+    "options": [
+      "Til Kongens private bankkonto.",
+      "Til å finansiere velferdsstaten, som sykehus, skoler og veier.",
+      "Til å bygge hoteller i utlandet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Skattesystemet i Norge eksisterer for å finansiere de felles godene i velferdsstaten."
+  },
+  {
+    "number": 193,
+    "question": "Hva er funksjonen til SIFOs referansebudsjett?",
+    "options": [
+      "Det bestemmer hvor mye du har lov til å bruke på mat.",
+      "Det viser en oversikt over hva som er vanlige forbruksutgifter for familier i Norge.",
+      "Det er statens budsjett for forsvaret."
+    ],
+    "correctIndex": 1,
+    "explanation": "SIFO lager budsjetter som gir en pekepinn på hva det normalt koster å leve i Norge, for å hjelpe folk med å planlegge økonomien."
+  },
+  {
+    "number": 194,
+    "question": "Hva må du som regel ha oppspart for å få et boliglån i en norsk bank?",
+    "options": [
+      "Depositum",
+      "Egenkapital",
+      "Kautionist"
+    ],
+    "correctIndex": 1,
+    "explanation": "For å få lån til å kjøpe bolig krever bankene at du stiller med egne oppsparte penger, kalt egenkapital."
+  },
+  {
+    "number": 195,
+    "question": "Hva fungerer som en økonomisk sikkerhet for utleieren når du leier en bolig?",
+    "options": [
+      "Et depositum",
+      "En innboforsikring",
+      "Et kredittkort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Når du signerer en leiekontrakt, må du ofte betale et depositum inn på en låst konto som trygghet for utleieren."
+  },
+  {
+    "number": 196,
+    "question": "Hvilken type forsikring dekker tingene dine dersom det brenner i leiligheten din?",
+    "options": [
+      "Livsforsikring",
+      "Ansvarsforsikring",
+      "Innboforsikring"
+    ],
+    "correctIndex": 2,
+    "explanation": "Innboforsikring dekker alle de løse tingene du har i hjemmet ditt mot for eksempel brann eller tyveri."
+  },
+  {
+    "number": 197,
+    "question": "Hvor mange dagers angrerett har forbrukere som hovedregel når de kjøper en vare på internett i Norge?",
+    "options": [
+      "7 dager",
+      "14 dager",
+      "30 dager"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norske forbrukerrettigheter gir deg normalt 14 dagers angrerett ved fjernkjøp, for eksempel over internett."
+  },
+  {
+    "number": 198,
+    "question": "Hva menes med kildesortering?",
+    "options": [
+      "At du deler opp søppelet ditt i ulike typer, for eksempel plast, papir og matavfall.",
+      "At du samler alt søppel i én stor pose.",
+      "At du sjekker hvilke nyhetskilder du leser på nett."
+    ],
+    "correctIndex": 0,
+    "explanation": "Kildesortering er en viktig miljøinnsats som innebærer at vi sorterer avfallet vårt før vi kaster det."
+  },
+  {
+    "number": 199,
+    "question": "Hva gjør du med farlig avfall som gamle batterier og kjemikalier?",
+    "options": [
+      "Du kaster det i restavfallet.",
+      "Du graver det ned i hagen.",
+      "Du leverer det på en egen gjenbruksstasjon."
+    ],
+    "correctIndex": 2,
+    "explanation": "Miljøgifter og farlig avfall skal aldri kastes i det vanlige søppelet, men leveres forsvarlig til en gjenbruksstasjon."
+  },
+  {
+    "number": 200,
+    "question": "Hvilken stor internasjonal avtale har Norge signert for å forplikte seg til å redusere klimagassutslipp?",
+    "options": [
+      "Svalbardtraktaten",
+      "Menneskerettighetsavtalen",
+      "Parisavtalen"
+    ],
+    "correctIndex": 2,
+    "explanation": "For å bekjempe de globale klimaendringene, har Norge signert Parisavtalen for å senke utslippene."
+  },
+  {
+    "number": 201,
+    "question": "Hvorfor er kildekritikk spesielt viktig når du leser informasjon på internett og sosiale medier?",
+    "options": [
+      "Fordi alt på internett er skrevet av staten.",
+      "For å kunne skille mellom ekte nyheter og falske nyheter.",
+      "Fordi internett koster penger."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kildekritikk er verktøyet vi bruker for å unngå å bli lurt av falske nyheter og feilinformasjon på nettet."
+  },
+  {
+    "number": 202,
+    "question": "Hva bør du gjøre hvis du vil legge ut et bilde av noen andre på sosiale medier?",
+    "options": [
+      "Legge det ut med en gang.",
+      "Sørge for å ha fått tillatelse (samtykke) fra personen først.",
+      "Redigere bildet først."
+    ],
+    "correctIndex": 1,
+    "explanation": "Personvernlovene i Norge krever at du har samtykke før du publiserer bilder av andre mennesker på internett."
+  },
+  {
+    "number": 203,
+    "question": "Hva kaller vi det når noen bruker press eller trusler for å hindre en person i å bestemme hvem de skal være venner med eller hvem de skal gifte seg med?",
+    "options": [
+      "Kulturforskjell",
+      "Omsorgssvikt",
+      "Negativ sosial kontroll"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negativ sosial kontroll er en form for overgrep hvor noen begrenser andres frihet til å bestemme over eget liv."
+  },
+  {
+    "number": 204,
+    "question": "Hvilken type hjelp gir Krisesenteret?",
+    "options": [
+      "Økonomisk støtte til de som er arbeidsledige.",
+      "Et gratis og trygt sted å bo for de som utsettes for vold eller overgrep.",
+      "Medisinsk behandling for alvorlige sykdommer."
+    ],
+    "correctIndex": 1,
+    "explanation": "Krisesenteret er et døgnåpent, gratis tilbud som tilbyr beskyttelse og råd til ofre for vold."
+  },
+  {
+    "number": 205,
+    "question": "Hvilken offentlig instans behandler søknader om oppholdstillatelse og familiegjenforening?",
+    "options": [
+      "NAV",
+      "Skatteetaten",
+      "Utlendingsdirektoratet (UDI)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Personer som ønsker å flytte til eller bli boende i Norge, må sende sine søknader til UDI."
+  },
+  {
+    "number": 206,
+    "question": "Hva slags dokumentasjon kreves ofte for å bevise at man ikke har begått alvorlig kriminalitet når man søker om statsborgerskap?",
+    "options": [
+      "En CV",
+      "En skattemelding",
+      "En politiattest"
+    ],
+    "correctIndex": 2,
+    "explanation": "En politiattest (vandel) er et vanlig krav for å bevise at man oppfyller lovens krav om god oppførsel."
+  },
+  {
+    "number": 207,
+    "question": "Hva er den offisielle tittelen på prøven som tester kunnskap om det norske samfunnet for å få statsborgerskap?",
+    "options": [
+      "Norskprøven",
+      "Samfunnskunnskapsprøven",
+      "Kulturtesten"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prøven som må bestås for å dokumentere kunnskap om politikk, historie og rettigheter kalles samfunnskunnskapsprøven."
+  },
+  {
+    "number": 208,
+    "question": "I hvilken sektor jobber du dersom du er ansatt direkte i en kommune eller fylkeskommune?",
+    "options": [
+      "Privat sektor",
+      "Offentlig sektor",
+      "Frivillig sektor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kommuner, fylkeskommuner og staten utgjør det som kalles for offentlig sektor."
+  },
+  {
+    "number": 209,
+    "question": "Hva står forkortelsen CV for når du søker jobb?",
+    "options": [
+      "Control value",
+      "Curriculum vitae",
+      "Center vision"
+    ],
+    "correctIndex": 1,
+    "explanation": "CV står for Curriculum vitae, som er latin og kan oversettes til 'livsløp'."
+  },
+  {
+    "number": 210,
+    "question": "Hva utgjør grunnlaget for formalkompetanse?",
+    "options": [
+      "Ting du har lært deg selv på fritiden.",
+      "Utdanning du kan bevise med vitnemål eller fagprøver.",
+      "Hvor lenge du har bodd i Norge."
+    ],
+    "correctIndex": 1,
+    "explanation": "Formalkompetanse refererer til dokumentert utdanning, som vitnemål og sertifikater."
+  },
+  {
+    "number": 211,
+    "question": "Hvis en arbeidstaker i Norge nekter å betale skatt på lønnen sin fordi det var en muntlig avtale, hva skjer da?",
+    "options": [
+      "Det er greit hvis avtalen var muntlig.",
+      "Arbeidstakeren begår ulovlig svart arbeid.",
+      "Staten betaler skatten for dem."
+    ],
+    "correctIndex": 1,
+    "explanation": "Både det å ikke ha en skriftlig kontrakt og å la være å betale skatt (svart arbeid) er strengt ulovlig."
+  },
+  {
+    "number": 212,
+    "question": "Er en skriftlig arbeidskontrakt noe arbeidsgiveren kan velge å la være å lage hvis jobben er kortvarig?",
+    "options": [
+      "Ja, under en måned krever ikke kontrakt.",
+      "Nei, alle som jobber har krav på skriftlig kontrakt uansett lengde.",
+      "Bare studenter trenger kontrakt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er lovpålagt at absolutt alle arbeidsforhold skal ha en skriftlig arbeidskontrakt fra første dag."
+  },
+  {
+    "number": 213,
+    "question": "Når fikk Norge sin første egne Grunnlov?",
+    "options": [
+      "1050",
+      "1814",
+      "1905"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grunnloven ble utformet og signert i 1814 på Eidsvoll."
+  },
+  {
+    "number": 214,
+    "question": "Hvilken oppgave har domstolene i den norske staten?",
+    "options": [
+      "De lager de nye lovene.",
+      "De har den dømmende makten.",
+      "De velger statsministeren."
+    ],
+    "correctIndex": 1,
+    "explanation": "I maktfordelingsprinsippet utgjør domstolene, med Høyesterett på toppen, den dømmende makten."
+  },
+  {
+    "number": 215,
+    "question": "Hva er Hovedstaden i Norge og hvor ligger det samiske parlamentet?",
+    "options": [
+      "Oslo og Karasjok",
+      "Bergen og Tromsø",
+      "Trondheim og Alta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hovedstaden i Norge er Oslo, mens Sametinget (det samiske parlamentet) ligger i Karasjok."
+  },
+  {
+    "number": 216,
+    "question": "Hva står forkortelsen HMS for i det norske arbeidslivet?",
+    "options": [
+      "Helse, mat og sikkerhet",
+      "Helse, miljø og sikkerhet",
+      "Hjelp, medisin og sykehus"
+    ],
+    "correctIndex": 1,
+    "explanation": "HMS står for Helse, miljø og sikkerhet, og er et lovpålagt arbeid for å forebygge skader og miljøforstyrrelser på en arbeidsplass."
+  },
+  {
+    "number": 217,
+    "question": "Hvor lang er vanligvis en prøvetid i en ny jobb i Norge?",
+    "options": [
+      "Inntil 3 måneder",
+      "Inntil 6 måneder",
+      "Inntil 12 måneder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er vanlig å ha en prøvetid på opptil 6 måneder for at både arbeidsgiver og arbeidstaker skal se om jobben passer."
+  },
+  {
+    "number": 218,
+    "question": "Kan en arbeidsgiver gi deg sparken (oppsigelse) uten grunn?",
+    "options": [
+      "Ja, når som helst.",
+      "Nei, det kreves en saklig grunn ifølge Arbeidsmiljøloven.",
+      "Bare hvis man er i en fagforening."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge har arbeidstakere et sterkt stillingsvern. Arbeidsgiveren må ha en saklig grunn for å si opp en ansatt."
+  },
+  {
+    "number": 219,
+    "question": "Hva er foreldrepenger?",
+    "options": [
+      "Penger staten betaler til alle besteforeldre.",
+      "Økonomisk støtte som erstatter lønnen din når du skal være hjemme med et nyfødt eller adoptert barn.",
+      "En premie man får for å få mange barn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Foreldrepenger sikrer inntekt for foreldre som er i permisjon for å være hjemme med små barn."
+  },
+  {
+    "number": 220,
+    "question": "Hva menes med 'fedrekvote' (ofte kalt pappaperm)?",
+    "options": [
+      "En andel av foreldrepermisjonen som er forbeholdt far eller medmor.",
+      "En ekstra skatt for menn.",
+      "Tid faren må jobbe ekstra for å betale for barnet."
+    ],
+    "correctIndex": 0,
+    "explanation": "For å fremme likestilling er en bestemt del av foreldrepermisjonen (for tiden 15 uker) forbeholdt faren/medmoren."
+  },
+  {
+    "number": 221,
+    "question": "Hva er barnetrygd?",
+    "options": [
+      "Penger barna tjener på å jobbe.",
+      "En månedlig økonomisk støtte staten gir til alle som har barn under 18 år.",
+      "En skatt foreldre må betale for barna sine."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnetrygden skal bidra til å dekke utgifter som følger med det å ha barn, og utbetales månedlig frem til barnet fyller 18 år."
+  },
+  {
+    "number": 222,
+    "question": "Hva får kvinner som føder barn, men som ikke har tjent opp rett til foreldrepenger?",
+    "options": [
+      "De får ingenting.",
+      "De får en skatteøkning.",
+      "De får en engangsstønad fra NAV."
+    ],
+    "correctIndex": 2,
+    "explanation": "Engangsstønad er et skattefritt engangsbeløp som gis til mødre som ikke har jobbet lenge nok til å få foreldrepenger."
+  },
+  {
+    "number": 223,
+    "question": "Når kan du ha rett til dagpenger fra NAV?",
+    "options": [
+      "Når du har ferie.",
+      "Når du blir helt eller delvis arbeidsledig.",
+      "Når du er sykemeldt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dagpenger er en økonomisk støtte som erstatter deler av arbeidsinntekten din dersom du mister jobben."
+  },
+  {
+    "number": 224,
+    "question": "Hva står AAP for i velferdssystemet?",
+    "options": [
+      "Arbeidsavklaringspenger",
+      "Allmenn alderspensjon",
+      "Arbeidsgiveravgift"
+    ],
+    "correctIndex": 0,
+    "explanation": "AAP er en støtte du kan få fra NAV hvis evnen din til å jobbe er redusert på grunn av sykdom eller skade."
+  },
+  {
+    "number": 225,
+    "question": "Hvilket nødnummer ringer du for å varsle brannvesenet?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nødnummeret 110 går direkte til brannvesenet ved brann eller alvorlige ulykker."
+  },
+  {
+    "number": 226,
+    "question": "Hvilket nødnummer ringer du for å få øyeblikkelig hjelp fra politiet?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 1,
+    "explanation": "112 er nødnummeret til politiet. Det brukes ved fare for liv og helse, eller ved alvorlige lovbrudd i øyeblikket."
+  },
+  {
+    "number": 227,
+    "question": "Hva er merverdiavgift (moms/MVA)?",
+    "options": [
+      "En skatt arbeidsgiveren betaler på lønnen din.",
+      "En avgift (skatt) som legges på nesten alle varer og tjenester vi kjøper.",
+      "En årsavgift for å eie bil."
+    ],
+    "correctIndex": 1,
+    "explanation": "Merverdiavgift er en skatt til staten som er inkludert i prisen på varer og tjenester du kjøper i butikken."
+  },
+  {
+    "number": 228,
+    "question": "Hva er den generelle aldersgrensen for å ha stemmerett ved valg i Norge?",
+    "options": [
+      "Man må ha fylt 16 år innen valgdagen.",
+      "Man må fylle 18 år innen utgangen av valgåret.",
+      "Man må ha fylt 21 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Stemmerettsalderen i Norge er 18 år. Du har stemmerett i det året du fyller 18."
+  },
+  {
+    "number": 229,
+    "question": "Kan en person uten norsk statsborgerskap stemme ved Stortingsvalg?",
+    "options": [
+      "Nei, kun norske statsborgere har stemmerett ved Stortingsvalg.",
+      "Ja, hvis de har bodd i Norge i 3 år.",
+      "Ja, alle som bor i Norge kan stemme."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stortingsvalget bestemmer landets regjering, og her er det kun norske statsborgere som har stemmerett."
+  },
+  {
+    "number": 230,
+    "question": "Hva er en av hovedoppgavene til fylkeskommunen?",
+    "options": [
+      "Å drive barneskoler.",
+      "Å drive videregående skoler og fylkesveier.",
+      "Å styre landets militære forsvar."
+    ],
+    "correctIndex": 1,
+    "explanation": "Fylkeskommunen har ansvaret for store regionale oppgaver som videregående opplæring, fylkesveier og tannhelsetjenester."
+  },
+  {
+    "number": 231,
+    "question": "Hva er en av hovedoppgavene til kommunen?",
+    "options": [
+      "Å styre politiet.",
+      "Å drive sykehusene.",
+      "Å drive grunnskoler, barnehager og eldreomsorg."
+    ],
+    "correctIndex": 2,
+    "explanation": "Kommunen har ansvar for de nære velferdstjenestene, som barneskole, ungdomsskole og sykehjem."
+  },
+  {
+    "number": 232,
+    "question": "Hva er tittelen til den øverste politiske lederen i en kommune?",
+    "options": [
+      "Statsminister",
+      "Ordfører",
+      "Rådmann"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ordføreren er den valgte politikeren som leder kommunestyret og representerer kommunen utad."
+  },
+  {
+    "number": 233,
+    "question": "Hva er tittelen til sjefen for Norges regjering?",
+    "options": [
+      "Statsminister",
+      "President",
+      "Kansler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statsministeren er regjeringens leder og den mektigste politikeren i landet."
+  },
+  {
+    "number": 234,
+    "question": "Hvordan dannes en regjering i Norge?",
+    "options": [
+      "Kongen velger fritt hvem han vil.",
+      "Det partiet eller de partiene som får flertall eller støtte i Stortinget, danner regjering.",
+      "Domstolene utpeker regjeringen."
+    ],
+    "correctIndex": 1,
+    "explanation": "På grunn av parlamentarismen må regjeringen dannes av partier som har støtte fra et flertall i Stortinget."
+  },
+  {
+    "number": 235,
+    "question": "Hva er et mistillitsforslag?",
+    "options": [
+      "Når folket stemmer for å avsette kongen.",
+      "Når Stortinget stemmer for at regjeringen må gå av fordi de ikke lenger har tillit.",
+      "Når regjeringen sparker en ordfører."
+    ],
+    "correctIndex": 1,
+    "explanation": "Hvis flertallet i Stortinget vedtar et mistillitsforslag mot regjeringen (eller en enkelt statsråd), må de gå av."
+  },
+  {
+    "number": 236,
+    "question": "Hva kalles det når regjeringen truer med å gå av hvis Stortinget ikke stemmer for regjeringens forslag?",
+    "options": [
+      "Mistillitsforslag",
+      "Kabinettsspørsmål",
+      "Veto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regjeringen kan stille kabinettsspørsmål for å presse Stortinget: 'Enten vedtar dere saken, eller så slutter vi.'"
+  },
+  {
+    "number": 237,
+    "question": "Hva betyr det at Norge styres etter parlamentarismen?",
+    "options": [
+      "At kongen bestemmer alt.",
+      "At vi har direkte demokrati.",
+      "At regjeringen må ha støtte fra flertallet i Stortinget for å beholde makten."
+    ],
+    "correctIndex": 2,
+    "explanation": "Parlamentarisme er det politiske systemet der Stortinget (parlamentet) har den reelle makten over regjeringen."
+  },
+  {
+    "number": 238,
+    "question": "Hvilket år ble parlamentarismen innført i Norge?",
+    "options": [
+      "1814",
+      "1884",
+      "1905"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parlamentarismen ble innført i 1884, noe som tok makten fra kongen og ga den til det folkevalgte Stortinget."
+  },
+  {
+    "number": 239,
+    "question": "Hvem ble Norges første statsminister da parlamentarismen ble innført i 1884?",
+    "options": [
+      "Christian Michelsen",
+      "Einar Gerhardsen",
+      "Johan Sverdrup"
+    ],
+    "correctIndex": 2,
+    "explanation": "Venstres leder Johan Sverdrup regnes som parlamentarismens far og ble Norges første moderne statsminister."
+  },
+  {
+    "number": 240,
+    "question": "Når fikk kvinner allmenn stemmerett i Norge?",
+    "options": [
+      "1814",
+      "1913",
+      "1945"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge var et av de første landene i verden til å gi kvinner allmenn stemmerett i år 1913."
+  },
+  {
+    "number": 241,
+    "question": "Hvilket år ble unionen mellom Norge og Sverige oppløst?",
+    "options": [
+      "1814",
+      "1905",
+      "1940"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge var i en personalunion med Sverige frem til 1905, da landet endelig ble en helt selvstendig nasjon."
+  },
+  {
+    "number": 242,
+    "question": "Hvem ble valgt til Norges første konge etter unionsoppløsningen i 1905?",
+    "options": [
+      "Kong Haakon VII",
+      "Kong Olav V",
+      "Kong Harald V"
+    ],
+    "correctIndex": 0,
+    "explanation": "Den danske prins Carl ble valgt til Norges konge og tok navnet Haakon VII."
+  },
+  {
+    "number": 243,
+    "question": "Hva heter den nåværende kongen i Norge?",
+    "options": [
+      "Kong Olav V",
+      "Kong Haakon VII",
+      "Kong Harald V"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kong Harald V tok over som konge i 1991 etter at faren hans, Kong Olav V, døde."
+  },
+  {
+    "number": 244,
+    "question": "Hvem har stemmerett ved valget til Sametinget?",
+    "options": [
+      "Alle innbyggere i Nord-Norge.",
+      "Kun de som står innskrevet i Sametingets valgmanntall.",
+      "Alle norske statsborgere."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å stemme på representanter til Sametinget, må man bevise samisk tilhørighet og melde seg inn i valgmanntallet."
+  },
+  {
+    "number": 245,
+    "question": "Hva er 'Sápmi'?",
+    "options": [
+      "Det samiske ordet for snø.",
+      "Det historiske bosettingsområdet til samene på tvers av Norge, Sverige, Finland og Russland.",
+      "Samenes tradisjonelle klesdrakt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sápmi er navnet på de områdene der samene tradisjonelt har bodd gjennom historien."
+  },
+  {
+    "number": 246,
+    "question": "Når feires samenes nasjonaldag?",
+    "options": [
+      "6. februar",
+      "17. mai",
+      "24. desember"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samenes nasjonaldag feires den 6. februar til minne om det første samiske landsmøtet i Trondheim i 1917."
+  },
+  {
+    "number": 247,
+    "question": "Hvilken folkegruppe som bor nord i landet er anerkjent som nasjonal minoritet og har historiske røtter i Finland?",
+    "options": [
+      "Kvenene",
+      "Skogfinner",
+      "Samer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kvenene har innvandret fra Nord-Finland til Nord-Norge fra 1700-tallet og har status som nasjonal minoritet."
+  },
+  {
+    "number": 248,
+    "question": "Hvor mange grupper er offisielt anerkjent som nasjonale minoriteter i Norge?",
+    "options": [
+      "2 grupper",
+      "5 grupper",
+      "10 grupper"
+    ],
+    "correctIndex": 1,
+    "explanation": "De 5 nasjonale minoritetene er kvener/norskfinner, skogfinner, jøder, romanifolk/tatere og romer."
+  },
+  {
+    "number": 249,
+    "question": "Hva er reglene for verneplikt (militærtjeneste) i Norge i dag?",
+    "options": [
+      "Bare menn har verneplikt.",
+      "Det er helt frivillig for alle.",
+      "Både kvinner og menn har allmenn verneplikt."
+    ],
+    "correctIndex": 2,
+    "explanation": "I 2015 innførte Norge, som et av få land i verden, obligatorisk verneplikt for både kvinner og menn."
+  },
+  {
+    "number": 250,
+    "question": "Hva er aldersgrensen for å kjøpe tobakk, snus og e-sigaretter i Norge?",
+    "options": [
+      "16 år",
+      "18 år",
+      "20 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Det er en streng 18-årsgrense for alt salg av tobakksprodukter i Norge."
+  },
+  {
+    "number": 251,
+    "question": "Hvorfor anbefales det sterkt at samboere oppretter en 'samboeravtale'?",
+    "options": [
+      "For at staten skal vite hvor de bor.",
+      "Fordi loven ikke gir samboere samme økonomiske beskyttelse som ektefeller dersom forholdet tar slutt.",
+      "Fordi det er påbudt ved lov."
+    ],
+    "correctIndex": 1,
+    "explanation": "Samboere mangler mange av de juridiske rettighetene ektefeller har, derfor er en samboeravtale viktig for økonomien."
+  },
+  {
+    "number": 252,
+    "question": "Hva betyr det å ha 'felleseie' i et ekteskap?",
+    "options": [
+      "At all formuen tilhører staten.",
+      "At verdiene i utgangspunktet skal deles likt mellom ektefellene hvis de skiller seg.",
+      "At de må dele alt med naboene sine."
+    ],
+    "correctIndex": 1,
+    "explanation": "Hovedregelen for gifte er felleseie, som sikrer en lik fordeling av verdiene ved en eventuell skilsmisse."
+  },
+  {
+    "number": 253,
+    "question": "Hva er 'særeie' i et ekteskap?",
+    "options": [
+      "Noe en av ektefellene eier som ikke skal deles med den andre ved skilsmisse.",
+      "Penger man sparer til barna.",
+      "En felles bankkonto for begge."
+    ],
+    "correctIndex": 0,
+    "explanation": "Særeie avtales gjerne gjennom en ektepakt, og sørger for at bestemte eiendeler holdes utenfor delingen."
+  },
+  {
+    "number": 254,
+    "question": "Hvor lenge må ektefeller i Norge normalt være separert før de kan bli formelt skilt?",
+    "options": [
+      "1 måned",
+      "1 år",
+      "3 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "For å få skilsmisse i Norge må man som hovedregel først ha vært separert i ett år."
+  },
+  {
+    "number": 255,
+    "question": "Hva er obligatorisk for foreldre med barn under 16 år før de kan få innvilget separasjon og skilsmisse?",
+    "options": [
+      "De må møte til mekling for å lage en avtale om barna.",
+      "De må selge huset sitt.",
+      "De må betale en avgift til staten."
+    ],
+    "correctIndex": 0,
+    "explanation": "For å sikre barnets beste krever staten at foreldre møter til obligatorisk mekling på familievernkontoret."
+  },
+  {
+    "number": 256,
+    "question": "Hva menes med begrepet 'delt fast bosted' for barn av skilte foreldre?",
+    "options": [
+      "At barnet bor på barnehjem.",
+      "At barnet bor omtrent like mye hos begge foreldrene etter samlivsbruddet.",
+      "At barnet bor hos besteforeldrene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Delt fast bosted betyr at foreldrene har barnet hos seg tilnærmet like mye, for eksempel en uke hver."
+  },
+  {
+    "number": 257,
+    "question": "Hvem har en lovfestet rett til størstedelen av arven (pliktdelsarv) når en person dør?",
+    "options": [
+      "Staten",
+      "Personens barn (livsarvinger)",
+      "Personens venner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven sikrer at to tredjedeler av formuen går til barn (livsarvinger). Dette kan ikke velges bort i et testament."
+  },
+  {
+    "number": 258,
+    "question": "Er flerkoneri (polygami) tillatt i Norge?",
+    "options": [
+      "Nei, bigami og polygami er ulovlig og straffbart.",
+      "Ja, men bare av religiøse årsaker.",
+      "Ja, hvis begge konene samtykker."
+    ],
+    "correctIndex": 0,
+    "explanation": "I Norge kan man kun være gift med én person av gangen."
+  },
+  {
+    "number": 259,
+    "question": "Hva slags hjelp gir et Krisesenter?",
+    "options": [
+      "De gir lån til folk med pengeproblemer.",
+      "De tilbyr et trygt og hemmelig sted å bo for personer som utsettes for vold i nære relasjoner.",
+      "De fikser biler som har krasjet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Krisesentre finnes over hele landet for å beskytte og veilede ofre for vold fra familiemedlemmer."
+  },
+  {
+    "number": 260,
+    "question": "Kan foreldre straffes i Norge hvis de sender døtrene sine til utlandet for å bli omskåret (kjønnslemlestelse)?",
+    "options": [
+      "Nei, loven gjelder ikke i utlandet.",
+      "Ja, kjønnslemlestelse er strengt ulovlig og straffbart selv om det skjer i et annet land.",
+      "Bare hvis datteren er over 18 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norsk lov forbyr alle former for kjønnslemlestelse, og straffer også de som medvirker til at det skjer i utlandet."
+  },
+  {
+    "number": 261,
+    "question": "Hva er aldersgrensen for å ta førerkort for bil (klasse B) i Norge?",
+    "options": [
+      "16 år",
+      "18 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Du kan begynne å øvelseskjøre med bil fra du er 16 år, men selve førerkortet kan du ta først når du er 18 år."
+  },
+  {
+    "number": 262,
+    "question": "Hva er aldersgrensen for å kjøre moped (klasse AM) i Norge?",
+    "options": [
+      "15 år",
+      "16 år",
+      "18 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "For lettere kjøretøy som moped er aldersgrensen for førerkort 16 år."
+  },
+  {
+    "number": 263,
+    "question": "Hva er den generelle fartsgrensen i tettbygde strøk (byer/boligområder) hvis det ikke er satt opp skilt?",
+    "options": [
+      "30 km/t",
+      "50 km/t",
+      "80 km/t"
+    ],
+    "correctIndex": 1,
+    "explanation": "Den generelle fartsgrensen innenfor tettbygd strøk er 50 km/t."
+  },
+  {
+    "number": 264,
+    "question": "Hva er den generelle fartsgrensen utenfor tettbygde strøk (landevei) hvis det ikke er satt opp skilt?",
+    "options": [
+      "70 km/t",
+      "80 km/t",
+      "90 km/t"
+    ],
+    "correctIndex": 1,
+    "explanation": "Når det ikke er skiltet, gjelder den generelle regelen om 80 km/t utenfor tettbygde strøk."
+  },
+  {
+    "number": 265,
+    "question": "Er det påbudt å bruke bilbelte for passasjerer i baksetet?",
+    "options": [
+      "Nei, bare for sjåføren og den i forsetet.",
+      "Ja, det er påbudt for alle i bilen uansett hvor de sitter.",
+      "Bare for barn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Bruk av sikkerhetsbelte er påbudt ved lov for samtlige personer i en bil."
+  },
+  {
+    "number": 266,
+    "question": "Hvilket stort hav ligger langs vestkysten av Norge?",
+    "options": [
+      "Barentshavet",
+      "Norskehavet (del av Atlanterhavet)",
+      "Østersjøen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kysten av Vestlandet vender ut mot Norskehavet, som gir rike fiskeressurser."
+  },
+  {
+    "number": 267,
+    "question": "Hvilket havområde skiller Sør-Norge fra Danmark?",
+    "options": [
+      "Skagerrak",
+      "Bottenvika",
+      "Kattegat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Havområdet sør for Norge, mellom Norge, Sverige og Danmark, kalles Skagerrak."
+  },
+  {
+    "number": 268,
+    "question": "Hvilket hav ligger aller lengst nord for Norge?",
+    "options": [
+      "Middelhavet",
+      "Barentshavet",
+      "Svartehavet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nord for Finnmark, mot Arktis, ligger det iskalde Barentshavet."
+  },
+  {
+    "number": 269,
+    "question": "Hvilke tre land har Norge landegrense til?",
+    "options": [
+      "Sverige, Danmark og Island",
+      "Sverige, Finland og Tyskland",
+      "Sverige, Finland og Russland"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norge deler den lengste grensen med Sverige i øst, og kortere grenser med Finland og Russland i nordøst."
+  },
+  {
+    "number": 270,
+    "question": "Hva er Norges (og Europas) lengste og dypeste fjord?",
+    "options": [
+      "Geirangerfjorden",
+      "Sognefjorden",
+      "Hardangerfjorden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sognefjorden skjærer over 200 kilometer inn i landet og er mer enn 1300 meter dyp."
+  },
+  {
+    "number": 271,
+    "question": "Hvilken norsk by går ofte under kallenavnet 'Nordens Paris'?",
+    "options": [
+      "Bodø",
+      "Tromsø",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tromsø kalles 'Nordens Paris' på grunn av sitt yrende byliv og internasjonale miljø langt nord."
+  },
+  {
+    "number": 272,
+    "question": "I hvilken stor norsk by ligger katedralen Nidarosdomen?",
+    "options": [
+      "Trondheim",
+      "Bergen",
+      "Oslo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nidarosdomen er Norges viktigste kirke og ligger i Trondheim. Her ble Norges konger kronet."
+  },
+  {
+    "number": 273,
+    "question": "Hvilken norsk by er kjent for de fargerike trehusene på 'Bryggen' som står på UNESCOs verdensarvliste?",
+    "options": [
+      "Stavanger",
+      "Ålesund",
+      "Bergen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bergen var en viktig handelsby for Hansaforbundet i middelalderen, og Bryggen er et bevis på dette."
+  },
+  {
+    "number": 274,
+    "question": "Hva heter Norges største øy, dersom vi ikke regner med øyene på Svalbard?",
+    "options": [
+      "Senja",
+      "Karmøy",
+      "Hinnøya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hinnøya i Nord-Norge er den største øya på det norske fastlandet."
+  },
+  {
+    "number": 275,
+    "question": "Hva kalles naturfenomenet der solen aldri går ned under horisonten på sommeren i Nord-Norge?",
+    "options": [
+      "Mørketid",
+      "Nordlys",
+      "Midnattssol"
+    ],
+    "correctIndex": 2,
+    "explanation": "På grunn av jordens helning opplever områder nord for polarsirkelen dager om sommeren der solen aldri går ned, kalt midnattssol."
+  },
+  {
+    "number": 276,
+    "question": "Hva er årsaken til mørketiden i Nord-Norge?",
+    "options": [
+      "Store fjell skygger for sola.",
+      "Jordaksens helning gjør at solen ikke kommer over horisonten om vinteren.",
+      "Det regner nesten hver dag."
+    ],
+    "correctIndex": 1,
+    "explanation": "Om vinteren peker den nordlige halvkule bort fra sola, noe som skaper uker med mørketid nord for polarsirkelen."
+  },
+  {
+    "number": 277,
+    "question": "Hva er navnet på den største isbreen på det europeiske fastlandet, som ligger i Norge?",
+    "options": [
+      "Svartisen",
+      "Folgefonna",
+      "Jostedalsbreen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jostedalsbreen i Vestland fylke er den største isbreen i Fastlands-Europa."
+  },
+  {
+    "number": 278,
+    "question": "Hvilken havstrøm bidrar til at Norge har et mye mildere og varmere klima enn forventet så langt nord?",
+    "options": [
+      "Polhavstrømmen",
+      "Golfstrømmen",
+      "Nordsjøstrømmen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Golfstrømmen fører varmt vann fra Mexicogolfen opp langs kysten av Norge og hindrer at kysten fryser til is."
+  },
+  {
+    "number": 279,
+    "question": "Hvem var Edvard Munch?",
+    "options": [
+      "En norsk statsminister.",
+      "En verdenskjent norsk maler og grafiker.",
+      "En berømt skuespiller."
+    ],
+    "correctIndex": 1,
+    "explanation": "Munch er Norges mest berømte kunstner gjennom tidene, anerkjent for sine uttrykksfulle malerier."
+  },
+  {
+    "number": 280,
+    "question": "Hvilket verdenskjent maleri er Edvard Munchs mest kjente verk?",
+    "options": [
+      "Skrik (The Scream)",
+      "Solsikker",
+      "Brudeferden i Hardanger"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Skrik' finnes i flere versjoner og er et av verdens mest ikoniske og gjenkjennelige kunstverk."
+  },
+  {
+    "number": 281,
+    "question": "Hvem var Henrik Ibsen?",
+    "options": [
+      "En kjent popstjerne.",
+      "Norges mest kjente forfatter og dramatiker.",
+      "Oppdageren av Nordpolen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Henrik Ibsen skrev teaterstykker på 1800-tallet og regnes som det moderne dramaets far i verdenslitteraturen."
+  },
+  {
+    "number": 282,
+    "question": "Hvilket berømt teaterstykke skrev Henrik Ibsen om kvinnen Nora som forlater mann og barn for å finne seg selv?",
+    "options": [
+      "Peer Gynt",
+      "Et dukkehjem",
+      "Villanden"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Et dukkehjem' skapte enorm debatt i Europa da det kom ut i 1879 på grunn av sin kritikk av kjønnsrollene."
+  },
+  {
+    "number": 283,
+    "question": "Hvem var Edvard Grieg?",
+    "options": [
+      "En kjent norsk komponist som lagde klassisk musikk.",
+      "En forfatter.",
+      "En fotballspiller."
+    ],
+    "correctIndex": 0,
+    "explanation": "Grieg er Norges største komponist, og han hentet mye av inspirasjonen sin fra norsk natur og folkemusikk."
+  },
+  {
+    "number": 284,
+    "question": "Hvilken norsk forfatter vant Nobelprisen i litteratur i 1920 for boken 'Markens Grøde'?",
+    "options": [
+      "Bjørnstjerne Bjørnson",
+      "Knut Hamsun",
+      "Jo Nesbø"
+    ],
+    "correctIndex": 1,
+    "explanation": "Knut Hamsun vant Nobelprisen, men ble senere omstridt for å ha støttet nazistene under 2. verdenskrig."
+  },
+  {
+    "number": 285,
+    "question": "Hvilken norsk kvinnelig forfatter vant Nobelprisen i litteratur i 1928, spesielt for sine romaner fra middelalderen (Kristin Lavransdatter)?",
+    "options": [
+      "Sigrid Undset",
+      "Amalie Skram",
+      "Gro Harlem Brundtland"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sigrid Undset vant nobelprisen for sine detaljerte skildringer av livet i Norden i middelalderen."
+  },
+  {
+    "number": 286,
+    "question": "I hvilken by blir Nobels fredspris delt ut hvert år?",
+    "options": [
+      "Stockholm",
+      "Oslo",
+      "København"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mens de andre nobelprisene deles ut i Sverige, deles Fredsprisen alltid ut i Oslo Rådhus i Norge."
+  },
+  {
+    "number": 287,
+    "question": "Hvem bestemmer hvem som skal vinne Nobels fredspris?",
+    "options": [
+      "Kongen av Norge",
+      "Statsministeren",
+      "Den Norske Nobelkomite, utnevnt av Stortinget"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alfred Nobel bestemte i sitt testament at en komité utnevnt av det norske Stortinget skal velge vinneren av Fredsprisen."
+  },
+  {
+    "number": 288,
+    "question": "Hvem var Fridtjof Nansen?",
+    "options": [
+      "En konge i vikingtiden.",
+      "En berømt polarforsker, vitenskapsmann og diplomat som vant Nobels fredspris.",
+      "Oppfinneren av ostehøvelen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Nansen er en nasjonalhelt kjent for sine ishavsekspedisjoner, men vant Fredsprisen i 1922 for sitt enorme humanitære arbeid for flyktninger."
+  },
+  {
+    "number": 289,
+    "question": "Hva var 'svartedauden' i Norges historie?",
+    "options": [
+      "En spesielt kald vinter.",
+      "En pest-epidemi som kom i 1349 og drepte omtrent halvparten av Norges befolkning.",
+      "En krig mot svenskene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Svartedauden, eller byllepesten, raserte hele Europa og svekket Norge så mye at vi mistet selvstendigheten vår i mange århundrer."
+  },
+  {
+    "number": 290,
+    "question": "Hva var 'Kalmarunionen'?",
+    "options": [
+      "En handelsavtale for fisk.",
+      "En politisk union mellom kongedømmene Danmark, Norge og Sverige, opprettet i 1397.",
+      "En avtale med EU."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kalmarunionen samlet de tre nordiske landene under én felles monark, styrt fra Danmark."
+  },
+  {
+    "number": 291,
+    "question": "Hvor lenge lå Norge under dansk styre (ofte kalt '400-årsnatten')?",
+    "options": [
+      "Ca 100 år",
+      "Ca 200 år",
+      "Ca 400 år (fra 1380 til 1814)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norge var den svakeste parten og ble styrt fra København i Danmark i over 400 år frem til Kielfreden i 1814."
+  },
+  {
+    "number": 292,
+    "question": "Hva betyr det livssynet som kalles 'humanisme'?",
+    "options": [
+      "Troen på flere naturguder.",
+      "Et livssyn som setter mennesket, fornuft og menneskerettigheter i sentrum, uten at det er basert på religion.",
+      "Å tro at universet ble skapt på 7 dager."
+    ],
+    "correctIndex": 1,
+    "explanation": "Den verdslige (ikke-religiøse) humanismen danner i dag et viktig grunnlag i det norske samfunnet sammen med den kristne arven."
+  },
+  {
+    "number": 293,
+    "question": "Hva betyr det at en stat er 'livssynsnøytral'?",
+    "options": [
+      "At staten ikke favoriserer én spesiell religion og gir alle rett til å tro på det de vil.",
+      "At religion er forbudt i landet.",
+      "At bare statskirken er tillatt."
+    ],
+    "correctIndex": 0,
+    "explanation": "Etter 2012 skiller Norge mellom stat og kirke, noe som gjør at staten i praksis skal behandle alle religioner og livssyn likt."
+  },
+  {
+    "number": 294,
+    "question": "Hva er gratisprinsippet i den norske skolen?",
+    "options": [
+      "At lærere jobber gratis.",
+      "At all offentlig grunnskoleopplæring og videregående skole er helt gratis for elevene.",
+      "At man ikke trenger å kjøpe mat i friminuttene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven sier at utdanning i offentlige skoler skal være gratis, for at alle skal ha lik rett til utdanning uansett økonomi."
+  },
+  {
+    "number": 295,
+    "question": "Hva er utstyrsstipend?",
+    "options": [
+      "Penger man får av foreldrene til klær.",
+      "En pengestøtte fra Lånekassen til alle videregåendeelever med ungdomsrett, for å kjøpe PC og skolebøker.",
+      "En premie for gode karakterer."
+    ],
+    "correctIndex": 1,
+    "explanation": "Uansett hva foreldrene dine tjener, har du rett på dette stipendet fra staten når du går på vgs, og det skal ikke betales tilbake."
+  },
+  {
+    "number": 296,
+    "question": "Hva betyr det å ha 'ungdomsrett'?",
+    "options": [
+      "Rett til å kjøre bil når man fyller 16 år.",
+      "Lovfestet rett til tre års videregående opplæring for ungdom mellom 15 og 24 år.",
+      "Rett til å stemme når man er 16 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ungdomsretten sikrer at alle som har fullført ungdomsskolen har krav på plass i videregående utdanning."
+  },
+  {
+    "number": 297,
+    "question": "Hva er en 'friskole' (ofte kalt privatskole) i Norge?",
+    "options": [
+      "En skole ute i skogen.",
+      "En skole drevet av private eiere (for eksempel trossamfunn eller pedagogiske alternativer) som ofte krever skolepenger.",
+      "En skole der elevene ikke har timer."
+    ],
+    "correctIndex": 1,
+    "explanation": "Friskoler eies ikke av stat eller kommune, mottar statstilskudd, men kan kreve at elevene betaler skolepenger."
+  },
+  {
+    "number": 298,
+    "question": "Når du kildesorterer hjemme, hvor kaster du rene syltetøyglass og hermetikkbokser?",
+    "options": [
+      "I restavfallet.",
+      "I matavfallet.",
+      "I egne dunker eller returpunkter for glass- og metallemballasje."
+    ],
+    "correctIndex": 2,
+    "explanation": "Glass og metall skal sorteres ut slik at materialene kan smeltes om og brukes på nytt, i tråd med miljøreglene."
+  },
+  {
+    "number": 299,
+    "question": "Hva er 'pant' på en flaske?",
+    "options": [
+      "Selve innholdet i flasken.",
+      "En ekstra avgift du betaler i kassen, som du får tilbake i penger når du returnerer flasken til butikken.",
+      "Merket på flasken som viser at den er sunn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pantesystemet sikrer at nordmenn resirkulerer de aller fleste tomme plastflasker og drikkebokser i bytte mot penger."
+  },
+  {
+    "number": 300,
+    "question": "I de fleste dagligvarebutikker kan du pante flasker. Hva får du vanligvis pantepengene utbetalt som?",
+    "options": [
+      "Sjokolade",
+      "En pantelapp med en sum du kan bruke til å betale for varer i butikken.",
+      "Lodd i et statlig lotteri."
+    ],
+    "correctIndex": 1,
+    "explanation": "Automaten gir deg en pantelapp med en strekkode som du leverer i kassen for å trekke fra beløpet på det du kjøper."
+  },
+  {
+    "number": 301,
+    "question": "Hva er Vinmonopolet?",
+    "options": [
+      "Et brettspill.",
+      "Den eneste butikkjeden i Norge, eid av staten, som har lov til å selge vin og sprit.",
+      "Et sted hvor man produserer vin."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å begrense alkoholforbruket i befolkningen, har den norske staten et monopol (Vinmonopolet) på salg av sterk alkohol."
+  },
+  {
+    "number": 302,
+    "question": "Hvor sterk alkohol er det lov for vanlige matbutikker i Norge å selge (for eksempel øl og cider)?",
+    "options": [
+      "Opp til 4,7 % alkohol",
+      "Opp til 10,0 % alkohol",
+      "Opp til 15,0 % alkohol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Matbutikker har kun lov til å selge alkoholholdig drikke med opptil 4,7 volumprosent alkohol."
+  },
+  {
+    "number": 303,
+    "question": "Hva er den nasjonale tidsgrensen for når salget av øl slutter i matbutikkene på vanlige hverdager (mandag til fredag)?",
+    "options": [
+      "Kl. 18.00",
+      "Kl. 20.00",
+      "Kl. 23.00"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven sier at alkoholsalget i vanlige butikker stenger klokken 20.00 på hverdager."
+  },
+  {
+    "number": 304,
+    "question": "Hva er den nasjonale tidsgrensen for når salget av øl slutter i matbutikkene på lørdager?",
+    "options": [
+      "Kl. 15.00",
+      "Kl. 18.00",
+      "Kl. 20.00"
+    ],
+    "correctIndex": 1,
+    "explanation": "På lørdager og dager før helligdager slutter salget av alkohol tidlig, presis klokken 18.00."
+  },
+  {
+    "number": 305,
+    "question": "Hva er 'Janteloven'?",
+    "options": [
+      "Norges grunnlov fra 1814.",
+      "En uskreven, kulturell 'regel' som sier at du ikke skal tro du er noe bedre enn alle andre.",
+      "Loven om hvordan man betaler skatt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Janteloven er et velkjent begrep i Skandinavia, hentet fra en roman, som reflekterer småbylivet der ingen skal skille seg ut eller skryte."
+  },
+  {
+    "number": 306,
+    "question": "Hva feires den 23. juni i Norge, vanligvis med et stort bål langs kysten?",
+    "options": [
+      "Sankthansaften (Midtsommer)",
+      "Pinse",
+      "Olavsøka"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sankthans feirer sommerens høydepunkt (solverv), og tradisjonen er å tenne store sankthansbål på kvelden."
+  },
+  {
+    "number": 307,
+    "question": "Hva er 'russetiden'?",
+    "options": [
+      "Tiden på høsten når det regner mye.",
+      "En ukeslang festival for pensjonister.",
+      "En feiring på våren for avgangselever på videregående skole, der de ofte går i røde eller blå klær."
+    ],
+    "correctIndex": 2,
+    "explanation": "Norske ungdommer feirer tradisjonelt slutten på 13 års skolegang i mai, rett før de siste eksamenene, med russetid."
+  },
+  {
+    "number": 308,
+    "question": "Hva innebærer det at staten tilbyr ordningen 'fri rettshjelp'?",
+    "options": [
+      "At det er gratis å gå på kino.",
+      "At personer med svært lav inntekt og formue kan få staten til å betale for advokatutgifter i viktige saker.",
+      "At politiet hjelper alle gratis."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å sikre at loven er lik for alle, gir fri rettshjelp økonomisk støtte til advokat for de som har dårlig råd."
+  },
+  {
+    "number": 309,
+    "question": "Hva betyr prinsippet om 'likelønn' i arbeidslivet?",
+    "options": [
+      "At alle i bedriften får akkurat like mye betalt, uansett jobb.",
+      "At menn og kvinner skal ha lik lønn for likt arbeid, eller arbeid av lik verdi.",
+      "At lønnen utbetales på samme dato hver måned."
+    ],
+    "correctIndex": 1,
+    "explanation": "Likelønn er et sentralt likestillingskrav som slår fast at kjønn aldri skal påvirke hvor mye du får betalt."
+  },
+  {
+    "number": 310,
+    "question": "Hva er oppgaven til Likestillings- og diskrimineringsombudet (LDO)?",
+    "options": [
+      "Å passe på at alle partier i Stortinget har like mange representanter.",
+      "Å bekjempe diskriminering og fremme likestilling uavhengig av kjønn, etnisitet, religion og legning i samfunnet.",
+      "Å dømme folk til fengsel for rasistiske kommentarer."
+    ],
+    "correctIndex": 1,
+    "explanation": "LDO er et statlig organ som arbeider for at lovene mot diskriminering overholdes i praksis."
+  },
+  {
+    "number": 311,
+    "question": "Hva er 'Folketrygden' i Norge?",
+    "options": [
+      "Et privat forsikringsselskap for rike.",
+      "Statens universelle forsikringsordning som sikrer økonomisk trygghet, for eksempel ved sykdom, alderdom og arbeidsløshet.",
+      "En sparekonto man oppretter i banken."
+    ],
+    "correctIndex": 1,
+    "explanation": "Folketrygden er bærebjelken i velferdsstaten. Nesten all trygd, pensjon og sykepenger utbetales gjennom denne."
+  },
+  {
+    "number": 312,
+    "question": "Hva betyr begrepet 'eldrebølgen' som skaper utfordringer for velferdsstaten?",
+    "options": [
+      "At eldre mennesker liker å bade mer enn før.",
+      "At en stadig større prosentandel av Norges befolkning blir eldre og lever lenger.",
+      "At unge flytter ut av landet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når de store barnekullene fra etter krigen nå blir gamle, fører eldrebølgen til at det trengs flere folk i eldreomsorgen."
+  },
+  {
+    "number": 313,
+    "question": "Hva kreves for at studielånet fra Lånekassen gradvis kan gjøres om til stipend (penger du ikke må betale tilbake)?",
+    "options": [
+      "At du flytter tilbake til hjemkommunen din.",
+      "At du fullfører utdanningen din og består eksamenene.",
+      "At du jobber ved siden av studiene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom du bor borte fra foreldrene dine og består eksamenene dine (får studiepoeng), blir opptil 40 % av studielånet omgjort til stipend."
+  },
+  {
+    "number": 314,
+    "question": "Mister du retten til å bruke egenmelding hvis du har brukt opp dine lovfestede dager på ett år?",
+    "options": [
+      "Nei, du kan bruke så mange du vil.",
+      "Ja, hvis du har brukt alle de 4 periodene (eller dagene bedriften tillater) på 12 måneder, må du ha sykemelding fra lege.",
+      "Nei, men du trekkes i lønn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når kvoten for egenmeldinger i løpet av en 12-månedersperiode er brukt opp, er det kun gyldig sykemelding fra en lege som gir rett til sykepenger."
+  },
+  {
+    "number": 315,
+    "question": "Hvilke tre parter er det som utgjør det berømte 'trepartssamarbeidet' i norsk arbeidsliv?",
+    "options": [
+      "Stortinget, domstolene og regjeringen.",
+      "Lærerne, elevene og foreldrene.",
+      "Arbeidsgiverne, arbeidstakerne og Staten."
+    ],
+    "correctIndex": 2,
+    "explanation": "Gjennom samarbeid og forhandlinger mellom disse tre partene (f.eks. NHO, LO og regjeringen) skapes det fred og trygghet i det norske arbeidsmarkedet."
+  },
+  {
+    "number": 316,
+    "question": "Hvilket land deler Norge sin lengste grense med?",
+    "options": [
+      "Russland",
+      "Sverige",
+      "Finland"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge deler sin desidert lengste landegrense med Sverige i øst."
+  },
+  {
+    "number": 317,
+    "question": "Hva kalles urbefolkningen i Norge?",
+    "options": [
+      "Samer",
+      "Kvenene",
+      "Skogfinner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samene har status som urbefolkning (urfolk) i Norge."
+  },
+  {
+    "number": 318,
+    "question": "Hvem har hovedansvaret for å drifte videregående skoler og fylkesveier?",
+    "options": [
+      "Staten",
+      "Fylkeskommunen",
+      "Kommunen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fylkeskommunen har ansvar for store regionale oppgaver, som videregående skoler, tannhelsetjenesten og fylkesveier."
+  },
+  {
+    "number": 319,
+    "question": "Har du rett til tolk i møte med det norske helsevesenet dersom du ikke forstår norsk?",
+    "options": [
+      "Ja, det er en gratis rettighet.",
+      "Ja, men du må betale tolken selv.",
+      "Nei, det tilbys ikke."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dersom du har behov for det, har du rett til gratis tolk for å forstå informasjonen du får i helsevesenet."
+  },
+  {
+    "number": 320,
+    "question": "Hva koster det å gå til fastlegen for barn under 16 år?",
+    "options": [
+      "Vanlig egenandel.",
+      "Halv pris.",
+      "Det er helt gratis."
+    ],
+    "correctIndex": 2,
+    "explanation": "Barn under 16 år slipper å betale egenandel hos legen. Det er helt gratis."
+  },
+  {
+    "number": 321,
+    "question": "Hvem må vanligvis betale for tannbehandling i Norge?",
+    "options": [
+      "Staten betaler for alle.",
+      "Voksne over 26 år betaler vanligvis alt selv.",
+      "Tannlegen jobber gratis."
+    ],
+    "correctIndex": 1,
+    "explanation": "For voksne over 26 år dekker det offentlige normalt ingenting av tannlegeregningen."
+  },
+  {
+    "number": 322,
+    "question": "Hvilken organisasjon er den største hovedorganisasjonen for arbeidstakere i Norge?",
+    "options": [
+      "Landsorganisasjonen i Norge (LO)",
+      "Næringslivets Hovedorganisasjon (NHO)",
+      "NAV"
+    ],
+    "correctIndex": 0,
+    "explanation": "LO er den desidert største paraplyorganisasjonen for fagforeninger og arbeidstakere i Norge."
+  },
+  {
+    "number": 323,
+    "question": "Hvilken organisasjon er den største for arbeidsgivere i Norge?",
+    "options": [
+      "Arbeidstilsynet",
+      "LO",
+      "Næringslivets Hovedorganisasjon (NHO)"
+    ],
+    "correctIndex": 2,
+    "explanation": "NHO representerer arbeidsgiverne i forhandlinger om tariffavtaler med arbeidstakerne."
+  },
+  {
+    "number": 324,
+    "question": "Hvilken lov regulerer arbeidsmiljøet og sikrer trygge ansettelsesforhold i Norge?",
+    "options": [
+      "Folketrygdloven",
+      "Arbeidsmiljøloven",
+      "Grunnloven"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arbeidsmiljøloven skal sikre et trygt arbeidsmiljø og rettferdige vilkår for alle arbeidstakere."
+  },
+  {
+    "number": 325,
+    "question": "Hvor lang prøvetid er det vanlig og lovlig å maksimalt ha i en ny jobb?",
+    "options": [
+      "3 måneder",
+      "4 måneder",
+      "6 måneder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prøvetid kan avtales skriftlig, men den kan maksimalt vare i 6 måneder."
+  },
+  {
+    "number": 326,
+    "question": "Hvor mange feriedager har alle arbeidstakere minst krav på ifølge den norske ferieloven?",
+    "options": [
+      "14 dager",
+      "25 virkedager (4 uker og 1 dag)",
+      "30 dager"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ferieloven gir alle rett til 25 virkedager (lørdag regnes som virkedag). Mange har 5 uker gjennom tariffavtale."
+  },
+  {
+    "number": 327,
+    "question": "Hvilken statlig etat har som oppgave å gi lån og stipend til studenter?",
+    "options": [
+      "NAV",
+      "Skatteetaten",
+      "Lånekassen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lånekassen gir økonomisk støtte til utdanning i form av lån og stipend."
+  },
+  {
+    "number": 328,
+    "question": "Hvor lenge får foreldre normalt utbetalt barnetrygd for et barn i Norge?",
+    "options": [
+      "Til barnet begynner på skolen.",
+      "Til barnet fyller 18 år.",
+      "Til barnet flytter hjemmefra."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnetrygden er en månedlig utbetaling som foreldre får fra staten til barnet fyller 18 år."
+  },
+  {
+    "number": 329,
+    "question": "Hvem kan motta kontantstøtte fra staten?",
+    "options": [
+      "Eldre som bor på sykehjem.",
+      "Foreldre med barn mellom 1 og 2 år som ikke går i fulltidsbarnehage.",
+      "Studenter som leier bolig."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kontantstøtte gis til foreldre for barn i alderen 1 til 2 år som ikke bruker en offentlig støttet barnehageplass fullt ut."
+  },
+  {
+    "number": 330,
+    "question": "Hva er engangsstønad ved fødsel?",
+    "options": [
+      "En sum penger utbetalt til mødre som ikke har tjent opp rett til foreldrepenger.",
+      "En premie til alle som får tvillinger.",
+      "Et gavekort på babyutstyr fra kommunen."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mødre som ikke har vært i arbeid og mangler rett til foreldrepenger, får i stedet et engangsbeløp fra NAV."
+  },
+  {
+    "number": 331,
+    "question": "Hva er hensikten med foreldrepenger?",
+    "options": [
+      "Å betale for barnehageplassen.",
+      "Å erstatte inntekten din når du er hjemme med et lite barn det første året.",
+      "Å dekke utgifter til konfirmasjon."
+    ],
+    "correctIndex": 1,
+    "explanation": "Foreldrepenger sikrer at foreldre beholder inntekt mens de er hjemme i foreldrepermisjon etter fødsel eller adopsjon."
+  },
+  {
+    "number": 332,
+    "question": "Hvor mange dager kan du vanligvis være borte fra jobb med en egenmelding av gangen (uten at bedriften har utvidet ordning)?",
+    "options": [
+      "Inntil 3 dager",
+      "Inntil 5 dager",
+      "Inntil 10 dager"
+    ],
+    "correctIndex": 0,
+    "explanation": "Etter folketrygdloven kan en egenmelding brukes i inntil 3 kalenderdager av gangen."
+  },
+  {
+    "number": 333,
+    "question": "Hva må du ha fra en lege hvis du er syk lenger enn egenmeldingsdagene?",
+    "options": [
+      "En ny arbeidskontrakt.",
+      "En sykemelding.",
+      "En oppsigelse."
+    ],
+    "correctIndex": 1,
+    "explanation": "Når egenmeldingsdagene er brukt opp, kreves det sykemelding fra lege for å få rett til sykepenger."
+  },
+  {
+    "number": 334,
+    "question": "Hva er Folketrygden?",
+    "options": [
+      "Et statlig forsikringssystem som gir økonomisk støtte ved for eksempel sykdom, uførhet og alderdom.",
+      "Et privat forsikringsselskap for biler.",
+      "En bank for staten."
+    ],
+    "correctIndex": 0,
+    "explanation": "Folketrygden er bærebjelken i det norske velferdssystemet og sikrer inntekt og helsehjelp for alle innbyggere."
+  },
+  {
+    "number": 335,
+    "question": "Hvor stor prosentandel egenkapital kreves det vanligvis at du har spart opp selv for å få boliglån i banken?",
+    "options": [
+      "5 %",
+      "15 %",
+      "30 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norske myndigheter krever normalt at boligkjøpere stiller med minimum 15 % egenkapital."
+  },
+  {
+    "number": 336,
+    "question": "Hva står forkortelsen BSU for?",
+    "options": [
+      "Boligsikring for uføre",
+      "Boligsparing for ungdom",
+      "Bankens sparetilbud for utlendinger"
+    ],
+    "correctIndex": 1,
+    "explanation": "BSU er en spareordning som gir ungdom skattefordeler og god rente når de sparer til sin første bolig."
+  },
+  {
+    "number": 337,
+    "question": "Hva er et depositum når man leier bolig?",
+    "options": [
+      "Den første husleien man betaler.",
+      "En avgift til staten for å leie bolig.",
+      "En sikkerhet for utleier, vanligvis 3 måneders husleie plassert på en sperret bankkonto."
+    ],
+    "correctIndex": 2,
+    "explanation": "Depositumet er en sikkerhet mot manglende husleiebetaling eller skader på boligen."
+  },
+  {
+    "number": 338,
+    "question": "Hvor lang er den vanlige oppsigelsestiden ifølge husleieloven hvis ingenting annet er avtalt?",
+    "options": [
+      "1 måned",
+      "3 måneder",
+      "6 måneder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Med mindre noe annet er skrevet i kontrakten, er den lovpålagte oppsigelsestiden for leieboliger 3 måneder."
+  },
+  {
+    "number": 339,
+    "question": "Er det påbudt å ha en skriftlig husleiekontrakt?",
+    "options": [
+      "Ja, hvis en av partene krever det.",
+      "Nei, det er ulovlig.",
+      "Bare for leie over 10 år."
+    ],
+    "correctIndex": 0,
+    "explanation": "Loven sier at husleieavtalen skal settes opp skriftlig dersom en av partene krever det. Det anbefales alltid å ha det skriftlig."
+  },
+  {
+    "number": 340,
+    "question": "Hva dekker en innboforsikring?",
+    "options": [
+      "Helseutgifter ved sykdom.",
+      "Tingene dine inne i boligen (møbler, klær, elektronikk) ved brann, tyveri eller vannskade.",
+      "Kun selve bygningen og veggene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Innboforsikring dekker alle de løse gjenstandene du har i hjemmet ditt."
+  },
+  {
+    "number": 341,
+    "question": "Hvilken bilforsikring er påbudt ved lov i Norge hvis du eier et kjøretøy med skilter?",
+    "options": [
+      "Ansvarsforsikring",
+      "Kaskoforsikring",
+      "Reiseforsikring"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ansvarsforsikring er lovpålagt og dekker skader bilen din gjør på andre personer eller andres eiendom."
+  },
+  {
+    "number": 342,
+    "question": "Hvor lang angrerett har du når du kjøper en vare på internett fra en norsk butikk?",
+    "options": [
+      "7 dager",
+      "14 dager",
+      "30 dager"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ved fjernsalg (som netthandel) gir angrerettloven deg rett til å angre kjøpet innen 14 dager."
+  },
+  {
+    "number": 343,
+    "question": "Hvilken organisasjon kan hjelpe deg gratis hvis du har en konflikt med en selger om en vare du har kjøpt?",
+    "options": [
+      "Skatteetaten",
+      "Politiet",
+      "Forbrukerrådet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Forbrukerrådet veileder forbrukere om deres rettigheter og hjelper med tvisteløsning."
+  },
+  {
+    "number": 344,
+    "question": "Hvor mange års reklamasjonsrett har du på varer som er ment å vare lenge (for eksempel en TV eller vaskemaskin)?",
+    "options": [
+      "1 år",
+      "2 år",
+      "5 år"
+    ],
+    "correctIndex": 2,
+    "explanation": "Etter forbrukerkjøpsloven har du 5 års reklamasjonsrett på produkter som er ment å vare vesentlig lenger enn 2 år."
+  },
+  {
+    "number": 345,
+    "question": "Hva viser skattemeldingen din (tidligere kalt selvangivelse)?",
+    "options": [
+      "En oversikt over inntekten din, fradragene dine og skatten du har betalt det siste året.",
+      "En regning for bruk av polititjenester.",
+      "En bekreftelse på at du er norsk statsborger."
+    ],
+    "correctIndex": 0,
+    "explanation": "Skattemeldingen sendes ut hvert år av Skatteetaten for å sjekke at du har betalt riktig mengde skatt."
+  },
+  {
+    "number": 346,
+    "question": "Hva er frikortgrensen?",
+    "options": [
+      "Aldersgrensen for å betale skatt.",
+      "Det beløpet du kan tjene i løpet av et år før du må begynne å betale inntektsskatt.",
+      "Grensen for hvor mange timer du kan jobbe."
+    ],
+    "correctIndex": 1,
+    "explanation": "Frikortgrensen er et årlig fastsatt fribeløp. Tjener du under dette, slipper du å betale skatt av inntekten."
+  },
+  {
+    "number": 347,
+    "question": "Hva betyr brutto lønn?",
+    "options": [
+      "Lønn før skatt er trukket fra.",
+      "Lønn etter at skatt er trukket fra.",
+      "Det samme som feriepenger."
+    ],
+    "correctIndex": 0,
+    "explanation": "Brutto lønn er det beløpet du har tjent før skattetrekk og andre fradrag er gjort."
+  },
+  {
+    "number": 348,
+    "question": "Hva betyr netto lønn?",
+    "options": [
+      "Lønnen du får utbetalt etter at skatten er trukket fra (det du får på konto).",
+      "Det du betaler i skatt.",
+      "Lønnen du har før skatt."
+    ],
+    "correctIndex": 0,
+    "explanation": "Netto lønn er pengene du faktisk får utbetalt til bankkontoen din etter at skatten er trukket."
+  },
+  {
+    "number": 349,
+    "question": "Hva er feriepenger?",
+    "options": [
+      "Penger du tjente opp i fjor, som arbeidsgiver betaler ut i stedet for lønn når du tar ferie i år.",
+      "Ekstra penger man får fra staten til å reise til utlandet.",
+      "Skatten man får tilbake."
+    ],
+    "correctIndex": 0,
+    "explanation": "Når du tar ferie, får du ikke vanlig lønn, men i stedet feriepenger som ble tjent opp året før (ofte 10,2 % av inntekten)."
+  },
+  {
+    "number": 350,
+    "question": "Hvem regnes i historien for å være den første kongen som samlet Norge til ett rike (rundt år 872)?",
+    "options": [
+      "Olav den hellige",
+      "Harald Hårfagre",
+      "Kong Haakon VII"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ifølge sagaene var Harald Hårfagre den kongen som først samlet Norge til ett felles rike etter slaget i Hafrsfjord."
+  },
+  {
+    "number": 351,
+    "question": "I hvilken historisk periode varte vikingtiden?",
+    "options": [
+      "Ca. år 800 til 1050",
+      "Ca. år 1200 til 1400",
+      "Ca. år 1814 til 1905"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vikingtiden regnes fra angrepet på Lindisfarne i 793 til slaget ved Stiklestad/Stamford Bridge på midten av 1000-tallet."
+  },
+  {
+    "number": 352,
+    "question": "Hvilken stor katastrofe traff Norge i 1349 og drepte nesten halvparten av befolkningen?",
+    "options": [
+      "Første verdenskrig",
+      "En stor brann",
+      "Svartedauden (pesten)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Svartedauden var en enorm pestepidemi som rammet Norge hardt og førte til at landet ble kraftig svekket."
+  },
+  {
+    "number": 353,
+    "question": "Hvilket land var Norge i union med og ble styrt fra i over 400 år (ofte kalt '400-årsnatten')?",
+    "options": [
+      "Danmark",
+      "Sverige",
+      "Storbritannia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fra 1380 frem til 1814 lå Norge under dansk styre, med hovedstad i København."
+  },
+  {
+    "number": 354,
+    "question": "Hva historisk viktig skjedde på Eidsvoll våren 1814?",
+    "options": [
+      "Norge fant olje.",
+      "Norge fikk sin egen Grunnlov.",
+      "Svartedauden startet."
+    ],
+    "correctIndex": 1,
+    "explanation": "112 eidsvollsmenn samlet seg og vedtok Norges Grunnlov, som vi i dag feirer 17. mai."
+  },
+  {
+    "number": 355,
+    "question": "Hvilket år ble personalunionen mellom Norge og Sverige oppløst?",
+    "options": [
+      "1814",
+      "1884",
+      "1905"
+    ],
+    "correctIndex": 2,
+    "explanation": "Den 7. juni 1905 brøt Stortinget unionen med Sverige, og Norge ble en helt selvstendig nasjon."
+  },
+  {
+    "number": 356,
+    "question": "Deltok Norge med militære styrker i første verdenskrig (1914-1918)?",
+    "options": [
+      "Nei, Norge erklærte seg nøytralt.",
+      "Ja, på Tysklands side.",
+      "Ja, på Storbritannias side."
+    ],
+    "correctIndex": 0,
+    "explanation": "Norge var nøytralt under første verdenskrig og kjempet ikke, men mistet mange sjøfolk i angrep på handelsflåten."
+  },
+  {
+    "number": 357,
+    "question": "Hvilket land okkuperte Norge under andre verdenskrig (fra 9. april 1940)?",
+    "options": [
+      "Sovjetunionen",
+      "Tyskland",
+      "Sverige"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nazi-Tyskland angrep og okkuperte Norge i fem år frem til frigjøringen i mai 1945."
+  },
+  {
+    "number": 358,
+    "question": "Hva var det Norge fant i Nordsjøen på slutten av 1960-tallet som forandret landet til å bli et av verdens rikeste?",
+    "options": [
+      "Gull",
+      "Kull",
+      "Olje"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oljefunnene på Ekofiskfeltet i 1969 startet det norske oljeeventyret som skapte grunnlaget for dagens velferdsstat."
+  },
+  {
+    "number": 359,
+    "question": "Hva er EØS-avtalen?",
+    "options": [
+      "En avtale som gjør Norge til en del av EUs indre marked (fri flyt av varer, tjenester, kapital og personer).",
+      "En avtale om fiske i Nord-Norge.",
+      "En militær forsvarsavtale."
+    ],
+    "correctIndex": 0,
+    "explanation": "Gjennom EØS-avtalen er Norge knyttet tett til det økonomiske markedet i Europa, selv uten å være medlem i EU."
+  },
+  {
+    "number": 360,
+    "question": "Er Norge medlem av EU (Den europeiske union)?",
+    "options": [
+      "Ja, siden 1994.",
+      "Nei, folket har stemt nei i to folkeavstemninger.",
+      "Norge er medlem, men bruker ikke Euro."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge er ikke medlem av EU, etter at flertallet i befolkningen stemte nei i både 1972 og 1994."
+  },
+  {
+    "number": 361,
+    "question": "Er Norge medlem av FN (Forente Nasjoner)?",
+    "options": [
+      "Ja, Norge var med på å opprette FN i 1945.",
+      "Nei, Norge er ikke med i internasjonale organisasjoner.",
+      "Ja, Norge ble medlem i 2010."
+    ],
+    "correctIndex": 0,
+    "explanation": "Norge var et av grunnleggerlandene i Forente Nasjoner (FN) da organisasjonen ble opprettet etter andre verdenskrig."
+  },
+  {
+    "number": 362,
+    "question": "Er Norge medlem av den militære forsvarsalliansen NATO?",
+    "options": [
+      "Ja, Norge var et av landene som grunnla NATO.",
+      "Nei, Norge er militært nøytralt.",
+      "Norge er bare et støttemedlem."
+    ],
+    "correctIndex": 0,
+    "explanation": "Etter erfaringene fra andre verdenskrig var Norge med på å stifte NATO i 1949."
+  },
+  {
+    "number": 363,
+    "question": "Hvem var den aller første generalsekretæren i FN?",
+    "options": [
+      "Jens Stoltenberg",
+      "Trygve Lie",
+      "Kofi Annan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nordmannen Trygve Lie ble valgt til historiens første generalsekretær i FN i 1946."
+  },
+  {
+    "number": 364,
+    "question": "Hvem ble Norges første kvinnelige statsminister i 1981?",
+    "options": [
+      "Erna Solberg",
+      "Siv Jensen",
+      "Gro Harlem Brundtland"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gro Harlem Brundtland brøt barrierer da hun ble landets første kvinnelige statsminister, og ble ofte kalt 'landsmoderen'."
+  },
+  {
+    "number": 365,
+    "question": "Hvilket år ble Sametinget offisielt åpnet?",
+    "options": [
+      "1814",
+      "1989",
+      "2005"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kong Olav V åpnet Sametinget formelt i 1989 for å sikre samenes rett til politisk medbestemmelse."
+  },
+  {
+    "number": 366,
+    "question": "Hva menes med at Norge er et 'konstitusjonelt monarki'?",
+    "options": [
+      "At kongen er statsoverhode, men makten hans er begrenset av grunnloven.",
+      "At kongen bestemmer lovene.",
+      "At vi har en president."
+    ],
+    "correctIndex": 0,
+    "explanation": "Kongen har ingen reell politisk makt i Norge i dag, oppgavene hans er hovedsakelig representative og seremonielle."
+  },
+  {
+    "number": 367,
+    "question": "Hva er hensikten med 'maktfordelingsprinsippet' som Grunnloven bygger på?",
+    "options": [
+      "Å gi all makt til domstolene.",
+      "Å fordele statens makt på tre uavhengige organer for å forhindre maktmisbruk.",
+      "Å dele makten likt mellom menn og kvinner."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å sikre demokratiet ble makten delt mellom Stortinget, Regjeringen og Domstolene, slik at de kan kontrollere hverandre."
+  },
+  {
+    "number": 368,
+    "question": "Hvilket organ i Norge har den lovgivende, bevilgende og kontrollerende makten?",
+    "options": [
+      "Stortinget",
+      "Regjeringen",
+      "Kongen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Det er kun det folkevalgte Stortinget som kan vedta nye lover og bestemme det nasjonale budsjettet (skatter og avgifter)."
+  },
+  {
+    "number": 369,
+    "question": "Hvilket organ i Norge har den utøvende makten?",
+    "options": [
+      "Høyesterett",
+      "Regjeringen",
+      "Forsvaret"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regjeringen, ledet av statsministeren, setter ut i livet (utøver) det Stortinget har bestemt."
+  },
+  {
+    "number": 370,
+    "question": "Hvilket organ i Norge utgjør den dømmende makten?",
+    "options": [
+      "Stortinget",
+      "Politiet",
+      "Domstolene (med Høyesterett på topp)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Domstolene skal uavhengig og upartisk dømme etter lovene som Stortinget har vedtatt."
+  },
+  {
+    "number": 371,
+    "question": "Hva betyr 'parlamentarisme' i praksis i Norge?",
+    "options": [
+      "At alle avgjørelser tas ved folkeavstemning.",
+      "At regjeringen må ha støtte, eller i det minste bli akseptert, av flertallet i Stortinget for å kunne styre.",
+      "At bare de med høyest utdanning får stemme."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parlamentarismen gjør at Stortinget har makt til å kaste regjeringen hvis de er uenige i hvordan landet styres."
+  },
+  {
+    "number": 372,
+    "question": "Hva innebærer ytringsfriheten i Norge?",
+    "options": [
+      "At man kan fritt si, skrive og uttrykke det man mener, så lenge det ikke bryter loven (f.eks. hatefulle ytringer eller trusler).",
+      "At man kan si stygge ting uten noen som helst konsekvenser.",
+      "At bare journalister har lov til å kritisere regjeringen."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ytringsfriheten er beskyttet i Grunnloven og gjelder for alle, men har grenser for å beskytte mot blant annet rasisme og grove trusler."
+  },
+  {
+    "number": 373,
+    "question": "Hva betyr religionsfrihet i praksis i Norge?",
+    "options": [
+      "Man må velge en av de kristne religionene.",
+      "Alle innbyggere har rett til fritt å velge sin egen religion, og retten til å ikke tilhøre noen religion.",
+      "Bare staten bestemmer hvilken religion man skal ha."
+    ],
+    "correctIndex": 1,
+    "explanation": "Religionsfrihet er en grunnleggende menneskerettighet som beskytter retten til å tro, utøve religion og bytte religion."
+  },
+  {
+    "number": 374,
+    "question": "Hva er strengt forbudt ifølge den norske diskrimineringslovgivningen?",
+    "options": [
+      "Å ansette folk med god utdanning.",
+      "Å kritisere politiske partier.",
+      "Å usaklig forskjellsbehandle noen på grunn av etnisitet, religion, funksjonsevne, kjønn eller seksuell orientering."
+    ],
+    "correctIndex": 2,
+    "explanation": "Diskriminering betyr at man behandles dårligere enn andre på usaklig grunnlag, og dette beskytter loven mot."
+  },
+  {
+    "number": 375,
+    "question": "Hvilket spesielt ombud i Norge har som oppgave å fremme og beskytte barns interesser i samfunnet?",
+    "options": [
+      "Barneombudet",
+      "Pasientombudet",
+      "Forbrukerombudet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norge var det første landet i verden til å opprette et eget Barneombud (i 1981) for å ivareta barns rettigheter."
+  },
+  {
+    "number": 376,
+    "question": "Hva er den viktigste oppgaven til barnevernet i Norge?",
+    "options": [
+      "Å straffe foreldre som gjør feil.",
+      "Å sikre at barn og unge som lever under skadelige eller dårlige forhold, får nødvendig hjelp og omsorg i rett tid.",
+      "Å betale for barnas fritidsaktiviteter."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnevernets oppgave er først og fremst å støtte familier (gjennom for eksempel rådgiving), og i alvorlige saker beskytte barnet."
+  },
+  {
+    "number": 377,
+    "question": "Hvilken internasjonal avtale er tatt inn i norsk lov og gjelder foran andre norske lover i saker som gjelder barn?",
+    "options": [
+      "Klimakonvensjonen",
+      "FNs barnekonvensjon",
+      "Schengen-avtalen"
+    ],
+    "correctIndex": 1,
+    "explanation": "FNs barnekonvensjon ble tatt inn i norsk lov i 2003, og fastslår at 'barnets beste' alltid skal være det viktigste hensynet."
+  },
+  {
+    "number": 378,
+    "question": "Hva er den primære oppgaven til Likestillings- og diskrimineringsombudet (LDO)?",
+    "options": [
+      "Å fremme reell likestilling og kjempe mot diskriminering i det norske samfunnet.",
+      "Å kontrollere lønnen til alle nordmenn.",
+      "Å utstede pass til innvandrere."
+    ],
+    "correctIndex": 0,
+    "explanation": "LDO er et uavhengig organ som alle kan kontakte gratis hvis de opplever seg urettferdig behandlet eller diskriminert."
+  },
+  {
+    "number": 379,
+    "question": "Hvilken offentlig etat har ansvar for å sjekke at bedrifter følger kravene i Arbeidsmiljøloven?",
+    "options": [
+      "Politiet",
+      "Fagforeningene",
+      "Arbeidstilsynet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arbeidstilsynet kan komme på uanmeldte besøk (tilsyn) for å sikre at arbeidsplassen er trygg og lovlig."
+  },
+  {
+    "number": 380,
+    "question": "Hvilken offentlig etat forvalter arbeidsløshetstrygd, sykepenger, barnetrygd og pensjoner?",
+    "options": [
+      "NAV (Arbeids- og velferdsetaten)",
+      "Finansdepartementet",
+      "Lånekassen"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAV utgjør velferdsstatens sikkerhetsnett og håndterer støtteordningene for de som trenger økonomisk hjelp eller hjelp til å finne jobb."
+  },
+  {
+    "number": 381,
+    "question": "Hvilken offentlig etat har ansvaret for at alle innbyggere og bedrifter betaler riktig sum i skatt og avgift?",
+    "options": [
+      "Tolletaten",
+      "Skatteetaten",
+      "Norges Bank"
+    ],
+    "correctIndex": 1,
+    "explanation": "Skatteetaten utsteder skattekort og behandler den årlige skattemeldingen for hele befolkningen."
+  },
+  {
+    "number": 382,
+    "question": "Hvilken myndighet behandler i første instans søknader om oppholdstillatelse, asyl, visum og statsborgerskap?",
+    "options": [
+      "UDI (Utlendingsdirektoratet)",
+      "Stortinget",
+      "Kommuneadministrasjonen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Utlendingsdirektoratet (UDI) er den sentrale etaten som behandler alle typer utlendingssaker."
+  },
+  {
+    "number": 383,
+    "question": "Hvis UDI avslår (sier nei til) søknaden din om oppholdstillatelse, hvem er det normalt som behandler klagen din over avslaget?",
+    "options": [
+      "Kongen",
+      "Utlendingsnemnda (UNE)",
+      "Politiets utlendingsenhet"
+    ],
+    "correctIndex": 1,
+    "explanation": "UNE er et uavhengig, domstollignende organ som behandler klager på vedtak gjort av UDI."
+  },
+  {
+    "number": 384,
+    "question": "Hva er formålet med 'introduksjonsprogrammet'?",
+    "options": [
+      "Å gi nyankomne flyktninger grunnleggende ferdigheter i norsk, samfunnskunnskap og forberede dem på arbeid eller utdanning.",
+      "Å lære nordmenn om utlandet.",
+      "Et dataprogram for å betale regninger."
+    ],
+    "correctIndex": 0,
+    "explanation": "Kommunene har ansvar for å tilby dette programmet til nyankomne flyktninger og familiene deres for å sikre god integrering."
+  },
+  {
+    "number": 385,
+    "question": "Har alle innvandrere som kommer til Norge rett til gratis norskopplæring?",
+    "options": [
+      "Ja, det gjelder for absolutt alle uansett grunn.",
+      "Nei, det er ingen som får gratis norskopplæring.",
+      "Det avhenger av hvilken type oppholdstillatelse man har (for eksempel asyl eller arbeidsinnvandring)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Arbeidsinnvandrere, for eksempel fra EØS, må vanligvis betale for norskopplæringen selv, mens flyktninger ofte har rett på gratis undervisning."
+  },
+  {
+    "number": 386,
+    "question": "Hva er et av kravene staten stiller før du kan få innvilget norsk statsborgerskap?",
+    "options": [
+      "Du må kjøpe en bolig i Norge.",
+      "Du må dokumentere ferdigheter i norsk språk og bestå samfunnskunnskapsprøven eller statsborgerprøven.",
+      "Du må være gift med en nordmann."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å bli statsborger må du vise at du kan språket til et visst nivå og har grunnleggende kunnskap om det norske samfunnet."
+  },
+  {
+    "number": 387,
+    "question": "Er det lov til å ha dobbelt statsborgerskap i Norge (for eksempel være både norsk og svensk statsborger samtidig)?",
+    "options": [
+      "Nei, du må alltid si fra deg ditt forrige statsborgerskap.",
+      "Ja, Stortinget tillot dobbelt statsborgerskap fra 1. januar 2020.",
+      "Bare hvis du er under 18 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge endret loven i 2020, slik at man nå har lov til å beholde sitt opprinnelige statsborgerskap når man blir norsk, og omvendt."
+  },
+  {
+    "number": 388,
+    "question": "Hva gir 'allemannsretten' deg rett til?",
+    "options": [
+      "Å ferdes fritt til fots og på ski i utmark (skog og fjell), samt plukke bær, sopp og vanlige blomster.",
+      "Å kjøre bil overalt i naturen.",
+      "Å bygge et hus hvor som helst i skogen."
+    ],
+    "correctIndex": 0,
+    "explanation": "Allemannsretten sikrer at naturen er et fellesgode, men den krever at vi rydder opp etter oss og tar hensyn til dyr og mennesker."
+  },
+  {
+    "number": 389,
+    "question": "Når er det lovpålagt 'generell båndtvang' for hunder i hele Norge for å beskytte dyrelivet?",
+    "options": [
+      "Bare om vinteren.",
+      "Fra 1. april til 20. august.",
+      "Hele året, overalt."
+    ],
+    "correctIndex": 1,
+    "explanation": "I denne perioden er viltet og dyrene i naturen spesielt sårbare (for eksempel fordi de har små unger), og hundeeiere må ha hunden i bånd."
+  },
+  {
+    "number": 390,
+    "question": "Hva er den generelle fartsgrensen for bil i tettbygde strøk (boligområder og byer) hvis det ikke er satt opp et fartsskilt?",
+    "options": [
+      "30 km/t",
+      "40 km/t",
+      "50 km/t"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trafikkreglene sier at dersom du er i tettbygd strøk og det mangler skilt, er det maksimalt 50 km/t som gjelder."
+  },
+  {
+    "number": 391,
+    "question": "Er det påbudt å bruke bilbelte hvis du kjører en stor rutebuss i Norge?",
+    "options": [
+      "Nei, det gjelder bare i personbiler.",
+      "Ja, dersom bussen er utstyrt med bilbelter, er passasjerer påbudt ved lov å bruke dem.",
+      "Bare hvis man sitter helt foran i bussen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Av sikkerhetshensyn krever vegtrafikkloven at du alltid fester setebeltet i alle kjøretøy hvor det er montert."
+  },
+  {
+    "number": 392,
+    "question": "Hva er grensen for ulovlig promille (alkohol i blodet) når du kjører bil i Norge?",
+    "options": [
+      "0,2 promille",
+      "0,5 promille",
+      "0,8 promille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norge har svært strenge regler for fyllekjøring. Har du 0,2 promille eller mer, er det ulovlig å kjøre motorvogn."
+  },
+  {
+    "number": 393,
+    "question": "Hvorfor er det sterkt anbefalt å bruke en liten plastbrikke kalt 'refleks' når du går utendørs på vinteren?",
+    "options": [
+      "For å varme opp hendene.",
+      "For å bli synlig for bilister i den mørke tiden av året, noe som redder mange liv i trafikken.",
+      "For å vise at man støtter landslaget."
+    ],
+    "correctIndex": 1,
+    "explanation": "Uten refleks er du nesten usynlig i mørket, men med refleks kan en bilfører se deg på god avstand."
+  },
+  {
+    "number": 394,
+    "question": "Hva innebærer det norske uttrykket 'dugnad'?",
+    "options": [
+      "Felles, frivillig og ubetalt arbeid for å løse oppgaver i et lokalsamfunn, borettslag eller idrettslag.",
+      "En feiring der alle tar med seg mat.",
+      "Å betale naboen for å vaske huset ditt."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dugnad er en sterk tradisjon i Norge, hvor fellesskapet samler seg for å rydde, bygge eller fikse ting sammen uten å få lønn."
+  },
+  {
+    "number": 395,
+    "question": "Får man lønn (penger) for å utføre 'frivillig arbeid' (for eksempel i Røde Kors)?",
+    "options": [
+      "Ja, man får minstelønn.",
+      "Nei, frivillig arbeid er definert som en ubetalt innsats for et godt formål.",
+      "Ja, staten betaler."
+    ],
+    "correctIndex": 1,
+    "explanation": "Frivillig arbeid betyr at man bruker sin egen fritid uten betaling for å hjelpe andre mennesker eller organisasjoner."
+  },
+  {
+    "number": 396,
+    "question": "Arver samboere (to personer som bor sammen uten å være gift) hverandre automatisk i Norge?",
+    "options": [
+      "Ja, etter 2 år gjelder de samme reglene som for ekteskap.",
+      "Nei, i utgangspunktet har ikke samboere arverett. De må skrive et testament for å sikre hverandre.",
+      "Ja, hvis de leier leilighet sammen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Samboere stiller juridisk og økonomisk mye svakere enn ektefeller dersom en av dem dør, med mindre de har opprettet testament."
+  },
+  {
+    "number": 397,
+    "question": "Kan homofile og lesbiske (likekjønnede) par gifte seg i Den norske kirke?",
+    "options": [
+      "Ja, kirkerådet vedtok i 2016 at også likekjønnede par kan gifte seg i kirken.",
+      "Nei, de kan bare gifte seg borgerlig (på rådhuset).",
+      "Ja, men bare hvis de adopterer barn først."
+    ],
+    "correctIndex": 0,
+    "explanation": "Både den norske ekteskapsloven (2009) og Den norske kirke tillater likekjønnet ekteskap."
+  },
+  {
+    "number": 398,
+    "question": "Hvor lang tid må et ektepar normalt være formelt separert før de har krav på å bli skilt?",
+    "options": [
+      "1 måned",
+      "6 måneder",
+      "1 år"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hovedregelen er at statsforvalteren kan innvilge skilsmisse etter at ektefellene har levd atskilt med separasjonsbevilling i minst ett år."
+  },
+  {
+    "number": 399,
+    "question": "Hva er obligatorisk ifølge loven for foreldre med felles barn under 16 år som ønsker separasjon eller skilsmisse?",
+    "options": [
+      "De må gå i parterapi for å prøve å bli sammen igjen.",
+      "De må møte til en times mekling på familievernkontoret for å lage en avtale om barna.",
+      "De må spørre barna om hvem de vil bo hos i en domstol."
+    ],
+    "correctIndex": 1,
+    "explanation": "Meklingen skal hjelpe foreldrene å samarbeide og inngå en skriftlig avtale om foreldreansvar, samvær og hvor barna skal bo fast."
+  },
+  {
+    "number": 400,
+    "question": "Hva er en 'fastlege'?",
+    "options": [
+      "En allmennlege i kommunen som har hovedansvaret for å gi helsehjelp til de pasientene som står på vedkommendes liste.",
+      "En lege som opererer på sykehuset.",
+      "En lege som arbeider i utlandet."
+    ],
+    "correctIndex": 0,
+    "explanation": "Gjennom fastlegeordningen har alle innbyggere i Norge krav på å ha en bestemt lege å forholde seg til ved vanlig sykdom."
+  },
+  {
+    "number": 401,
+    "question": "Hva er funksjonen til et frikort for helsetjenester i Norge?",
+    "options": [
+      "Det gir deg gratis reiser med bussen til sykehuset.",
+      "Det betyr at du slipper å betale egenandel for offentlige helsetjenester resten av året etter at du har nådd et maksimalbeløp.",
+      "Det lar deg slippe køen på legevakten."
+    ],
+    "correctIndex": 1,
+    "explanation": "Frikortordningen sørger for at personer med stort behov for helsehjelp ikke får for høye utgifter i løpet av ett kalenderår."
+  },
+  {
+    "number": 402,
+    "question": "Hva kalles det beløpet du betaler selv når du er hos fastlegen eller mottar fysioterapi?",
+    "options": [
+      "Skatt",
+      "Helseavgift",
+      "Egenandel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Staten betaler mesteparten av utgiftene for legetimen din, men du må som regel betale en liten egenandel."
+  },
+  {
+    "number": 403,
+    "question": "Hva er en resept?",
+    "options": [
+      "En skriftlig (eller elektronisk) ordre fra en lege som gir apoteket lov til å gi deg bestemte medisiner.",
+      "Kvitteringen du får når du har vært hos tannlegen.",
+      "En instruksjon for hvordan man spiser sunt."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mange sterke legemidler er reseptbelagte i Norge for å hindre feilbruk, og kan bare utleveres på apoteket hvis en lege har bestemt det."
+  },
+  {
+    "number": 404,
+    "question": "Hvor er det eneste stedet i Norge du lovlig kan hente ut reseptbelagte medisiner (som for eksempel antibiotika)?",
+    "options": [
+      "På dagligvarebutikken.",
+      "På apoteket.",
+      "På bensinstasjonen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Apotekene i Norge har enerett og faglig ansvar for å utlevere og informere om reseptbelagte medisiner."
+  },
+  {
+    "number": 405,
+    "question": "Når er det riktig å kontakte legevakten (på telefonnummer 116 117)?",
+    "options": [
+      "Når du trenger å fornye en resept på allergimedisin.",
+      "Når du har behov for akutt legehjelp og fastlegen din er stengt (kveld, natt, helg).",
+      "Når du er i livsfare."
+    ],
+    "correctIndex": 1,
+    "explanation": "Legevakten er for akutte situasjoner som ikke kan vente til neste dag. Ved livsfare skal man ringe ambulanse (113)."
+  },
+  {
+    "number": 406,
+    "question": "Hvilket telefonnummer ringer du for å varsle om brann?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nødnummer 110 setter deg direkte i kontakt med nærmeste brannsentral."
+  },
+  {
+    "number": 407,
+    "question": "Hvilket telefonnummer ringer du for å få øyeblikkelig hjelp fra politiet ved for eksempel pågående vold, ran eller farlige ulykker?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nødnummer 112 er politiets operasjonssentral for nødssituasjoner hvor det står om liv og helse."
+  },
+  {
+    "number": 408,
+    "question": "Hvilket telefonnummer ringer du for å få ambulanse ved akutt og alvorlig sykdom eller ulykke (livsfare)?",
+    "options": [
+      "110",
+      "112",
+      "113"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nødnummer 113 kobler deg til akuttmedisinsk kommunikasjonssentral, som veileder deg og sender ambulanse."
+  },
+  {
+    "number": 409,
+    "question": "Hva innebærer loven om taushetsplikt for leger, sykepleiere og apotekansatte?",
+    "options": [
+      "At de ikke kan dele dine personlige helseopplysninger med uvedkommende, heller ikke med familien din, uten ditt samtykke.",
+      "At de ikke kan snakke under operasjoner.",
+      "At pasienten ikke har lov til å stille spørsmål til legen."
+    ],
+    "correctIndex": 0,
+    "explanation": "Taushetsplikten er streng og finnes for at pasienter skal føle seg trygge på å dele alt med helsepersonell."
+  },
+  {
+    "number": 410,
+    "question": "Kan du røyke tobakk inne på et offentlig bibliotek eller på en restaurant i Norge?",
+    "options": [
+      "Ja, hvis man åpner vinduet.",
+      "Nei, røykeloven forbyr røyking i lokaler der allmennheten har adgang, inkludert restauranter.",
+      "Ja, på kveldstid."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge har strenge regler for røyking (røykeloven) for å beskytte folk og ansatte mot passiv røyking."
+  },
+  {
+    "number": 411,
+    "question": "Hva er aldersgrensen i Norge for å få kjøpt øl og vin i butikk eller på restaurant?",
+    "options": [
+      "16 år",
+      "18 år",
+      "20 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aldersgrensen for alkohol opp til 22 volumprosent (som øl og vin) er 18 år. For sprit er grensen 20 år."
+  },
+  {
+    "number": 412,
+    "question": "Hvilken norsk butikk har enerett og monopol på å selge alkoholholdig drikke som er sterkere enn 4,7 % (som vin og sprit)?",
+    "options": [
+      "Taxfree",
+      "Apoteket",
+      "Vinmonopolet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vinmonopolet eies av staten og er det eneste stedet i Norge du lovlig kan kjøpe vin og brennevin til hjemmebruk."
+  },
+  {
+    "number": 413,
+    "question": "Er det obligatorisk (påbudt) for foreldre å sende barna sine i barnehagen i Norge?",
+    "options": [
+      "Nei, barnehage er et frivillig tilbud.",
+      "Ja, alle barn må i barnehage fra de er 1 år.",
+      "Ja, for barn av innvandrere."
+    ],
+    "correctIndex": 0,
+    "explanation": "Barnehage er et frivillig, pedagogisk tilbud, selv om det store flertallet av barn i Norge går der før skolestart."
+  },
+  {
+    "number": 414,
+    "question": "Hvor mange års grunnskole er det obligatorisk (lovpålagt) opplæringsplikt for i Norge?",
+    "options": [
+      "7 år (bare barneskolen)",
+      "10 år (barne- og ungdomsskolen)",
+      "13 år (til og med videregående)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven sier at alle barn har rett og plikt til ti års grunnskoleopplæring."
+  },
+  {
+    "number": 415,
+    "question": "Hva betyr 'ungdomsrett' i utdanningssystemet?",
+    "options": [
+      "At all ungdom har en lovfestet rett til minst 3 års videregående opplæring etter at de har fullført grunnskolen.",
+      "At ungdom kan bestemme skolens regler.",
+      "Retten til å jobbe og betale skatt fra man er 13 år."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ungdomsretten sikrer at du kommer inn på ett av de utdanningsprogrammene du har søkt på."
+  }
+]
