@@ -1,6 +1,6 @@
 [
   {
-    "number": 416,
+    "id": 416,
     "question": "Hva er den kriminelle lavalderen i Norge?",
     "options": [
       "15 år",
@@ -12,7 +12,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 417,
+    "id": 417,
     "question": "Kan du plukke ville bær, som blåbær og multer, overalt i naturen i Norge?",
     "options": [
       "Nei, det er kun grunneieren som har lov.",
@@ -24,7 +24,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 418,
+    "id": 418,
     "question": "Hva kreves for at du skal kunne jakte på ville dyr i Norge?",
     "options": [
       "Man må eie en skog.",
@@ -36,7 +36,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 419,
+    "id": 419,
     "question": "Hva er regelen for å fiske med vanlig fiskestang i sjøen (saltvann)?",
     "options": [
       "Det er gratis og fritt for alle.",
@@ -48,7 +48,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 420,
+    "id": 420,
     "question": "Hva er den vanlige regelen for å fiske i innsjøer og elver (ferskvann)?",
     "options": [
       "Det er helt forbudt i hele Norge.",
@@ -60,7 +60,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 421,
+    "id": 421,
     "question": "Hva er hovedformålet med det norske 'Oljefondet' (Statens pensjonsfond utland)?",
     "options": [
       "Å betale kongens reiser.",
@@ -72,7 +72,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 422,
+    "id": 422,
     "question": "Hva sier den økonomiske 'Handlingsregelen' i Norge?",
     "options": [
       "At staten maksimalt kan bruke cirka 3 prosent av Oljefondets verdi i det årlige statsbudsjettet.",
@@ -84,7 +84,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 423,
+    "id": 423,
     "question": "Hva er den lovfestede minstelønnen i Norge?",
     "options": [
       "150 kroner i timen for alle.",
@@ -96,7 +96,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 424,
+    "id": 424,
     "question": "Hva er et 'fagbrev' eller 'svennebrev'?",
     "options": [
       "Et bevis på at du har fullført en yrkesfaglig utdanning, for eksempel som snekker eller frisør.",
@@ -108,7 +108,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 425,
+    "id": 425,
     "question": "Hvilken oppgave har en 'tillitsvalgt' på en arbeidsplass?",
     "options": [
       "Å være arbeidsgiverens hemmelige spion.",
@@ -120,7 +120,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 426,
+    "id": 426,
     "question": "Hvilken oppgave har et 'verneombud' på arbeidsplassen?",
     "options": [
       "Å passe på at alle betaler skatt.",
@@ -132,7 +132,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 427,
+    "id": 427,
     "question": "Hva betyr 'permittering' i arbeidslivet?",
     "options": [
       "At du får sparken for alltid.",
@@ -144,7 +144,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 428,
+    "id": 428,
     "question": "Når må du vanligvis ha en sykemelding fra lege (i stedet for å bruke egenmelding)?",
     "options": [
       "Fra den aller første dagen du er syk.",
@@ -156,7 +156,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 429,
+    "id": 429,
     "question": "Har Norge en såkalt 'karensdag' ved sykdom (en dag uten lønn før sykepengene starter)?",
     "options": [
       "Ja, den første dagen er alltid uten betaling.",
@@ -168,7 +168,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 430,
+    "id": 430,
     "question": "Kan arbeidsgiveren din si deg opp (gi deg sparken) utelukkende fordi du har blitt syk?",
     "options": [
       "Ja, med en gang.",
@@ -180,7 +180,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 431,
+    "id": 431,
     "question": "Hvor lang er den normale oppsigelsestiden i en prøvetidsperiode?",
     "options": [
       "14 dager.",
@@ -192,7 +192,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 432,
+    "id": 432,
     "question": "Kan arbeidsgiveren din nekte deg å ta ut ferie i løpet av året?",
     "options": [
       "Ja, hvis det er mye å gjøre på jobben.",
@@ -204,7 +204,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 433,
+    "id": 433,
     "question": "Trekkes det skatt av feriepengene i den måneden de utbetales (ofte juni)?",
     "options": [
       "Ja, det trekkes 50 % skatt.",
@@ -216,7 +216,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 434,
+    "id": 434,
     "question": "Hva er 'hjemmesykepleie'?",
     "options": [
       "Når familiemedlemmer passer på en som er syk.",
@@ -228,7 +228,7 @@
     "category": "Helse"
   },
   {
-    "number": 435,
+    "id": 435,
     "question": "Hvem betaler for oppholdet hvis en eldre person må bo fast på sykehjem?",
     "options": [
       "Staten betaler alt 100 %.",
@@ -240,7 +240,7 @@
     "category": "Helse"
   },
   {
-    "number": 436,
+    "id": 436,
     "question": "Hvor mange uker av foreldrepermisjonen er for øyeblikket forbeholdt faren (fedrekvote)?",
     "options": [
       "10 uker",
@@ -252,7 +252,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 437,
+    "id": 437,
     "question": "Hvor lang er den totale foreldrepermisjonen med 100 % lønnsdekning i Norge?",
     "options": [
       "49 uker",
@@ -264,7 +264,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 438,
+    "id": 438,
     "question": "Hvor mange ganger i året har du rett til å bytte fastlege fritt på internett?",
     "options": [
       "Inntil 2 ganger i året.",
@@ -276,7 +276,7 @@
     "category": "Helse"
   },
   {
-    "number": 439,
+    "id": 439,
     "question": "Hva er grensen for fri (selvbestemt) abort i Norge?",
     "options": [
       "Til og med uke 12 av svangerskapet.",
@@ -288,7 +288,7 @@
     "category": "Helse"
   },
   {
-    "number": 440,
+    "id": 440,
     "question": "Er det ulovlig å kjøpe seksuelle tjenester (prostitusjon) i Norge?",
     "options": [
       "Nei, det er lovlig.",
@@ -300,7 +300,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 441,
+    "id": 441,
     "question": "Er det straffbart å SELGE seksuelle tjenester i Norge?",
     "options": [
       "Ja, begge parter straffes.",
@@ -312,7 +312,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 442,
+    "id": 442,
     "question": "Er det lov å utføre kjønnslemlestelse (omskjæring) av jenter i Norge?",
     "options": [
       "Ja, på sykehus.",
@@ -324,7 +324,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 443,
+    "id": 443,
     "question": "Hvor mange fylker har Norge per 2026?",
     "options": [
       "11 fylker",
@@ -336,7 +336,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 444,
+    "id": 444,
     "question": "Hvilken statlig etat har som hovedoppgave å kreve inn skatter og avgifter fra befolkningen?",
     "options": [
       "Skatteetaten",
@@ -348,7 +348,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 445,
+    "id": 445,
     "question": "Hva er den største konsekvensen av svart arbeid for samfunnet som helhet?",
     "options": [
       "At folk får dårligere tid.",
@@ -360,7 +360,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 446,
+    "id": 446,
     "question": "Er det obligatorisk (påbudt) å stemme ved politiske valg i Norge?",
     "options": [
       "Ja, man får bot hvis man ikke stemmer.",
@@ -372,7 +372,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 447,
+    "id": 447,
     "question": "Hvilken aldersgruppe gjelder kontantstøtten for?",
     "options": [
       "Barn mellom 0 og 1 år.",
@@ -384,7 +384,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 448,
+    "id": 448,
     "question": "Er barnetrygden man får utbetalt månedlig skattepliktig?",
     "options": [
       "Ja, den skattlegges som vanlig lønn.",
@@ -396,7 +396,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 449,
+    "id": 449,
     "question": "Hva er 'Konfliktrådet'?",
     "options": [
       "Et tilbud der lovbrytere og ofre kan møtes med en upartisk megler for å løse saken utenfor domstolen.",
@@ -408,7 +408,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 450,
+    "id": 450,
     "question": "Hva er det laveste nivået (første instans) i de norske domstolene for straffesaker?",
     "options": [
       "Tingretten",
@@ -420,7 +420,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 451,
+    "id": 451,
     "question": "Hva heter det andre nivået i det norske domstolsystemet, dit saker ankes hvis man er uenig i Tingrettens dom?",
     "options": [
       "Konfliktrådet",
@@ -432,7 +432,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 452,
+    "id": 452,
     "question": "Hva heter den øverste domstolen i Norge, som tar avgjørelser av prinsipiell betydning?",
     "options": [
       "Lagmannsretten",
@@ -444,7 +444,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 453,
+    "id": 453,
     "question": "Hva er den normale øvre strafferammen (maksimumsstraffen) i Norge, unntatt ved forvaring og terror?",
     "options": [
       "10 år",
@@ -456,7 +456,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 454,
+    "id": 454,
     "question": "Hva betyr fengselsstraffen 'forvaring'?",
     "options": [
       "At man slipper å sitte i fengsel.",
@@ -468,7 +468,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 455,
+    "id": 455,
     "question": "Hva er hovedregelen for bevæpning av politiet i Norge?",
     "options": [
       "At de alltid bærer skytevåpen på hoften.",
@@ -480,7 +480,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 456,
+    "id": 456,
     "question": "Er det lov å kjøre på rødt lys hvis det ikke er andre biler i nærheten?",
     "options": [
       "Ja, spesielt om natten.",
@@ -492,7 +492,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 457,
+    "id": 457,
     "question": "Hva er hovedregelen for vikeplikt i kryss i Norge der det ikke er satt opp skilt?",
     "options": [
       "Den største bilen kjører først.",
@@ -504,7 +504,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 458,
+    "id": 458,
     "question": "Hva er promillegrensen for å kjøre elektrisk sparkesykkel i Norge?",
     "options": [
       "Det er ingen grense.",
@@ -516,7 +516,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 459,
+    "id": 459,
     "question": "Hva skjer hvis du får prikker på førerkortet i løpet av de to første årene etter du bestod førerprøven (prøvetiden)?",
     "options": [
       "Ingenting skjer.",
@@ -528,7 +528,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 460,
+    "id": 460,
     "question": "I hvilken by ligger Stortinget (nasjonalforsamlingen)?",
     "options": [
       "Bergen",
@@ -540,7 +540,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 461,
+    "id": 461,
     "question": "Hvem er Jens Stoltenberg?",
     "options": [
       "Kongen av Norge på 1800-tallet.",
@@ -552,7 +552,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 462,
+    "id": 462,
     "question": "Hvem er Erna Solberg?",
     "options": [
       "En kjent norsk popstjerne.",
@@ -564,7 +564,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 463,
+    "id": 463,
     "question": "Kan statsborgere fra andre EØS-land fritt reise til Norge for å søke jobb?",
     "options": [
       "Ja, EØS-avtalen sikrer fri bevegelse av arbeidstakere over landegrensene i Europa.",
@@ -576,7 +576,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 464,
+    "id": 464,
     "question": "Hva er hovedregelen for personer fra land UTENFOR EØS (tredjeland) som vil jobbe i Norge?",
     "options": [
       "De kan bare reise hit og begynne å jobbe i morgen.",
@@ -588,7 +588,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 465,
+    "id": 465,
     "question": "Hva må utenlandske arbeidstakere ha for å kunne få et skattekort i Norge?",
     "options": [
       "Et norsk pass.",
@@ -600,7 +600,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 466,
+    "id": 466,
     "question": "Hva er et D-nummer i Norge?",
     "options": [
       "Koden til bankkortet ditt.",
@@ -612,7 +612,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 467,
+    "id": 467,
     "question": "Hvor mange siffer (tall) består et norsk fødselsnummer (personnummer) av?",
     "options": [
       "8 siffer",
@@ -624,7 +624,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 468,
+    "id": 468,
     "question": "Hva er BankID?",
     "options": [
       "En bank som eies av staten.",
@@ -636,7 +636,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 469,
+    "id": 469,
     "question": "Er det lov å la ektefellen eller barna dine bruke din BankID for å betale regninger?",
     "options": [
       "Ja, det er helt vanlig i familier.",
@@ -648,7 +648,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 470,
+    "id": 470,
     "question": "Hva betyr 'likestilling' i praksis?",
     "options": [
       "At staten fordeler penger likt til alle byer.",
@@ -660,7 +660,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 471,
+    "id": 471,
     "question": "I hvilket tidsrom var Norge okkupert av Tyskland under andre verdenskrig?",
     "options": [
       "1914–1918",
@@ -672,7 +672,7 @@
     "category": "Historie"
   },
   {
-    "number": 472,
+    "id": 472,
     "question": "Hva menes med det politiske begrepet 'Det grønne skiftet'?",
     "options": [
       "At alle hus i Norge skal males grønne.",
@@ -684,7 +684,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 473,
+    "id": 473,
     "question": "Hva skjer med matavfallet når du kildesorterer det riktig i de grønne posene?",
     "options": [
       "Det blir kastet i havet.",
@@ -696,7 +696,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 474,
+    "id": 474,
     "question": "Hva er den nasjonale 'pantordningen' i Norge?",
     "options": [
       "Et lån du tar i banken for å kjøpe bil.",
@@ -708,7 +708,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 475,
+    "id": 475,
     "question": "Hva er 'fraværsgrensen' på videregående skole i Norge?",
     "options": [
       "Hvis du har mer enn 10 % udokumentert fravær i et fag, mister du retten til å få karakter.",
@@ -720,7 +720,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 476,
+    "id": 476,
     "question": "Hvilken alder har vanligvis elevene når de går på ungdomsskolen (8. - 10. trinn)?",
     "options": [
       "10 til 12 år.",
@@ -732,7 +732,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 477,
+    "id": 477,
     "question": "Hva betyr 'makspris' i barnehage?",
     "options": [
       "At barnehagen kan ta betalt akkurat så mye de vil.",
@@ -744,7 +744,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 478,
+    "id": 478,
     "question": "Hva betyr det juridisk 'å være myndig' i Norge?",
     "options": [
       "At du kan kjøre buss.",
@@ -756,7 +756,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 479,
+    "id": 479,
     "question": "Har ungdommer under 18 år lov til å jobbe natteskift (mellom kl. 23.00 og 06.00) i Norge?",
     "options": [
       "Ja, for å tjene ekstra penger.",
@@ -768,7 +768,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 480,
+    "id": 480,
     "question": "Må ungdommer betale skatt av sommerjobben sin hvis de tjener 35 000 kroner på ett år?",
     "options": [
       "Nei, så lenge beløpet er under frikortgrensen (for tiden 70 000 kr), betaler man ikke inntektsskatt.",
@@ -780,7 +780,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 481,
+    "id": 481,
     "question": "Hva er aldersgrensen for å delta i lotterier og pengespill (for eksempel Lotto eller Tipping) i Norge?",
     "options": [
       "15 år",
@@ -792,7 +792,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 482,
+    "id": 482,
     "question": "Hvorfor har filmer på kino forskjellige aldersgrenser?",
     "options": [
       "For at de voksne skal få sitte i fred.",
@@ -804,7 +804,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 483,
+    "id": 483,
     "question": "Hva er rollen til 'Norges Bank'?",
     "options": [
       "Det er den eneste banken som gir boliglån til folk.",
@@ -816,7 +816,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 484,
+    "id": 484,
     "question": "Hvem bestemmer 'styringsrenten' som i stor grad påvirker hvor dyrt det blir for deg å ha boliglån?",
     "options": [
       "Statsministeren",
@@ -828,7 +828,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 485,
+    "id": 485,
     "question": "Hva menes med begrepet 'inflasjon'?",
     "options": [
       "At lønningene går ned.",
@@ -840,7 +840,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 486,
+    "id": 486,
     "question": "Hvilken organisasjon gir studielån til studenter i Norge?",
     "options": [
       "Nordea",
@@ -852,7 +852,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 487,
+    "id": 487,
     "question": "Hvor mange år er det vanligste å bruke på å betale ned et boliglån (nedbetalingstid)?",
     "options": [
       "5 år",
@@ -864,7 +864,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 488,
+    "id": 488,
     "question": "Hva betyr det å få 'avdragsfrihet' på boliglånet i en periode?",
     "options": [
       "At man ikke betaler noen ting i det hele tatt.",
@@ -876,7 +876,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 489,
+    "id": 489,
     "question": "Har du ifølge loven angrerett hvis du kjøper et klesplagg fysisk inne i en klesbutikk og angrer dagen etter?",
     "options": [
       "Ja, alltid 14 dager angrerett.",
@@ -888,7 +888,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 490,
+    "id": 490,
     "question": "Hva er 'reklamasjonsrett' etter forbrukerkjøpsloven?",
     "options": [
       "Din rett til å klage hvis varen du kjøpte har en mangel eller feil som produsenten har ansvaret for.",
@@ -900,7 +900,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 491,
+    "id": 491,
     "question": "Hva er forskjellen på 'garanti' og 'reklamasjonsrett'?",
     "options": [
       "Det er akkurat det samme.",
@@ -912,7 +912,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 492,
+    "id": 492,
     "question": "Kan man straffes med fengsel i Norge for å tvinge noen til å gifte seg (tvangsekteskap)?",
     "options": [
       "Nei, det regnes som et familieproblem.",
@@ -924,7 +924,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 493,
+    "id": 493,
     "question": "Er det tillatt å inngå 'barneekteskap' (når en eller begge er under 18 år) i Norge?",
     "options": [
       "Ja, hvis foreldrene signerer papirene.",
@@ -936,7 +936,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 494,
+    "id": 494,
     "question": "Når ble det fullt ut lovlig (avkriminalisert) å ha et homofilt forhold i Norge?",
     "options": [
       "1814",
@@ -948,7 +948,7 @@
     "category": "Historie"
   },
   {
-    "number": 495,
+    "id": 495,
     "question": "Kan likekjønnede (homofile) ektepar adoptere barn i Norge på lik linje med heterofile ektepar?",
     "options": [
       "Ja, felles ekteskapslov fra 2009 ga likekjønnede rett til å bli vurdert som adoptivforeldre.",
@@ -960,7 +960,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 496,
+    "id": 496,
     "question": "Hva er 'Pride' i Norge?",
     "options": [
       "En markering til støtte for hæren.",
@@ -972,7 +972,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 497,
+    "id": 497,
     "question": "Tjener kvinner og menn statistisk sett nøyaktig like mye i Norge i dag?",
     "options": [
       "Ja, forskjellene er helt borte.",
@@ -984,7 +984,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 498,
+    "id": 498,
     "question": "Hvordan er foreldrepermisjonen etter fødsel vanligvis delt inn i Norge?",
     "options": [
       "Alt tilhører moren.",
@@ -996,7 +996,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 499,
+    "id": 499,
     "question": "Kan menn som opplever vold i ekteskapet få hjelp fra Krisesenteret?",
     "options": [
       "Nei, krisesentre er kun for kvinner.",
@@ -1008,7 +1008,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 500,
+    "id": 500,
     "question": "Hvor mange timer er alminnelig arbeidstid per dag ifølge arbeidsmiljøloven?",
     "options": [
       "5 timer.",
@@ -1020,7 +1020,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 501,
+    "id": 501,
     "question": "Hva sier loven om overtidstillegg når du tvinges til å jobbe lenger enn alminnelig arbeidstid?",
     "options": [
       "Du får bare et klapp på skulderen.",
@@ -1032,7 +1032,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 502,
+    "id": 502,
     "question": "Hvem kan skrive ut en sykemelding til deg i Norge?",
     "options": [
       "Arbeidsgiveren din.",
@@ -1044,7 +1044,7 @@
     "category": "Helse"
   },
   {
-    "number": 503,
+    "id": 503,
     "question": "Hva er 'trygdesvindel'?",
     "options": [
       "Å glemme passordet på NAV.no.",
@@ -1056,7 +1056,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 504,
+    "id": 504,
     "question": "Hvorfor har Stortinget vedtatt at aldersgrensen for pensjon skal gradvis økes i fremtiden?",
     "options": [
       "Fordi de vil at folk skal jobbe seg i hjel.",
@@ -1068,7 +1068,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 505,
+    "id": 505,
     "question": "Hva er 'Helfo'?",
     "options": [
       "Et firma som selger medisiner.",
@@ -1080,7 +1080,7 @@
     "category": "Helse"
   },
   {
-    "number": 506,
+    "id": 506,
     "question": "Hvilket telefonnummer har legevakten over hele landet?",
     "options": [
       "113",
@@ -1092,7 +1092,7 @@
     "category": "Helse"
   },
   {
-    "number": 507,
+    "id": 507,
     "question": "Hva koster det å bytte fastlege på Helsenorge.no?",
     "options": [
       "500 kroner.",
@@ -1104,7 +1104,7 @@
     "category": "Helse"
   },
   {
-    "number": 508,
+    "id": 508,
     "question": "Hva er oppgaven til Pasient- og brukerombudet?",
     "options": [
       "Å arrestere dårlige leger.",
@@ -1116,7 +1116,7 @@
     "category": "Helse"
   },
   {
-    "number": 509,
+    "id": 509,
     "question": "Er det tillatt for en utleier å nekte deg å leie en leilighet fordi de ikke liker religionen eller hudfargen din?",
     "options": [
       "Ja, det er deres private eiendom.",
@@ -1128,7 +1128,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 510,
+    "id": 510,
     "question": "Hvilken lov skal hindre at folk blir dårligere behandlet på grunn av kjønn, graviditet, religion eller nedsatt funksjonsevne?",
     "options": [
       "Forbrukerkjøpsloven.",
@@ -1140,7 +1140,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 511,
+    "id": 511,
     "question": "Er det tillatt for foreldre i Norge å nekte sine 16 år gamle barn å melde seg ut av foreldrenes trossamfunn?",
     "options": [
       "Ja, frem til de er 18 år.",
@@ -1152,7 +1152,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 512,
+    "id": 512,
     "question": "Hva endret seg i 2012 når det gjelder Den norske kirkes rolle i staten?",
     "options": [
       "Kirken fikk lov til å kreve inn skatt.",
@@ -1164,7 +1164,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 513,
+    "id": 513,
     "question": "Hva ble vedtatt av FN i 1948 som Norge bygger mange av sine lover på?",
     "options": [
       "Miljøavtalen.",
@@ -1176,7 +1176,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 514,
+    "id": 514,
     "question": "Hva er de viktigste grensene for ytringsfriheten (ting du IKKE har lov til å si høyt) i Norge?",
     "options": [
       "Man kan ikke si at man misliker regjeringen.",
@@ -1188,7 +1188,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 515,
+    "id": 515,
     "question": "Hva betyr ordet 'demokrati' oversatt fra gresk?",
     "options": [
       "Folkestyre (makten utgår fra folket).",
@@ -1200,7 +1200,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 517,
+    "id": 517,
     "question": "Hva heter Norges lengste elv?",
     "options": [
       "Glomma",
@@ -1212,7 +1212,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 518,
+    "id": 518,
     "question": "Hva heter den største innsjøen i Norge?",
     "options": [
       "Mjøsa",
@@ -1224,7 +1224,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 519,
+    "id": 519,
     "question": "Hvilken norsk by kalles ofte 'Nordens Paris'?",
     "options": [
       "Trondheim",
@@ -1236,7 +1236,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 520,
+    "id": 520,
     "question": "Når fikk kvinner alminnelig stemmerett ved stortingsvalg i Norge?",
     "options": [
       "1814",
@@ -1248,7 +1248,7 @@
     "category": "Historie"
   },
   {
-    "number": 521,
+    "id": 521,
     "question": "Hva kalles urbefolkningen i Norge?",
     "options": [
       "Vikinger",
@@ -1260,7 +1260,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 522,
+    "id": 522,
     "question": "Hvor ligger Sametinget i Norge?",
     "options": [
       "Oslo",
@@ -1272,7 +1272,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 523,
+    "id": 523,
     "question": "I hvilket år ble den norske Grunnloven skrevet og vedtatt?",
     "options": [
       "1814",
@@ -1284,7 +1284,7 @@
     "category": "Historie"
   },
   {
-    "number": 524,
+    "id": 524,
     "question": "Hvilket land var Norge i union med fra 1814 til 1905?",
     "options": [
       "Danmark",
@@ -1296,7 +1296,7 @@
     "category": "Historie"
   },
   {
-    "number": 525,
+    "id": 525,
     "question": "Hva skjedde i Norge sent på 1960-tallet som forandret landets økonomi fundamentalt?",
     "options": [
       "Norge meldte seg inn i EU.",
@@ -1308,7 +1308,7 @@
     "category": "Historie"
   },
   {
-    "number": 526,
+    "id": 526,
     "question": "Hva er 'Handlingsregelen' knyttet til Oljefondet?",
     "options": [
       "En regel som sier at vi ikke kan bruke mer enn ca. 3 % av fondets verdi årlig over statsbudsjettet.",
@@ -1320,7 +1320,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 527,
+    "id": 527,
     "question": "Er Norge medlem av EU (Den europeiske union)?",
     "options": [
       "Ja, siden 1994.",
@@ -1332,7 +1332,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 528,
+    "id": 528,
     "question": "Hva er NATO?",
     "options": [
       "En internasjonal miljøorganisasjon.",
@@ -1344,7 +1344,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 529,
+    "id": 529,
     "question": "Hvor ofte er det kommune- og fylkestingsvalg i Norge?",
     "options": [
       "Hvert andre år.",
@@ -1356,7 +1356,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 530,
+    "id": 530,
     "question": "Hvem kan stemme ved lokalvalg (kommune- og fylkestingsvalg) i Norge?",
     "options": [
       "Kun norske statsborgere.",
@@ -1368,7 +1368,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 531,
+    "id": 531,
     "question": "Hva slags styreform har Norge?",
     "options": [
       "Republikk",
@@ -1380,7 +1380,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 532,
+    "id": 532,
     "question": "Hvor mange representanter (medlemmer) er det i Stortinget?",
     "options": [
       "169",
@@ -1392,7 +1392,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 533,
+    "id": 533,
     "question": "Hva betyr 'parlamentarisme'?",
     "options": [
       "At kongen bestemmer over regjeringen.",
@@ -1404,7 +1404,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 534,
+    "id": 534,
     "question": "Hvilken oppgave har regjeringen i Norge?",
     "options": [
       "Å vedta landets lover og budsjetter.",
@@ -1416,7 +1416,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 535,
+    "id": 535,
     "question": "Hvem danner regjering etter et stortingsvalg?",
     "options": [
       "Det partiet eller de partiene som til sammen kan få støtte fra et flertall på Stortinget.",
@@ -1428,7 +1428,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 536,
+    "id": 536,
     "question": "Hva er en 'mindretallsregjering'?",
     "options": [
       "En regjering med færre enn 10 statsråder.",
@@ -1440,7 +1440,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 537,
+    "id": 537,
     "question": "Hva betyr 'ytringsfrihet'?",
     "options": [
       "At du kan si absolutt hva du vil uten at noen kan bli sure på deg.",
@@ -1452,7 +1452,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 538,
+    "id": 538,
     "question": "Hva betyr 'religionsfrihet' i Norge?",
     "options": [
       "At alle må tilhøre en religion.",
@@ -1464,7 +1464,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 539,
+    "id": 539,
     "question": "Når feirer nordmenn jul (julaften)?",
     "options": [
       "24. desember",
@@ -1476,7 +1476,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 540,
+    "id": 540,
     "question": "Hva er 'dugnad'?",
     "options": [
       "En spesiell type norsk mat.",
@@ -1488,7 +1488,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 541,
+    "id": 541,
     "question": "Hva kreves for å bli medlem av et politisk parti i Norge?",
     "options": [
       "Du må være norsk statsborger.",
@@ -1500,7 +1500,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 542,
+    "id": 542,
     "question": "Hvilket av disse organene i samfunnet har ansvaret for å vedta Norges lover?",
     "options": [
       "Regjeringen",
@@ -1512,7 +1512,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 543,
+    "id": 543,
     "question": "Hvem er 'statsråd' (minister)?",
     "options": [
       "Kongens nærmeste rådgiver.",
@@ -1524,7 +1524,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 544,
+    "id": 544,
     "question": "Hvem har ansvaret for barnevernet i første instans?",
     "options": [
       "Politiet",
@@ -1536,7 +1536,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 545,
+    "id": 545,
     "question": "Hva er hovedoppgaven til barnevernet i Norge?",
     "options": [
       "Å sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp og omsorg i rett tid.",
@@ -1548,7 +1548,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 546,
+    "id": 546,
     "question": "Er det lov for foreldre å slå eller bruke fysisk makt for å oppdra barn i Norge?",
     "options": [
       "Ja, hvis barnet har vært spesielt uskikkelig.",
@@ -1560,7 +1560,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 547,
+    "id": 547,
     "question": "Hva er 'frikort' i helsevesenet?",
     "options": [
       "Et kort som gir deg gratis medisiner hele livet.",
@@ -1572,7 +1572,7 @@
     "category": "Helse"
   },
   {
-    "number": 548,
+    "id": 548,
     "question": "Hvilke medisiner får man på 'blå resept'?",
     "options": [
       "Medisiner for sykdommer du bare har i noen dager (f.eks. antibiotika).",
@@ -1584,7 +1584,7 @@
     "category": "Helse"
   },
   {
-    "number": 549,
+    "id": 549,
     "question": "Må barn og ungdom betale egenandel for behandling hos lege og psykolog?",
     "options": [
       "Ja, samme som voksne.",
@@ -1596,7 +1596,7 @@
     "category": "Helse"
   },
   {
-    "number": 550,
+    "id": 550,
     "question": "Tannlegebehandling for voksne er som regel ikke dekket av staten. Men til hvilken alder får unge gratis tannbehandling i den offentlige tannhelsetjenesten?",
     "options": [
       "Til og med det året de fyller 12 år.",
@@ -1608,7 +1608,7 @@
     "category": "Helse"
   },
   {
-    "number": 551,
+    "id": 551,
     "question": "Når begynner barn vanligvis på skolen i Norge (1. klasse)?",
     "options": [
       "Det året de fyller 5 år.",
@@ -1620,7 +1620,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 552,
+    "id": 552,
     "question": "Hva er SFO (Skolefritidsordningen)?",
     "options": [
       "Et tilbud for elever på ungdomsskolen.",
@@ -1632,7 +1632,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 553,
+    "id": 553,
     "question": "Får elever karakterer på barneskolen (1. til 7. trinn) i Norge?",
     "options": [
       "Ja, i alle fag fra 1. klasse.",
@@ -1644,7 +1644,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 554,
+    "id": 554,
     "question": "Er høyere utdanning (universitet og statlige høyskoler) gratis i Norge?",
     "options": [
       "Nei, det koster rundt 100 000 kroner i året.",
@@ -1656,7 +1656,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 555,
+    "id": 555,
     "question": "Hva heter det norske urfolket som bor nord i landet?",
     "options": [
       "Kveener",
@@ -1668,7 +1668,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 556,
+    "id": 556,
     "question": "Hva markerer vi på Samefolkets dag den 6. februar?",
     "options": [
       "Det første samiske landsmøtet i 1917.",
@@ -1680,7 +1680,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 557,
+    "id": 557,
     "question": "Hva er 'lærlingtid'?",
     "options": [
       "Perioden før man begynner på videregående skole.",
@@ -1692,7 +1692,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 558,
+    "id": 558,
     "question": "Hva betyr 'kildesortering'?",
     "options": [
       "Å sortere bøker i biblioteket.",
@@ -1704,7 +1704,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 559,
+    "id": 559,
     "question": "Må du betale lisens for å eie en TV i dag i Norge?",
     "options": [
       "Ja, en egen regning kommer i posten to ganger i året.",
@@ -1716,7 +1716,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 560,
+    "id": 560,
     "question": "Kan du ta med deg ubegrenset med alkohol eller tobakk inn i Norge når du har vært i utlandet?",
     "options": [
       "Ja, så lenge det er til eget bruk.",
@@ -1728,7 +1728,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 561,
+    "id": 561,
     "question": "Er det lov å drikke alkohol offentlig (i parker eller på gata) i Norge?",
     "options": [
       "Ja, det er veldig vanlig om sommeren.",
@@ -1740,7 +1740,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 562,
+    "id": 562,
     "question": "Hva er 'verneplikt' i Norge?",
     "options": [
       "En plikt for kommunen til å verne naturen.",
@@ -1752,7 +1752,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 563,
+    "id": 563,
     "question": "Hva heter avtalen som regulerer arbeidslivet i Norge, fremforhandlet mellom fagforeninger og arbeidsgiverorganisasjoner?",
     "options": [
       "Norgesavtalen",
@@ -1764,7 +1764,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 564,
+    "id": 564,
     "question": "Hva er en 'skattemelding' (tidligere selvangivelse)?",
     "options": [
       "En bot du får hvis du ikke betaler skatt.",
@@ -1776,7 +1776,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 565,
+    "id": 565,
     "question": "Kan man bli straffet i Norge for handlinger man har gjort i et annet land?",
     "options": [
       "Nei, norsk politi har ingen makt over grensen.",
@@ -1788,7 +1788,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 566,
+    "id": 566,
     "question": "Hva kalles den varme havstrømmen som gir Norge et mye mildere klima enn andre steder på samme breddegrad (som Grønland og Alaska)?",
     "options": [
       "Kaldstrømmen",
@@ -1800,7 +1800,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 567,
+    "id": 567,
     "question": "Omtrent hvor mange innbyggere har Norge i dag?",
     "options": [
       "Rundt 2,5 millioner",
@@ -1812,7 +1812,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 568,
+    "id": 568,
     "question": "Hvem regnes som den første kongen som samlet Norge til ett rike rundt år 872?",
     "options": [
       "Olav Tryggvason",
@@ -1824,7 +1824,7 @@
     "category": "Historie"
   },
   {
-    "number": 569,
+    "id": 569,
     "question": "I hvilket år ble unionen mellom Norge og Sverige oppløst slik at Norge ble helt selvstendig?",
     "options": [
       "1814",
@@ -1836,7 +1836,7 @@
     "category": "Historie"
   },
   {
-    "number": 570,
+    "id": 570,
     "question": "Hva er 'dagpenger' i det norske velferdssystemet?",
     "options": [
       "Lønn for å jobbe på dagen.",
@@ -1848,7 +1848,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 571,
+    "id": 571,
     "question": "Hva er forskjellen på et stipend og et lån fra Lånekassen?",
     "options": [
       "Et stipend må betales tilbake med renter, lånet er gratis.",
@@ -1860,7 +1860,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 572,
+    "id": 572,
     "question": "Hva betyr naturfenomenet 'midnattssol'?",
     "options": [
       "At solen står opp midt på natten om vinteren.",
@@ -1872,7 +1872,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 573,
+    "id": 573,
     "question": "Hva er 'nordlys' (Aurora Borealis)?",
     "options": [
       "Et fyrverkeri som sendes opp hver nyttårsaften i nord.",
@@ -1884,7 +1884,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 574,
+    "id": 574,
     "question": "Hva feirer vi på Norges nasjonaldag, 17. mai?",
     "options": [
       "At krigen sluttet i 1945.",
@@ -1896,7 +1896,7 @@
     "category": "Historie"
   },
   {
-    "number": 575,
+    "id": 575,
     "question": "Hvor gammel må man være for å få førerkort for vanlig personbil (klasse B) i Norge?",
     "options": [
       "16 år",
@@ -1908,7 +1908,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 576,
+    "id": 576,
     "question": "Hva betyr 'taushetsplikt' i helsevesenet og i mange andre yrker?",
     "options": [
       "At de ansatte ikke får lov til å snakke med pasientene.",
@@ -1920,7 +1920,7 @@
     "category": "Helse"
   },
   {
-    "number": 577,
+    "id": 577,
     "question": "Hva er en 'egenandel' når du er hos fastlegen?",
     "options": [
       "En avgift som dekker strømmen på sykehuset.",
@@ -1932,7 +1932,7 @@
     "category": "Helse"
   },
   {
-    "number": 578,
+    "id": 578,
     "question": "Hva er formålet med 'barnetrygd'?",
     "options": [
       "Å betale barna for at de rydder rommet sitt.",
@@ -1944,7 +1944,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 579,
+    "id": 579,
     "question": "Hva heter hovedstaden i Norge?",
     "options": [
       "Bergen",
@@ -1956,7 +1956,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 580,
+    "id": 580,
     "question": "Hva er 'russetiden'?",
     "options": [
       "Den tiden på høsten når det regner mest.",
@@ -1968,7 +1968,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 581,
+    "id": 581,
     "question": "Hva er tradisjonell norsk julemat for mange familier på julaften?",
     "options": [
       "Taco og pizza.",
@@ -1980,7 +1980,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 582,
+    "id": 582,
     "question": "Hva er den lovlige promillegrensen for å kjøre bil i Norge?",
     "options": [
       "0,2 promille",
@@ -1992,7 +1992,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 583,
+    "id": 583,
     "question": "Hvilket statlig organ har ansvaret for å sjekke at maten i butikker og restauranter er trygg, og at dyrevelferden ivaretas?",
     "options": [
       "Mattilsynet",
@@ -2004,7 +2004,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 584,
+    "id": 584,
     "question": "Er det påbudt å bruke bilbelte for passasjerer i baksetet i en bil?",
     "options": [
       "Nei, bare for sjåføren.",
@@ -2016,7 +2016,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 585,
+    "id": 585,
     "question": "Hva er MVA (merverdiavgift/moms)?",
     "options": [
       "En avgift som kun gjelder for luksusbiler.",
@@ -2028,7 +2028,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 586,
+    "id": 586,
     "question": "Hva er en 'fagforening' i arbeidslivet?",
     "options": [
       "En organisasjon som eies av staten for å kontrollere arbeiderne.",
@@ -2040,7 +2040,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 587,
+    "id": 587,
     "question": "Hvilken politisk forsamling i Norge har som oppgave å vedta det nasjonale statsbudsjettet for neste år?",
     "options": [
       "Regjeringen",
@@ -2052,7 +2052,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 588,
+    "id": 588,
     "question": "Hva er et skattekort?",
     "options": [
       "Et elektronisk dokument som forteller arbeidsgiveren din hvor mye skatt de skal trekke fra lønnen din før du får den utbetalt.",
@@ -2064,7 +2064,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 589,
+    "id": 589,
     "question": "Hva betyr begrepet 'lokaldemokrati' i praksis?",
     "options": [
       "At staten i Oslo bestemmer absolutt alt i hele landet.",
@@ -2076,7 +2076,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 590,
+    "id": 590,
     "question": "Hvilken religion har historisk sett hatt størst innflytelse på norsk kultur, lover og tradisjoner?",
     "options": [
       "Islam",
@@ -2088,7 +2088,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 591,
+    "id": 591,
     "question": "Er religionsfaget i skolen (KRLE) forkynnende (altså at læreren prøver å få elevene til å tro på en bestemt religion)?",
     "options": [
       "Ja, alle må lære seg å bli kristne.",
@@ -2100,7 +2100,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 592,
+    "id": 592,
     "question": "Hva gjør 'Barneombudet'?",
     "options": [
       "Straffer barn som bryter loven.",
@@ -2112,7 +2112,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 593,
+    "id": 593,
     "question": "Når er det tidligst mulig å ta ut alderspensjon fra staten (Folketrygden) for de fleste nordmenn, forutsatt at man har tjent opp nok?",
     "options": [
       "55 år",
@@ -2124,7 +2124,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 594,
+    "id": 594,
     "question": "Hva er en 'helsestasjon' i den norske kommunen?",
     "options": [
       "Et treningssenter for voksne.",
@@ -2136,7 +2136,7 @@
     "category": "Helse"
   },
   {
-    "number": 595,
+    "id": 595,
     "question": "Hvor ble Norges Grunnlov forfattet og vedtatt i 1814?",
     "options": [
       "På Akershus festning i Oslo.",
@@ -2148,7 +2148,7 @@
     "category": "Historie"
   },
   {
-    "number": 596,
+    "id": 596,
     "question": "Beskytter ytringsfriheten retten din til å framsette grove trusler om vold mot andre mennesker?",
     "options": [
       "Ja, man kan si hva man vil i et fritt land.",
@@ -2160,7 +2160,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 597,
+    "id": 597,
     "question": "Hva markeres internasjonalt og i Norge den 8. mars?",
     "options": [
       "Arbeidernes dag",
@@ -2172,7 +2172,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 598,
+    "id": 598,
     "question": "Er det gratis for foreldre å ha barna sine i den offentlige grunnskolen (1. - 10. klasse)?",
     "options": [
       "Nei, det koster penger hver måned.",
@@ -2184,7 +2184,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 599,
+    "id": 599,
     "question": "Hva er 'videregående skole' i Norge?",
     "options": [
       "Det er navnet på universitetet.",
@@ -2196,7 +2196,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 600,
+    "id": 600,
     "question": "Hva er oppgaven til 'Forbrukerrådet'?",
     "options": [
       "Å hjelpe bedrifter med å selge flere varer.",
@@ -2208,7 +2208,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 601,
+    "id": 601,
     "question": "Hva betyr 'foreldreansvar'?",
     "options": [
       "At foreldrene eier barna sine.",
@@ -2220,7 +2220,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 602,
+    "id": 602,
     "question": "Kan Kongen i Norge personlig bestemme og endre Norges lover?",
     "options": [
       "Ja, han er den øverste sjefen og kan gjøre som han vil.",
@@ -2232,7 +2232,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 603,
+    "id": 603,
     "question": "Hvilke regler gjelder for lys på sykkel i Norge hvis man sykler i mørket eller usiktbart vær?",
     "options": [
       "Det er ingen regler for sykkel.",
@@ -2244,7 +2244,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 604,
+    "id": 604,
     "question": "Hva er en 'fastlege'?",
     "options": [
       "En lege som jobber på sykehuset og opererer pasienter.",
@@ -2256,7 +2256,7 @@
     "category": "Helse"
   },
   {
-    "number": 605,
+    "id": 605,
     "question": "Kan du ifølge allemannsretten sette opp et telt for en natt hvor som helst i utmark (skog og fjell) i Norge?",
     "options": [
       "Ja, så lenge det er minst 150 meter fra nærmeste bebodde hus eller hytte.",
@@ -2268,7 +2268,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 606,
+    "id": 606,
     "question": "Hvem har lov til å stemme ved det nasjonale stortingsvalget?",
     "options": [
       "Alle som bor i Norge.",
@@ -2280,7 +2280,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 607,
+    "id": 607,
     "question": "Hva er den nasjonale 'sperregrensen' ved norske stortingsvalg?",
     "options": [
       "4 prosent av stemmene for å kunne få tildelt utjevningsmandater.",
@@ -2292,7 +2292,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 608,
+    "id": 608,
     "question": "Hva gjør Likestillings- og diskrimineringsombudet (LDO)?",
     "options": [
       "De sørger for at kvinner alltid får høyest lønn.",
@@ -2304,7 +2304,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 609,
+    "id": 609,
     "question": "Hvem har lov til å inngå ekteskap med hverandre i Norge i dag?",
     "options": [
       "Bare en kvinne og en mann kan gifte seg lovlig.",
@@ -2316,7 +2316,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 610,
+    "id": 610,
     "question": "Hva var 'Svartedauden', som rammet Norge i år 1349?",
     "options": [
       "En stor brann som ødela Oslo.",
@@ -2328,7 +2328,7 @@
     "category": "Historie"
   },
   {
-    "number": 611,
+    "id": 611,
     "question": "Hvem var Henrik Ibsen?",
     "options": [
       "Norges første konge.",
@@ -2340,7 +2340,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 612,
+    "id": 612,
     "question": "Hvem malte det verdenskjente maleriet 'Skrik'?",
     "options": [
       "Edvard Grieg",
@@ -2352,7 +2352,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 613,
+    "id": 613,
     "question": "Hvilke farger er det i det samiske flagget?",
     "options": [
       "Rødt, hvitt og blått, som det norske flagget.",
@@ -2364,7 +2364,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 614,
+    "id": 614,
     "question": "Hvem er det som velger hvem som skal være president for Sametinget?",
     "options": [
       "Det norske Stortinget i Oslo.",
@@ -2376,7 +2376,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 615,
+    "id": 615,
     "question": "Hva er kravet for å få et boliglån i Norge når det gjelder 'egenkapital' (sparte penger)?",
     "options": [
       "Bankene krever at du må ha minst 15 % av kjøpesummen i egne, oppsparte penger for å få lån.",
@@ -2388,7 +2388,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 616,
+    "id": 616,
     "question": "Hva står forkortelsen UDI for?",
     "options": [
       "Utdanningsdirektoratet",
@@ -2400,7 +2400,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 617,
+    "id": 617,
     "question": "Hva er et vanlig krav for å få innvilget 'familiegjenforening' for en ektefelle som vil flytte til Norge?",
     "options": [
       "At begge parter er under 30 år.",
@@ -2412,7 +2412,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 618,
+    "id": 618,
     "question": "Hvilke tester må man vanligvis ha bestått for å kunne søke om norsk statsborgerskap i dag?",
     "options": [
       "Kun en svømmeprøve.",
@@ -2424,7 +2424,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 619,
+    "id": 619,
     "question": "Trenger man henvisning fra lege eller politi for å få hjelp og et sted å sove på et 'Krisesenter'?",
     "options": [
       "Ja, man må ha et brev fra politiet.",
@@ -2436,7 +2436,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 620,
+    "id": 620,
     "question": "Hva er et typisk eksempel på 'psykisk vold' i en nær relasjon?",
     "options": [
       "Å krangle om hvem som skal rydde huset.",
@@ -2448,7 +2448,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 621,
+    "id": 621,
     "question": "Er det lov å jobbe uten en skriftlig arbeidsavtale (arbeidskontrakt) i Norge?",
     "options": [
       "Ja, hvis jobben varer i mindre enn to uker.",
@@ -2460,7 +2460,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 622,
+    "id": 622,
     "question": "Har en arbeidsgiver lov til å gi en innvandrer lavere lønn enn en person født i Norge, for nøyaktig samme jobb og erfaring?",
     "options": [
       "Ja, hvis bedriften vil spare penger.",
@@ -2472,7 +2472,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 623,
+    "id": 623,
     "question": "Hva er den maksimale lengden for en 'prøvetid' i en ny jobb, ifølge arbeidsmiljøloven?",
     "options": [
       "2 måneder",
@@ -2484,7 +2484,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 624,
+    "id": 624,
     "question": "Hva regnes som en vanlig, full arbeidsuke i Norge i timer?",
     "options": [
       "Mellom 20 og 25 timer.",
@@ -2496,7 +2496,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 625,
+    "id": 625,
     "question": "Hvor mange dager betalt ferie har alle arbeidstakere minst krav på hvert år ifølge lov og avtaler?",
     "options": [
       "10 dager.",
@@ -2508,7 +2508,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 626,
+    "id": 626,
     "question": "Hvem har ansvaret for å bestille skattekortet ditt når du får en jobb?",
     "options": [
       "Arbeidsgiveren gjør det automatisk.",
@@ -2520,7 +2520,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 627,
+    "id": 627,
     "question": "Hva er 'frikort' fra Skatteetaten?",
     "options": [
       "Et kort som gir deg gratis mat i kantinen.",
@@ -2532,7 +2532,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 628,
+    "id": 628,
     "question": "Hvor lenge må du ha planlagt å oppholde deg lovlig i Norge for å få tildelt et vanlig norsk fødselsnummer (11 siffer)?",
     "options": [
       "Mer enn 3 uker.",
@@ -2544,7 +2544,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 629,
+    "id": 629,
     "question": "Hvilke to offisielle norske skriftspråk har vi i Norge?",
     "options": [
       "Svensk og dansk.",
@@ -2556,7 +2556,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 630,
+    "id": 630,
     "question": "Får alle registrerte tros- og livssynssamfunn økonomisk støtte fra staten i Norge?",
     "options": [
       "Nei, bare kristne kirker får penger.",
@@ -2568,7 +2568,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 631,
+    "id": 631,
     "question": "Er det lov for foreldre å undervise barna sine hjemme i stedet for å sende dem på en vanlig skole i Norge?",
     "options": [
       "Nei, det er strengt ulovlig.",
@@ -2580,7 +2580,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 632,
+    "id": 632,
     "question": "Må man betale renter på studielånet fra Lånekassen mens man fortsatt er heltidsstudent?",
     "options": [
       "Ja, rentene løper fra første dag.",
@@ -2592,7 +2592,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 633,
+    "id": 633,
     "question": "Hva menes med begrepet 'likelønn'?",
     "options": [
       "At alle i landet skal tjene akkurat det samme.",
@@ -2604,7 +2604,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 634,
+    "id": 634,
     "question": "Hva skjer hvis faren velger å ikke ta ut sin del av foreldrepermisjonen (fedrekvoten) uten å ha en gyldig medisinsk grunn?",
     "options": [
       "Ukene gis automatisk til moren.",
@@ -2616,7 +2616,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 635,
+    "id": 635,
     "question": "Frem til hvilken alder mottar foreldre normalt 'barnetrygd' for barna sine i Norge?",
     "options": [
       "Til barnet fyller 12 år.",
@@ -2628,7 +2628,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 636,
+    "id": 636,
     "question": "Hvem kan ha rett til å få 'kontantstøtte' i stedet for barnehageplass?",
     "options": [
       "Ungdom over 18 år.",
@@ -2640,7 +2640,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 637,
+    "id": 637,
     "question": "Hva er aldersgrensen for å kjøpe øl og vin i butikk eller på restaurant i Norge?",
     "options": [
       "16 år.",
@@ -2652,7 +2652,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 638,
+    "id": 638,
     "question": "Hva er aldersgrensen for å kjøpe brennevin (sterk alkohol over 22 %) på Vinmonopolet i Norge?",
     "options": [
       "18 år.",
@@ -2664,7 +2664,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 639,
+    "id": 639,
     "question": "Hva er aldersgrensen for å kjøpe røyk og snus i Norge?",
     "options": [
       "16 år.",
@@ -2676,7 +2676,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 640,
+    "id": 640,
     "question": "Kan du stemme ved valg i Norge hvis du er 17 år på selve valgdagen, men fyller 18 år i desember det samme året?",
     "options": [
       "Nei, du må ha fylt 18 før valglokalet stenger.",
@@ -2688,7 +2688,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 641,
+    "id": 641,
     "question": "Hva betyr 'forsamlingsfrihet' i Grunnloven?",
     "options": [
       "At folk har lov til å samle seg for å demonstrere fredelig og uttrykke sine felles meninger.",
@@ -2700,7 +2700,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 642,
+    "id": 642,
     "question": "Tillater 'Allemannsretten' at du kjører bil, motorsykkel eller snøscooter hvor du vil i norsk natur (utmark)?",
     "options": [
       "Ja, allemannsretten gjelder for alle kjøretøy.",
@@ -2712,7 +2712,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 643,
+    "id": 643,
     "question": "Hva er den generelle fartsgrensen i tettbygde strøk (i byer og boligområder) hvis det ikke er satt opp noe skilt?",
     "options": [
       "30 km/t",
@@ -2724,7 +2724,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 644,
+    "id": 644,
     "question": "Hva er den generelle fartsgrensen på landeveier (utenfor tettbygde strøk) hvis ingenting annet er skiltet?",
     "options": [
       "70 km/t",
@@ -2736,7 +2736,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 645,
+    "id": 645,
     "question": "Er det lov å holde en mobiltelefon i hånden for å lese en melding mens du kjører bil?",
     "options": [
       "Ja, hvis du stopper ved et rødt lys.",
@@ -2748,7 +2748,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 646,
+    "id": 646,
     "question": "Hva er minimumskravet til mønsterdybde på bilens dekk om vinteren for at de skal være lovlige i Norge?",
     "options": [
       "1,6 millimeter.",
@@ -2760,7 +2760,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 647,
+    "id": 647,
     "question": "I hvilken by deles Nobels fredspris ut hvert år i desember?",
     "options": [
       "Stockholm",
@@ -2772,7 +2772,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 648,
+    "id": 648,
     "question": "Hvem utnevner medlemmene i Den norske Nobelkomite, som velger hvem som skal få Nobels fredspris?",
     "options": [
       "Sveriges konge.",
@@ -2784,7 +2784,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 649,
+    "id": 649,
     "question": "Hvilket av disse organene har ansvaret for å kontrollere at Norges regjering gjør jobben sin og følger lovene?",
     "options": [
       "Politiet",
@@ -2796,7 +2796,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 650,
+    "id": 650,
     "question": "Hvilken type makt har 'Sametinget'?",
     "options": [
       "Det er et rådgivende organ som jobber for samenes rettigheter, men Stortinget har den endelige lovgivende makten.",
@@ -2808,7 +2808,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 651,
+    "id": 651,
     "question": "Hva kalles det laveste leddet i det sivilrettslige domstolsystemet, hvor vanlige folk for eksempel prøver å løse konflikter om ubetalte regninger eller nabokrangler?",
     "options": [
       "Konfliktrådet",
@@ -2820,7 +2820,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 652,
+    "id": 652,
     "question": "Hva er det maksimale beløpet en utleier kan kreve i depositum når du leier en bolig?",
     "options": [
       "Beløpet som tilsvarer 3 måneders husleie.",
@@ -2832,7 +2832,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 653,
+    "id": 653,
     "question": "Hvor skal et depositum for en leiebolig oppbevares?",
     "options": [
       "På utleierens private bankkonto.",
@@ -2844,7 +2844,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 654,
+    "id": 654,
     "question": "Hva er 'Arbeidsavklaringspenger' (AAP)?",
     "options": [
       "En støtte fra NAV for personer som har nedsatt arbeidsevne på grunn av sykdom eller skade, og som trenger hjelp til å komme i jobb.",
@@ -2856,7 +2856,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 655,
+    "id": 655,
     "question": "Hvor mange dager på rad kan du vanligvis være borte fra jobben ved bruk av egenmelding, før du må ha sykemelding fra lege (for bedrifter uten IA-avtale)?",
     "options": [
       "Opptil 1 kalenderdag.",
@@ -2868,7 +2868,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 656,
+    "id": 656,
     "question": "Hva er Statsbudsjettet?",
     "options": [
       "Norges Banks plan for rentenivået.",
@@ -2880,7 +2880,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 657,
+    "id": 657,
     "question": "Hva er 'uføretrygd'?",
     "options": [
       "Penger man får når man mister jobben.",
@@ -2892,7 +2892,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 658,
+    "id": 658,
     "question": "Hvem har som hovedregel 'foreldreansvaret' når foreldrene er gift eller bor sammen og får et barn?",
     "options": [
       "Bare faren.",
@@ -2904,7 +2904,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 659,
+    "id": 659,
     "question": "Kan barnevernet starte en undersøkelse av en familie selv om foreldrene motsetter seg det?",
     "options": [
       "Nei, foreldrene må alltid samtykke først.",
@@ -2916,7 +2916,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 660,
+    "id": 660,
     "question": "Må par med felles barn under 16 år møte til mekling hvis de skal separeres eller flytte fra hverandre?",
     "options": [
       "Nei, det er frivillig.",
@@ -2928,7 +2928,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 661,
+    "id": 661,
     "question": "Hvor kan du sende en formell klage helt gratis hvis du mener du har blitt ulovlig diskriminert på grunn av hudfarge eller kjønn på jobben?",
     "options": [
       "Diskrimineringsnemnda.",
@@ -2940,7 +2940,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 662,
+    "id": 662,
     "question": "Får du noen økonomisk fordel på skatten av å være medlem i en fagforening i Norge?",
     "options": [
       "Nei, det er kun en utgift.",
@@ -2952,7 +2952,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 663,
+    "id": 663,
     "question": "Hva betyr den frie bevegelsen i EØS-avtalen for norske borgere?",
     "options": [
       "At vi kan kjøre gratis tog i hele Europa.",
@@ -2964,7 +2964,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 664,
+    "id": 664,
     "question": "Hva betyr det å søke asyl i Norge?",
     "options": [
       "Å søke om penger for å studere.",
@@ -2976,7 +2976,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 665,
+    "id": 665,
     "question": "Koster det noe å føde barn på et offentlig sykehus i Norge?",
     "options": [
       "Ja, man må betale en egenandel på cirka 5000 kr.",
@@ -2988,7 +2988,7 @@
     "category": "Helse"
   },
   {
-    "number": 666,
+    "id": 666,
     "question": "Hva er et generelt krav for å få permanent oppholdstillatelse i Norge for personer fra land utenfor EØS?",
     "options": [
       "Man må ha bodd i Norge i minst 1 år.",
@@ -3000,7 +3000,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 667,
+    "id": 667,
     "question": "Når man søker om norsk statsborgerskap, kreves det at man legger ved en politiattest. Hvorfor?",
     "options": [
       "For å bevise at man har jobbet i politiet.",
@@ -3012,7 +3012,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 668,
+    "id": 668,
     "question": "Hva betyr det å være organisert i arbeidslivet i Norge?",
     "options": [
       "At du har en ryddig pult.",
@@ -3024,7 +3024,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 669,
+    "id": 669,
     "question": "Hva står forkortelsen HMS for i norsk arbeidsliv?",
     "options": [
       "Helse, miljø og sikkerhet",
@@ -3036,7 +3036,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 670,
+    "id": 670,
     "question": "Har en arbeidsgiver lov til å spørre om du er gravid, eller planlegger å få barn, på et jobbintervju?",
     "options": [
       "Ja, fordi det påvirker bedriftens økonomi.",
@@ -3048,7 +3048,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 671,
+    "id": 671,
     "question": "Hva kalles det når man bevisst jobber for en arbeidsgiver og får betalt, men verken du eller sjefen rapporterer inntekten til Skatteetaten?",
     "options": [
       "Frivillig arbeid.",
@@ -3060,7 +3060,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 672,
+    "id": 672,
     "question": "Hva er en CV (Curriculum Vitae)?",
     "options": [
       "Et brev der du forklarer hvorfor du vil ha jobben.",
@@ -3072,7 +3072,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 673,
+    "id": 673,
     "question": "Hvilken offentlig etat administrerer sykepenger, arbeidsavklaringspenger, dagpenger og foreldrepenger?",
     "options": [
       "Skatteetaten",
@@ -3084,7 +3084,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 674,
+    "id": 674,
     "question": "Er barnehage gratis for alle barn i Norge?",
     "options": [
       "Ja, alt er gratis.",
@@ -3096,7 +3096,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 675,
+    "id": 675,
     "question": "Hvilke klassetrinn utgjør det som kalles 'småskolen' i Norge?",
     "options": [
       "1. til 4. klasse.",
@@ -3108,7 +3108,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 676,
+    "id": 676,
     "question": "I hvilket klassetrinn begynner norske elever vanligvis å få karakterer (tallkarakterer fra 1 til 6)?",
     "options": [
       "Fra 1. klasse.",
@@ -3120,7 +3120,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 677,
+    "id": 677,
     "question": "Hva er den beste karakteren du kan få på en prøve i grunnskolen og på videregående skole i Norge?",
     "options": [
       "A",
@@ -3132,7 +3132,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 678,
+    "id": 678,
     "question": "Hva betyr 'ungdomsrett' i det norske utdanningssystemet?",
     "options": [
       "At ungdommer kan stemme ved valg fra de er 16 år.",
@@ -3144,7 +3144,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 679,
+    "id": 679,
     "question": "Hva skjer med studielånet fra Lånekassen hvis du består eksamenene dine mens du studerer?",
     "options": [
       "Renten dobles.",
@@ -3156,7 +3156,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 680,
+    "id": 680,
     "question": "Når utbetales 'barnetrygd' fra NAV?",
     "options": [
       "En gang i året på barnets bursdag.",
@@ -3168,7 +3168,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 681,
+    "id": 681,
     "question": "Kan foreldre som ikke sender barnet sitt (mellom 1 og 2 år) i barnehage, få noen annen form for økonomisk støtte fra staten?",
     "options": [
       "Nei, det finnes ingen andre støtteordninger.",
@@ -3180,7 +3180,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 682,
+    "id": 682,
     "question": "Hvorfor sier loven at all form for fysisk avstraffelse (som å slå, daske, eller klype) av barn er forbudt i Norge?",
     "options": [
       "Fordi barn liker det ikke.",
@@ -3192,7 +3192,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 683,
+    "id": 683,
     "question": "Hvem er tilbudet 'Krisesenteret' ment for?",
     "options": [
       "Folk som har mistet jobben sin.",
@@ -3204,7 +3204,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 684,
+    "id": 684,
     "question": "Hva er tvangsekteskap?",
     "options": [
       "Et ekteskap der en eller begge parter blir giftet bort mot sin egen vilje, gjennom bruk av tvang, trusler eller vold.",
@@ -3216,7 +3216,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 685,
+    "id": 685,
     "question": "Norge styres gjennom et system som kalles 'demokrati'. Hva innebærer det?",
     "options": [
       "At kongen bestemmer alt alene.",
@@ -3228,7 +3228,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 686,
+    "id": 686,
     "question": "Norge er et monarki. Hva betyr dette?",
     "options": [
       "At Norge er med i EU.",
@@ -3240,7 +3240,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 688,
+    "id": 688,
     "question": "Hvilken person leder vanligvis regjeringen i Norge?",
     "options": [
       "Kongen",
@@ -3252,7 +3252,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 689,
+    "id": 689,
     "question": "Hva er den laveste domstolen i det norske strafferettssystemet?",
     "options": [
       "Høyesterett",
@@ -3264,7 +3264,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 690,
+    "id": 690,
     "question": "I Norge kan vanlige borgere uten juridisk utdannelse bli trukket ut til å sitte som dommere i rettssaker (sammen med fagdommere). Hva kalles dette?",
     "options": [
       "Advokater",
@@ -3276,7 +3276,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 691,
+    "id": 691,
     "question": "Hva oppnår du når du har fått utdelt et 'Frikort for helsetjenester'?",
     "options": [
       "Du slipper å betale flere egenandeler for godkjente helsetjenester ut kalenderåret.",
@@ -3288,7 +3288,7 @@
     "category": "Helse"
   },
   {
-    "number": 692,
+    "id": 692,
     "question": "Hvilket telefonnummer skal du ringe hvis du trenger medisinsk nødhjelp (ambulanse) i en livstruende situasjon?",
     "options": [
       "110",
@@ -3300,7 +3300,7 @@
     "category": "Helse"
   },
   {
-    "number": 693,
+    "id": 693,
     "question": "Hvilket nødnummer skal du ringe ved brann eller ulykker som krever brannvesenets hjelp?",
     "options": [
       "110",
@@ -3312,7 +3312,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 694,
+    "id": 694,
     "question": "Hvilket nødnummer skal du ringe for å komme i kontakt med politiet i en akutt nødsituasjon?",
     "options": [
       "110",
@@ -3324,7 +3324,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 695,
+    "id": 695,
     "question": "Hva er nummeret til politiets sentralbord hvis saken IKKE er en akutt nødssituasjon (for eksempel for å anmelde et tyveri i etterkant)?",
     "options": [
       "02800",
@@ -3336,7 +3336,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 696,
+    "id": 696,
     "question": "Hvem har det juridiske ansvaret for at et barn under 15 år har på seg bilbelte under kjøring?",
     "options": [
       "Barnet selv.",
@@ -3348,7 +3348,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 697,
+    "id": 697,
     "question": "Kan en huseier nekte å leie ut en leilighet til deg fordi du har et utenlandskklingende navn eller en bestemt religion?",
     "options": [
       "Ja, det er deres eiendom og de bestemmer alt.",
@@ -3360,7 +3360,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 698,
+    "id": 698,
     "question": "Hva menes med 'Likestilling' i det norske samfunnet?",
     "options": [
       "At staten gir alle nøyaktig samme lønn.",
@@ -3372,7 +3372,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 699,
+    "id": 699,
     "question": "Hva var den historiske begivenheten på Eidsvoll 17. mai 1814?",
     "options": [
       "Norge vant en krig mot Sverige.",
@@ -3384,7 +3384,7 @@
     "category": "Historie"
   },
   {
-    "number": 700,
+    "id": 700,
     "question": "Hva skjedde med unionen mellom Norge og Sverige i 1905?",
     "options": [
       "Sverige erobret Norge permanent.",
@@ -3396,7 +3396,7 @@
     "category": "Historie"
   },
   {
-    "number": 701,
+    "id": 701,
     "question": "Hvilken viktig naturressurs fant man på bunnen av Nordsjøen i 1969, som forandret norsk økonomi for alltid?",
     "options": [
       "Gull",
@@ -3408,7 +3408,7 @@
     "category": "Historie"
   },
   {
-    "number": 702,
+    "id": 702,
     "question": "Hva er det formelle navnet på det nordmenn i hverdagen kaller 'Oljefondet'?",
     "options": [
       "Statens pengebinge.",
@@ -3420,7 +3420,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 703,
+    "id": 703,
     "question": "Hva heter Norges lengste og dypeste fjord?",
     "options": [
       "Hardangerfjorden",
@@ -3432,7 +3432,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 704,
+    "id": 704,
     "question": "Er det samiske språket og det norske språket likestilt i Norge?",
     "options": [
       "Nei, samisk er forbudt.",
@@ -3444,7 +3444,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 705,
+    "id": 705,
     "question": "Har Norge en offisiell Statskirke i dag?",
     "options": [
       "Ja, alle må være medlemmer.",
@@ -3456,7 +3456,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 706,
+    "id": 706,
     "question": "Er det lov å diskriminere homofile (LHBT+) ved ansettelser i vanlige bedrifter i Norge?",
     "options": [
       "Ja, sjefen kan velge hvem han vil.",
@@ -3468,7 +3468,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 707,
+    "id": 707,
     "question": "Hvor mange uker ferie sier Ferieloven at du minst har krav på hvert år?",
     "options": [
       "10 virkedager (2 uker).",
@@ -3480,7 +3480,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 708,
+    "id": 708,
     "question": "Trekkes det vanlig inntektsskatt av feriepengene når de utbetales i feriemåneden (vanligvis juni)?",
     "options": [
       "Ja, staten trekker dobbelt skatt.",
@@ -3492,7 +3492,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 709,
+    "id": 709,
     "question": "Hva er en 'tillitsvalgt' på en arbeidsplass?",
     "options": [
       "En som jobber i HR.",
@@ -3504,7 +3504,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 710,
+    "id": 710,
     "question": "Hvem skal du henvende deg til for å melde fra om farlige arbeidsforhold som manglende stillaser eller giftige stoffer på jobb?",
     "options": [
       "Skatteetaten.",
@@ -3516,7 +3516,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 711,
+    "id": 711,
     "question": "Hva menes med begrepet 'velferdsstat'?",
     "options": [
       "En stat som bare hjelper de aller rikeste.",
@@ -3528,7 +3528,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 712,
+    "id": 712,
     "question": "Hvordan finansieres den norske velferdsstaten hovedsakelig?",
     "options": [
       "Ved at folk betaler for skolene og sykehusene privat (forsikringer).",
@@ -3540,7 +3540,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 714,
+    "id": 714,
     "question": "Hva er aldersgrensen for å gifte seg lovlig i Norge?",
     "options": [
       "16 år",
@@ -3552,7 +3552,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 715,
+    "id": 715,
     "question": "Hva kalles et dokument som beviser at du har bestått en fagopplæring, for eksempel at du er en ferdigutdannet elektriker eller tømrer?",
     "options": [
       "Mastergrad.",
@@ -3564,7 +3564,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 716,
+    "id": 716,
     "question": "Hvilket av disse områdene har din lokale kommune ansvaret for å drive?",
     "options": [
       "Sykehus",
@@ -3576,7 +3576,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 717,
+    "id": 717,
     "question": "Hvilket offentlig organ har ansvaret for drift av de videregående skolene og fylkesveiene i Norge?",
     "options": [
       "Kommunen",
@@ -3588,7 +3588,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 718,
+    "id": 718,
     "question": "Hvem har ansvaret for driften av sykehusene, forsvaret og universitetene i Norge?",
     "options": [
       "Staten",
@@ -3600,7 +3600,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 719,
+    "id": 719,
     "question": "Hva er tidsgrensen for å lovlig kjøpe alkohol (øl) i vanlige matbutikker på hverdager i Norge?",
     "options": [
       "Kl. 18.00",
@@ -3612,7 +3612,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 720,
+    "id": 720,
     "question": "Når er det generell båndtvang for hunder i hele Norge for å beskytte sårbart dyreliv?",
     "options": [
       "Kun i helgene.",
@@ -3624,7 +3624,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 721,
+    "id": 721,
     "question": "Har samboere automatisk nøyaktig de samme juridiske rettighetene til å arve hverandre som gifte ektepar?",
     "options": [
       "Ja, det er ingen juridisk forskjell i dag.",
@@ -3636,7 +3636,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 722,
+    "id": 722,
     "question": "Hva er 'gratis kjernetid' i barnehagen?",
     "options": [
       "At barnehagen er gratis for alle barn de tre første timene hver dag.",
@@ -3648,7 +3648,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 723,
+    "id": 723,
     "question": "Hva betyr det å ha 'generell studiekompetanse'?",
     "options": [
       "At man har bestått førerprøven for bil.",
@@ -3660,7 +3660,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 724,
+    "id": 724,
     "question": "Hva er 'Folketrygden' i Norge?",
     "options": [
       "Det offentlige pensjons- og forsikringssystemet som sikrer innbyggerne økonomisk støtte ved sykdom, uførhet og alderdom.",
@@ -3672,7 +3672,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 725,
+    "id": 725,
     "question": "Hva skjer hvis du unnlater å betale en regning over lengre tid, selv etter å ha fått purringer?",
     "options": [
       "Saken sendes til inkasso, noe som fører til at kravet kreves inn med svært høye ekstra gebyrer og renter.",
@@ -3684,7 +3684,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 726,
+    "id": 726,
     "question": "Hva er konsekvensen av å få en 'betalingsanmerkning' på seg?",
     "options": [
       "Du får rabatt på strømregningen.",
@@ -3696,7 +3696,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 727,
+    "id": 727,
     "question": "Hva er 'dokumentavgift' ved kjøp av bolig?",
     "options": [
       "En avgift du betaler rett i lomma på megleren.",
@@ -3708,7 +3708,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 728,
+    "id": 728,
     "question": "Hva betyr 'fellesgjeld' når du kjøper en leilighet i et borettslag?",
     "options": [
       "Gjeld du deler med foreldrene dine.",
@@ -3720,7 +3720,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 729,
+    "id": 729,
     "question": "Hva er 'Trepartssamarbeidet' i det norske arbeidslivet?",
     "options": [
       "At man alltid jobber i grupper på tre personer.",
@@ -3732,7 +3732,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 730,
+    "id": 730,
     "question": "Hva er LO (Landsorganisasjonen i Norge)?",
     "options": [
       "Norges største og mest innflytelsesrike hovedorganisasjon for arbeidstakere.",
@@ -3744,7 +3744,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 731,
+    "id": 731,
     "question": "Hva er NHO (Næringslivets Hovedorganisasjon)?",
     "options": [
       "En stor miljøvernorganisasjon.",
@@ -3756,7 +3756,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 732,
+    "id": 732,
     "question": "Hva er en 'streik' i arbeidslivet?",
     "options": [
       "Når ansatte jobber ekstra hardt i en uke for å få mer lønn.",
@@ -3768,7 +3768,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 733,
+    "id": 733,
     "question": "Hvilken ukedag gjennomføres alltid det offisielle Stortings- og lokalvalget i Norge?",
     "options": [
       "Lørdag",
@@ -3780,7 +3780,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 734,
+    "id": 734,
     "question": "Må du være fysisk hjemme i din egen kommune for å kunne stemme ved det nasjonale valget?",
     "options": [
       "Ja, det er strengt påkrevd å møte opp i sitt lokale grendehus.",
@@ -3792,7 +3792,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 735,
+    "id": 735,
     "question": "Hva er hovedoppgaven til IMDi (Integrerings- og mangfoldsdirektoratet)?",
     "options": [
       "Å bygge nye veier i flerkulturelle nabolag.",
@@ -3804,7 +3804,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 736,
+    "id": 736,
     "question": "Hva er 'introduksjonsprogrammet'?",
     "options": [
       "Et kurs for nye stortingspolitikere før de tiltrer.",
@@ -3816,7 +3816,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 737,
+    "id": 737,
     "question": "Hva er den juridiske forskjellen på en asylsøker og en flyktning i Norge?",
     "options": [
       "Det er nøyaktig det samme, bare to ulike ord.",
@@ -3828,7 +3828,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 738,
+    "id": 738,
     "question": "Hva definerer et 'politisk parti'?",
     "options": [
       "En offentlig fest arrangert av Stortinget.",
@@ -3840,7 +3840,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 739,
+    "id": 739,
     "question": "Hva er målet med 'økonomisk sosialhjelp' fra NAV?",
     "options": [
       "Å belønne de innbyggerne som jobber aller mest.",
@@ -3852,7 +3852,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 740,
+    "id": 740,
     "question": "Hva menes med begrepet 'økonomisk vold' i et parforhold?",
     "options": [
       "Å glemme å betale en strømregning i tide.",
@@ -3864,7 +3864,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 741,
+    "id": 741,
     "question": "Hva er 'materiell vold'?",
     "options": [
       "Å kjøpe miljøskadelige produkter fra Kina.",
@@ -3876,7 +3876,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 742,
+    "id": 742,
     "question": "Kan menn bli utsatt for vold i nære relasjoner, og har de rett på hjelp i Norge?",
     "options": [
       "Ja, menn utsettes også for vold og har nøyaktig samme lovfestede rett på beskyttelse og hjelp fra for eksempel Krisesenteret.",
@@ -3888,7 +3888,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 743,
+    "id": 743,
     "question": "Hva betyr 'Pater est-regelen' (Farskapspresumsjonen) i norsk barnelov?",
     "options": [
       "At faren alltid automatisk får hovedomsorgen etter en skilsmisse.",
@@ -3900,7 +3900,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 744,
+    "id": 744,
     "question": "Hva står forkortelsen FAU for i den norske grunnskolen?",
     "options": [
       "Foreldrerådets arbeidsutvalg (et valgt organ der foreldrene samarbeider med skolen for et godt skolemiljø).",
@@ -3912,7 +3912,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 745,
+    "id": 745,
     "question": "Hva er det overordnede formålet med 'Arbeidsmiljøloven'?",
     "options": [
       "Å sikre at arbeidsgiver tjener mest mulig penger på de ansatte.",
@@ -3924,7 +3924,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 746,
+    "id": 746,
     "question": "Hva er en 'lockout' i en arbeidskonflikt?",
     "options": [
       "Når arbeidstakerne i protest låser seg inne på kontoret og nekter å gå hjem.",
@@ -3936,7 +3936,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 747,
+    "id": 747,
     "question": "Norge har et progressivt skattesystem for inntekt. Hva innebærer det i praksis?",
     "options": [
       "Alle voksne i Norge betaler nøyaktig samme kronebeløp i skatt, uansett jobb.",
@@ -3948,7 +3948,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 748,
+    "id": 748,
     "question": "Hvis du benytter deg av angreretten på 14 dager etter å ha kjøpt et par sko på en norsk nettbutikk, hvem betaler vanligvis selve returfrakten i posten?",
     "options": [
       "Staten betaler for å subsidiere postvesenet.",
@@ -3960,7 +3960,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 749,
+    "id": 749,
     "question": "Hva er 'formuesskatt' i Norge?",
     "options": [
       "En engangsavgift man betaler til staten for å lovlig bli millionær.",
@@ -3972,7 +3972,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 750,
+    "id": 750,
     "question": "Er det lov å kjøre personbil hvis du nettopp har tatt sterke smertestillende medisiner eller sovetabletter merket med en rød trekant på pakken?",
     "options": [
       "Ja, fordi det er lovlig medisin du har fått utskrevet fra en lege.",
@@ -3984,7 +3984,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 751,
+    "id": 751,
     "question": "Hva innebærer 'vikeplikt fra høyre' i trafikken?",
     "options": [
       "At biler som svinger til høyre i et kryss alltid har forkjørsrett.",
@@ -3996,7 +3996,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 752,
+    "id": 752,
     "question": "Kan man bli straffet og få fartsbot i Norge for å kjøre 5 km/t over fartsgrensen på en vanlig landevei?",
     "options": [
       "Ja, fartsgrensene er absolutte maksimale grenser, og politiet bøtelegger regelmessig sjåfører selv for små overskridelser.",
@@ -4008,7 +4008,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 753,
+    "id": 753,
     "question": "Hva er straffen for å benytte falsk identitet (for eksempel ved å vise et forfalsket pass til politiet) i Norge?",
     "options": [
       "Man får kun en formell advarsel i posten.",
@@ -4020,7 +4020,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 754,
+    "id": 754,
     "question": "Hva betyr begrepet 'sperrefrist' når man søker om norsk statsborgerskap hos UDI?",
     "options": [
       "En tidsperiode der man ikke har lov til å reise ut av landet som turist.",
@@ -4032,7 +4032,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 755,
+    "id": 755,
     "question": "Hvilken norsk by omtales ofte som 'Oljebyen', fordi den er det ubestridte hovedsetet for Norges olje- og gassindustri?",
     "options": [
       "Oslo",
@@ -4044,7 +4044,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 756,
+    "id": 756,
     "question": "Hva menes med at Norge i dag er et 'flerkulturelt samfunn'?",
     "options": [
       "At alle byer må ha minst to kulturhus og kinoer.",
@@ -4056,7 +4056,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 757,
+    "id": 757,
     "question": "Faget KRLE (Kristendom, religion, livssyn og etikk) er obligatorisk i den norske grunnskolen. Er det tillatt for læreren å bruke faget til religiøs forkynning?",
     "options": [
       "Ja, formålet med faget er å opprettholde norske kristne tradisjoner ved å få barna til å tro på Gud.",
@@ -4068,7 +4068,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 758,
+    "id": 758,
     "question": "Står hvem som helst fritt til å starte en privat barneskole (friskole) i Norge og automatisk få pengestøtte fra staten?",
     "options": [
       "Ja, utdanningssektoren er et fritt marked og alle kan åpne en skole i morgen hvis de vil.",
@@ -4080,7 +4080,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 759,
+    "id": 759,
     "question": "Hva innebærer den norske ordningen med 'fri rettshjelp'?",
     "options": [
       "At man når som helst kan slå av en gratis prat med politiet.",
@@ -4092,7 +4092,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 760,
+    "id": 760,
     "question": "Hva betyr det helt konkret å være 'myndig' i henhold til norsk lov?",
     "options": [
       "At du har fått en sjefsstilling i en offentlig bedrift.",
@@ -4104,7 +4104,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 761,
+    "id": 761,
     "question": "Hva er den generelle grensen for hvor lenge en turist fra et land utenfor EØS lovlig kan oppholde seg i Norge og Schengen-området på et besøksvisum?",
     "options": [
       "Inntil 30 dager per kalenderår.",
@@ -4116,7 +4116,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 762,
+    "id": 762,
     "question": "Hva innebærer EØS-avtalen for Norge i praksis?",
     "options": [
       "En avtale som gjør at Norge ble et fullverdig medlem av Den europeiske union (EU) og byttet til Euro.",
@@ -4128,7 +4128,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 763,
+    "id": 763,
     "question": "Har foreldre juridisk rett til rutinemessig å lese e-postene, meldingene og dagbøkene til sine tenåringsbarn (over 15 år) uten deres samtykke?",
     "options": [
       "Ja, loven sier at foreldrene bestemmer absolutt alt inntil barnet fyller 18 år.",
@@ -4140,7 +4140,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 764,
+    "id": 764,
     "question": "Hvor gammel må man være for å få lov til å ta førerkort for lett motorsykkel (klasse A1) i Norge?",
     "options": [
       "16 år",
@@ -4152,7 +4152,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 765,
+    "id": 765,
     "question": "Kan politiet bryte seg inn og ransake boligen din akkurat når de vil, bare for å se etter ulovlige ting?",
     "options": [
       "Ja, politiet eier staten og har alltid fri adgang til alle private hjem uansett.",
@@ -4164,7 +4164,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 766,
+    "id": 766,
     "question": "Hva er et 'oppholdskort'?",
     "options": [
       "Et rabattkort for kollektivtransport.",
@@ -4176,7 +4176,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 767,
+    "id": 767,
     "question": "Hva er forskjellen på et D-nummer og et fødselsnummer?",
     "options": [
       "D-nummer er for de over 18 år, fødselsnummer for barn.",
@@ -4188,7 +4188,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 768,
+    "id": 768,
     "question": "Hva er 'egenmelding' ved sykdom?",
     "options": [
       "At du selv melder fra til sjefen om at du er syk, uten at du trenger å gå til legen for å få sykemelding de første dagene.",
@@ -4200,7 +4200,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 769,
+    "id": 769,
     "question": "Hva er det lovfestede minimumstillegget for overtid i Norge?",
     "options": [
       "20 %",
@@ -4212,7 +4212,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 770,
+    "id": 770,
     "question": "Hva er Arbeidstilsynets oppgave?",
     "options": [
       "Å betale ut lønn til de som mister jobben.",
@@ -4224,7 +4224,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 771,
+    "id": 771,
     "question": "Kan en arbeidsgiver lovlig nekte å ansette deg fordi du bruker hijab (religiøst hodeplagg)?",
     "options": [
       "Ja, bedriften kan bestemme kleskoden helt fritt.",
@@ -4236,7 +4236,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 773,
+    "id": 773,
     "question": "Hva er den maksimale strafferammen for tvangsekteskap i Norge?",
     "options": [
       "1 års fengsel.",
@@ -4248,7 +4248,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 774,
+    "id": 774,
     "question": "Er kjønnslemlestelse (omskjæring) av jenter tillatt hvis inngrepet utføres av helsepersonell på et sykehus?",
     "options": [
       "Ja, så lenge det gjøres sterilt.",
@@ -4260,7 +4260,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 775,
+    "id": 775,
     "question": "Hva regnes som en 'enslig mindreårig asylsøker'?",
     "options": [
       "En asylsøker under 18 år som kommer til Norge uten foreldre eller andre med foreldreansvar.",
@@ -4272,7 +4272,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 776,
+    "id": 776,
     "question": "Hva er målet med Introduksjonsprogrammet for nyankomne flyktninger?",
     "options": [
       "Å sende dem raskest mulig tilbake til hjemlandet.",
@@ -4284,7 +4284,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 778,
+    "id": 778,
     "question": "Hva er et strengt krav for å kunne motta 'dagpenger' fra NAV?",
     "options": [
       "At du er over 67 år gammel.",
@@ -4296,7 +4296,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 779,
+    "id": 779,
     "question": "Frem til hvilken alder utbetales normalt barnetrygd?",
     "options": [
       "Til barnet fyller 12 år.",
@@ -4308,7 +4308,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 780,
+    "id": 780,
     "question": "For hvilken aldersgruppe kan foreldre få utbetalt 'kontantstøtte'?",
     "options": [
       "Barn mellom 0 og 1 år.",
@@ -4320,7 +4320,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 781,
+    "id": 781,
     "question": "Hvem får automatisk foreldreansvaret for et barn når foreldrene er samboere ved fødselen?",
     "options": [
       "Kun moren.",
@@ -4332,7 +4332,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 782,
+    "id": 782,
     "question": "Hva er det absolutte hovedprinsippet i all barnevernsvirksomhet i Norge?",
     "options": [
       "Å straffe dårlige foreldre med bøter.",
@@ -4344,7 +4344,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 783,
+    "id": 783,
     "question": "Hvilke klassetrinn dekkes vanligvis av Skolefritidsordningen (SFO)?",
     "options": [
       "1. til 4. trinn.",
@@ -4356,7 +4356,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 784,
+    "id": 784,
     "question": "Hva menes med 'ungdomsrett'?",
     "options": [
       "Retten til å være ute til midnatt.",
@@ -4368,7 +4368,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 785,
+    "id": 785,
     "question": "Hva må du gjøre for at opptil 40 % av studielånet ditt fra Lånekassen skal gjøres om til stipend (penger du ikke må betale tilbake)?",
     "options": [
       "Bo hjemme hos foreldrene dine og få gode karakterer.",
@@ -4380,7 +4380,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 786,
+    "id": 786,
     "question": "Hva er hovedformålet med fastlegeordningen?",
     "options": [
       "Å tvinge alle leger til å jobbe for staten.",
@@ -4392,7 +4392,7 @@
     "category": "Helse"
   },
   {
-    "number": 787,
+    "id": 787,
     "question": "Hva er et frikort for helsetjenester?",
     "options": [
       "Et kort som gir fritak fra all skatt.",
@@ -4404,7 +4404,7 @@
     "category": "Helse"
   },
   {
-    "number": 788,
+    "id": 788,
     "question": "Betaler staten vanligvis for tannlegebehandling for friske voksne over 24 år?",
     "options": [
       "Ja, det er en del av frikortet.",
@@ -4416,7 +4416,7 @@
     "category": "Helse"
   },
   {
-    "number": 789,
+    "id": 789,
     "question": "Hvilket telefonnummer ringer du for å komme til nærmeste legevakt når fastlegen er stengt og det haster, men ikke er akutt livsfare?",
     "options": [
       "113",
@@ -4428,7 +4428,7 @@
     "category": "Helse"
   },
   {
-    "number": 790,
+    "id": 790,
     "question": "Hvilket tresifret nødnummer ringer du hvis du oppdager en stor brann?",
     "options": [
       "110",
@@ -4440,7 +4440,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 791,
+    "id": 791,
     "question": "Hvilket nødnummer ringer du hvis du er i en farlig situasjon og trenger politi umiddelbart?",
     "options": [
       "110",
@@ -4452,7 +4452,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 792,
+    "id": 792,
     "question": "Hvilket nødnummer ringer du ved alvorlig sykdom, ulykke eller når noen har sluttet å puste?",
     "options": [
       "110",
@@ -4464,7 +4464,7 @@
     "category": "Helse"
   },
   {
-    "number": 794,
+    "id": 794,
     "question": "Hvor ofte er det stortingsvalg i Norge?",
     "options": [
       "Hvert 2. år.",
@@ -4476,7 +4476,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 795,
+    "id": 795,
     "question": "Har utenlandske statsborgere lov til å stemme ved lokalvalg (kommune- og fylkestingsvalg)?",
     "options": [
       "Nei, aldri.",
@@ -4488,7 +4488,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 796,
+    "id": 796,
     "question": "Hvem har stemmerett ved stortingsvalget?",
     "options": [
       "Alle over 18 år som bor i Norge.",
@@ -4500,7 +4500,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 797,
+    "id": 797,
     "question": "Hva er hovedoppgaven til den norske regjeringen?",
     "options": [
       "Å vedta og skrive nye lover alene.",
@@ -4512,7 +4512,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 798,
+    "id": 798,
     "question": "Hvilken type makt har domstolene i det norske systemet?",
     "options": [
       "Lovgivende makt.",
@@ -4524,7 +4524,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 799,
+    "id": 799,
     "question": "Hvilken dato og hvilket år ble den norske Grunnloven undertegnet?",
     "options": [
       "17. mai 1814.",
@@ -4536,7 +4536,7 @@
     "category": "Historie"
   },
   {
-    "number": 800,
+    "id": 800,
     "question": "Når ble Norge en helt uavhengig stat etter å ha oppløst unionen med Sverige?",
     "options": [
       "1814",
@@ -4548,7 +4548,7 @@
     "category": "Historie"
   },
   {
-    "number": 801,
+    "id": 801,
     "question": "Når fikk kvinner alminnelig stemmerett ved stortingsvalg i Norge?",
     "options": [
       "1814",
@@ -4560,7 +4560,7 @@
     "category": "Historie"
   },
   {
-    "number": 802,
+    "id": 802,
     "question": "Hvilken gruppe har offisiell status som urfolk i Norge?",
     "options": [
       "Kveener.",
@@ -4572,7 +4572,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 803,
+    "id": 803,
     "question": "Hvor har Sametinget sin parlamentsbygning og sitt hovedsete?",
     "options": [
       "Oslo.",
@@ -4584,7 +4584,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 804,
+    "id": 804,
     "question": "I hvilket år ble det gjort store funn av olje på Ekofiskfeltet i Nordsjøen, som forandret norsk økonomi for alltid?",
     "options": [
       "1955",
@@ -4596,7 +4596,7 @@
     "category": "Historie"
   },
   {
-    "number": 807,
+    "id": 807,
     "question": "Hva er navnet på det høyeste fjellet i Norge?",
     "options": [
       "Snøhetta",
@@ -4608,7 +4608,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 808,
+    "id": 808,
     "question": "Hva er den generelle fartsgrensen i byer og tettbygde strøk hvis det ikke er satt opp fartsskilt?",
     "options": [
       "30 km/t",
@@ -4620,7 +4620,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 809,
+    "id": 809,
     "question": "Hva er den lovlige promillegrensen for å kjøre bil og elektrisk sparkesykkel i Norge?",
     "options": [
       "0,2 promille.",
@@ -4632,7 +4632,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 810,
+    "id": 810,
     "question": "Hva sier den generelle 'vikepliktsregelen' i kryss uten skilt eller trafikklys?",
     "options": [
       "Du må stoppe for trafikk som kommer fra din venstre side.",
@@ -4644,7 +4644,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 811,
+    "id": 811,
     "question": "Hva er aldersgrensen for å kjøpe øl og vin (alkohol under 22 %) i Norge?",
     "options": [
       "16 år",
@@ -4656,7 +4656,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 812,
+    "id": 812,
     "question": "Hva er aldersgrensen for å kjøpe brennevin (alkohol på 22 % eller høyere) i Norge?",
     "options": [
       "18 år",
@@ -4668,7 +4668,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 813,
+    "id": 813,
     "question": "Hva er den lovlige aldersgrensen for å kjøpe snus og sigaretter?",
     "options": [
       "16 år",
@@ -4680,7 +4680,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 814,
+    "id": 814,
     "question": "Hva er formuesskatt?",
     "options": [
       "En skatt man betaler hver gang man kjøper luksusvarer.",
@@ -4692,7 +4692,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 815,
+    "id": 815,
     "question": "Hva betyr merverdiavgift (MVA eller moms)?",
     "options": [
       "En skatt bedrifter betaler når de ansetter folk.",
@@ -4704,7 +4704,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 816,
+    "id": 816,
     "question": "Hvilket historisk angrep i år 793 regnes ofte som starten på vikingtiden i Norge og Norden?",
     "options": [
       "Slaget på Stiklestad.",
@@ -4716,7 +4716,7 @@
     "category": "Historie"
   },
   {
-    "number": 817,
+    "id": 817,
     "question": "Hva er Svalbard?",
     "options": [
       "En norsk øygruppe langt oppe i Nordishavet (Arktis).",
@@ -4728,7 +4728,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 818,
+    "id": 818,
     "question": "Fra hvilken alder slår barneloven fast at et barn skal få si sin mening før det tas avgjørelser om personlige forhold for barnet (som for eksempel hvor det skal bo etter et samlivsbrudd)?",
     "options": [
       "Fra barnet er 7 år (eller yngre hvis det er i stand til å danne seg egne synspunkter).",
@@ -4740,7 +4740,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 819,
+    "id": 819,
     "question": "Hva betyr det når et barn fyller 12 år, ifølge barneloven?",
     "options": [
       "At barnet kan flytte hjemmefra.",
@@ -4752,7 +4752,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 820,
+    "id": 820,
     "question": "Hva står forkortelsen PPT for i det norske utdanningssystemet?",
     "options": [
       "Politiets patruljetjeneste.",
@@ -4764,7 +4764,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 821,
+    "id": 821,
     "question": "Hva er 'engangsstønad' fra NAV?",
     "options": [
       "En engangssum som utbetales til mødre som ikke har tjent opp rett til betalt foreldrepermisjon, når de får barn.",
@@ -4776,7 +4776,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 822,
+    "id": 822,
     "question": "Hva kalles den første store avtalen mellom LO (arbeidstakerne) og NHO (arbeidsgiverne) fra 1935, som ofte kalles 'arbeidslivets grunnlov'?",
     "options": [
       "Hovedavtalen.",
@@ -4788,7 +4788,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 823,
+    "id": 823,
     "question": "Hva er den lovbestemte minimumssatsen for opptjening av feriepenger i Norge for vanlige arbeidstakere?",
     "options": [
       "5 % av fjorårets inntekt.",
@@ -4800,7 +4800,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 824,
+    "id": 824,
     "question": "Hvor mange dager med egenmelding kan du vanligvis bruke sammenhengende hvis bedriften din er en 'IA-bedrift' (Inkluderende Arbeidsliv)?",
     "options": [
       "Inntil 3 dager.",
@@ -4812,7 +4812,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 825,
+    "id": 825,
     "question": "Hvor lang er den normale oppsigelsestiden for en ansatt etter at prøvetiden er over, ifølge arbeidsmiljøloven (hvis ikke annet er avtalt)?",
     "options": [
       "14 dager.",
@@ -4824,7 +4824,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 826,
+    "id": 826,
     "question": "Hva regulerer Forbrukerkjøpsloven?",
     "options": [
       "Kjøp og salg mellom to private personer.",
@@ -4836,7 +4836,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 827,
+    "id": 827,
     "question": "Hvilken lov gjelder hvis du kjøper en bruktbil eller en sofa av naboen din (privatperson til privatperson)?",
     "options": [
       "Forbrukerkjøpsloven.",
@@ -4848,7 +4848,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 828,
+    "id": 828,
     "question": "Hvor mange dagers angrerett har du når du kjøper en vare på internett i Norge?",
     "options": [
       "3 dager.",
@@ -4860,7 +4860,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 829,
+    "id": 829,
     "question": "Hvilken dato feires samenes nasjonaldag?",
     "options": [
       "6. februar.",
@@ -4872,7 +4872,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 830,
+    "id": 830,
     "question": "Hva var Kautokeino-opprøret i 1852?",
     "options": [
       "En feiring av den norske kongen.",
@@ -4884,7 +4884,7 @@
     "category": "Historie"
   },
   {
-    "number": 831,
+    "id": 831,
     "question": "Hva handlet Alta-konflikten (slutten av 1970-tallet og tidlig 80-tall) om?",
     "options": [
       "Utbygging av et vannkraftverk i Altaelva, som førte til store demonstrasjoner for samiske rettigheter og naturvern.",
@@ -4896,7 +4896,7 @@
     "category": "Historie"
   },
   {
-    "number": 832,
+    "id": 832,
     "question": "Hva er 'rasismeparagrafen' i den norske straffeloven?",
     "options": [
       "En lov som forbyr politisk diskusjon om innvandring.",
@@ -4908,7 +4908,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 833,
+    "id": 833,
     "question": "Hvordan defineres 'voldtekt' i det norske samfunnet og lovverket?",
     "options": [
       "Seksuell omgang der det er brukt vold, trusler, eller med en person som er bevisstløs eller av andre grunner ute av stand til å motsette seg handlingen.",
@@ -4920,7 +4920,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 834,
+    "id": 834,
     "question": "Hva sier arbeidsmiljøloven som en hovedregel om nattarbeid (arbeid mellom 21.00 og 06.00)?",
     "options": [
       "Det er forbudt som hovedregel, og er kun tillatt hvis arbeidets art gjør det helt nødvendig (f.eks. på sykehus eller i politiet).",
@@ -4932,7 +4932,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 835,
+    "id": 835,
     "question": "Får man skattefradrag for å betale medlemskontingent til en fagforening i Norge?",
     "options": [
       "Nei.",
@@ -4944,7 +4944,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 836,
+    "id": 836,
     "question": "Er det obligatorisk (påtvunget) for asylsøkere å bo på et asylmottak i Norge mens de venter på svar på søknaden sin?",
     "options": [
       "Ja, de er innelåst på mottaket.",
@@ -4956,7 +4956,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 837,
+    "id": 837,
     "question": "Hvem bestemmer om en kommune skal ta imot og bosette en flyktning som har fått oppholdstillatelse?",
     "options": [
       "Politiet.",
@@ -4968,7 +4968,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 838,
+    "id": 838,
     "question": "Er stønaden man får mens man deltar i Introduksjonsprogrammet skattepliktig?",
     "options": [
       "Nei, det er skattefrie penger.",
@@ -4980,7 +4980,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 839,
+    "id": 839,
     "question": "Er 'Barnevaksinasjonsprogrammet' i Norge frivillig eller påbudt ved lov?",
     "options": [
       "Det er frivillig, men helsemyndighetene anbefaler sterkt at alle barn deltar for å utrydde farlige sykdommer.",
@@ -4992,7 +4992,7 @@
     "category": "Helse"
   },
   {
-    "number": 840,
+    "id": 840,
     "question": "Frem til hvilken alder er tannlegebehandling vanligvis helt gratis (med unntak av tannregulering) i den offentlige tannhelsetjenesten?",
     "options": [
       "Til og med det året man fyller 18 år.",
@@ -5004,7 +5004,7 @@
     "category": "Helse"
   },
   {
-    "number": 841,
+    "id": 841,
     "question": "Hva er forskjellen på 'studieforberedende' og 'yrkesfaglige' utdanningsprogrammer på videregående skole?",
     "options": [
       "Yrkesfag er for voksne, studieforberedende for barn.",
@@ -5016,7 +5016,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 842,
+    "id": 842,
     "question": "Får man betalt lønn mens man er lærling i en bedrift?",
     "options": [
       "Nei, lærlinger jobber gratis for å lære.",
@@ -5028,7 +5028,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 843,
+    "id": 843,
     "question": "Hva er en 'fagskole' i Norge?",
     "options": [
       "En skole hvor barn lærer å lese.",
@@ -5040,7 +5040,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 844,
+    "id": 844,
     "question": "Hvor nær en bebodd hytte eller hus har du lov til å slå opp teltet ditt ifølge Allemannsretten?",
     "options": [
       "Man kan telte i hagen til folk.",
@@ -5052,7 +5052,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 845,
+    "id": 845,
     "question": "Må du ha bestått noen prøver for å kunne jakte på ville dyr i Norge?",
     "options": [
       "Nei, jakt er en del av allemannsretten.",
@@ -5064,7 +5064,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 846,
+    "id": 846,
     "question": "Koster det penger å fiske med vanlig fiskestang i havet (saltvann) i Norge?",
     "options": [
       "Ja, man må kjøpe et statlig fiskekort.",
@@ -5076,7 +5076,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 847,
+    "id": 847,
     "question": "Hvilken type kjøretøy gir 'førerkort klasse B' deg rett til å kjøre?",
     "options": [
       "Buss.",
@@ -5088,7 +5088,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 848,
+    "id": 848,
     "question": "Hva er kravet til mønsterdybde for at dekkene dine skal være lovlige å bruke om sommeren?",
     "options": [
       "1,0 millimeter.",
@@ -5100,7 +5100,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 849,
+    "id": 849,
     "question": "Hva er 'EU-kontroll' (Periodisk kjøretøykontroll) for biler?",
     "options": [
       "En skatt man betaler til EU for å kjøre bil.",
@@ -5112,7 +5112,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 850,
+    "id": 850,
     "question": "Hvilken type bilforsikring er strengt lovpålagt at du MÅ ha for at bilen din skal være lovlig på veien?",
     "options": [
       "Kaskoforsikring (dekker skader på din egen bil).",
@@ -5124,7 +5124,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 851,
+    "id": 851,
     "question": "Hva brukes pengene fra norske 'bompenger' til?",
     "options": [
       "De går direkte til kongens lønn.",
@@ -5136,7 +5136,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 852,
+    "id": 852,
     "question": "Hva er NRK (Norsk rikskringkasting)?",
     "options": [
       "En privat, kommersiell TV-kanal drevet av reklame.",
@@ -5148,7 +5148,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 853,
+    "id": 853,
     "question": "Hvor kan du lovlig kjøpe vin og brennevin til hjemmebruk i Norge?",
     "options": [
       "På nærmeste bensinstasjon.",
@@ -5160,7 +5160,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 854,
+    "id": 854,
     "question": "Hva skjedde da den såkalte 'Røykeloven' ble innført i 2004?",
     "options": [
       "Røyking ble ulovlig i hele Norge.",
@@ -5172,7 +5172,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 855,
+    "id": 855,
     "question": "Hva er NAVs funksjon når det gjelder 'barnebidrag' etter et samlivsbrudd?",
     "options": [
       "NAV forbyr at man betaler barnebidrag.",
@@ -5184,7 +5184,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 856,
+    "id": 856,
     "question": "Hva kalles et dokument som gir deg tillatelse til å oppholde deg lovlig i Norge?",
     "options": [
       "Oppholdstillatelse.",
@@ -5196,7 +5196,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 857,
+    "id": 857,
     "question": "Er det ulovlig å brenne eller skjende det norske flagget?",
     "options": [
       "Nei, Høyesterett har slått fast at brenning av flagg beskyttes av ytringsfriheten (selv om de fleste anser det som svært respektløst).",
@@ -5208,7 +5208,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 858,
+    "id": 858,
     "question": "Hva betyr 'kildeskatt' på lønn for utenlandske arbeidstakere (PAYE)?",
     "options": [
       "De må betale 50 % i skatt hver måned.",
@@ -5220,7 +5220,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 859,
+    "id": 859,
     "question": "Hva er hovedfokuset for en 'jordmor' i helsevesenet?",
     "options": [
       "Å operere brukne bein.",
@@ -5232,7 +5232,7 @@
     "category": "Helse"
   },
   {
-    "number": 860,
+    "id": 860,
     "question": "Har helsesykepleier på skolen lov til å fortelle foreldrene hva et barn (for eksempel 16 år) sier i fortrolighet på kontoret hennes?",
     "options": [
       "Ja, foreldrene har alltid rett til å vite alt.",
@@ -5244,7 +5244,7 @@
     "category": "Helse"
   },
   {
-    "number": 861,
+    "id": 861,
     "question": "Når kan du senest forvente å få utbetalt feriepengene dine?",
     "options": [
       "På julaften.",
@@ -5256,7 +5256,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 862,
+    "id": 862,
     "question": "Hvis bedriften du jobber for går konkurs, mister du automatisk all lønn og feriepenger de skylder deg?",
     "options": [
       "Ja, da er pengene tapt.",
@@ -5268,7 +5268,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 863,
+    "id": 863,
     "question": "Hvem er 'statsforvalteren' (tidligere fylkesmannen)?",
     "options": [
       "Kongens politimann.",
@@ -5280,7 +5280,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 864,
+    "id": 864,
     "question": "Må du betale egenandel for legetime i Norge hvis skaden din skyldes en godkjent 'yrkesskade' (skade skjedd på jobben)?",
     "options": [
       "Ja, alle må alltid betale.",
@@ -5292,7 +5292,7 @@
     "category": "Helse"
   },
   {
-    "number": 865,
+    "id": 865,
     "question": "Hvilke rettigheter har alle pasienter i det offentlige helsevesenet i Norge knyttet til egen helsejournal?",
     "options": [
       "Journalen er hemmelig og kun for leger.",
@@ -5304,7 +5304,7 @@
     "category": "Helse"
   },
   {
-    "number": 866,
+    "id": 866,
     "question": "Hva er den viktigste årsaken til at det kreves politiattest for å jobbe i barnehage eller skole?",
     "options": [
       "For å sjekke om læreren har betalt skatten sin.",
@@ -5316,7 +5316,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 867,
+    "id": 867,
     "question": "Hva er 'kontantstøtte'?",
     "options": [
       "Penger du får når du kjøper mat med kontanter.",
@@ -5328,7 +5328,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 868,
+    "id": 868,
     "question": "Hvor mange prosent av stemmene må et parti ha nasjonalt for å komme over den såkalte 'sperregrensen'?",
     "options": [
       "2 prosent",
@@ -5340,7 +5340,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 869,
+    "id": 869,
     "question": "Hva innebærer det at Norge er en 'rettsstat'?",
     "options": [
       "At politiet kan arrestere hvem de vil uten grunn.",
@@ -5352,7 +5352,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 870,
+    "id": 870,
     "question": "Hva er 'obligatorisk mekling' ved samlivsbrudd?",
     "options": [
       "At man må bo sammen i ett år til.",
@@ -5364,7 +5364,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 871,
+    "id": 871,
     "question": "Hva er hovedregelen for bruk av vinterdekk med pigger (piggdekk) i Sør-Norge?",
     "options": [
       "Det er tillatt hele året.",
@@ -5376,7 +5376,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 872,
+    "id": 872,
     "question": "Hva er den normale prøvetiden når man starter i en ny jobb i Norge?",
     "options": [
       "14 dager",
@@ -5388,7 +5388,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 873,
+    "id": 873,
     "question": "Hvem har ansvaret for at det blir skrevet en arbeidskontrakt?",
     "options": [
       "Arbeidsgiveren",
@@ -5400,7 +5400,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 875,
+    "id": 875,
     "question": "Hvilken etat i Norge har ansvaret for å kreve inn skatter og avgifter?",
     "options": [
       "Skatteetaten",
@@ -5412,7 +5412,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 876,
+    "id": 876,
     "question": "Hva er 'fraværsgrensen' i videregående skole?",
     "options": [
       "Man kan være borte så mye man vil.",
@@ -5424,7 +5424,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 877,
+    "id": 877,
     "question": "Hva er hovedformålet med barnevernet?",
     "options": [
       "Å straffe foreldre.",
@@ -5436,7 +5436,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 878,
+    "id": 878,
     "question": "Hvem vedtar Norges lover?",
     "options": [
       "Regjeringen",
@@ -5448,7 +5448,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 879,
+    "id": 879,
     "question": "Hvor mange år må man vanligvis ha bodd i Norge for å kunne søke om permanent oppholdstillatelse?",
     "options": [
       "1 år",
@@ -5460,7 +5460,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 881,
+    "id": 881,
     "question": "Hva innebærer personvernet?",
     "options": [
       "At du har rett til privatliv",
@@ -5472,7 +5472,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 883,
+    "id": 883,
     "question": "Kan du finne isbreer i Norge?",
     "options": [
       "Ja, men de ligger bare på Svalbard",
@@ -5484,7 +5484,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 884,
+    "id": 884,
     "question": "Hvilken av disse øygruppene hører til Norge?",
     "options": [
       "Shetlandsøyene",
@@ -5496,7 +5496,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 885,
+    "id": 885,
     "question": "Hvem varsler du dersom du er syk og ikke kan komme på jobben?",
     "options": [
       "Arbeidsgiveren",
@@ -5508,7 +5508,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 886,
+    "id": 886,
     "question": "Du har spørsmål om oppholdstillatelse. Hvor bør du henvende deg?",
     "options": [
       "IMDi",
@@ -5520,7 +5520,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 887,
+    "id": 887,
     "question": "Hva er det ikke lov å gjøre når det er helligdag (rød dag)?",
     "options": [
       "Sykle",
@@ -5532,7 +5532,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 888,
+    "id": 888,
     "question": "Hvor mange år må et barn være for å kunne jobbe med enkel butikkjobb?",
     "options": [
       "16 år",
@@ -5544,7 +5544,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 889,
+    "id": 889,
     "question": "Hva må en arbeidskontrakt inneholde?",
     "options": [
       "Navnet på foreldrene dine",
@@ -5556,7 +5556,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 890,
+    "id": 890,
     "question": "Hva kjennetegner en dugnad?",
     "options": [
       "At man får betalt per time",
@@ -5568,7 +5568,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 891,
+    "id": 891,
     "question": "Når levde vikingene i Norge?",
     "options": [
       "Ca. 1940 - 1945",
@@ -5580,7 +5580,7 @@
     "category": "Historie"
   },
   {
-    "number": 892,
+    "id": 892,
     "question": "Hvilket år ble vinter-OL arrangert i Oslo?",
     "options": [
       "1952",
@@ -5592,7 +5592,7 @@
     "category": "Historie"
   },
   {
-    "number": 893,
+    "id": 893,
     "question": "Hva må man bruke når man kjører bil i Norge?",
     "options": [
       "Hjelm",
@@ -5604,7 +5604,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 894,
+    "id": 894,
     "question": "Hva er den normale arbeidstiden per dag i Norge?",
     "options": [
       "12 timer",
@@ -5616,7 +5616,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 895,
+    "id": 895,
     "question": "Hvem bestemmer hvem som skal styre i kommunen?",
     "options": [
       "Kongen",
@@ -5628,7 +5628,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 896,
+    "id": 896,
     "question": "Hva er en 'sykemelding'?",
     "options": [
       "En beskjed fra legen om at du er for syk til å jobbe",
@@ -5640,7 +5640,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 897,
+    "id": 897,
     "question": "Hvor kan man kaste vanlig søppel i Norge?",
     "options": [
       "I naturen",
@@ -5652,7 +5652,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 898,
+    "id": 898,
     "question": "Hva betyr det å 'pante' flasker?",
     "options": [
       "At man kaster dem i skogen",
@@ -5664,7 +5664,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 899,
+    "id": 899,
     "question": "Hva koster det å gå på offentlig barneskole i Norge?",
     "options": [
       "1000 kroner i måneden",
@@ -5676,7 +5676,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 900,
+    "id": 900,
     "question": "Hva er aldersgrensen for å stemme ved valg i Norge?",
     "options": [
       "16 år",
@@ -5688,7 +5688,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 901,
+    "id": 901,
     "question": "Hvilken farge har de norske politibilene?",
     "options": [
       "Gule og svarte",
@@ -5700,7 +5700,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 902,
+    "id": 902,
     "question": "Hva kalles pengene vi bruker i Norge?",
     "options": [
       "Euro",
@@ -5712,7 +5712,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 904,
+    "id": 904,
     "question": "Hva er en 'fagforening'?",
     "options": [
       "En gruppe som hjelper arbeidsgivere",
@@ -5724,7 +5724,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 905,
+    "id": 905,
     "question": "Er det lov å røyke inne på restauranter i Norge?",
     "options": [
       "Ja",
@@ -5736,7 +5736,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 906,
+    "id": 906,
     "question": "Hva gjør du hvis du ser en ulykke med personskade?",
     "options": [
       "Ringer 113",
@@ -5748,7 +5748,7 @@
     "category": "Helse"
   },
   {
-    "number": 908,
+    "id": 908,
     "question": "Når stenger de fleste matbutikker på lørdager?",
     "options": [
       "Kl. 18 eller kl. 20",
@@ -5760,7 +5760,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 909,
+    "id": 909,
     "question": "Er de fleste butikker åpne på søndager i Norge?",
     "options": [
       "Ja",
@@ -5772,7 +5772,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 910,
+    "id": 910,
     "question": "Hva heter nasjonaldagen til Norge?",
     "options": [
       "1. mai",
@@ -5784,7 +5784,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 911,
+    "id": 911,
     "question": "Hva spiser mange barn på 17. mai?",
     "options": [
       "Grøt",
@@ -5796,7 +5796,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 912,
+    "id": 912,
     "question": "Hva er aldersgrensen for å kjøpe snus i Norge?",
     "options": [
       "16 år",
@@ -5808,7 +5808,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 913,
+    "id": 913,
     "question": "Hva er 'NAV'?",
     "options": [
       "En butikk",
@@ -5820,7 +5820,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 914,
+    "id": 914,
     "question": "Hvor mange siffer er det i et norsk fødselsnummer?",
     "options": [
       "9",
@@ -5832,7 +5832,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 915,
+    "id": 915,
     "question": "Hva kalles lederen av en kommune?",
     "options": [
       "Statsminister",
@@ -5844,7 +5844,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 916,
+    "id": 916,
     "question": "Hva må du ha for å kjøre bil i Norge?",
     "options": [
       "Førerkort",
@@ -5856,7 +5856,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 917,
+    "id": 917,
     "question": "Hva betyr det å 'vike' for en annen bil?",
     "options": [
       "Å kjøre fortere",
@@ -5868,7 +5868,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 918,
+    "id": 918,
     "question": "Er det gratis å låne bøker på biblioteket?",
     "options": [
       "Ja",
@@ -5880,7 +5880,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 919,
+    "id": 919,
     "question": "Hvilken farge er det på de fleste postkasser i Norge?",
     "options": [
       "Gule",
@@ -5892,7 +5892,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 920,
+    "id": 920,
     "question": "Hvor gammel er man når man begynner i 1. klasse?",
     "options": [
       "5 år",
@@ -5904,7 +5904,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 922,
+    "id": 922,
     "question": "Hva kalles det når to voksne bor sammen uten å være gift?",
     "options": [
       "Samboere",
@@ -5916,7 +5916,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 924,
+    "id": 924,
     "question": "Hvilken etat har ansvaret for veier og trafikklys?",
     "options": [
       "Skatteetaten",
@@ -5928,7 +5928,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 925,
+    "id": 925,
     "question": "Hva må man bruke når man sykler i mørket?",
     "options": [
       "Lys på sykkelen",
@@ -5940,7 +5940,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 927,
+    "id": 927,
     "question": "Hvor ligger Slottet i Norge?",
     "options": [
       "Bergen",
@@ -5952,7 +5952,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 928,
+    "id": 928,
     "question": "Hvem bor på Slottet?",
     "options": [
       "Statsministeren",
@@ -5964,7 +5964,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 929,
+    "id": 929,
     "question": "Hva er 'frivillig arbeid'?",
     "options": [
       "Arbeid man får mye betalt for",
@@ -5976,7 +5976,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 930,
+    "id": 930,
     "question": "Hva er en 'lærling'?",
     "options": [
       "En person som utdanner seg til et yrke ved å jobbe i en bedrift",
@@ -5988,7 +5988,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 931,
+    "id": 931,
     "question": "Hvem har ansvaret for barnehager i Norge?",
     "options": [
       "Kommunen",
@@ -6000,7 +6000,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 932,
+    "id": 932,
     "question": "Hva er den vanlige skatteprosenten for trygdeavgift (sosial avgift) for en arbeidstaker i 2026?",
     "options": [
       "5,1 %",
@@ -6012,7 +6012,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 933,
+    "id": 933,
     "question": "Har samboere uten barn automatisk rett til å arve hverandre?",
     "options": [
       "Ja, akkurat som gifte",
@@ -6024,7 +6024,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 935,
+    "id": 935,
     "question": "Hva er 'fedrekvoten' i foreldrepermisjonen?",
     "options": [
       "En del av permisjonen som bare faren kan ta ut",
@@ -6036,7 +6036,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 936,
+    "id": 936,
     "question": "Kan en mor overta fedrekvoten hvis faren ikke vil ha den?",
     "options": [
       "Ja, det bestemmer de selv",
@@ -6048,7 +6048,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 937,
+    "id": 937,
     "question": "Hvem betaler lønnen din de første 16 dagene når du er syk?",
     "options": [
       "NAV",
@@ -6060,7 +6060,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 938,
+    "id": 938,
     "question": "Hva skjer med arven hvis en person dør og ikke har skrevet testament eller har familie?",
     "options": [
       "Pengene går til staten",
@@ -6072,7 +6072,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 939,
+    "id": 939,
     "question": "Hvor mye må en mor ha jobbet for å få foreldrepenger?",
     "options": [
       "Minst 2 måneder",
@@ -6084,7 +6084,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 940,
+    "id": 940,
     "question": "Hva er 'minstefradrag' på skatten?",
     "options": [
       "Et fast fradrag i inntekten som alle får automatisk",
@@ -6096,7 +6096,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 941,
+    "id": 941,
     "question": "Er det lov å filme andre mennesker uten tillatelse og legge det ut på internett?",
     "options": [
       "Ja, det er ytringsfrihet",
@@ -6108,7 +6108,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 942,
+    "id": 942,
     "question": "Hva er 'fellesperiode' i foreldrepermisjonen?",
     "options": [
       "Tid der begge foreldrene må jobbe",
@@ -6120,7 +6120,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 943,
+    "id": 943,
     "question": "Hva er aldersgrensen for å kunne gifte seg i Norge?",
     "options": [
       "16 år",
@@ -6132,7 +6132,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 944,
+    "id": 944,
     "question": "Hva kalles det når man betaler skatt direkte i butikken på varer du kjøper?",
     "options": [
       "Inntektsskatt",
@@ -6144,7 +6144,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 945,
+    "id": 945,
     "question": "Har barn rett til å bli hørt i saker som gjelder dem selv?",
     "options": [
       "Ja, barna skal få si sin mening og bli lyttet til",
@@ -6156,7 +6156,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 946,
+    "id": 946,
     "question": "Hva er 'permisjon uten lønn'?",
     "options": [
       "At man får penger fra NAV for å være hjemme",
@@ -6168,7 +6168,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 947,
+    "id": 947,
     "question": "Hvem eier de private barnehagene i Norge?",
     "options": [
       "Staten",
@@ -6180,7 +6180,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 948,
+    "id": 948,
     "question": "Hva skjer hvis man kjører for fort og blir tatt i en politikontroll?",
     "options": [
       "Man får en bot (forenklet forelegg)",
@@ -6192,7 +6192,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 949,
+    "id": 949,
     "question": "Er det lov å tvinge noen til å gifte seg?",
     "options": [
       "Ja, hvis foreldrene vil det",
@@ -6204,7 +6204,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 950,
+    "id": 950,
     "question": "Hva er 'farskapserklæring'?",
     "options": [
       "Et papir der en mann bekrefter at han er faren til et barn",
@@ -6216,7 +6216,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 951,
+    "id": 951,
     "question": "Hvilken informasjon må stå i en oppsigelse fra en ansatt?",
     "options": [
       "Hvorfor man slutter",
@@ -6228,7 +6228,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 952,
+    "id": 952,
     "question": "Hva er 'høyere utdanning'?",
     "options": [
       "Utdanning på universitet eller høyskole",
@@ -6240,7 +6240,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 953,
+    "id": 953,
     "question": "Hva betyr det at en rettssak er 'offentlig'?",
     "options": [
       "At hvem som helst kan gå inn og høre på i rettssalen",
@@ -6252,7 +6252,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 954,
+    "id": 954,
     "question": "Hva er 'fri rettshjelp'?",
     "options": [
       "At man får gratis advokat fra staten i spesielle saker",
@@ -6264,7 +6264,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 955,
+    "id": 955,
     "question": "Hvilken by i Norge kalles for 'smilets by'?",
     "options": [
       "Oslo",
@@ -6276,7 +6276,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 956,
+    "id": 956,
     "question": "Hva kalles det når staten tar barna fra foreldrene fordi de ikke har det bra hjemme?",
     "options": [
       "Omsorgsovertakelse",
@@ -6288,7 +6288,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 957,
+    "id": 957,
     "question": "Er det lov å drive jakt på alle dyr hele året?",
     "options": [
       "Ja",
@@ -6300,7 +6300,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 958,
+    "id": 958,
     "question": "Hva er 'fagbrev'?",
     "options": [
       "Et bevis på at man er utdannet i et praktisk yrke (f.eks. snekker)",
@@ -6312,7 +6312,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 959,
+    "id": 959,
     "question": "Hva er 'svangerskapspermisjon'?",
     "options": [
       "Fri fra jobb før barnet blir født",
@@ -6324,7 +6324,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 960,
+    "id": 960,
     "question": "Hvem betaler for at vi skal ha gratis veier og skoler?",
     "options": [
       "Kongen",
@@ -6336,7 +6336,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 961,
+    "id": 961,
     "question": "Hva er 'taushetsplikt'?",
     "options": [
       "At man ikke har lov til å snakke på jobb",
@@ -6348,7 +6348,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 962,
+    "id": 962,
     "question": "Hva kalles den øverste domstolen i Norge?",
     "options": [
       "Tingretten",
@@ -6360,7 +6360,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 963,
+    "id": 963,
     "question": "Hva er en 'anmeldelse'?",
     "options": [
       "Når man forteller politiet om en kriminell handling",
@@ -6372,7 +6372,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 964,
+    "id": 964,
     "question": "Er det lov å gifte seg med søsken i Norge?",
     "options": [
       "Ja",
@@ -6384,7 +6384,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 965,
+    "id": 965,
     "question": "Hva er 'valgkort'?",
     "options": [
       "Et bevis på at du har stemmerett ved et valg",
@@ -6396,7 +6396,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 966,
+    "id": 966,
     "question": "Hva er en 'frikortgrense'?",
     "options": [
       "Hvor mye du kan tjene før du må begynne å betale skatt",
@@ -6408,7 +6408,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 967,
+    "id": 967,
     "question": "Hva er 'foreldremøte' på skolen?",
     "options": [
       "Et møte der læreren og alle foreldrene snakker om klassen",
@@ -6420,7 +6420,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 968,
+    "id": 968,
     "question": "Må man bruke hjelm når man sykler i Norge?",
     "options": [
       "Ja, det er lovpålagt",
@@ -6432,7 +6432,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 969,
+    "id": 969,
     "question": "Hva er 'barnepensjon'?",
     "options": [
       "Penger et barn får hvis en av foreldrene dør",
@@ -6444,7 +6444,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 970,
+    "id": 970,
     "question": "Hva er 'fast lønn'?",
     "options": [
       "At du får samme beløp utbetalt hver måned uansett",
@@ -6456,7 +6456,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 971,
+    "id": 971,
     "question": "Hva er 'ferielovens' viktigste formål?",
     "options": [
       "Å sikre at alle får fri fra jobb for å hvile",
@@ -6468,7 +6468,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 972,
+    "id": 972,
     "question": "Er det lov å kaste batterier i den vanlige søpla?",
     "options": [
       "Ja",
@@ -6480,7 +6480,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 973,
+    "id": 973,
     "question": "Hva er 'kontrollavgift' på bussen?",
     "options": [
       "En billett du kjøper av sjåføren",
@@ -6492,7 +6492,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 974,
+    "id": 974,
     "question": "Hva betyr det å 'være organisert'?",
     "options": [
       "At man rydder hjemme hver dag",
@@ -6504,7 +6504,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 975,
+    "id": 975,
     "question": "Hva er 'alderspensjon'?",
     "options": [
       "Penger du får fra staten når du slutter å jobbe fordi du har blitt gammel",
@@ -6516,7 +6516,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 976,
+    "id": 976,
     "question": "Må man betale for å føde på sykehus i Norge?",
     "options": [
       "Ja, det koster 5000 kr",
@@ -6528,7 +6528,7 @@
     "category": "Helse"
   },
   {
-    "number": 977,
+    "id": 977,
     "question": "Hva er 'vitnemål'?",
     "options": [
       "Et papir som viser karakterene dine når du er ferdig med en skole",
@@ -6540,7 +6540,7 @@
     "category": "Utdanning"
   },
   {
-    "number": 978,
+    "id": 978,
     "question": "Er det lov å jobbe i Norge uten å ha oppholdstillatelse?",
     "options": [
       "Ja, hvis man jobber i en kort periode",
@@ -6552,7 +6552,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 979,
+    "id": 979,
     "question": "Hva er 'verneombud'?",
     "options": [
       "En person på jobben som passer på at arbeidsmiljøet er trygt",
@@ -6564,7 +6564,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 980,
+    "id": 980,
     "question": "Hva er 'førstehjelp'?",
     "options": [
       "Hjelp man gir til en skadet person før profesjonell hjelp kommer",
@@ -6576,7 +6576,7 @@
     "category": "Helse"
   },
   {
-    "number": 982,
+    "id": 982,
     "question": "Hva er Galdhøpiggen?",
     "options": [
       "Et fylke",
@@ -6588,7 +6588,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 983,
+    "id": 983,
     "question": "Oppgaven handler om taushetsplikt. Hvilken påstand er riktig?",
     "options": [
       "Fastlegen har taushetsplikt",
@@ -6600,7 +6600,7 @@
     "category": "Helse"
   },
   {
-    "number": 984,
+    "id": 984,
     "question": "Hva slags naturfenomen er Mjøsa?",
     "options": [
       "En dyp grotte",
@@ -6612,7 +6612,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 985,
+    "id": 985,
     "question": "Hvor står det at alle innbyggere i riket har fri religionsutøvelse?",
     "options": [
       "I forskrift om fri religionsutøvelse",
@@ -6624,7 +6624,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 986,
+    "id": 986,
     "question": "Hva kalles en bolig du eier selv?",
     "options": [
       "Selveierbolig",
@@ -6635,7 +6635,7 @@
     "category": "Økonomi"
   },
   {
-    "number": 987,
+    "id": 987,
     "question": "Hvem av disse er ikke et norsk, politisk parti?",
     "options": [
       "Høyre",
@@ -6647,7 +6647,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 988,
+    "id": 988,
     "question": "Hvor reiser du for å komme til Longyearbyen?",
     "options": [
       "Til Nord-Norge",
@@ -6659,7 +6659,7 @@
     "category": "Geografi og befolkning"
   },
   {
-    "number": 990,
+    "id": 990,
     "question": "Hva innebærer 'høyreregelen' i trafikken?",
     "options": [
       "At man alltid skal kjøre på høyre side av veien",
@@ -6671,7 +6671,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 991,
+    "id": 991,
     "question": "Hva er en 'egenandel' i det norske helsevesenet?",
     "options": [
       "En del av kostnaden for legebesøk eller medisiner som pasienten må betale selv",
@@ -6683,7 +6683,7 @@
     "category": "Helse"
   },
   {
-    "number": 992,
+    "id": 992,
     "question": "Hva er formålet med 'fleksitid' på en arbeidsplass?",
     "options": [
       "At man kan jobbe så lite man vil",
@@ -6695,7 +6695,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 993,
+    "id": 993,
     "question": "Hva betyr det at Norge er et 'konstitusjonelt monarki'?",
     "options": [
       "At kongen bestemmer alle lovene i landet",
@@ -6707,7 +6707,7 @@
     "category": "Demokrati og politikk"
   },
   {
-    "number": 994,
+    "id": 994,
     "question": "Hvilket årstall ble den norske Grunnloven vedtatt på Eidsvoll?",
     "options": [
       "1814",
@@ -6719,7 +6719,7 @@
     "category": "Historie"
   },
   {
-    "number": 995,
+    "id": 995,
     "question": "Hva er 'barnetrygd'?",
     "options": [
       "En skatt foreldre må betale for å ha barn",
@@ -6731,7 +6731,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 996,
+    "id": 996,
     "question": "Hva er 'Allemannsretten'?",
     "options": [
       "Retten til å eie så mye land man vil",
@@ -6743,7 +6743,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 997,
+    "id": 997,
     "question": "Hvor skal du kaste tomme batterier?",
     "options": [
       "I restavfallet hjemme",
@@ -6755,7 +6755,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 998,
+    "id": 998,
     "question": "Har barn som er født i Norge av utenlandske foreldre automatisk rett til norsk statsborgerskap?",
     "options": [
       "Ja, alle som er født i Norge blir norske",
@@ -6767,7 +6767,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 999,
+    "id": 999,
     "question": "Hva er en 'IA-bedrift'?",
     "options": [
       "En bedrift som bare ansetter utlendinger",
@@ -6779,7 +6779,7 @@
     "category": "Arbeidsliv"
   },
   {
-    "number": 1000,
+    "id": 1000,
     "question": "Er det påbudt å bruke refleks når man går langs veien i mørket?",
     "options": [
       "Ja, det er lovpålagt i Norge",
@@ -6791,7 +6791,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 1001,
+    "id": 1001,
     "question": "Hva innebærer 'omsorgspermisjon' for en far eller medmor rett etter fødselen?",
     "options": [
       "To ukers fri i forbindelse med fødselen for å bistå mor og barn",
@@ -6803,7 +6803,7 @@
     "category": "Familie og barn"
   },
   {
-    "number": 1002,
+    "id": 1002,
     "question": "Hva kalles det når man leverer brukte klær og møbler til butikker som selger dem på nytt?",
     "options": [
       "Gjenbruk eller gjenvinning",
@@ -6815,7 +6815,7 @@
     "category": "Natur og miljø"
   },
   {
-    "number": 1003,
+    "id": 1003,
     "question": "Hvem har ansvaret for å måke snø på fortauet utenfor et privat hus i mange byer?",
     "options": [
       "Politiet",
@@ -6827,7 +6827,7 @@
     "category": "Samfunn og lover"
   },
   {
-    "number": 1004,
+    "id": 1004,
     "question": "Hva er en 'matpakke' i norsk kultur?",
     "options": [
       "Varm mat man kjøper i en restaurant",
@@ -6839,7 +6839,7 @@
     "category": "Kultur og tradisjoner"
   },
   {
-    "number": 1005,
+    "id": 1005,
     "question": "Hva står IMDi for?",
     "options": [
       "Interne minnerdirektoratet",
