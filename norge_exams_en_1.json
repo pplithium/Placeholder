@@ -5733,5 +5733,1445 @@
     "correctIndex": 2,
     "explanation": "IMDi works to ensure that people moving to Norway are integrated into society.",
     "category": "Society and laws"
+  },
+  {
+    "id": 1006,
+    "question": "What does it mean to 'blow the whistle' (varsle) in a Norwegian workplace?",
+    "options": [
+      "To blow a physical whistle when taking a break.",
+      "To notify management or authorities about illegal or dangerous conditions at the workplace.",
+      "To complain about the salary to your colleagues."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Working Environment Act gives all employees the right to whistleblow about unacceptable conditions, such as corruption, harassment, or safety hazards, without being punished by the employer.",
+    "category": "Working life"
+  },
+  {
+    "id": 1007,
+    "question": "According to the right to roam (allemannsretten), what is the minimum distance you must keep from an inhabited house or cabin when you pitch a tent in nature?",
+    "options": [
+      "50 meters",
+      "150 meters",
+      "500 meters"
+    ],
+    "correctIndex": 1,
+    "explanation": "You can camp almost anywhere in uncultivated land for up to two nights, but you must pitch your tent at least 150 meters away from the nearest inhabited house or cabin to respect people's privacy.",
+    "category": "Nature and environment"
+  },
+  {
+    "id": 1008,
+    "question": "You receive an SMS from 'The Tax Administration' (Skatteetaten) containing a link, asking you to log in with BankID to receive a tax refund. What should you do?",
+    "options": [
+      "Click the link and log in immediately to get the money.",
+      "Ignore the link, as public authorities in Norway never send links in SMS/email asking you to log in with BankID.",
+      "Forward the SMS to your friends so they can also get a refund."
+    ],
+    "correctIndex": 1,
+    "explanation": "This is a common form of digital fraud called 'phishing'. Norwegian authorities will always ask you to manually type their web address (e.g., skatteetaten.no) in your browser instead of clicking a link.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1009,
+    "question": "If you buy a mobile phone from an electronics store in Norway, how long is the statutory right of complaint (reklamasjonsrett) if the device is meant to last a long time?",
+    "options": [
+      "1 year",
+      "2 years",
+      "5 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "For products intended to last significantly longer than two years (like TVs, mobile phones, and washing machines), the Consumer Purchase Act gives you a 5-year right to complain about manufacturing defects.",
+    "category": "Economy"
+  },
+  {
+    "id": 1010,
+    "question": "Can the Sami Parliament (Sametinget) veto (stop) a law passed by the Norwegian Parliament (Stortinget)?",
+    "options": [
+      "Yes, if the law affects the Sami people.",
+      "No, the Sami Parliament only has an advisory role and cannot override the Storting.",
+      "Yes, but only in Northern Norway."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sami Parliament is an elected political body that works for Sami interests, but the Norwegian Storting has the final legislative power in the entire country.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1011,
+    "question": "If you live far away from the hospital and have to travel for specialized medical treatment, do you have to pay the entire travel cost yourself?",
+    "options": [
+      "Yes, transportation is never covered by the state.",
+      "No, the 'Pasientreiser' scheme covers the travel expenses, but you usually pay a standard deductible (egenandel).",
+      "Yes, unless you travel by ambulance."
+    ],
+    "correctIndex": 1,
+    "explanation": "The welfare state ensures that people who live far from a hospital are not financially punished. You get expenses covered for the cheapest travel method, minus a small deductible.",
+    "category": "Health"
+  },
+  {
+    "id": 1012,
+    "question": "Can an employer extend your trial period (prøvetid) if you have been on sick leave during the trial period?",
+    "options": [
+      "No, the trial period is strictly maximum 6 months regardless of absence.",
+      "Yes, the employer can extend the trial period by the same number of days you were absent, if this was agreed upon in the contract.",
+      "Yes, but only if you agree to a lower salary."
+    ],
+    "correctIndex": 1,
+    "explanation": "If stated in the employment contract, an employer has the right to extend the trial period corresponding to the length of your documented absence (e.g., sick leave) to properly evaluate your work.",
+    "category": "Working life"
+  },
+  {
+    "id": 1013,
+    "question": "What happens if you receive a debt collection notice (inkassovarsel) but legitimately disagree with the original bill?",
+    "options": [
+      "You must pay it immediately to avoid a police record.",
+      "You should contact the collection agency and formally dispute (bestride) the claim; they cannot legally proceed with collection while the claim is disputed.",
+      "You should just ignore it, and it will be deleted after 3 months."
+    ],
+    "correctIndex": 1,
+    "explanation": "If you genuinely disagree with a bill, you have strong consumer rights. By disputing the claim, the collection agency must pause the process and the case might go to the Conciliation Board (Forliksrådet).",
+    "category": "Economy"
+  },
+  {
+    "id": 1014,
+    "question": "Who is subject to compulsory military service (verneplikt) in Norway today?",
+    "options": [
+      "Only men between 19 and 44 years old.",
+      "Both men and women are subject to compulsory military service.",
+      "Military service is 100% voluntary for everyone."
+    ],
+    "correctIndex": 1,
+    "explanation": "In 2015, Norway became the first NATO country to introduce gender-neutral compulsory military service, meaning both young men and women must serve if they are selected.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1015,
+    "question": "What is 'Samordna opptak'?",
+    "options": [
+      "The central system where you apply for admission to universities and university colleges in Norway.",
+      "The agency that gives out student loans.",
+      "A political party for students."
+    ],
+    "correctIndex": 0,
+    "explanation": "Samordna opptak coordinates the admission to higher education. You apply with your grades and points from upper secondary school to compete for study places nationwide.",
+    "category": "Education"
+  },
+  {
+    "id": 1016,
+    "question": "What is the new general age limit (aldersgrense) for protection against termination due to age in Norwegian working life from 2026?",
+    "options": [
+      "67 years",
+      "70 years",
+      "72 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "To strengthen job security for older workers and keep seniors in the workforce, the government raised the general age limit, allowing employees to keep their jobs until they turn 72.",
+    "category": "Working life"
+  },
+  {
+    "id": 1017,
+    "question": "From 2026, which new occupational group is legally required to carry a visible HSE card (HMS-kort) at work?",
+    "options": [
+      "Teachers in public schools",
+      "Office workers in IT companies",
+      "Drivers transporting goods in vans (varetransport)"
+    ],
+    "correctIndex": 2,
+    "explanation": "To prevent social dumping and work-related crime, all drivers transporting goods for others in vans under 3500kg must carry an official HSE card.",
+    "category": "Working life"
+  },
+  {
+    "id": 1018,
+    "question": "Is it financially beneficial to be a member of a trade union (fagforening) when it comes to taxes in Norway?",
+    "options": [
+      "No, union fees increase your total tax.",
+      "Yes, you get a tax deduction (skattefradrag) for the union dues you pay.",
+      "It has no effect on your taxes."
+    ],
+    "correctIndex": 1,
+    "explanation": "The government encourages union membership by allowing you to deduct the union dues from your taxable income, lowering your overall tax bill.",
+    "category": "Economy"
+  },
+  {
+    "id": 1019,
+    "question": "What does the term 'psykososialt arbeidsmiljø' (psychosocial working environment) mean according to the Working Environment Act?",
+    "options": [
+      "That the office must have ergonomic chairs and good lighting.",
+      "That the employer must prevent negative stress, harassment, and ensure good collaboration and support.",
+      "That employees must socialize together after working hours."
+    ],
+    "correctIndex": 1,
+    "explanation": "The law places strict demands on the employer to ensure that emotional strain, time pressure, and unclear expectations do not harm the employees' mental health.",
+    "category": "Working life"
+  },
+  {
+    "id": 1020,
+    "question": "What is the strict blood alcohol limit (promillegrense) for driving an electric scooter in Norway?",
+    "options": [
+      "0.0 per mille",
+      "0.2 per mille",
+      "0.5 per mille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Electric scooters are classified similarly to motor vehicles when it comes to alcohol, meaning the strict 0.2 per mille limit applies. Driving under the influence can result in heavy fines and loss of your driver's license.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1021,
+    "question": "Do you have a legal right to inherit your partner if you live together as cohabitants (samboere) but do not have children together?",
+    "options": [
+      "Yes, cohabitants always have the exact same rights as married couples.",
+      "No, cohabitants without common children do not have an automatic right to inherit each other unless they make a will (testament).",
+      "Yes, but only if you have lived together for more than 1 year."
+    ],
+    "correctIndex": 1,
+    "explanation": "Unlike marriage, cohabitation provides very limited financial security. If you do not have children together, you must write a will to ensure your partner inherits you.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1022,
+    "question": "What is the difference between 'skoleplikt' (duty to attend school) and 'opplæringsplikt' (duty of education) in Norway?",
+    "options": [
+      "Children must learn the curriculum (opplæringsplikt), but it is legal to homeschool them instead of sending them to a school building.",
+      "Children must go to a public school building every day, homeschooling is completely illegal.",
+      "Education is completely voluntary in Norway."
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway has a duty of education for 10 years, but parents have the right to provide this education themselves through approved homeschooling.",
+    "category": "Education"
+  },
+  {
+    "id": 1023,
+    "question": "If a healthcare worker or teacher in Norway suspects that a child is experiencing severe violence at home, what happens to their strict duty of confidentiality (taushetsplikt)?",
+    "options": [
+      "They are never allowed to break confidentiality under any circumstances.",
+      "They have a legal duty to inform the Child Welfare Service (Barnevernet), which overrides the duty of confidentiality.",
+      "They must ask the parents for permission first before reporting it."
+    ],
+    "correctIndex": 1,
+    "explanation": "The duty to avert harm and protect children (avvergelsesplikt and opplysningsplikt) is stronger than the duty of confidentiality. Professionals must report suspected abuse immediately.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1024,
+    "question": "What does 'egenmelding' (self-certification) mean when you are sick?",
+    "options": [
+      "You tell your employer you are sick without needing a doctor's note for the first few days.",
+      "You diagnose yourself, buy prescription medicine, and stay home without pay.",
+      "You must stay home and work from your computer."
+    ],
+    "correctIndex": 0,
+    "explanation": "A self-certification allows you to stay home sick with pay for up to 3 days (or more in an IA company) by simply notifying your employer, without visiting a doctor.",
+    "category": "Health"
+  },
+  {
+    "id": 1025,
+    "question": "What is the primary purpose of BSU (Boligsparing for ungdom)?",
+    "options": [
+      "It is a mandatory state tax for people under 34.",
+      "It is a savings account that gives young people high interest and tax deductions to help them buy a home.",
+      "It is a state loan given directly to young students."
+    ],
+    "correctIndex": 1,
+    "explanation": "BSU is the government's best savings scheme for young people under 34, designed to help them build the required equity (egenkapital) to enter the housing market.",
+    "category": "Economy"
+  },
+  {
+    "id": 1026,
+    "question": "What is the minimum legal supplement (tillegg) you must be paid when working overtime according to the Working Environment Act?",
+    "options": [
+      "25%",
+      "40%",
+      "50%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The law states that overtime must be compensated with an addition of at least 40% of your normal hourly wage, though many trade union agreements (tariffavtaler) offer 50% or more.",
+    "category": "Working life"
+  },
+  {
+    "id": 1027,
+    "question": "When is the general ban on lighting fires (generelt bålforbud) in forests and fields in Norway?",
+    "options": [
+      "From 1 May to 1 October",
+      "From 15 April to 15 September",
+      "It is always illegal to light a fire in the forest."
+    ],
+    "correctIndex": 1,
+    "explanation": "To prevent forest fires during the dry season, it is strictly forbidden to light fires in or near forests and other uncultivated land from April 15 to September 15.",
+    "category": "Nature and environment"
+  },
+  {
+    "id": 1028,
+    "question": "How many times can you change your General Practitioner (Fastlege) per calendar year without a special reason?",
+    "options": [
+      "1 time",
+      "2 times",
+      "Unlimited times"
+    ],
+    "correctIndex": 1,
+    "explanation": "You have the right to change your GP up to two times per calendar year. You can do this easily online at helsenorge.no.",
+    "category": "Health"
+  },
+  {
+    "id": 1029,
+    "question": "Do you have the right to a free interpreter (tolk) at the doctor or hospital if you do not understand Norwegian well enough?",
+    "options": [
+      "Yes, the healthcare service is responsible for booking and paying for a qualified interpreter.",
+      "No, you must bring a family member to translate for you.",
+      "Yes, but you have to pay the interpreter yourself."
+    ],
+    "correctIndex": 0,
+    "explanation": "To ensure correct medical treatment and patient safety, healthcare professionals are obligated to order a professional interpreter if there is a language barrier. It is free for the patient.",
+    "category": "Health"
+  },
+  {
+    "id": 1030,
+    "question": "Who has the right to vote in local elections (municipal and county council elections) in Norway?",
+    "options": [
+      "Only Norwegian citizens.",
+      "Norwegian citizens and foreign citizens who have lived continuously in Norway for at least 3 years.",
+      "Anyone who works and pays taxes in Norway, regardless of how long they have lived there."
+    ],
+    "correctIndex": 1,
+    "explanation": "While only Norwegian citizens can vote in parliamentary elections, local democracy is open to foreigners who have been registered as living in Norway for at least three consecutive years.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1031,
+    "question": "What is a 'skattemelding' (tax return)?",
+    "options": [
+      "A bill for the municipality's water and garbage services.",
+      "A pre-filled document from the Tax Administration showing your income, deductions, and wealth, which you must check every spring.",
+      "A fine you get if you work under the table."
+    ],
+    "correctIndex": 1,
+    "explanation": "Every March/April, you receive a tax return. It is your personal responsibility to check that the numbers are correct and add any missing deductions before the deadline.",
+    "category": "Economy"
+  },
+  {
+    "id": 1032,
+    "question": "What is SFO or AKS?",
+    "options": [
+      "A special school for children with learning difficulties.",
+      "A voluntary, paid care program for children in grades 1-4 before and after regular school hours.",
+      "A mandatory evening school for teenagers."
+    ],
+    "correctIndex": 1,
+    "explanation": "SFO (Skolefritidsordning) or AKS (Aktivitetsskolen) is an offer where young children can play and do activities while their parents are at work.",
+    "category": "Education"
+  },
+  {
+    "id": 1033,
+    "question": "How much does it cost to use the Youth Health Centre (Helsestasjon for ungdom) for advice on contraception or mental health?",
+    "options": [
+      "It is completely free.",
+      "You pay a standard deductible (egenandel) of 200 NOK.",
+      "It depends on the parents' income."
+    ],
+    "correctIndex": 0,
+    "explanation": "The Youth Health Centre is a free drop-in service for young people (usually up to 20 or 24 years old) offering confidential help with physical, mental, and sexual health.",
+    "category": "Health"
+  },
+  {
+    "id": 1034,
+    "question": "If your employment contract does not state a specific notice period (oppsigelsestid), what is the standard legal notice period after the trial period?",
+    "options": [
+      "14 days",
+      "1 month",
+      "3 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "According to the Working Environment Act, if nothing else is agreed upon in writing, the mutual notice period is one month.",
+    "category": "Working life"
+  },
+  {
+    "id": 1035,
+    "question": "If you resign from your job on March 15th with a 1-month notice period (oppsigelsestid), when does the notice period officially begin?",
+    "options": [
+      "March 15th (the same day).",
+      "March 16th (the day after).",
+      "April 1st (the first day of the following month)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Unless otherwise specified in a collective agreement, the notice period always starts running from the first day of the month following the resignation.",
+    "category": "Working life"
+  },
+  {
+    "id": 1036,
+    "question": "What is the absolute minimum age to get married in Norway?",
+    "options": [
+      "16 years, if the parents give permission.",
+      "18 years, with no exceptions.",
+      "20 years."
+    ],
+    "correctIndex": 1,
+    "explanation": "To protect minors from forced marriage, the law is strict: You must be at least 18 years old to marry in Norway, and the County Governor can no longer grant exceptions for 16- or 17-year-olds.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1037,
+    "question": "What is the main task of the Equality and Anti-Discrimination Ombud (LDO)?",
+    "options": [
+      "To investigate corruption in large companies.",
+      "To fight discrimination and promote equality based on gender, ethnicity, religion, and disability.",
+      "To ensure that men and women get exactly the same salary in private companies."
+    ],
+    "correctIndex": 1,
+    "explanation": "LDO offers free legal guidance to individuals who believe they have been discriminated against or unfairly treated.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1038,
+    "question": "What historically significant event happened in Norway in the year 1814?",
+    "options": [
+      "The Viking Age ended.",
+      "Norway got its own Constitution (Grunnloven) at Eidsvoll.",
+      "Norway discovered oil in the North Sea."
+    ],
+    "correctIndex": 1,
+    "explanation": "On May 17, 1814, the Constitution was signed at Eidsvoll, which is why May 17 is celebrated as Norway's national day.",
+    "category": "History"
+  },
+  {
+    "id": 1039,
+    "question": "What happened in the year 1905?",
+    "options": [
+      "Norway was occupied by Germany.",
+      "The union with Sweden was peacefully dissolved, and Norway became fully independent.",
+      "The Black Death hit Norway."
+    ],
+    "correctIndex": 1,
+    "explanation": "In 1905, the political union with Sweden ended after almost 100 years, and Norway chose a Danish prince to become the new King of an independent Norway (King Haakon VII).",
+    "category": "History"
+  },
+  {
+    "id": 1040,
+    "question": "Who is 'Sysselmesteren'?",
+    "options": [
+      "The mayor of Oslo.",
+      "The Norwegian government's supreme representative on the Svalbard archipelago.",
+      "The head of the Norwegian military."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sysselmesteren (the Governor of Svalbard) holds both the authority of a police chief and a county governor on the Arctic islands of Svalbard.",
+    "category": "Geography and population"
+  },
+  {
+    "id": 1041,
+    "question": "What is 'feriepenger' (holiday pay)?",
+    "options": [
+      "A bonus you get from the state if you travel inside Norway.",
+      "Money you earned the previous year that replaces your regular salary while you take your mandatory vacation.",
+      "A tax you have to pay when buying plane tickets."
+    ],
+    "correctIndex": 1,
+    "explanation": "In Norway, you do not get regular salary when you are on vacation. Instead, you get 'holiday pay' which is a percentage of what you earned the year before.",
+    "category": "Working life"
+  },
+  {
+    "id": 1042,
+    "question": "What is a major personal consequence of working 'under the table' (svart arbeid)?",
+    "options": [
+      "You have to pay double tax the next year.",
+      "You lose the right to holiday pay, sick pay, and pension earnings.",
+      "You lose your Norwegian citizenship."
+    ],
+    "correctIndex": 1,
+    "explanation": "By not paying taxes, you completely fall outside the Norwegian welfare safety net. If you get sick or injured, you will not receive sick pay from NAV.",
+    "category": "Economy"
+  },
+  {
+    "id": 1043,
+    "question": "Until what age do parents have 'foreldreansvar' (parental responsibility) and a legal duty to financially support their children?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parents have a duty to care for and financially support their children until the child reaches the age of majority (18 years).",
+    "category": "Family and children"
+  },
+  {
+    "id": 1044,
+    "question": "What is the age limit for buying spirits (brennevin / alcohol over 22%) at Vinmonopolet?",
+    "options": [
+      "18 years",
+      "20 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "While you can buy beer and wine at 18, there is a strict 20-year age limit for buying strong alcohol (spirits) in Norway.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1045,
+    "question": "What does it mean that Norway has a 'Parliamentary' (parlamentarisk) system?",
+    "options": [
+      "That the King decides who sits in the government.",
+      "That the government must have the support of the majority in the Parliament (Stortinget) to govern.",
+      "That the Prime Minister can pass laws without asking anyone."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parliamentarianism was introduced in 1884 and means the executive power (the government) is entirely dependent on the confidence of the legislative power (the Storting).",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1046,
+    "question": "Until what week of pregnancy does a woman have the right to self-determined abortion in Norway under the new legal framework?",
+    "options": [
+      "Week 12",
+      "Week 18",
+      "Week 22"
+    ],
+    "correctIndex": 1,
+    "explanation": "To modernize women's healthcare rights, the limit for self-determined abortion was historically changed from 12 weeks to 18 weeks.",
+    "category": "Health"
+  },
+  {
+    "id": 1047,
+    "question": "Does Norway have a statutory general minimum wage (minstelønn) that applies to all workers by law?",
+    "options": [
+      "Yes, the state sets a minimum wage for all jobs every year.",
+      "No, there is no general minimum wage; wages are negotiated between trade unions and employers.",
+      "Yes, but only for immigrants."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway does not have a general minimum wage set by law. Minimum wages are instead determined by collective agreements (tariffavtaler) in specific industries.",
+    "category": "Working life"
+  },
+  {
+    "id": 1048,
+    "question": "How long must you have worked for an employer before you can use self-certification (egenmelding) for sickness?",
+    "options": [
+      "From the first day.",
+      "2 months.",
+      "6 months."
+    ],
+    "correctIndex": 1,
+    "explanation": "You must have been employed for at least two months before you have the right to use self-certification. Before that, you need a doctor's note (sykemelding).",
+    "category": "Working life"
+  },
+  {
+    "id": 1049,
+    "question": "Which of these services is the municipality (kommunen) responsible for?",
+    "options": [
+      "Primary schools (barneskoler) and kindergartens.",
+      "Universities and higher education.",
+      "Hospitals and specialist healthcare."
+    ],
+    "correctIndex": 0,
+    "explanation": "The municipality is responsible for local services close to the citizens, such as primary schools, kindergartens, and elderly care. Hospitals are run by the state.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1050,
+    "question": "What happens to a portion of your student loan from Lånekassen if you pass your exams and complete your degree?",
+    "options": [
+      "Nothing, you still have to pay it all back.",
+      "Up to 40% of the basic support is converted into a scholarship (stipend) that you do not have to repay.",
+      "The entire loan is forgiven."
+    ],
+    "correctIndex": 1,
+    "explanation": "To encourage students to complete their studies, Lånekassen converts up to 40% of the loan into a non-repayable grant when you pass your exams.",
+    "category": "Education"
+  },
+  {
+    "id": 1051,
+    "question": "When you buy a freehold property (selveierbolig) in Norway, you must pay a document fee (dokumentavgift) to the state. How much is it?",
+    "options": [
+      "1.0% of the purchase price.",
+      "2.5% of the purchase price.",
+      "A fixed fee of 5,000 NOK."
+    ],
+    "correctIndex": 1,
+    "explanation": "When purchasing freehold real estate, a state document fee of 2.5% of the property's sales value is required to register the change of ownership.",
+    "category": "Economy"
+  },
+  {
+    "id": 1052,
+    "question": "You are the first to arrive at a serious traffic accident. What are you legally obliged to do?",
+    "options": [
+      "Call 113, secure the accident site, and provide first aid to the best of your ability.",
+      "Take pictures for documentation.",
+      "Nothing, you should wait for the police."
+    ],
+    "correctIndex": 0,
+    "explanation": "In Norway, everyone has a statutory duty to help (hjelpeplikt) in an emergency. You must call for help and perform life-saving first aid.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1053,
+    "question": "What was the 'Norwegianization policy' (fornorskningspolitikken) from the 1850s to the 1950s?",
+    "options": [
+      "A policy to translate English books into Norwegian.",
+      "A strict state policy to force the Sami and Kven people to assimilate into Norwegian culture and abandon their languages.",
+      "A campaign to get tourists to visit Norway."
+    ],
+    "correctIndex": 1,
+    "explanation": "This was a dark chapter in Norwegian history where indigenous Sami and Kven minorities were forced to abandon their culture, language, and identity in schools and society.",
+    "category": "History"
+  },
+  {
+    "id": 1054,
+    "question": "How much do you pay in deductible (egenandel) when a child under 16 goes to the General Practitioner (fastlege)?",
+    "options": [
+      "It is completely free.",
+      "150 NOK.",
+      "Full price."
+    ],
+    "correctIndex": 0,
+    "explanation": "To ensure that all children have access to healthcare regardless of their parents' finances, doctor visits are completely free for children under 16.",
+    "category": "Health"
+  },
+  {
+    "id": 1055,
+    "question": "According to the Working Environment Act, what is the maximum number of normal working hours per week?",
+    "options": [
+      "37.5 hours",
+      "40 hours",
+      "48 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "The legal maximum is 40 hours per week. However, most collective agreements (tariffavtaler) give employees the right to a 37.5-hour workweek.",
+    "category": "Working life"
+  },
+  {
+    "id": 1056,
+    "question": "What is 'borgerlig konfirmasjon' (Humanist confirmation)?",
+    "options": [
+      "A political youth camp.",
+      "A coming-of-age ceremony and course in ethics and human rights, not based on any religion.",
+      "A mandatory exam at the end of lower secondary school."
+    ],
+    "correctIndex": 1,
+    "explanation": "Many teenagers in secular Norway choose a Humanist confirmation instead of a Christian one, to mark the transition from youth to adult.",
+    "category": "Kultur og tradisjoner"
+  },
+  {
+    "id": 1057,
+    "question": "Who leads the municipal council (kommunestyret)?",
+    "options": [
+      "The King.",
+      "The Prime Minister.",
+      "The Mayor (Ordføreren)."
+    ],
+    "correctIndex": 2,
+    "explanation": "The Mayor is the political leader of the municipality and chairs the meetings of the municipal council.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1058,
+    "question": "What is the minimum required tread depth for winter tires on a normal passenger car in Norway?",
+    "options": [
+      "1.6 millimeters",
+      "3 millimeters",
+      "5 millimeters"
+    ],
+    "correctIndex": 1,
+    "explanation": "During the winter season (from November 1st, or October 16th in Northern Norway), tires must have a minimum tread depth of 3 millimeters to ensure grip on snow and ice.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1059,
+    "question": "Where can you get free help and advice if you are in a conflict with a store over a faulty product?",
+    "options": [
+      "The Consumer Council (Forbrukerrådet).",
+      "The Police.",
+      "The Tax Administration (Skatteetaten)."
+    ],
+    "correctIndex": 0,
+    "explanation": "The Consumer Council is an independent interest organization that assists consumers with their rights and helps resolve disputes with businesses.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1060,
+    "question": "Who became King of Norway when the union with Sweden was dissolved in 1905?",
+    "options": [
+      "King Harald V",
+      "King Haakon VII",
+      "King Olav V"
+    ],
+    "correctIndex": 1,
+    "explanation": "Following a referendum, the Danish Prince Carl was chosen as the new King of an independent Norway, and he took the Norwegian name Haakon VII.",
+    "category": "History"
+  },
+  {
+    "id": 1061,
+    "question": "What is the normal notice period (oppsigelsestid) if you are dismissed or resign during your trial period (prøvetid)?",
+    "options": [
+      "14 days",
+      "1 month",
+      "3 months"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unless otherwise agreed in writing, the mutual notice period during the trial period is 14 days, starting from the day notice is given.",
+    "category": "Working life"
+  },
+  {
+    "id": 1062,
+    "question": "What are the 'Fjellvettreglene'?",
+    "options": [
+      "A set of safety rules and advice for hiking in the mountains.",
+      "The laws for building cabins in Norway.",
+      "Rules for picking cloudberries."
+    ],
+    "correctIndex": 0,
+    "explanation": "The Mountain Code (Fjellvettreglene) helps people stay safe in Norwegian nature. A famous rule is 'There is no shame in turning back' (Det er ingen skam å snu).",
+    "category": "Nature and environment"
+  },
+  {
+    "id": 1063,
+    "question": "Until what age of the child is the monthly child benefit (barnetrygd) paid to the parents?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Child benefit is a tax-free financial support paid by NAV to parents every month until the child reaches the age of 18.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1064,
+    "question": "Is it legal to post highly racist comments on social media under the protection of freedom of expression (ytringsfrihet)?",
+    "options": [
+      "Yes, freedom of expression has no limits.",
+      "No, hate speech and severe racist harassment are criminal offenses.",
+      "Yes, as long as you use a fake name."
+    ],
+    "correctIndex": 1,
+    "explanation": "Freedom of expression is strong, but it is not absolute. Hate speech directed at someone's skin color, religion, or sexual orientation is punishable by prison or fines.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1065,
+    "question": "Can a kindergarten charge whatever price they want for a child's spot?",
+    "options": [
+      "Yes, it is a free market.",
+      "No, the government sets a strict maximum price (makspris) that kindergartens cannot exceed.",
+      "Yes, but only private kindergartens."
+    ],
+    "correctIndex": 1,
+    "explanation": "To ensure that all parents can afford childcare, the Parliament determines a national maximum price per month for both public and private kindergartens.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1066,
+    "question": "Is Norway a member of the European Union (EU)?",
+    "options": [
+      "Yes, Norway has been a member since 1994.",
+      "No, but Norway is part of the EEA (EØS) agreement, which gives access to the EU's internal market.",
+      "No, Norway has no agreements with the EU."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Norwegian people have voted 'no' to EU membership in two referendums (1972 and 1994). Instead, Norway participates in the European Economic Area (EEA/EØS).",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1067,
+    "question": "Is it legal to buy sexual services in Norway?",
+    "options": [
+      "Yes, prostitution is completely legalized and regulated.",
+      "No, buying sexual services is strictly illegal and punishable by heavy fines or prison.",
+      "Only in designated areas in large cities."
+    ],
+    "correctIndex": 1,
+    "explanation": "Under the Norwegian Sex Purchase Act (Sexkjøpsloven), it is a criminal offense to buy sexual services. This law aims to protect vulnerable individuals and combat human trafficking.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1068,
+    "question": "What is the 'budgetary rule' (handlingsregelen) regarding the Norwegian Oil Fund?",
+    "options": [
+      "A rule stating that all oil money must be spent immediately on hospitals.",
+      "A political rule stating that the government should not spend more than roughly 3% of the Oil Fund's value each year.",
+      "A rule that forbids selling oil to other countries."
+    ],
+    "correctIndex": 1,
+    "explanation": "The budgetary rule ensures that Norway saves the vast majority of its oil wealth for future generations, only spending the expected annual return (approx. 3%) on the national budget.",
+    "category": "Economy"
+  },
+  {
+    "id": 1069,
+    "question": "What is the election threshold (sperregrensen) for parliamentary elections in Norway?",
+    "options": [
+      "2%",
+      "4%",
+      "10%"
+    ],
+    "correctIndex": 1,
+    "explanation": "A political party must receive at least 4% of the national vote to be eligible for leveling seats (utjevningsmandater) in the Parliament, which ensures a proportional distribution of power.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1070,
+    "question": "What is 'arbeidsavklaringspenger' (AAP)?",
+    "options": [
+      "A bonus paid by the employer at the end of the year.",
+      "A financial support from NAV for people who, due to illness or injury, need help to get back into work.",
+      "A tax deduction for union members."
+    ],
+    "correctIndex": 1,
+    "explanation": "AAP is a benefit meant to secure your income during periods where you are receiving medical treatment or participating in employment schemes to improve your work capacity.",
+    "category": "Health"
+  },
+  {
+    "id": 1071,
+    "question": "What are the rules for owning a firearm in Norway?",
+    "options": [
+      "Anyone over 18 can buy a gun without a permit.",
+      "You must have a valid police permit, a legitimate reason (like hunting or sports shooting), and store the weapon in an approved safe.",
+      "Private ownership of firearms is completely illegal."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway has strict gun control laws. You must pass background checks, prove a need for the weapon, and demonstrate secure storage to get a firearms license (våpenkort).",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1072,
+    "question": "How many days of statutory vacation does an employee have the right to take each year according to the Holiday Act?",
+    "options": [
+      "14 working days",
+      "21 working days",
+      "25 working days (4 weeks and 1 day)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Holiday Act gives everyone the right to 25 working days of vacation (Saturdays count as working days). Note that many collective agreements provide a full 5 weeks.",
+    "category": "Working life"
+  },
+  {
+    "id": 1073,
+    "question": "What is 'kontantstøtte' (cash-for-care benefit)?",
+    "options": [
+      "Money you get if you pay in cash instead of with a card.",
+      "A financial benefit for parents of children between 1 and 2 years old who do not use a full-time public kindergarten.",
+      "Support given to elderly people to pay for groceries."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kontantstøtte is designed to give parents the financial flexibility to stay home with their toddlers instead of sending them to kindergarten immediately.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1074,
+    "question": "If you buy an apartment in a housing cooperative (borettslag), what does 'fellesgjeld' mean?",
+    "options": [
+      "A personal debt you share with your spouse.",
+      "The cooperative's shared debt (e.g., for roof repairs), which you must pay a portion of every month through common expenses.",
+      "Money the bank owes you."
+    ],
+    "correctIndex": 1,
+    "explanation": "In a borettslag, the total price of an apartment is the asking price plus your share of the common debt (fellesgjeld). You service this debt through monthly shared costs (felleskostnader).",
+    "category": "Economy"
+  },
+  {
+    "id": 1075,
+    "question": "What is the main purpose of the Working Environment Act (Arbeidsmiljøloven)?",
+    "options": [
+      "To ensure that employers maximize their profits.",
+      "To secure a working environment that provides full safety against physical and mental harm.",
+      "To guarantee everyone a job."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Working Environment Act is the foundational law for Norwegian working life, heavily focused on protecting the employee's physical and psychosocial health.",
+    "category": "Working life"
+  },
+  {
+    "id": 1076,
+    "question": "What does it mean to participate in a 'dugnad' in a housing cooperative?",
+    "options": [
+      "You pay extra taxes to the municipality.",
+      "You participate in unpaid, joint voluntary work alongside your neighbors, like raking leaves or painting.",
+      "You rent out your apartment to tourists."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dugnad is a core Norwegian cultural concept where a community comes together to do voluntary, unpaid work for the common good.",
+    "category": "Culture and traditions"
+  },
+  {
+    "id": 1077,
+    "question": "Do you have to pay for the childhood vaccination program at the local health station?",
+    "options": [
+      "Yes, vaccines are very expensive.",
+      "No, all vaccines in the Childhood Immunisation Programme are free of charge.",
+      "You pay a 50% deductible."
+    ],
+    "correctIndex": 1,
+    "explanation": "To ensure public health and herd immunity, the Norwegian state provides all recommended childhood vaccines entirely free of charge at the health station.",
+    "category": "Health"
+  },
+  {
+    "id": 1078,
+    "question": "Where can you take your case for free if you experience illegal discrimination at work or in society?",
+    "options": [
+      "The Supreme Court.",
+      "The Anti-Discrimination Tribunal (Diskrimineringsnemnda).",
+      "The Norwegian Labour and Welfare Administration (NAV)."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Anti-Discrimination Tribunal is a free, low-threshold alternative to the courts where you can file a complaint if you are discriminated against based on gender, ethnicity, disability, etc.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1079,
+    "question": "What is a 'fagbrev' (trade certificate)?",
+    "options": [
+      "A receipt from a trade union.",
+      "A formal certificate proving you have completed vocational training and an apprenticeship in a specific trade (e.g., carpenter, electrician).",
+      "A letter of recommendation from an employer."
+    ],
+    "correctIndex": 1,
+    "explanation": "A fagbrev is highly valued in the Norwegian labor market. It proves practical competence and often guarantees a higher starting salary in your trade.",
+    "category": "Education"
+  },
+  {
+    "id": 1080,
+    "question": "Do employees in Norway have the right to strike (streike)?",
+    "options": [
+      "No, striking is illegal and can lead to prison.",
+      "Yes, as part of legal collective bargaining, trade unions have a lawful right to strike.",
+      "Yes, but only in the public sector."
+    ],
+    "correctIndex": 1,
+    "explanation": "The right to strike is a fundamental part of the tripartite cooperation and the Norwegian labor model, used when negotiations for a new collective agreement break down.",
+    "category": "Working life"
+  },
+  {
+    "id": 1081,
+    "question": "Who is responsible for ensuring that a car is safe to drive, for example by scraping ice off the windows?",
+    "options": [
+      "The Norwegian Public Roads Administration (Statens vegvesen).",
+      "The driver of the vehicle.",
+      "The owner of the vehicle, even if someone else is driving."
+    ],
+    "correctIndex": 1,
+    "explanation": "The strict legal responsibility always falls on the driver. If you drive with frosted windows and poor visibility, the police will confiscate your driver's license on the spot.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1082,
+    "question": "Can the mother take the entire parental leave (foreldrepermisjon) period alone?",
+    "options": [
+      "Yes, she can choose to do so.",
+      "No, a specific portion of the leave (fedrekvoten) is reserved exclusively for the father/co-parent.",
+      "Only if the father agrees."
+    ],
+    "correctIndex": 1,
+    "explanation": "To promote gender equality in child-rearing and the workplace, the Norwegian state reserves several weeks (currently 15 weeks) of the parental leave specifically for the father. If he does not use it, the family loses those weeks.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1083,
+    "question": "Can adults who want to take higher education get financial support from Lånekassen?",
+    "options": [
+      "No, Lånekassen is only for teenagers.",
+      "Yes, Lånekassen provides loans and grants to adults for higher education and approved vocational training.",
+      "Only if they have children."
+    ],
+    "correctIndex": 1,
+    "explanation": "Lifelong learning is encouraged in Norway. Adults can apply to Lånekassen for financial support to pursue higher education, university degrees, or certain types of adult education.",
+    "category": "Education"
+  },
+  {
+    "id": 1084,
+    "question": "What is 'formuesskatt' (wealth tax) in Norway?",
+    "options": [
+      "A tax you pay on your monthly salary.",
+      "An annual tax you pay on your total net wealth (property, bank deposits, shares) if it exceeds a certain limit.",
+      "A tax you pay when you inherit money."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway is one of the few countries that still has a wealth tax. You pay a percentage in tax on your net assets (wealth minus debt) that exceed the state's deduction limit.",
+    "category": "Economy"
+  },
+  {
+    "id": 1085,
+    "question": "In which municipality is the Sami Parliament (Sametinget) located?",
+    "options": [
+      "Tromsø",
+      "Karasjok",
+      "Oslo"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sami Parliament, the elected representative body for the Sami people in Norway, has its main building and administration in Karasjok, Finnmark.",
+    "category": "Geography and population"
+  },
+  {
+    "id": 1066,
+    "question": "Er Norge medlem av Den europeiske union (EU)?",
+    "options": [
+      "Ja, Norge har vært medlem siden 1994.",
+      "Nei, men Norge er del av EØS-avtalen, som gir tilgang til EUs indre marked.",
+      "Nei, Norge har ingen avtaler med EU."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det norske folket har stemt 'nei' til EU-medlemskap i to folkeavstemninger (1972 og 1994). I stedet deltar Norge i Det europeiske økonomiske samarbeidsområdet (EØS).",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1067,
+    "question": "Er det lov å kjøpe seksuelle tjenester i Norge?",
+    "options": [
+      "Ja, prostitusjon er helt lovlig og regulert.",
+      "Nei, kjøp av seksuelle tjenester er strengt ulovlig og straffes med bøter eller fengsel.",
+      "Bare i egne soner i de store byene."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ifølge den norske sexkjøpsloven er det en kriminell handling å kjøpe seksuelle tjenester. Loven er ment å beskytte sårbare personer og bekjempe menneskehandel.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1068,
+    "question": "Hva går 'handlingsregelen' for Oljefondet ut på?",
+    "options": [
+      "En regel som sier at alle oljepenger skal brukes umiddelbart på sykehus.",
+      "En politisk regel om at regjeringen normalt ikke skal bruke mer enn ca. 3 % av Oljefondets verdi hvert år.",
+      "En regel som forbyr salg av olje til andre land."
+    ],
+    "correctIndex": 1,
+    "explanation": "Handlingsregelen sikrer at Norge sparer mesteparten av oljeformuen for fremtidige generasjoner, ved å kun bruke den forventede årlige avkastningen (ca. 3 %) på statsbudsjettet.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1069,
+    "question": "Hva er sperregrensen ved stortingsvalg i Norge?",
+    "options": [
+      "2 %",
+      "4 %",
+      "10 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Et politisk parti må få minst 4 % av stemmene på landsbasis for å kunne få utjevningsmandater på Stortinget. Dette sikrer en mer proporsjonal maktfordeling.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1070,
+    "question": "Hva er 'arbeidsavklaringspenger' (AAP)?",
+    "options": [
+      "En bonus arbeidsgiver betaler ut ved årets slutt.",
+      "Økonomisk støtte fra NAV for personer som på grunn av sykdom eller skade trenger hjelp til å komme i arbeid.",
+      "Et skattefradrag for fagforeningsmedlemmer."
+    ],
+    "correctIndex": 1,
+    "explanation": "AAP skal sikre deg inntekt i perioder der du får medisinsk behandling eller deltar på arbeidsrettede tiltak for å forbedre arbeidsevnen din.",
+    "category": "Helse"
+  },
+  {
+    "id": 1071,
+    "question": "Hva er reglene for å eie et skytevåpen i Norge?",
+    "options": [
+      "Alle over 18 år kan kjøpe våpen uten tillatelse.",
+      "Du må ha politiets tillatelse, et legitimt behov (som jakt eller sportsskyting), og oppbevare våpenet i godkjent våpenskap.",
+      "Privat eierskap av skytevåpen er helt ulovlig."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge har strenge våpenlover. Du må ha ren vandel, bevise et behov for våpenet, og dokumentere sikker oppbevaring for å få innvilget våpenkort.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1072,
+    "question": "Hvor mange dager lovfestet ferie har en arbeidstaker rett til å ta hvert år ifølge ferieloven?",
+    "options": [
+      "14 virkedager",
+      "21 virkedager",
+      "25 virkedager (4 uker pluss 1 dag)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ferieloven gir alle rett på 25 virkedager ferie (lørdager teller som virkedag). Vær oppmerksom på at mange tariffavtaler gir rett til fulle 5 uker.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1073,
+    "question": "Hva er 'kontantstøtte'?",
+    "options": [
+      "Penger du får hvis du betaler med kontanter i stedet for kort.",
+      "En økonomisk støtte til foreldre med barn mellom 1 og 2 år som ikke benytter fulltids offentlig barnehageplass.",
+      "Støtte til eldre for å betale dagligvarer."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kontantstøtten er laget for å gi foreldre økonomisk frihet til å være hjemme med småbarn i stedet for å sende dem i barnehage umiddelbart.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1074,
+    "question": "Hvis du kjøper en leilighet i et borettslag, hva betyr 'fellesgjeld'?",
+    "options": [
+      "En personlig gjeld du deler med ektefellen din.",
+      "Borettslagets felles lån (f.eks. for oppussing av tak), som du betaler din del av månedlig gjennom felleskostnadene.",
+      "Penger banken skylder deg."
+    ],
+    "correctIndex": 1,
+    "explanation": "I et borettslag er totalprisen på leiligheten selve kjøpesummen (innskuddet) pluss din andel av fellesgjelden. Denne gjelden betjenes via månedlige felleskostnader.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1075,
+    "question": "Hva er hovedformålet med arbeidsmiljøloven?",
+    "options": [
+      "Å sikre at arbeidsgivere tjener mest mulig penger.",
+      "Å sikre et arbeidsmiljø som gir full trygghet mot fysiske og psykiske skadevirkninger.",
+      "Å garantere alle en jobb."
+    ],
+    "correctIndex": 1,
+    "explanation": "Arbeidsmiljøloven er grunnloven for norsk arbeidsliv, og fokuserer sterkt på å beskytte arbeidstakerens fysiske og psykososiale helse.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1076,
+    "question": "Hva vil det si å delta på en 'dugnad' i et borettslag?",
+    "options": [
+      "Du betaler ekstra skatt til kommunen.",
+      "Du deltar i ulønnet, felles frivillig arbeid sammen med naboene, som å rake løv eller male.",
+      "Du leier ut leiligheten din til turister."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dugnad er et sentralt norsk kulturfenomen hvor et fellesskap jobber sammen frivillig og ulønnet for å gjøre noe til felles beste.",
+    "category": "Kultur og tradisjoner"
+  },
+  {
+    "id": 1077,
+    "question": "Må du betale for barnevaksinasjonsprogrammet på den lokale helsestasjonen?",
+    "options": [
+      "Ja, vaksiner er svært dyre.",
+      "Nei, alle vaksinene i barnevaksinasjonsprogrammet er helt gratis.",
+      "Du betaler en egenandel på 50 %."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å sikre folkehelsen og oppnå flokkimmunitet, tilbyr den norske staten alle anbefalte barnevaksiner helt gratis på helsestasjonen.",
+    "category": "Helse"
+  },
+  {
+    "id": 1078,
+    "question": "Hvor kan du ta saken din gratis hvis du opplever ulovlig diskriminering på jobb eller i samfunnet?",
+    "options": [
+      "Høyesterett.",
+      "Diskrimineringsnemnda.",
+      "NAV."
+    ],
+    "correctIndex": 1,
+    "explanation": "Diskrimineringsnemnda er et gratis, lavterskel alternativ til domstolene der du kan klage hvis du blir diskriminert på grunn av kjønn, etnisitet, nedsatt funksjonsevne etc.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1079,
+    "question": "Hva er et 'fagbrev'?",
+    "options": [
+      "En kvittering fra en fagforening.",
+      "Et formelt bevis på at du har fullført yrkesutdanning og læretid i et bestemt yrke (f.eks. snekker, elektriker).",
+      "Et anbefalingsbrev fra arbeidsgiver."
+    ],
+    "correctIndex": 1,
+    "explanation": "Et fagbrev henger høyt i det norske arbeidsmarkedet. Det beviser praktisk kompetanse og garanterer ofte en høyere startlønn i faget ditt.",
+    "category": "Utdanning"
+  },
+  {
+    "id": 1080,
+    "question": "Har arbeidstakere i Norge rett til å streike?",
+    "options": [
+      "Nei, streik er ulovlig og kan føre til fengsel.",
+      "Ja, som en del av lovlig tariffoppgjør har fagforeninger en lovfestet rett til å streike.",
+      "Ja, men bare i offentlig sektor."
+    ],
+    "correctIndex": 1,
+    "explanation": "Streikeretten er en grunnleggende del av trepartssamarbeidet og den norske arbeidslivsmodellen, og brukes når forhandlinger om ny tariffavtale bryter sammen.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1081,
+    "question": "Hvem har ansvaret for at en bil er forsvarlig å kjøre, for eksempel ved å skrape is av rutene?",
+    "options": [
+      "Statens vegvesen.",
+      "Føreren av kjøretøyet.",
+      "Eieren av bilen, selv om noen andre kjører."
+    ],
+    "correctIndex": 1,
+    "explanation": "Det strenge juridiske ansvaret faller alltid på føreren. Kjører du med isete ruter og dårlig sikt, vil politiet inndra førerkortet ditt på stedet.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1082,
+    "question": "Kan moren ta ut hele foreldrepermisjonen alene?",
+    "options": [
+      "Ja, hun kan velge å gjøre det.",
+      "Nei, en bestemt andel av permisjonen (fedrekvoten) er forbeholdt far/medmor.",
+      "Bare hvis faren er enig."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å fremme likestilling i hjemmet og i arbeidslivet, forbeholder staten flere uker (for tiden 15 uker) av foreldrepermisjonen spesifikt til far. Hvis han ikke bruker den, mister familien disse ukene.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1083,
+    "question": "Kan voksne som vil ta høyere utdanning få støtte fra Lånekassen?",
+    "options": [
+      "Nei, Lånekassen er kun for tenåringer.",
+      "Ja, Lånekassen gir lån og stipend til voksne for høyere utdanning og godkjent yrkesutdanning.",
+      "Bare hvis de har barn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Livslang læring oppmuntres i Norge. Voksne kan søke Lånekassen om økonomisk støtte for å ta høyere utdanning, universitetsgrader eller visse typer voksenopplæring.",
+    "category": "Utdanning"
+  },
+  {
+    "id": 1084,
+    "question": "Hva er 'formuesskatt' i Norge?",
+    "options": [
+      "En skatt du betaler på din månedlige lønn.",
+      "En årlig skatt du betaler på din totale nettoformue (eiendom, bankinnskudd, aksjer) hvis den overstiger en viss grense.",
+      "En skatt du betaler når du arver penger."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge er et av få land som fortsatt har formuesskatt. Du betaler en prosentandel i skatt på dine netto eiendeler (formue minus gjeld) som overstiger statens bunnfradrag.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1085,
+    "question": "I hvilken kommune ligger Sametinget?",
+    "options": [
+      "Tromsø",
+      "Karasjok",
+      "Oslo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sametinget, det folkevalgte representantorganet for samer i Norge, har sin hovedbygning og administrasjon i Karasjok i Finnmark.",
+    "category": "Geografi og befolkning"
+  },
+  {
+    "id": 1086,
+    "question": "What is 'Folketrygden' (The National Insurance Scheme)?",
+    "options": [
+      "A private life insurance you must buy from a bank.",
+      "The public welfare system that ensures income during illness, pregnancy, unemployment, and old age.",
+      "A special tax only for immigrants."
+    ],
+    "correctIndex": 1,
+    "explanation": "Folketrygden is the cornerstone of the Norwegian welfare state. Everyone who lives or works legally in Norway is generally a member and has the right to benefits like sick pay and pensions.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1087,
+    "question": "What is the main purpose of 'Barnevernet' (The Child Welfare Service)?",
+    "options": [
+      "To ensure that children get the best possible grades in school.",
+      "To provide help and support to children and families, and protect children who are subject to neglect or abuse.",
+      "To punish parents who do not have high incomes."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnevernet's primary role is to act in the best interest of the child. Most of their work consists of providing voluntary support measures in the home, not taking children away.",
+    "category": "Family and children"
+  },
+  {
+    "id": 1088,
+    "question": "According to the Working Environment Act, what is the maximum length of a probationary period (prøvetid) when starting a new job?",
+    "options": [
+      "3 months",
+      "6 months",
+      "12 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "The maximum legal probationary period is 6 months. During this time, both the employer and the employee have a shorter notice period (usually 14 days) if the job is not a good fit.",
+    "category": "Working life"
+  },
+  {
+    "id": 1089,
+    "question": "When should you call the medical out-of-hours service (Legevakten) on 116 117 instead of the emergency number 113?",
+    "options": [
+      "When you need a new prescription for your regular allergy medicine.",
+      "When you need medical help that cannot wait until your GP (fastlege) opens, but it is not acutely life-threatening.",
+      "When someone has stopped breathing or has severe chest pain."
+    ],
+    "correctIndex": 1,
+    "explanation": "113 is only for acute, life-threatening emergencies. The Legevakt (116 117) is for urgent medical help when your regular doctor's office is closed.",
+    "category": "Health"
+  },
+  {
+    "id": 1090,
+    "question": "Does 'taushetsplikt' (duty of confidentiality) apply if the police ask a doctor about a patient's medical history?",
+    "options": [
+      "No, doctors must always answer the police.",
+      "Yes, doctors are bound by confidentiality and cannot share medical information with the police without the patient's consent or a specific court order.",
+      "Yes, but only if the patient is under 18."
+    ],
+    "correctIndex": 1,
+    "explanation": "The duty of confidentiality is extremely strict in Norway. Unless there is an immediate danger to life or a court order, healthcare workers cannot share your private medical data with the police.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1091,
+    "question": "What does 'kildesortering' mean?",
+    "options": [
+      "Sorting your laundry before washing.",
+      "Sorting waste into different categories (like plastic, paper, and food waste) so it can be recycled.",
+      "Sorting historical sources when writing an essay."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kildesortering (source sorting) is a mandatory environmental practice in Norwegian municipalities to reduce pollution and recycle valuable materials.",
+    "category": "Nature and environment"
+  },
+  {
+    "id": 1092,
+    "question": "How often are parliamentary elections (stortingsvalg) held in Norway?",
+    "options": [
+      "Every 2 years",
+      "Every 4 years",
+      "Every 6 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elections for the Storting (Parliament) take place every four years. Local elections (municipal and county) are also held every four years, staggered exactly in the middle of the parliamentary term.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1093,
+    "question": "What is the minimum age to vote in a parliamentary election in Norway?",
+    "options": [
+      "16 years by the end of the election year.",
+      "18 years by the end of the election year.",
+      "21 years on election day."
+    ],
+    "correctIndex": 1,
+    "explanation": "To vote in any political election in Norway, you must turn 18 by the end of the year the election is held.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1094,
+    "question": "Who is the formal head of state (statsoverhode) in Norway?",
+    "options": [
+      "The Prime Minister",
+      "The King",
+      "The President of the Parliament"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norway is a constitutional monarchy. The King is the formal head of state, but his duties are primarily ceremonial and representational; he holds no real political power.",
+    "category": "Democracy and politics"
+  },
+  {
+    "id": 1095,
+    "question": "What happens when you have paid the maximum limit for 'egenandel' (deductibles) at the doctor and pharmacy in a calendar year?",
+    "options": [
+      "You receive an exemption card (frikort) and do not pay deductibles for the rest of the year.",
+      "You must stop going to the doctor.",
+      "The municipality pays you a bonus."
+    ],
+    "correctIndex": 0,
+    "explanation": "The exemption card (frikort) system protects individuals from excessively high medical expenses. Once the annual ceiling is reached, most public health services become completely free.",
+    "category": "Health"
+  },
+  {
+    "id": 1096,
+    "question": "What was the Kalmar Union (Kalmarunionen)?",
+    "options": [
+      "A modern trade agreement between Nordic countries.",
+      "A historical union from 1397 that joined Norway, Sweden, and Denmark under one monarch.",
+      "A labor union for industrial workers."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Kalmar Union was formed to counter German trade dominance. It eventually led to Norway becoming a subordinate part of Denmark for over 400 years.",
+    "category": "History"
+  },
+  {
+    "id": 1097,
+    "question": "What does 'trepartssamarbeidet' (the tripartite cooperation) refer to in Norwegian working life?",
+    "options": [
+      "Cooperation between the police, the tax authorities, and the courts.",
+      "The formalized cooperation between employers' organizations, employees' trade unions, and the State.",
+      "A system where you have to work three different jobs."
+    ],
+    "correctIndex": 1,
+    "explanation": "This cooperation is the foundation of the 'Norwegian model'. The three parties negotiate to ensure economic stability, good working conditions, and fair wages.",
+    "category": "Working life"
+  },
+  {
+    "id": 1098,
+    "question": "Are you allowed to negotiate your salary when you are offered a job in Norway?",
+    "options": [
+      "No, the salary is strictly determined by the state.",
+      "Yes, it is common and legal to negotiate your salary before signing the employment contract.",
+      "Only if you are a member of a trade union."
+    ],
+    "correctIndex": 1,
+    "explanation": "While many jobs follow specific tariff agreements, you generally have the right to negotiate your personal salary based on your experience and qualifications before accepting a job offer.",
+    "category": "Working life"
+  },
+  {
+    "id": 1099,
+    "question": "What was the 'Black Death' (Svartedauden) that hit Norway in 1349?",
+    "options": [
+      "A massive financial crash.",
+      "A severe plague pandemic that killed over half of the Norwegian population.",
+      "A war against Sweden."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Black Death was a catastrophic bubonic plague that decimated the population, leaving Norway severely weakened economically and politically for centuries.",
+    "category": "History"
+  },
+  {
+    "id": 1100,
+    "question": "Are men and women legally entitled to equal pay for work of equal value in Norway?",
+    "options": [
+      "No, employers can decide freely.",
+      "Yes, the Equality and Anti-Discrimination Act demands equal pay for equal work regardless of gender.",
+      "Yes, but only in the public sector."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norwegian law explicitly forbids wage discrimination based on gender. Men and women performing work of equal value must receive the same pay.",
+    "category": "Working life"
+  },
+  {
+    "id": 1101,
+    "question": "What is the 'pant' system in Norway?",
+    "options": [
+      "A system for pawning expensive jewelry.",
+      "A deposit system where you get money back for returning empty plastic bottles and beverage cans to the store.",
+      "A tax you pay when buying a house."
+    ],
+    "correctIndex": 1,
+    "explanation": "To encourage recycling, you pay a small extra fee (pant) when buying bottled or canned drinks. You get this money back when you feed the empty containers into a reverse vending machine.",
+    "category": "Nature and environment"
+  },
+  {
+    "id": 1102,
+    "question": "Does Norway have an official state religion today?",
+    "options": [
+      "Yes, the Evangelical Lutheran faith is the state religion.",
+      "No, the state church system was formally abolished in 2012, making the state neutral in matters of religion.",
+      "Yes, Catholicism."
+    ],
+    "correctIndex": 1,
+    "explanation": "Although the Church of Norway remains the largest religious institution, it was separated from the state in 2012 to ensure a more secular and neutral government.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1103,
+    "question": "According to the Equality and Anti-Discrimination Act (Likestillings- og diskrimineringsloven), is it legal for a landlord to refuse to rent an apartment to someone because of their religion or ethnicity?",
+    "options": [
+      "Yes, the landlord owns the property and can decide.",
+      "No, it is strictly forbidden to discriminate based on religion, ethnicity, or sexual orientation in the housing market.",
+      "Only if they write it in the advertisement."
+    ],
+    "correctIndex": 1,
+    "explanation": "The law protects individuals from discrimination in all areas of society, including housing and employment.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1104,
+    "question": "Can the police search your home without a specific reason or a court order?",
+    "options": [
+      "Yes, the police have full access to all homes.",
+      "No, you have a constitutional right to privacy, and the police generally need a court order (ransakingsbeslutning) to search your home.",
+      "Only if you are a foreign citizen."
+    ],
+    "correctIndex": 1,
+    "explanation": "The right to privacy is protected by law. The police must have a very strong suspicion of a serious crime and usually approval from a judge or a prosecutor to enter your home.",
+    "category": "Society and laws"
+  },
+  {
+    "id": 1105,
+    "question": "What does 'samboerskap' (cohabitation) mean?",
+    "options": [
+      "Living in the same neighborhood.",
+      "Two people living together in a romantic relationship without being married.",
+      "People who work in the same office."
+    ],
+    "correctIndex": 1,
+    "explanation": "Samboerskap is a very common family structure in Norway. However, it is important to know that samboere (cohabitants) do not have the same automatic economic and legal rights as married couples.",
+    "category": "Family and children"
   }
 ]

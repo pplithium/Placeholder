@@ -6849,5 +6849,965 @@
     "correctIndex": 2,
     "explanation": "Integrerings- og mangfoldsdirektoratet (IMDi) skal bidra til at personer som flytter til Norge blir integrert. Det betyr at innvandrere får kunnskap om Norge og norsk kultur, får et sted å bo, får kunnskap om rettigheter og plikter, blir i stand til å delta i samfunnslivet, og mye mer.",
     "category": "Samfunn og lover"
+  },
+  {
+    "id": 1006,
+    "question": "Hva vil det si å 'varsle' på en norsk arbeidsplass?",
+    "options": [
+      "Å blåse i en fløyte når man tar pause.",
+      "Å si ifra til ledelsen eller myndighetene om ulovlige eller farlige kritikkverdige forhold på arbeidsplassen.",
+      "Å klage på lønnen til kollegaene sine."
+    ],
+    "correctIndex": 1,
+    "explanation": "Arbeidsmiljøloven gir alle ansatte rett til å varsle om kritikkverdige forhold, som korrupsjon, trakassering eller helsefare, uten å bli straffet av arbeidsgiveren.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1007,
+    "question": "Ifølge allemannsretten, hva er den minste avstanden du må holde til et bebodd hus eller hytte når du setter opp telt i naturen?",
+    "options": [
+      "50 meter",
+      "150 meter",
+      "500 meter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Du kan telte nesten hvor som helst i utmark i opptil to døgn, men du må slå opp teltet minst 150 meter unna nærmeste bebodde hus eller hytte for å respektere folks privatliv.",
+    "category": "Natur og miljø"
+  },
+  {
+    "id": 1008,
+    "question": "Du får en SMS fra 'Skatteetaten' med en lenke som ber deg logge inn med BankID for å få tilbakebetalt skatt. Hva bør du gjøre?",
+    "options": [
+      "Trykke på lenken og logge inn med en gang for å få pengene.",
+      "Ignorere lenken, for offentlige myndigheter i Norge sender aldri lenker på SMS/e-post der du bes om å logge inn med BankID.",
+      "Videresende SMS-en til venner slik at de også kan få penger tilbake."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dette er en vanlig form for digital svindel kalt 'phishing'. Norske myndigheter vil alltid be deg skrive inn nettadressen deres (f.eks. skatteetaten.no) manuelt i nettleseren i stedet for å trykke på en lenke.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1009,
+    "question": "Hvis du kjøper en mobiltelefon fra en elektronikkbutikk i Norge, hvor lang er den lovfestede reklamasjonsretten dersom apparatet er ment å vare lenge?",
+    "options": [
+      "1 år",
+      "2 år",
+      "5 år"
+    ],
+    "correctIndex": 2,
+    "explanation": "For produkter som er ment å vare vesentlig lenger enn to år (som TV-er, mobiltelefoner og vaskemaskiner), gir Forbrukerkjøpsloven deg en 5-års reklamasjonsrett mot fabrikasjonsfeil.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1010,
+    "question": "Kan Sametinget nedlegge veto mot (stoppe) en lov som er vedtatt av det norske Stortinget?",
+    "options": [
+      "Ja, hvis loven påvirker det samiske folket.",
+      "Nei, Sametinget har kun en rådgivende rolle og kan ikke overstyre Stortinget.",
+      "Ja, men bare i Nord-Norge."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sametinget er et folkevalgt politisk organ som jobber for samiske interesser, men det er det norske Stortinget som har den endelige lovgivende makten i hele landet.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1011,
+    "question": "Hvis du bor langt unna sykehuset og må reise for å få spesialisert medisinsk behandling, må du betale hele reisekostnaden selv?",
+    "options": [
+      "Ja, transport dekkes aldri av staten.",
+      "Nei, ordningen 'Pasientreiser' dekker reiseutgiftene, men du betaler vanligvis en fastsatt egenandel.",
+      "Ja, med mindre du reiser i ambulanse."
+    ],
+    "correctIndex": 1,
+    "explanation": "Velferdsstaten sikrer at folk som bor langt fra et sykehus ikke straffes økonomisk. Du får dekket utgifter til billigste reisemåte, minus en liten egenandel.",
+    "category": "Helse"
+  },
+  {
+    "id": 1012,
+    "question": "Kan en arbeidsgiver forlenge prøvetiden din dersom du har vært sykemeldt i løpet av prøvetiden?",
+    "options": [
+      "Nei, prøvetiden er strengt tatt maksimalt 6 måneder uansett fravær.",
+      "Ja, arbeidsgiveren kan forlenge prøvetiden tilsvarende de dagene du var borte, dersom dette var avtalt i kontrakten.",
+      "Ja, men bare hvis du godtar lavere lønn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom det står i ansettelseskontrakten, har arbeidsgiver rett til å forlenge prøvetiden med tilsvarende lengde som ditt dokumenterte fravær (f.eks. sykemelding) for å få vurdert arbeidet ditt skikkelig.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1013,
+    "question": "Hva skjer hvis du mottar et inkassovarsel, men er helt uenig i den opprinnelige regningen?",
+    "options": [
+      "Du må betale den umiddelbart for å unngå rulleblad hos politiet.",
+      "Du bør kontakte inkassoselskapet og formelt bestride (være uenig i) kravet; de kan ikke lovlig inndrive et bestridt krav.",
+      "Du bør bare ignorere det, og det vil bli slettet etter 3 måneder."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dersom du genuint er uenig i en regning, har du sterke forbrukerrettigheter. Ved å bestride kravet, må inkassoselskapet sette prosessen på pause, og saken kan gå til Forliksrådet.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1014,
+    "question": "Hvem har verneplikt i Norge i dag?",
+    "options": [
+      "Kun menn mellom 19 og 44 år.",
+      "Både kvinner og menn har allmenn verneplikt.",
+      "Militærtjeneste er 100 % frivillig for alle."
+    ],
+    "correctIndex": 1,
+    "explanation": "I 2015 ble Norge det første NATO-landet som innførte kjønnsnøytral verneplikt. Det betyr at både unge kvinner og menn må avtjene verneplikt dersom de blir valgt ut av Forsvaret.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1015,
+    "question": "Hva er 'Samordna opptak'?",
+    "options": [
+      "Det sentrale systemet der du søker om opptak til universiteter og høyskoler i Norge.",
+      "Etaten som deler ut studielån.",
+      "Et politisk parti for studenter."
+    ],
+    "correctIndex": 0,
+    "explanation": "Samordna opptak koordinerer opptaket til høyere utdanning. Du søker med dine karakterer og poeng fra videregående skole for å konkurrere om studieplasser over hele landet.",
+    "category": "Utdanning"
+  },
+  {
+    "id": 1016,
+    "question": "Hva er den nye generelle aldersgrensen for vern mot oppsigelse på grunn av alder i norsk arbeidsliv fra 2026?",
+    "options": [
+      "67 år",
+      "70 år",
+      "72 år"
+    ],
+    "correctIndex": 2,
+    "explanation": "For å styrke stillingsvernet for eldre arbeidstakere og beholde seniorer i arbeidslivet, hevet regjeringen den generelle aldersgrensen, slik at ansatte kan beholde jobben til de fyller 72 år.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1017,
+    "question": "Fra 2026, hvilken ny yrkesgruppe er lovpålagt å bære et synlig HMS-kort på jobb?",
+    "options": [
+      "Lærere i offentlig skole",
+      "Kontorarbeidere i IT-selskaper",
+      "Sjåfører som frakter andres varer med varebil (varetransport)"
+    ],
+    "correctIndex": 2,
+    "explanation": "For å forhindre sosial dumping og arbeidslivskriminalitet, må alle sjåfører som driver med varetransport i biler under 3500 kg bære et offisielt HMS-kort.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1018,
+    "question": "Er det økonomisk lønnsomt å være medlem av en fagforening når det gjelder skatt i Norge?",
+    "options": [
+      "Nei, fagforeningskontingenten øker den totale skatten din.",
+      "Ja, du får skattefradrag for fagforeningskontingenten du betaler.",
+      "Det har ingen effekt på skatten din i det hele tatt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Staten oppmuntrer til å være fagorganisert ved å la deg trekke fra fagforeningskontingenten på skattemeldingen, noe som gir deg lavere skatt.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1019,
+    "question": "Hva menes med begrepet 'psykososialt arbeidsmiljø' ifølge arbeidsmiljøloven?",
+    "options": [
+      "At kontoret må ha ergonomiske stoler og god belysning.",
+      "At arbeidsgiver må forebygge negativt stress, trakassering, og sikre godt samarbeid og støtte.",
+      "At de ansatte må være sosiale sammen etter arbeidstid."
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven stiller strenge krav til at arbeidsgiver skal sørge for at emosjonelle belastninger, tidspress og uklare forventninger ikke går ut over de ansattes psykiske helse.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1020,
+    "question": "Hva er den strenge promillegrensen for å kjøre elektrisk sparkesykkel i Norge?",
+    "options": [
+      "0,0 i promille",
+      "0,2 i promille",
+      "0,5 i promille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elektriske sparkesykler er klassifisert på lik linje med motorvogner når det gjelder alkohol, noe som betyr at den strenge grensen på 0,2 promille gjelder. Kjøring i ruspåvirket tilstand kan gi høye bøter og tap av førerkort.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1021,
+    "question": "Har du lovfestet rett til å arve partneren din hvis dere lever sammen som samboere, men ikke har felles barn?",
+    "options": [
+      "Ja, samboere har alltid nøyaktig de samme rettighetene som gifte par.",
+      "Nei, samboere uten felles barn har ingen automatisk rett til å arve hverandre med mindre de skriver testament.",
+      "Ja, men bare hvis dere har bodd sammen i mer enn 1 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "I motsetning til ekteskap gir samboerskap svært liten økonomisk trygghet. Uten felles barn må dere opprette et testament for å sikre at partneren din arver deg.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1022,
+    "question": "Hva er forskjellen på 'skoleplikt' og 'opplæringsplikt' i Norge?",
+    "options": [
+      "Barn må lære pensum (opplæringsplikt), men det er lov å gi dem hjemmeundervisning i stedet for å sende dem til en skolebygning.",
+      "Barn må gå til en offentlig skolebygning hver dag, hjemmeundervisning er helt ulovlig.",
+      "Utdanning er fullstendig frivillig i Norge."
+    ],
+    "correctIndex": 0,
+    "explanation": "Norge har opplæringsplikt i 10 år, men foreldre har rett til å sørge for denne opplæringen selv gjennom godkjent hjemmeundervisning.",
+    "category": "Utdanning"
+  },
+  {
+    "id": 1023,
+    "question": "Hvis en helsearbeider eller lærer i Norge mistenker at et barn opplever alvorlig vold hjemme, hva skjer med deres strenge taushetsplikt?",
+    "options": [
+      "De har aldri lov til å bryte taushetsplikten under noen omstendigheter.",
+      "De har en lovpålagt opplysningsplikt til barnevernet, som overstyrer taushetsplikten.",
+      "De må be foreldrene om tillatelse først før de kan melde ifra."
+    ],
+    "correctIndex": 1,
+    "explanation": "Avvergelsesplikten og opplysningsplikten til barnevernet står sterkere enn taushetsplikten. Fagpersoner må melde fra om mistenkt overgrep umiddelbart for å beskytte barnet.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1024,
+    "question": "Hva betyr 'egenmelding' når du er syk?",
+    "options": [
+      "Du gir beskjed til arbeidsgiver om at du er syk, uten at du trenger legeerklæring de første dagene.",
+      "Du diagnostiserer deg selv, kjøper reseptbelagt medisin og er hjemme uten lønn.",
+      "Du må være hjemme og jobbe fra datamaskinen din."
+    ],
+    "correctIndex": 0,
+    "explanation": "Egenmelding lar deg være hjemme syk med lønn i opptil 3 dager (eller flere i en IA-bedrift) ved å bare si ifra til arbeidsgiver, uten å måtte gå til legen for å få sykemelding.",
+    "category": "Helse"
+  },
+  {
+    "id": 1025,
+    "question": "Hva er hovedformålet med BSU (Boligsparing for ungdom)?",
+    "options": [
+      "Det er en obligatorisk statlig skatt for personer under 34 år.",
+      "Det er en sparekonto som gir unge høy rente og skattefradrag for å hjelpe dem med å kjøpe bolig.",
+      "Det er et statlig lån som gis direkte til unge studenter."
+    ],
+    "correctIndex": 1,
+    "explanation": "BSU er regjeringens beste spareordning for unge under 34 år, designet for å hjelpe dem med å bygge opp den nødvendige egenkapitalen for å komme inn på boligmarkedet.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1026,
+    "question": "Hva er det minste lovpålagte tillegget du skal ha betalt når du jobber overtid ifølge arbeidsmiljøloven?",
+    "options": [
+      "25 %",
+      "40 %",
+      "50 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven sier at overtid skal kompenseres med et tillegg på minst 40 % av din vanlige timelønn, selv om mange tariffavtaler gir 50 % eller mer.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1027,
+    "question": "Når er det generelt bålforbud i skog og mark i Norge?",
+    "options": [
+      "Fra 1. mai til 1. oktober",
+      "Fra 15. april til 15. september",
+      "Det er alltid ulovlig å tenne bål i skogen."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å forhindre skogbrann i den tørre årstiden, er det strengt forbudt å gjøre opp ild i eller i nærheten av skog og annen utmark fra 15. april til 15. september.",
+    "category": "Natur og miljø"
+  },
+  {
+    "id": 1028,
+    "question": "Hvor mange ganger kan du bytte fastlege per kalenderår uten en spesiell grunn?",
+    "options": [
+      "1 gang",
+      "2 ganger",
+      "Ubegrenset antall ganger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Du har rett til å bytte fastlege inntil to ganger per kalenderår. Dette kan du enkelt gjøre selv på helsenorge.no.",
+    "category": "Helse"
+  },
+  {
+    "id": 1029,
+    "question": "Har du rett til gratis tolk hos legen eller på sykehuset hvis du ikke forstår norsk godt nok?",
+    "options": [
+      "Ja, det er helsevesenets ansvar å bestille og betale for en kvalifisert tolk.",
+      "Nei, du må ta med et familiemedlem som kan oversette for deg.",
+      "Ja, men du må betale for tolken selv."
+    ],
+    "correctIndex": 0,
+    "explanation": "For å sikre riktig medisinsk behandling og pasientsikkerhet, har helsepersonell plikt til å bestille en profesjonell tolk ved språkbarrierer. Dette er gratis for pasienten.",
+    "category": "Helse"
+  },
+  {
+    "id": 1030,
+    "question": "Hvem har stemmerett ved lokalvalg (kommune- og fylkestingsvalg) i Norge?",
+    "options": [
+      "Kun norske statsborgere.",
+      "Norske statsborgere og utenlandske statsborgere som har bodd sammenhengende i Norge i minst 3 år.",
+      "Alle som jobber og betaler skatt i Norge, uansett hvor lenge de har bodd der."
+    ],
+    "correctIndex": 1,
+    "explanation": "Mens kun norske statsborgere kan stemme ved stortingsvalg, er lokaldemokratiet åpent for utlendinger som har vært folkeregistrert i Norge i minst tre år sammenhengende.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1031,
+    "question": "Hva er en 'skattemelding'?",
+    "options": [
+      "En regning for kommunens vann- og søppeltjenester.",
+      "Et forhåndsutfylt dokument fra Skatteetaten som viser din inntekt, fradrag og formue, som du må sjekke hver vår.",
+      "En bot du får hvis du jobber svart."
+    ],
+    "correctIndex": 1,
+    "explanation": "Hver mars/april mottar du en skattemelding. Det er ditt personlige ansvar å sjekke at tallene stemmer og legge til eventuelle manglende fradrag før fristen.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1032,
+    "question": "Hva er SFO eller AKS?",
+    "options": [
+      "En spesialskole for barn med lærevansker.",
+      "Et frivillig, betalt pass- og aktivitetstilbud for barn i 1.–4. klasse før og etter vanlig skoletid.",
+      "En obligatorisk kveldsskole for tenåringer."
+    ],
+    "correctIndex": 1,
+    "explanation": "SFO (Skolefritidsordning) eller AKS (Aktivitetsskolen) er et tilbud der små barn kan leke og gjøre aktiviteter mens foreldrene er på jobb.",
+    "category": "Utdanning"
+  },
+  {
+    "id": 1033,
+    "question": "Hvor mye koster det å bruke Helsestasjon for ungdom for å få råd om prevensjon eller psykisk helse?",
+    "options": [
+      "Det er helt gratis.",
+      "Man betaler en standard egenandel på 200 kroner.",
+      "Det avhenger av foreldrenes inntekt."
+    ],
+    "correctIndex": 0,
+    "explanation": "Helsestasjon for ungdom er et gratis drop-in-tilbud for unge (ofte opp til 20 eller 24 år) som tilbyr taushetsbelagt hjelp med fysisk, psykisk og seksuell helse.",
+    "category": "Helse"
+  },
+  {
+    "id": 1034,
+    "question": "Dersom arbeidskontrakten din ikke sier noe om oppsigelsestid, hva er den standard lovpålagte oppsigelsestiden etter prøvetiden?",
+    "options": [
+      "14 dager",
+      "1 måned",
+      "3 måneder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ifølge arbeidsmiljøloven er den gjensidige oppsigelsestiden én måned dersom ikke annet er skriftlig avtalt.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1035,
+    "question": "Hvis du sier opp jobben din 15. mars med 1 måneds oppsigelsestid, når begynner oppsigelsestiden offisielt å løpe?",
+    "options": [
+      "15. mars (samme dag).",
+      "16. mars (dagen etter).",
+      "1. april (første dag i påfølgende måned)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Med mindre noe annet er bestemt i en tariffavtale, starter oppsigelsestiden alltid å løpe fra den første dagen i måneden etter at oppsigelsen fant sted.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1036,
+    "question": "Hva er den absolutte minstealderen for å inngå ekteskap i Norge?",
+    "options": [
+      "16 år, hvis foreldrene gir tillatelse.",
+      "18 år, uten noen unntak.",
+      "20 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å beskytte mindreårige mot tvangsekteskap er loven streng: Du må være minst 18 år for å gifte deg i Norge, og Statsforvalteren kan ikke lenger gi unntak for 16- eller 17-åringer.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1037,
+    "question": "Hva er hovedoppgaven til Likestillings- og diskrimineringsombudet (LDO)?",
+    "options": [
+      "Å etterforske korrupsjon i store selskaper.",
+      "Å bekjempe diskriminering og fremme likestilling basert på kjønn, etnisitet, religion og funksjonsevne.",
+      "Å sikre at menn og kvinner får nøyaktig samme lønn i private bedrifter."
+    ],
+    "correctIndex": 1,
+    "explanation": "LDO tilbyr gratis juridisk veiledning til enkeltpersoner som mener de har blitt diskriminert eller urettferdig behandlet.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1038,
+    "question": "Hvilken historisk viktig hendelse skjedde i Norge i året 1814?",
+    "options": [
+      "Vikingtiden tok slutt.",
+      "Norge fikk sin egen grunnlov på Eidsvoll.",
+      "Norge fant olje i Nordsjøen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Den 17. mai 1814 ble Grunnloven signert på Eidsvoll, og det er derfor 17. mai feires som Norges nasjonaldag.",
+    "category": "Historie"
+  },
+  {
+    "id": 1039,
+    "question": "Hva skjedde i året 1905?",
+    "options": [
+      "Norge ble okkupert av Tyskland.",
+      "Unionen med Sverige ble fredelig oppløst, og Norge ble helt selvstendig.",
+      "Svartedauden rammet Norge."
+    ],
+    "correctIndex": 1,
+    "explanation": "I 1905 tok den politiske unionen med Sverige slutt etter nesten 100 år, og Norge valgte en dansk prins til å bli den nye kongen i et uavhengig Norge (Kong Haakon VII).",
+    "category": "Historie"
+  },
+  {
+    "id": 1040,
+    "question": "Hvem er 'Sysselmesteren'?",
+    "options": [
+      "Ordføreren i Oslo.",
+      "Den norske regjeringens øverste representant på øygruppen Svalbard.",
+      "Sjefen for det norske forsvaret."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sysselmesteren (tidligere Sysselmannen) har myndighet som både politimester og statsforvalter på Svalbard.",
+    "category": "Geografi og befolkning"
+  },
+  {
+    "id": 1041,
+    "question": "Hva er 'feriepenger'?",
+    "options": [
+      "En bonus du får fra staten hvis du reiser innad i Norge.",
+      "Penger du tjente opp året før, som erstatter den vanlige lønnen din mens du tar ut lovpålagt ferie.",
+      "En avgift du må betale når du kjøper flybilletter."
+    ],
+    "correctIndex": 1,
+    "explanation": "I Norge får du ikke vanlig lønn når du har ferie. I stedet får du 'feriepenger', som er en prosentandel av det du tjente året før.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1042,
+    "question": "Hva er en alvorlig personlig konsekvens av å jobbe 'svart'?",
+    "options": [
+      "Du må betale dobbel skatt neste år.",
+      "Du mister retten til feriepenger, sykepenger og pensjonsopptjening.",
+      "Du mister ditt norske statsborgerskap."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ved å ikke betale skatt faller du helt utenfor det norske velferdsnettet. Blir du syk eller skadet, vil du ikke motta sykepenger fra NAV.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1043,
+    "question": "Frem til hvilken alder har foreldre 'foreldreansvar' og lovpålagt plikt til å forsørge barna sine økonomisk?",
+    "options": [
+      "16 år",
+      "18 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Foreldre har plikt til å gi omsorg og forsørge barna sine økonomisk frem til barnet når myndighetsalderen (18 år).",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1044,
+    "question": "Hva er aldersgrensen for å kjøpe brennevin (alkohol over 22 %) på Vinmonopolet?",
+    "options": [
+      "18 år",
+      "20 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mens du kan kjøpe øl og vin som 18-åring, er det en streng 20-års aldersgrense for å kjøpe sterk alkohol (brennevin) i Norge.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1045,
+    "question": "Hva betyr det at Norge har et 'parlamentarisk' system?",
+    "options": [
+      "At Kongen bestemmer hvem som sitter i regjeringen.",
+      "At regjeringen må ha støtte fra flertallet på Stortinget for å kunne styre.",
+      "At statsministeren kan vedta lover uten å spørre noen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parlamentarismen ble innført i 1884 og betyr at den utøvende makten (regjeringen) er helt avhengig av tillit fra den lovgivende makten (Stortinget).",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1046,
+    "question": "Frem til hvilken svangerskapsuke har en kvinne rett til selvbestemt abort i Norge etter det nye lovverket?",
+    "options": [
+      "Uke 12",
+      "Uke 18",
+      "Uke 22"
+    ],
+    "correctIndex": 1,
+    "explanation": "For å modernisere kvinners helserettigheter, ble grensen for selvbestemt abort historisk endret fra 12 uker til 18 uker.",
+    "category": "Helse"
+  },
+  {
+    "id": 1047,
+    "question": "Har Norge en lovfestet generell minstelønn som gjelder for alle arbeidere?",
+    "options": [
+      "Ja, staten setter en minstelønn for alle jobber hvert år.",
+      "Nei, det finnes ingen generell minstelønn; lønn forhandles mellom fagforeninger og arbeidsgivere.",
+      "Ja, men bare for innvandrere."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge har ingen generell lovfestet minstelønn. I stedet er det tariffavtaler som bestemmer hva som er laveste tillatte lønn i ulike bransjer.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1048,
+    "question": "Hvor lenge må du ha jobbet for en arbeidsgiver før du kan bruke egenmelding ved sykdom?",
+    "options": [
+      "Fra første dag.",
+      "2 måneder.",
+      "6 måneder."
+    ],
+    "correctIndex": 1,
+    "explanation": "Du må ha vært ansatt i minst to måneder før du har rett til å bruke egenmelding. Før dette må du ha sykemelding fra lege.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1049,
+    "question": "Hvilken av disse tjenestene har kommunen ansvaret for?",
+    "options": [
+      "Barneskoler og barnehager.",
+      "Universiteter og høyere utdanning.",
+      "Sykehus og spesialisthelsetjenesten."
+    ],
+    "correctIndex": 0,
+    "explanation": "Kommunen har ansvar for de nære tjenestene til innbyggerne, som grunnskole, barnehage og eldreomsorg. Sykehusene styres av staten.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1050,
+    "question": "Hva skjer med en del av studielånet ditt fra Lånekassen hvis du består eksamenene og fullfører graden?",
+    "options": [
+      "Ingenting, du må fortsatt betale alt tilbake.",
+      "Opptil 40 % av basisstøtten gjøres om til stipend som du ikke trenger å betale tilbake.",
+      "Hele lånet blir slettet."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å oppmuntre studenter til å fullføre studiene, gjør Lånekassen om opptil 40 % av lånet til et stipend (pengegave) når du består eksamen.",
+    "category": "Utdanning"
+  },
+  {
+    "id": 1051,
+    "question": "Når du kjøper en selveierbolig i Norge, må du betale en dokumentavgift til staten. Hvor mye er den på?",
+    "options": [
+      "1,0 % av kjøpesummen.",
+      "2,5 % av kjøpesummen.",
+      "En fast avgift på 5 000 kroner."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ved kjøp av selveierbolig (fast eiendom) kreves det en statlig dokumentavgift på 2,5 % av boligens salgsverdi for å registrere eierskiftet.",
+    "category": "Økonomi"
+  },
+  {
+    "id": 1052,
+    "question": "Du er den første som ankommer en alvorlig trafikkulykke. Hva er du lovpålagt å gjøre?",
+    "options": [
+      "Ringe 113, sikre skadestedet og gi førstehjelp etter beste evne.",
+      "Ta bilder for dokumentasjon.",
+      "Ingenting, du bør vente på politiet."
+    ],
+    "correctIndex": 0,
+    "explanation": "I Norge har alle en lovfestet hjelpeplikt i nødsituasjoner. Du plikter å varsle nødetatene og utføre livreddende førstehjelp.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1053,
+    "question": "Hva var 'fornorskningspolitikken' fra 1850-årene til 1950-årene?",
+    "options": [
+      "En politikk for å oversette engelske bøker til norsk.",
+      "En streng statlig politikk for å tvinge samer og kvener til å assimilere seg i norsk kultur og forlate sine språk.",
+      "En kampanje for å få turister til å besøke Norge."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dette var et mørkt kapittel i norsk historie der urfolket samene og minoriteten kvener ble tvunget til å legge bort sin kultur, sitt språk og sin identitet i skoler og samfunnsliv.",
+    "category": "Historie"
+  },
+  {
+    "id": 1054,
+    "question": "Hvor mye betaler du i egenandel når et barn under 16 år går til fastlegen?",
+    "options": [
+      "Det er helt gratis.",
+      "150 kroner.",
+      "Full pris."
+    ],
+    "correctIndex": 0,
+    "explanation": "For å sikre at alle barn har tilgang til helsehjelp uavhengig av foreldrenes økonomi, er legebesøk helt gratis for barn under 16 år.",
+    "category": "Helse"
+  },
+  {
+    "id": 1055,
+    "question": "Ifølge arbeidsmiljøloven, hva er det maksimale antallet alminnelige arbeidstimer per uke?",
+    "options": [
+      "37,5 timer",
+      "40 timer",
+      "48 timer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lovens maksimumsgrense er 40 timer per uke. De fleste tariffavtaler gir imidlertid ansatte rett til en 37,5-timers arbeidsuke.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1056,
+    "question": "Hva er 'borgerlig konfirmasjon' (humanistisk konfirmasjon)?",
+    "options": [
+      "En politisk sommerleir.",
+      "En seremoni og et kurs i etikk og menneskerettigheter for å markere overgangen til voksenlivet, uten religiøst innhold.",
+      "En obligatorisk eksamen på slutten av ungdomsskolen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Mange tenåringer i det sekulære Norge velger en humanistisk konfirmasjon i regi av Human-Etisk Forbund fremfor en kristen konfirmasjon i kirken.",
+    "category": "Kultur og tradisjoner"
+  },
+  {
+    "id": 1057,
+    "question": "Hvem leder kommunestyret?",
+    "options": [
+      "Kongen.",
+      "Statsministeren.",
+      "Ordføreren."
+    ],
+    "correctIndex": 2,
+    "explanation": "Ordføreren er den øverste politiske lederen i kommunen og styrer møtene i kommunestyret.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1058,
+    "question": "Hva er kravet til minimum mønsterdybde for vinterdekk på en vanlig personbil i Norge?",
+    "options": [
+      "1,6 millimeter",
+      "3 millimeter",
+      "5 millimeter"
+    ],
+    "correctIndex": 1,
+    "explanation": "I vintersesongen (fra 1. november, eller 16. oktober i Nord-Norge) kreves det at dekkene har minst 3 millimeter mønsterdybde for å sikre grep på snø og is.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1059,
+    "question": "Hvor kan du få gratis hjelp og råd hvis du er i konflikt med en butikk om en vare med feil?",
+    "options": [
+      "Forbrukerrådet.",
+      "Politiet.",
+      "Skatteetaten."
+    ],
+    "correctIndex": 0,
+    "explanation": "Forbrukerrådet er en uavhengig interesseorganisasjon som hjelper forbrukere med deres rettigheter og med å løse tvister med næringsdrivende.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1060,
+    "question": "Hvem ble konge av Norge da unionen med Sverige ble oppløst i 1905?",
+    "options": [
+      "Kong Harald V",
+      "Kong Haakon VII",
+      "Kong Olav V"
+    ],
+    "correctIndex": 1,
+    "explanation": "Etter en folkeavstemning ble den danske prins Carl valgt til ny konge i et selvstendig Norge, og han tok det norske navnet Haakon VII.",
+    "category": "Historie"
+  },
+  {
+    "id": 1061,
+    "question": "Hva er den normale oppsigelsestiden dersom du blir sagt opp eller sier opp selv i løpet av prøvetiden?",
+    "options": [
+      "14 dager",
+      "1 måned",
+      "3 måneder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Med mindre noe annet er skriftlig avtalt, er den gjensidige oppsigelsestiden i prøvetiden på 14 dager, og den løper fra den dagen oppsigelsen blir gitt.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1062,
+    "question": "Hva er 'Fjellvettreglene'?",
+    "options": [
+      "Et sett med sikkerhetsregler og råd for ferdsel i fjellet.",
+      "Lover for å bygge hytte i Norge.",
+      "Regler for å plukke multer."
+    ],
+    "correctIndex": 0,
+    "explanation": "Fjellvettreglene er råd som hjelper folk å holde seg trygge i den norske naturen. En kjent regel er: 'Det er ingen skam å snu'.",
+    "category": "Natur og miljø"
+  },
+  {
+    "id": 1063,
+    "question": "Frem til hvilken alder for barnet utbetales den månedlige barnetrygden til foreldrene?",
+    "options": [
+      "16 år",
+      "18 år",
+      "21 år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnetrygd er en skattefri økonomisk støtte som utbetales av NAV til foreldre hver måned frem til barnet fyller 18 år.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1064,
+    "question": "Er det lov å skrive grovt rasistiske kommentarer på sosiale medier beskyttet av ytringsfriheten?",
+    "options": [
+      "Ja, ytringsfriheten har ingen grenser.",
+      "Nei, hatefulle ytringer og grov rasistisk hets er straffbart.",
+      "Ja, så lenge man bruker et falskt navn."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ytringsfriheten står sterkt, men er ikke absolutt. Hatefulle ytringer rettet mot noens hudfarge, religion eller seksuelle legning kan straffes med fengsel eller bøter.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1065,
+    "question": "Kan en barnehage ta hvilken som helst pris for en barnehageplass?",
+    "options": [
+      "Ja, det er et fritt marked.",
+      "Nei, regjeringen setter en streng maksimalpris som barnehagene ikke kan overstige.",
+      "Ja, men bare private barnehager."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å sikre at alle foreldre har råd til barnepass, bestemmer Stortinget en nasjonal maksimalpris per måned for både offentlige og private barnehager.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1086,
+    "question": "Hva er 'Folketrygden'?",
+    "options": [
+      "En privat livsforsikring du må kjøpe i banken.",
+      "Det offentlige velferdssystemet som sikrer inntekt ved sykdom, svangerskap, arbeidsledighet og alderdom.",
+      "En spesiell skatt kun for innvandrere."
+    ],
+    "correctIndex": 1,
+    "explanation": "Folketrygden er selve bærebjelken i den norske velferdsstaten. Alle som bor eller jobber lovlig i Norge er som regel medlem og har rett på ytelser som sykepenger og pensjon.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1087,
+    "question": "Hva er hovedoppgaven til Barnevernet?",
+    "options": [
+      "Å sikre at barn får best mulige karakterer på skolen.",
+      "Å gi hjelp og støtte til barn og familier, og beskytte barn som utsettes for omsorgssvikt eller overgrep.",
+      "Å straffe foreldre som ikke har høy inntekt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Barnevernets primære oppgave er å handle til barnets beste. Mesteparten av arbeidet deres består av å gi frivillige hjelpetiltak i hjemmet, ikke å ta barn fra foreldrene.",
+    "category": "Familie og barn"
+  },
+  {
+    "id": 1088,
+    "question": "Ifølge arbeidsmiljøloven, hva er den maksimale lengden på en prøvetid når du starter i en ny jobb?",
+    "options": [
+      "3 måneder",
+      "6 måneder",
+      "12 måneder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Den maksimale lovlige prøvetiden er 6 måneder. I denne perioden har både arbeidsgiver og arbeidstaker en kortere oppsigelsestid (ofte 14 dager) dersom jobben ikke fungerer.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1089,
+    "question": "Når bør du ringe legevakten på 116 117 i stedet for nødnummeret 113?",
+    "options": [
+      "Når du trenger en ny resept på din vanlige allergimedisin.",
+      "Når du trenger medisinsk hjelp som ikke kan vente til fastlegen åpner, men det ikke er akutt livstruende.",
+      "Når noen har sluttet å puste eller har sterke brystsmerter."
+    ],
+    "correctIndex": 1,
+    "explanation": "113 er kun for akutte, livstruende nødsituasjoner. Legevakten (116 117) er for presserende medisinsk hjelp når ditt vanlige legekontor er stengt.",
+    "category": "Helse"
+  },
+  {
+    "id": 1090,
+    "question": "Gjelder taushetsplikten dersom politiet spør en lege om en pasients medisinske historie?",
+    "options": [
+      "Nei, leger må alltid svare politiet.",
+      "Ja, leger er bundet av taushetsplikt og kan ikke dele medisinske opplysninger med politiet uten pasientens samtykke eller en domstolsbeslutning.",
+      "Ja, men bare hvis pasienten er under 18 år."
+    ],
+    "correctIndex": 1,
+    "explanation": "Taushetsplikten er svært streng i Norge. Med mindre det er akutt fare for liv og helse, eller foreligger en rettskjennelse, kan ikke helsepersonell dele dine private medisinske data med politiet.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1091,
+    "question": "Hva betyr 'kildesortering'?",
+    "options": [
+      "Å sortere klesvasken før man vasker.",
+      "Å sortere avfall i ulike kategorier (som plast, papir og matavfall) slik at det kan resirkuleres.",
+      "Å sortere historiske kilder når man skriver et essay."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kildesortering er en obligatorisk miljøpraksis i norske kommuner for å redusere forurensning og resirkulere verdifulle materialer.",
+    "category": "Natur og miljø"
+  },
+  {
+    "id": 1092,
+    "question": "Hvor ofte holdes det stortingsvalg i Norge?",
+    "options": [
+      "Hvert 2. år",
+      "Hvert 4. år",
+      "Hvert 6. år"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valg til Stortinget finner sted hvert fjerde år. Lokalvalg (kommune og fylke) holdes også hvert fjerde år, men forskjøvet nøyaktig midt i stortingsperioden.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1093,
+    "question": "Hva er aldersgrensen for å stemme ved et stortingsvalg i Norge?",
+    "options": [
+      "16 år innen utgangen av valgåret.",
+      "18 år innen utgangen av valgåret.",
+      "21 år på selve valgdagen."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å stemme ved politiske valg i Norge, må du fylle 18 år senest innen utgangen av det året valget holdes.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1094,
+    "question": "Hvem er det formelle statsoverhodet i Norge?",
+    "options": [
+      "Statsministeren",
+      "Kongen",
+      "Stortingspresidenten"
+    ],
+    "correctIndex": 1,
+    "explanation": "Norge er et konstitusjonelt monarki. Kongen er det formelle statsoverhodet, men pliktene hans er primært seremonielle; han har ingen reell politisk makt.",
+    "category": "Demokrati og politikk"
+  },
+  {
+    "id": 1095,
+    "question": "Hva skjer når du har betalt maksimalgrensen for egenandeler hos lege og apotek i et kalenderår?",
+    "options": [
+      "Du får et frikort og betaler ikke egenandeler resten av året.",
+      "Du må slutte å gå til legen.",
+      "Kommunen betaler deg en bonus."
+    ],
+    "correctIndex": 0,
+    "explanation": "Frikortsystemet beskytter enkeltpersoner mot uforholdsmessig høye medisinske utgifter. Når det årlige taket er nådd, blir de fleste offentlige helsetjenester helt gratis.",
+    "category": "Helse"
+  },
+  {
+    "id": 1096,
+    "question": "Hva var Kalmarunionen?",
+    "options": [
+      "En moderne handelsavtale mellom nordiske land.",
+      "En historisk union fra 1397 som samlet Norge, Sverige og Danmark under én monark.",
+      "En fagforening for industriarbeidere."
+    ],
+    "correctIndex": 1,
+    "explanation": "Kalmarunionen ble dannet for å motvirke tysk handelsdominans. Dette førte til slutt til at Norge ble en underordnet del av Danmark i over 400 år (dansketiden).",
+    "category": "Historie"
+  },
+  {
+    "id": 1097,
+    "question": "Hva refererer 'trepartssamarbeidet' til i norsk arbeidsliv?",
+    "options": [
+      "Samarbeidet mellom politiet, skatteetaten og domstolene.",
+      "Det formaliserte samarbeidet mellom arbeidsgiverorganisasjoner, arbeidstakernes fagforeninger og staten.",
+      "Et system hvor du må jobbe i tre forskjellige jobber."
+    ],
+    "correctIndex": 1,
+    "explanation": "Dette samarbeidet er kjernen i 'den norske modellen'. De tre partene forhandler for å sikre økonomisk stabilitet, gode arbeidsforhold og rettferdige lønninger.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1098,
+    "question": "Er det lov å forhandle om lønn når du får tilbud om en jobb i Norge?",
+    "options": [
+      "Nei, lønnen er strengt bestemt av staten.",
+      "Ja, det er vanlig og lovlig å forhandle om lønn før man signerer arbeidskontrakten.",
+      "Bare hvis man er medlem av en fagforening."
+    ],
+    "correctIndex": 1,
+    "explanation": "Selv om mange jobber følger spesifikke tariffavtaler, har du generelt rett til å forhandle om din personlige lønn basert på erfaring og kvalifikasjoner før du takker ja til en jobb.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1099,
+    "question": "Hva var 'Svartedauden' som rammet Norge i 1349?",
+    "options": [
+      "Et massivt økonomisk krakk.",
+      "En alvorlig pestpandemi som drepte over halvparten av den norske befolkningen.",
+      "En krig mot Sverige."
+    ],
+    "correctIndex": 1,
+    "explanation": "Svartedauden var en katastrofal byllepest som desimerte befolkningen, og etterlot Norge sterkt svekket både økonomisk og politisk i århundrer.",
+    "category": "Historie"
+  },
+  {
+    "id": 1100,
+    "question": "Har menn og kvinner lovfestet rett til lik lønn for arbeid av lik verdi i Norge?",
+    "options": [
+      "Nei, arbeidsgivere kan bestemme dette fritt.",
+      "Ja, likestillings- og diskrimineringsloven krever lik lønn for likt arbeid uavhengig av kjønn.",
+      "Ja, men bare i offentlig sektor."
+    ],
+    "correctIndex": 1,
+    "explanation": "Norsk lov forbyr uttrykkelig lønnsdiskriminering basert på kjønn. Menn og kvinner som utfører arbeid av lik verdi, skal ha samme lønn.",
+    "category": "Arbeidsliv"
+  },
+  {
+    "id": 1101,
+    "question": "Hva er 'pant' på flasker i Norge?",
+    "options": [
+      "Et system for å pante dyre smykker.",
+      "Et pantesystem hvor du får penger tilbake for å returnere tomme plastflasker og drikkebokser til butikken.",
+      "En skatt du betaler når du kjøper hus."
+    ],
+    "correctIndex": 1,
+    "explanation": "For å oppmuntre til resirkulering betaler du en liten ekstra avgift (pant) når du kjøper drikke. Du får disse pengene tilbake når du leverer emballasjen i en pantemaskin.",
+    "category": "Natur og miljø"
+  },
+  {
+    "id": 1102,
+    "question": "Har Norge en offisiell statsreligion i dag?",
+    "options": [
+      "Ja, den evangelisk-lutherske troen er statsreligion.",
+      "Nei, statskirkeordningen ble formelt avviklet i 2012, noe som gjør staten nøytral i religionsspørsmål.",
+      "Ja, katolisismen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Selv om Den norske kirke fortsatt er den største religiøse institusjonen, ble den skilt fra staten i 2012 for å sikre et mer sekulært og nøytralt styresett.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1103,
+    "question": "Ifølge likestillings- og diskrimineringsloven, er det lov for en utleier å nekte å leie ut en leilighet til noen på grunn av deres religion eller etnisitet?",
+    "options": [
+      "Ja, utleieren eier eiendommen og kan bestemme selv.",
+      "Nei, det er strengt forbudt å diskriminere basert på religion, etnisitet eller seksuell orientering på boligmarkedet.",
+      "Bare hvis de skriver det i annonsen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Loven beskytter enkeltpersoner mot diskriminering på alle samfunnsområder, inkludert ved leie av bolig og i arbeidslivet.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1104,
+    "question": "Kan politiet ransake hjemmet ditt uten en spesiell grunn eller en domstolsbeslutning?",
+    "options": [
+      "Ja, politiet har full tilgang til alle hjem.",
+      "Nei, du har grunnlovsfestet rett til privatliv, og politiet trenger som hovedregel en beslutning (ransakingsbeslutning) for å gå inn i hjemmet ditt.",
+      "Bare hvis du er utenlandsk statsborger."
+    ],
+    "correctIndex": 1,
+    "explanation": "Retten til privatliv er beskyttet av loven. Politiet må ha sterk mistanke om en alvorlig straffbar handling og vanligvis godkjenning fra en jurist for å kunne ransake hjemmet ditt.",
+    "category": "Samfunn og lover"
+  },
+  {
+    "id": 1105,
+    "question": "Hva betyr 'samboerskap'?",
+    "options": [
+      "Å bo i samme nabolag.",
+      "To personer som bor sammen i et kjæresteforhold uten å være gift.",
+      "Personer som jobber på samme kontor."
+    ],
+    "correctIndex": 1,
+    "explanation": "Samboerskap er en svært vanlig familieform i Norge. Det er imidlertid viktig å vite at samboere ikke har de samme automatiske økonomiske og juridiske rettighetene som gifte par.",
+    "category": "Familie og barn"
   }
 ]
