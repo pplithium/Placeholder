@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1051,
+    "category": "culture",
+    "text": "You are at a mountain cabin. Your host proudly announces there is no internet, no electricity, and no running water.",
+    "leftChoiceLabel": "Call a helicopter",
+    "rightChoiceLabel": "Praise the simplicity",
+    "leftEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    }
+  },
+  {
+    "id": 1052,
+    "category": "food",
+    "text": "It is Taco Friday. The host realizes they forgot the Old El Paso spice mix. Panic ensues.",
+    "leftChoiceLabel": "Use salt and pepper",
+    "rightChoiceLabel": "Cancel the dinner",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 0
+    }
+  },
+  {
+    "id": 1053,
+    "category": "weather",
+    "text": "The municipality forgot to sand the icy sidewalks. It is a literal skating rink.",
+    "leftChoiceLabel": "Crawl on all fours",
+    "rightChoiceLabel": "Walk with confidence",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": -10,
+      "heat": 10
+    }
+  },
+  {
+    "id": 1054,
+    "category": "work",
+    "text": "It is 13:30 on a Friday. Your manager casually packs their bag and says 'God helg!'",
+    "leftChoiceLabel": "Report them to HR",
+    "rightChoiceLabel": "Leave immediately too",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 1055,
+    "category": "social",
+    "text": "You are on a hiking trail. A stranger approaches. You must switch from 'City Mode' (ignore) to 'Mountain Mode' (say Hei).",
+    "leftChoiceLabel": "Ignore them",
+    "rightChoiceLabel": "Yell 'Hei!'",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": 5
+    }
+  },
+  {
+    "id": 1056,
+    "category": "work",
+    "text": "You check the public tax records (Skattelister) and discover your lazy coworker makes 200,000 NOK more than you.",
+    "leftChoiceLabel": "Confront the boss",
+    "rightChoiceLabel": "Weep in silence",
+    "leftEffect": {
+      "money": 1000,
+      "social": -40,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -5
+    }
+  },
+  {
+    "id": 1057,
+    "category": "transport",
+    "text": "You drive two hours out of your way to avoid a 25 NOK toll booth.",
+    "leftChoiceLabel": "Realize gas costs more",
+    "rightChoiceLabel": "Feel victorious",
+    "leftEffect": {
+      "money": -100,
+      "social": 10,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -5
+    }
+  },
+  {
+    "id": 1058,
+    "category": "culture",
+    "text": "It is May 17th. You are wearing a heavy wool Bunad. It is unexpectedly 24 degrees and sunny.",
+    "leftChoiceLabel": "Take off the jacket",
+    "rightChoiceLabel": "Sweat for your country",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 30
+    }
+  },
+  {
+    "id": 1059,
+    "category": "shopping",
+    "text": "You are stopped at the Swedish border. Customs asks if you have anything to declare. You have 15 kilos of frozen bacon.",
+    "leftChoiceLabel": "Confess your meat crimes",
+    "rightChoiceLabel": "Sweat profusely and lie",
+    "leftEffect": {
+      "money": -3000,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 25
+    }
+  },
+  {
+    "id": 1060,
+    "category": "weather",
+    "text": "You run out of Vitamin D in November. The darkness begins to physically crush your soul.",
+    "leftChoiceLabel": "Accept the void",
+    "rightChoiceLabel": "Buy a sun lamp",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -800,
+      "social": 10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 1061,
+    "category": "sport",
+    "text": "A man in tight Lycra aggressively double-poles past you on the ski track, screaming 'Løype!'",
+    "leftChoiceLabel": "Yell back at him",
+    "rightChoiceLabel": "Dive into the bushes",
+    "leftEffect": {
+      "money": 0,
+      "social": -25,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -15
+    }
+  },
+  {
+    "id": 1062,
+    "category": "shopping",
+    "text": "You try to pay for a coffee with physical cash. The barista looks at the coins like they are ancient Roman artifacts.",
+    "leftChoiceLabel": "Explain what cash is",
+    "rightChoiceLabel": "Tap your card in shame",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": -45,
+      "social": 15,
+      "heat": 0
+    }
+  },
+  {
+    "id": 1063,
+    "category": "social",
+    "text": "A friend asks you to help them move. In Norway, this means carrying a grand piano down five flights of stairs for a slice of pizza.",
+    "leftChoiceLabel": "Fake a back injury",
+    "rightChoiceLabel": "Carry the piano",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 35,
+      "heat": 20
+    }
+  },
+  {
+    "id": 1064,
+    "category": "weather",
+    "text": "You see a dog waiting outside a grocery store in the freezing snow. It looks happier than you do.",
+    "leftChoiceLabel": "Pet the snow dog",
+    "rightChoiceLabel": "Envy its fur coat",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -10
+    }
+  },
+  {
+    "id": 1065,
+    "category": "food",
+    "text": "You open a bag of Sørlandschips on the quiet carriage of the train. The crunch echoes like a gunshot.",
+    "leftChoiceLabel": "Chew very slowly",
+    "rightChoiceLabel": "Eat the whole bag rapidly",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    }
+  },
+  {
+    "id": 1066,
+    "category": "culture",
+    "text": "Your housing association announces a 'mandatory' Dugnad. You must scrub moss off the communal garbage bins.",
+    "leftChoiceLabel": "Refuse to participate",
+    "rightChoiceLabel": "Scrub the moss",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 35,
+      "heat": -10
+    }
+  },
+  {
+    "id": 1067,
+    "category": "culture",
+    "text": "You attempt to speak Norwegian to a local. They instantly reply in flawless, unaccented English.",
+    "leftChoiceLabel": "Insist on Norwegian",
+    "rightChoiceLabel": "Give up and use English",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -5
+    }
+  },
+  {
+    "id": 1068,
+    "category": "food",
+    "text": "You buy an overpriced hot dog at a gas station. They ask if you want 'rekesalat' (shrimp salad) on it.",
+    "leftChoiceLabel": "Refuse the pink sludge",
+    "rightChoiceLabel": "Add the shrimp",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -15,
+      "social": 25,
+      "heat": 5
+    }
+  },
+  {
+    "id": 1069,
+    "category": "work",
+    "text": "A coworker takes an 'Egenmelding' (sick day) because their cat looked sad this morning.",
+    "leftChoiceLabel": "Report them",
+    "rightChoiceLabel": "Take a sick day too",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 100,
+      "social": 20,
+      "heat": 15
+    }
+  },
+  {
+    "id": 1070,
+    "category": "weather",
+    "text": "It is exactly 0 degrees and raining. The snow turns into an inescapable, knee-deep brown slush (Slaps).",
+    "leftChoiceLabel": "Walk through it",
+    "rightChoiceLabel": "Call a taxi",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -400,
+      "social": -10,
+      "heat": 20
+    }
+  }
+]
