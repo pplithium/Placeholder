@@ -22098,5 +22098,6151 @@
       "social": -15,
       "heat": 10
     }
+  },
+  {
+    "id": 2251,
+    "category": "culture",
+    "text": "Du arver en 'sjarmerende' tradisjonell norsk hytte dypt inne i fjellene. Inspiserer du den først, eller tar du bare imot nøklene blindt?",
+    "leftChoiceLabel": "Inspiser den",
+    "rightChoiceLabel": "Godta blindt",
+    "leftEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 0
+    },
+    "nextScenarioId": 2252
+  },
+  {
+    "id": 2252,
+    "category": "culture",
+    "text": "Du ankommer din nye hytte. Taket lekker, det er ingen strøm, og en sau sover på kjøkkenet. Ansetter du en norsk snekker eller fikser du det selv?",
+    "leftChoiceLabel": "Ansett snekker",
+    "rightChoiceLabel": "Gjør det selv",
+    "leftEffect": {
+      "money": -8000,
+      "social": 10,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2253
+  },
+  {
+    "id": 2253,
+    "category": "weather",
+    "text": "Du fikset taket, men nå er utedoen frosset fast. Det er -20 grader ute.",
+    "leftChoiceLabel": "Bruk skogen",
+    "rightChoiceLabel": "Hold deg til tirsdag",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -50
+    },
+    "nextScenarioId": 2254
+  },
+  {
+    "id": 2254,
+    "category": "money",
+    "text": "Du returnerer endelig til sivilisasjonen. Bomstasjonene på vei tilbake koster deg 800 kr fordi du kjørte dieselbil.",
+    "leftChoiceLabel": "Betal og gråt",
+    "rightChoiceLabel": "Kjør ned bommen",
+    "leftEffect": {
+      "money": -800,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2255,
+    "category": "social",
+    "text": "Du er invitert til borettslagets vårdugnad. Du hater å rake løv.",
+    "leftChoiceLabel": "Fake en skade",
+    "rightChoiceLabel": "Møt opp i regntøy",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2256
+  },
+  {
+    "id": 2256,
+    "category": "food",
+    "text": "Du er på dugnaden, men du tok med kjøpemuffins i stedet for hjemmelagde vafler. Styret i borettslaget stirrer stygt på deg.",
+    "leftChoiceLabel": "Si de er veganske",
+    "rightChoiceLabel": "Spis dem aggressivt",
+    "leftEffect": {
+      "money": -100,
+      "social": 15,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2257
+  },
+  {
+    "id": 2257,
+    "category": "work",
+    "text": "For å bøte på skaden, blir du tildelt den verste jobben: å rense felles-takrennene fulle av mystisk svart slim.",
+    "leftChoiceLabel": "Gjør det gråtende",
+    "rightChoiceLabel": "Bestikk en drittunge",
+    "leftEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": -45
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -35,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2258,
+    "category": "work",
+    "text": "Sjefen din krever at du jobber overtid på en fredag. I Norge tømmes kontoret nøyaktig klokken 15:00. Blir du eller drar du?",
+    "leftChoiceLabel": "Bli og jobb",
+    "rightChoiceLabel": "Flykt kl. 14:55",
+    "leftEffect": {
+      "money": 1500,
+      "social": -30,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 20,
+      "heat": 15
+    },
+    "nextScenarioId": 2259
+  },
+  {
+    "id": 2259,
+    "category": "social",
+    "text": "Du er 'utbrent' av å jobbe 37,5 timer i uken. Du får en sykmelding. Hva gjør du med fritiden din?",
+    "leftChoiceLabel": "Gå på langrenn",
+    "rightChoiceLabel": "Se på TV i mørket",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -20
+    },
+    "nextScenarioId": 2260
+  },
+  {
+    "id": 2260,
+    "category": "work",
+    "text": "Du postet et bilde av deg selv på ski i Alpene mens du var sykmeldt. Sjefen din så det. Du har nå direkte med NAV å gjøre.",
+    "leftChoiceLabel": "Påstå medisinsk behov",
+    "rightChoiceLabel": "Trygle om jobben tilbake",
+    "leftEffect": {
+      "money": -1000,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2261,
+    "category": "social",
+    "text": "Det er desember. Det legendariske julebordet nærmer seg. Temaet er 'Stygge gensere og akevitt'.",
+    "leftChoiceLabel": "Drikk deg dritings",
+    "rightChoiceLabel": "Vær edru",
+    "leftEffect": {
+      "money": -800,
+      "social": 30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2262
+  },
+  {
+    "id": 2262,
+    "category": "culture",
+    "text": "Du er overstadig beruset på julebordet. Administrerende direktør holder en kjedelig tale om Q3-overskuddet. Du føler trangen til å avbryte.",
+    "leftChoiceLabel": "Grip mikrofonen",
+    "rightChoiceLabel": "Bit tennene sammen",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -25
+    },
+    "nextScenarioId": 2263
+  },
+  {
+    "id": 2263,
+    "category": "weather",
+    "text": "Du våkner neste dag i en snøfonn med en halvspist frossen kebab. Du har 30 ubesvarte anrop fra HR.",
+    "leftChoiceLabel": "Bytt identitet",
+    "rightChoiceLabel": "Svar og gråt",
+    "leftEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2264
+  },
+  {
+    "id": 2264,
+    "category": "work",
+    "text": "HR insisterer på at du deltar på et obligatorisk seminar om 'grenser på arbeidsplassen', avholdt i en vindusløs kjeller i Drammen.",
+    "leftChoiceLabel": "Aksepter skjebnen",
+    "rightChoiceLabel": "Si opp på flekken",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": -20,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2265,
+    "category": "culture",
+    "text": "Det er 16. mai. Du innser at bunaden din er to størrelser for liten, eller du eier ikke en. Det nasjonale presset om å se perfekt ut er kvelende.",
+    "leftChoiceLabel": "Kjøp designdress",
+    "rightChoiceLabel": "Lei et 'kostyme'",
+    "leftEffect": {
+      "money": -9000,
+      "social": 15,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": -35,
+      "heat": 5
+    },
+    "nextScenarioId": 2266
+  },
+  {
+    "id": 2266,
+    "category": "social",
+    "text": "Det er klokken 07:00 på 17. mai. Du er på en champagnefrokost. Du har allerede drukket fire glass og må holde en tale for folk du knapt kjenner.",
+    "leftChoiceLabel": "Fortsett å drikke",
+    "rightChoiceLabel": "Bytt til Farris",
+    "leftEffect": {
+      "money": -200,
+      "social": 25,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 10
+    },
+    "nextScenarioId": 2267
+  },
+  {
+    "id": 2267,
+    "category": "social",
+    "text": "Du står midt i folkehavet. Blæra di skriker. Hvert offentlige toalett har en 45 minutters kø av gråtende barn og sinte foreldre.",
+    "leftChoiceLabel": "Bruk et mørkt smug",
+    "rightChoiceLabel": "Internaliser smerten",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -45
+    },
+    "nextScenarioId": 2268
+  },
+  {
+    "id": 2268,
+    "category": "money",
+    "text": "Barnetoget er over. Du mistet lommeboken og togene er innstilt. Din eneste vei hjem er en 'Buss for tog' som kanskje aldri dukker opp.",
+    "leftChoiceLabel": "Ta pirattaxi",
+    "rightChoiceLabel": "Vent 4 timer på bussen",
+    "leftEffect": {
+      "money": -1500,
+      "social": 0,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2269,
+    "category": "social",
+    "text": "November slår til. Mørketiden er her. Du bestemmer deg for å finne en partner på Tinder utelukkende for å ha noen å dele de skyhøye strømregningene med.",
+    "leftChoiceLabel": "Super Like alle",
+    "rightChoiceLabel": "Senk standarden",
+    "leftEffect": {
+      "money": -300,
+      "social": 10,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": -15
+    },
+    "nextScenarioId": 2270
+  },
+  {
+    "id": 2270,
+    "category": "culture",
+    "text": "Din første date er en 10 km lang tur i bekmørket med hodelykt. De spør om du liker å ha Gudbrandsdalsost på vaflene dine.",
+    "leftChoiceLabel": "Lyv og si 'Elsker det!'",
+    "rightChoiceLabel": "Innrøm at det er rart",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2271
+  },
+  {
+    "id": 2271,
+    "category": "food",
+    "text": "Daten gikk bra. Du møter foreldrene deres i en avsidesliggende bygd. De serverer smalahove. Faren til daten din følger med på deg.",
+    "leftChoiceLabel": "Spis øyet",
+    "rightChoiceLabel": "Avslå høflig",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -70,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2272,
+    "category": "sport",
+    "text": "Du har kjøpt karbonfiber-skiutstyr for 12 000 kr for å se proff ut på Sognsvann. Et 5 år gammelt barn i en 20 år gammel jakke suser forbi deg i oppoverbakken.",
+    "leftChoiceLabel": "Spurt for å ta igjen",
+    "rightChoiceLabel": "Fake utstyrssvikt",
+    "leftEffect": {
+      "money": 0,
+      "social": 5,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2273
+  },
+  {
+    "id": 2273,
+    "category": "weather",
+    "text": "Mens du prøver å gå forbi 5-åringen, mister du kontrollen og krasjer inn i en frossen bjørk. Du ligger i en snøfonn og stoltheten din er knust.",
+    "leftChoiceLabel": "Skyld på 'dårlig smøring'",
+    "rightChoiceLabel": "Gråt i stillhet",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2274,
+    "category": "money",
+    "text": "Du flyr til Tromsø i januar kun for å se nordlyset. Det har vært overskyet i 14 dager, og en liten øl koster 165 kr.",
+    "leftChoiceLabel": "Kjøp ølen",
+    "rightChoiceLabel": "Drikk smeltet snø",
+    "leftEffect": {
+      "money": -165,
+      "social": 10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "nextScenarioId": 2275
+  },
+  {
+    "id": 2275,
+    "category": "culture",
+    "text": "Du betaler for en profesjonell 'Nordlysjakt'-buss. Guiden kjører deg til en mørk parkeringsplass bak en REMA 1000 og ber deg 'vente og be'.",
+    "leftChoiceLabel": "Be høyt",
+    "rightChoiceLabel": "Krev pengene tilbake",
+    "leftEffect": {
+      "money": -2500,
+      "social": 5,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "nextScenarioId": 2276
+  },
+  {
+    "id": 2276,
+    "category": "weather",
+    "text": "Du ser endelig en svak, uskarp grønn flekk på himmelen. Er det Aurora Borealis, eller bare lysforurensning fra en nærliggende fiskefabrikk?",
+    "leftChoiceLabel": "Legg ut på Instagram",
+    "rightChoiceLabel": "Gråt av glede",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2277,
+    "category": "social",
+    "text": "Det regner sidelengs. Du leverer ungen i barnehagen og innser at du glemte regntøyet. Pedagogisk leder ser på deg som om du er kriminell.",
+    "leftChoiceLabel": "Løp til kjøpesenteret",
+    "rightChoiceLabel": "Skyld på partneren din",
+    "leftEffect": {
+      "money": -1200,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2278
+  },
+  {
+    "id": 2278,
+    "category": "culture",
+    "text": "Du kjøpte det dyreste Helly Hansen-utstyret for å bevise at du er en god forelder. Nå må du merke hver eneste del med barnets navn, ellers forsvinner de for alltid i 'Glemt-kassen'.",
+    "leftChoiceLabel": "Merk alt sammen",
+    "rightChoiceLabel": "Overlat det til skjebnen",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -25
+    },
+    "rightEffect": {
+      "money": -1200,
+      "social": -10,
+      "heat": 20
+    },
+    "nextScenarioId": 2279
+  },
+  {
+    "id": 2279,
+    "category": "weather",
+    "text": "Utstyret er merket og på barnet. 5 minutter senere hopper de i en knedyp gjørmepytt. Den vanntette forseglingen svikter umiddelbart.",
+    "leftChoiceLabel": "Le hysterisk",
+    "rightChoiceLabel": "Slutt som forelder",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2280,
+    "category": "food",
+    "text": "Fredagskveld. Du bestemmer deg for å utføre det hellige norske ritualet: Å spise en Pizza Grandiosa. Legger du til ekstra ost, eller spiser du den slik forfedrene mente?",
+    "leftChoiceLabel": "Ekstra ost",
+    "rightChoiceLabel": "Hold den autentisk",
+    "leftEffect": {
+      "money": -50,
+      "social": 0,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": 5
+    },
+    "nextScenarioId": 2281
+  },
+  {
+    "id": 2281,
+    "category": "food",
+    "text": "Du utfører den andre delen av ritualet: Møysommelig plukke av de små røde paprikabitene fordi ingen egentlig liker dem.",
+    "leftChoiceLabel": "Kast dem",
+    "rightChoiceLabel": "Spis en på trass",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -20
+    },
+    "nextScenarioId": 2282
+  },
+  {
+    "id": 2282,
+    "category": "money",
+    "text": "Du spiste opp pizzaen. Du innser at du glemte å skru av ovnen og den har stått på i 3 timer. Smarthus-appen din viser at strømprisen akkurat skjøt opp til 8 kr per kWh.",
+    "leftChoiceLabel": "Selg en nyre",
+    "rightChoiceLabel": "Flytt i telt",
+    "leftEffect": {
+      "money": -4000,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 2000,
+      "social": -40,
+      "heat": -60
+    }
+  },
+  {
+    "id": 2283,
+    "category": "culture",
+    "text": "Det er lørdag, klokken 14:45. Vinmonopolet stenger om 15 minutter. Hvis du feiler nå, blir du edru på kveldens fest mens alle andre diskuterer boliglånet sitt.",
+    "leftChoiceLabel": "Løp som en viking",
+    "rightChoiceLabel": "Aksepter edruskap",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2284
+  },
+  {
+    "id": 2284,
+    "category": "social",
+    "text": "Du kom deg inn klokken 14:59. Du griper en tilfeldig flaske rødvin. I kassen ber den ansatte om legitimasjon. Du er 38 år gammel, men glemte lommeboken i bilen.",
+    "leftChoiceLabel": "Argumenter logisk",
+    "rightChoiceLabel": "Trygle om nåde",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2285
+  },
+  {
+    "id": 2285,
+    "category": "money",
+    "text": "Kassereren nektet deg kjøpet. Du går ut tomhendt. En 'vennlig' tenåring utenfor tilbyr seg å kjøpe en flaske til deg for 500 kr i 'bekvemmelighetsgebyr'.",
+    "leftChoiceLabel": "Betal bestikkelsen",
+    "rightChoiceLabel": "Forbli tørst",
+    "leftEffect": {
+      "money": -1200,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2286,
+    "category": "culture",
+    "text": "Gangen din er blokkert av tre gigantiske poser med tomme ølbokser. Partneren din truer med å forlate deg med mindre du panter dem i dag.",
+    "leftChoiceLabel": "Dra på butikken",
+    "rightChoiceLabel": "Gjem dem i kjelleren",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -25,
+      "heat": 5
+    },
+    "nextScenarioId": 2287
+  },
+  {
+    "id": 2287,
+    "category": "money",
+    "text": "Du står ved pantemaskinen. Den fungerer perfekt helt til den aller siste boksen, som forårsaker en 'Systemfeil: Tilkall betjening'. En kø med fem sinte pensjonister danner seg bak deg.",
+    "leftChoiceLabel": "Vent på hjelp",
+    "rightChoiceLabel": "Løp i skam",
+    "leftEffect": {
+      "money": 150,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "nextScenarioId": 2288
+  },
+  {
+    "id": 2288,
+    "category": "social",
+    "text": "Maskinen er fikset. Du har en pantipp på 142 kr. Beholder du pengene, eller trykker du på 'Pantelotteriet'-knappen for å donere dem for en 0,0001% sjanse til å bli millionær?",
+    "leftChoiceLabel": "Behold pengene",
+    "rightChoiceLabel": "Spill for veldedighet",
+    "leftEffect": {
+      "money": 142,
+      "social": 0,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -142,
+      "social": 30,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2289,
+    "category": "work",
+    "text": "Du går inn på kontorkjøkkenet og finner en halvspist matpakke gjenglemt inni mikrobølgeovnen. Lukten er... biologisk. Vasker du den?",
+    "leftChoiceLabel": "Vask det opp",
+    "rightChoiceLabel": "La HR ta det",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 10
+    },
+    "nextScenarioId": 2290
+  },
+  {
+    "id": 2290,
+    "category": "social",
+    "text": "Du la igjen en passiv-aggressiv Post-it-lapp på mikroen: 'Den som gjorde dette er et monster.' Ti minutter senere sitter sjefen din og gråter ved skrivebordet sitt.",
+    "leftChoiceLabel": "Si unnskyld",
+    "rightChoiceLabel": "Doble innsatsen",
+    "leftEffect": {
+      "money": 0,
+      "social": 5,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 15
+    },
+    "nextScenarioId": 2291
+  },
+  {
+    "id": 2291,
+    "category": "work",
+    "text": "Sjefen din kaller inn til en obligatorisk workshop om 'Kjøkkenkultur'. Du må bruke 4 timer på å diskutere hvordan man 'deler plassen' med en sertifisert norsk konsulent.",
+    "leftChoiceLabel": "Lytt oppmerksomt",
+    "rightChoiceLabel": "Tegn på tavla",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2292,
+    "category": "sport",
+    "text": "Kollegene dine melder seg på 'Birken'—et 54 km langt skirenn over fjellet. For å unngå å virke svak, melder du deg også på. Du har ikke gått på ski siden 2014.",
+    "leftChoiceLabel": "Kjøp utstyr for 20k",
+    "rightChoiceLabel": "Intens YouTube-trening",
+    "leftEffect": {
+      "money": -20000,
+      "social": 15,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -15
+    },
+    "nextScenarioId": 2293
+  },
+  {
+    "id": 2293,
+    "category": "weather",
+    "text": "Det er løpsdag. Temperaturen er nøyaktig 0 grader—smørerens mareritt. Skiene dine klistrer seg til snøen som industriell borrelås. Alle glir forbi deg.",
+    "leftChoiceLabel": "Skrap ski med tennene",
+    "rightChoiceLabel": "Gråt i sporet",
+    "leftEffect": {
+      "money": 0,
+      "social": -25,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2294
+  },
+  {
+    "id": 2294,
+    "category": "culture",
+    "text": "Du fullfører løpet 9 timer for sent. Målstreken blir demontert. En forfrossen frivillig gir deg en deltakermedalje som ser ut som en bruskork.",
+    "leftChoiceLabel": "Bær den med stolthet",
+    "rightChoiceLabel": "Kast den i fjorden",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 0
+    }
+  },
+  {
+    "id": 2295,
+    "category": "money",
+    "text": "Du er på boligjakt i Oslo. Du finner en 'ettromsleilighet' for 16 000 kr. Sengen er på kjøkkenet og du må dele dusj med en familie på fire.",
+    "leftChoiceLabel": "Ta den umiddelbart",
+    "rightChoiceLabel": "Forhandle (Lol)",
+    "leftEffect": {
+      "money": -16000,
+      "social": 10,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2296
+  },
+  {
+    "id": 2296,
+    "category": "social",
+    "text": "Huseieren din, en mann ved navn Thor som går med sokker i sandalene, informerer deg om at 'gjester' er forbudt og at internett er begrenset til å sjekke været.",
+    "leftChoiceLabel": "Aksepter ensomheten",
+    "rightChoiceLabel": "Smugle inn en venn",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 30,
+      "heat": 5
+    },
+    "nextScenarioId": 2297
+  },
+  {
+    "id": 2297,
+    "category": "culture",
+    "text": "Thor tar deg på fersken i å bruke en brødrister etter klokken 21:00, noe som 'forstyrrer den felles roen'. Han benytter en hemmelig klausul i kontrakten din for å øke husleien.",
+    "leftChoiceLabel": "Betal brødrister-skatten",
+    "rightChoiceLabel": "Flytt i campingvogn",
+    "leftEffect": {
+      "money": -3000,
+      "social": 0,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 5000,
+      "social": -60,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2298,
+    "category": "social",
+    "text": "Du går om bord i en tom buss. Distrahert av telefonen din, setter du deg i dobbeltsetet rett ved siden av den eneste andre passasjeren. Du føler sjelen deres forlate kroppen i ren frykt.",
+    "leftChoiceLabel": "Lat som du er blind",
+    "rightChoiceLabel": "Si 'Hei' for å fikse det",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    },
+    "nextScenarioId": 2299
+  },
+  {
+    "id": 2299,
+    "category": "culture",
+    "text": "Passasjeren er så ukomfortabel at de går av bussen 4 kilometer før sitt egentlige stopp bare for å unnslippe 'Buss-snakkeren'.",
+    "leftChoiceLabel": "Følg etter for å si unnskyld",
+    "rightChoiceLabel": "Nyt den ekstra plassen",
+    "leftEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2300
+  },
+  {
+    "id": 2300,
+    "category": "social",
+    "text": "En video av 'Busshendelsen' din går viralt på en norsk subreddit. Du er nå kjent som 'Inntrengeren i den personlige sfæren'.",
+    "leftChoiceLabel": "Bruk forkledning",
+    "rightChoiceLabel": "Flytt til Sverige",
+    "leftEffect": {
+      "money": -500,
+      "social": 5,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2301,
+    "category": "work",
+    "text": "Sjefen din godkjenner 'hyttekontor'. Du kjører 5 timer inn i ødemarka og lover å være 'fullt tilgjengelig' på Slack.",
+    "leftChoiceLabel": "Pakk ekstra kaffe",
+    "rightChoiceLabel": "Pakk ekstra gin",
+    "leftEffect": {
+      "money": -200,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -600,
+      "social": 5,
+      "heat": 15
+    },
+    "nextScenarioId": 2302
+  },
+  {
+    "id": 2302,
+    "category": "culture",
+    "text": "En massiv snøstorm treffer fjellet. 4G-masta fryser til nøyaktig 2 minutter før din 'strategiske samordnings-presentasjon' for styret.",
+    "leftChoiceLabel": "Klatre på taket",
+    "rightChoiceLabel": "Skyld på russerne",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    },
+    "nextScenarioId": 2303
+  },
+  {
+    "id": 2303,
+    "category": "work",
+    "text": "Internettet er tilbake, men du er nå med i et innslag på lokalnyhetene titulert 'Idioten på taket' etter at en nabo filmet dekkings-jakten din.",
+    "leftChoiceLabel": "Si det var kunst",
+    "rightChoiceLabel": "Slett LinkedIn",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2304,
+    "category": "food",
+    "text": "Det er sesong for smalahove. Dine tradisjonelle svigerforeldre serverer deg et svidd sauehode. Øyet stirrer direkte inn i sjelen din.",
+    "leftChoiceLabel": "Spis øyet først",
+    "rightChoiceLabel": "Gjem det i servietten",
+    "leftEffect": {
+      "money": 0,
+      "social": 60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2305
+  },
+  {
+    "id": 2305,
+    "category": "culture",
+    "text": "For å skylle ned sauehodet, skjenker svigerfar deg en trippel Linje Akevitt. Han nekter å blunke før du har tømt glasset.",
+    "leftChoiceLabel": "Bunn det i én jafs",
+    "rightChoiceLabel": "Nipp høflig",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "nextScenarioId": 2306
+  },
+  {
+    "id": 2306,
+    "category": "social",
+    "text": "Kombinasjonen av sauefett og akevitt har utløst en biologisk nødssituasjon. Det eneste toalettet er rett ved siden av spisebordet og har vegger av papir.",
+    "leftChoiceLabel": "Skru kranen på fullt",
+    "rightChoiceLabel": "Stå i det",
+    "leftEffect": {
+      "money": -50,
+      "social": -10,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2307,
+    "category": "money",
+    "text": "Strømprisene er rekordhøye. Smart-appen din sier at det billigste tidspunktet å bruke vaskemaskinen på er tirsdag kl. 03:15.",
+    "leftChoiceLabel": "Sett alarmen",
+    "rightChoiceLabel": "Betal overpris",
+    "leftEffect": {
+      "money": 500,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -1200,
+      "social": 0,
+      "heat": 15
+    },
+    "nextScenarioId": 2308
+  },
+  {
+    "id": 2308,
+    "category": "weather",
+    "text": "Du vasker klær i mørket klokka 3 om natta for å spare 4 kroner. Du snubler i en ullsokk og faller på det kalde, fuktige kjellergulvet.",
+    "leftChoiceLabel": "Sov der til daggry",
+    "rightChoiceLabel": "Rop på hjelp",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2309
+  },
+  {
+    "id": 2309,
+    "category": "social",
+    "text": "Naboen så deg ligge på kjellergulvet gjennom vinduet. De hjalp ikke, men de postet om 'mistenkelig aktivitet' i nabolagets Facebook-gruppe.",
+    "leftChoiceLabel": "Forklar sparingen",
+    "rightChoiceLabel": "Flytt til ny bydel",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2310,
+    "category": "culture",
+    "text": "Du er i en lunsj på kontoret. Du bruker en vanlig kniv til å skjære i felles-brunosten i stedet for den hellige ostehøvelen. Rommet gisper i skrekk.",
+    "leftChoiceLabel": "Skjær en tykk blokk",
+    "rightChoiceLabel": "Si unnskyld til osten",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "nextScenarioId": 2311
+  },
+  {
+    "id": 2311,
+    "category": "work",
+    "text": "HR kaller deg inn til et møte om 'kulturell samhandling'. De plasserer tre ulike ostehøvler på bordet og krever at du peker ut fløtemysost-høvelen.",
+    "leftChoiceLabel": "Gjett i blinde",
+    "rightChoiceLabel": "Gråt på engelsk",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2312
+  },
+  {
+    "id": 2312,
+    "category": "culture",
+    "text": "Du strøk på ostehøvel-testen. Som straff sender sjefen deg til en fjellgård for å spikke din egen ostehøvel av en bjørkestamme.",
+    "leftChoiceLabel": "Omfavn spikkingen",
+    "rightChoiceLabel": "Flykt til Danmark",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -3000,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2313,
+    "category": "money",
+    "text": "Det er langhelg. Du legger ut på en 'Harrytur' til Sverige for å kjøpe billig bacon, snus og Pepsi Max.",
+    "leftChoiceLabel": "Kjøp 50 kg bacon",
+    "rightChoiceLabel": "Kjøp bare litt smågodt",
+    "leftEffect": {
+      "money": -2500,
+      "social": -10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": -5
+    },
+    "nextScenarioId": 2314
+  },
+  {
+    "id": 2314,
+    "category": "culture",
+    "text": "Bagasjerommet er fullt av 80 liter billig energidrikk. Du nærmer deg tollstasjonen. Tolleren tar direkte øyekontakt.",
+    "leftChoiceLabel": "Vær helt naturlig",
+    "rightChoiceLabel": "Panikk og gi gass",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 40
+    },
+    "nextScenarioId": 2315
+  },
+  {
+    "id": 2315,
+    "category": "money",
+    "text": "Du blir vinket inn. Du er over kvota med 12 liter brus og 4 kg kjøtt. Tolleren begynner å skrive ut en saftig bot.",
+    "leftChoiceLabel": "Drikk alt nå",
+    "rightChoiceLabel": "Betal kjempebot",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": -8500,
+      "social": 0,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2316,
+    "category": "social",
+    "text": "Du bor i borettslag. Du er nøyaktig 3 minutter for sen til å hente klærne i fellesvaskeriet. En nabo har allerede lagt det våte undertøyet ditt oppå maskinen.",
+    "leftChoiceLabel": "Skriv sint lapp",
+    "rightChoiceLabel": "Aksepter skammen",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 25
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -20
+    },
+    "nextScenarioId": 2317
+  },
+  {
+    "id": 2317,
+    "category": "social",
+    "text": "Du la igjen en passiv-aggressiv Post-it. Neste dag henger det et laminert svar på to sider som siterer 'Paragraf 4, Seksjon B' i vaskerivedtektene.",
+    "leftChoiceLabel": "Innkall til beboermøte",
+    "rightChoiceLabel": "Brenn den lappen",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "nextScenarioId": 2318
+  },
+  {
+    "id": 2318,
+    "category": "social",
+    "text": "På sameiemøtet er det ingen som nevner vaskekrigen. I stedet bruker hele blokka 3 timer på å diskutere om grusen i oppkjørselen skal være 'grå' eller 'mørkegrå'.",
+    "leftChoiceLabel": "Skrik om vaskeriet",
+    "rightChoiceLabel": "Stem på 'mørkegrå'",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2319,
+    "category": "food",
+    "text": "Det er bare 15. oktober. Den lokale Kiwi-butikken har satt ut første runde med julebrus. En voksen mann hamstrer frenetisk 40 kasser.",
+    "leftChoiceLabel": "Slåss for en kasse",
+    "rightChoiceLabel": "Vent til desember",
+    "leftEffect": {
+      "money": -300,
+      "social": -20,
+      "heat": 25
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -10
+    },
+    "nextScenarioId": 2320
+  },
+  {
+    "id": 2320,
+    "category": "food",
+    "text": "Du sikret deg én glassflaske Dahls julebrus. Du går ut og mister den rett i den islagte asfalten. Den knuses. En folkemengde samles og tar av seg luene i sorg.",
+    "leftChoiceLabel": "Slikk asfalten",
+    "rightChoiceLabel": "Syng en salme",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -15
+    },
+    "nextScenarioId": 2321
+  },
+  {
+    "id": 2321,
+    "category": "culture",
+    "text": "Lokalavisa skriver om din 'julebrus-tragedie'. Du tvinges på riksdekkende TV for å debattere Norges farligste tema: Er brun eller rød julebrus best?",
+    "leftChoiceLabel": "Si RØD er best",
+    "rightChoiceLabel": "Si BRUN er best",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2322,
+    "category": "money",
+    "text": "Lei av bompenger kjøper du en splitter ny Tesla. Den koster hele livsparingen din, men du føler deg moralsk overlegen.",
+    "leftChoiceLabel": "Vær klysete på FB",
+    "rightChoiceLabel": "Vær ydmyk",
+    "leftEffect": {
+      "money": -15000,
+      "social": 20,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": 0,
+      "heat": 10
+    },
+    "nextScenarioId": 2323
+  },
+  {
+    "id": 2323,
+    "category": "weather",
+    "text": "Du kjører elbilen til en avsidesliggende hytte. Det er -25°C. Batteriet faller plutselig fra 40 % til 2 % på tre minutter. Du er midt i ødemarka.",
+    "leftChoiceLabel": "Skru av varmen",
+    "rightChoiceLabel": "Gi gass og be",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 10
+    },
+    "nextScenarioId": 2324
+  },
+  {
+    "id": 2324,
+    "category": "culture",
+    "text": "Elbilen dør. Du blir reddet av en lokal bonde i en forurensende 98-modell diesel-Volvo. Han tauer deg til sivilisasjonen mens han ler høyt av deg.",
+    "leftChoiceLabel": "Betal ham 2000 kr",
+    "rightChoiceLabel": "Krangle om utslipp",
+    "leftEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2325,
+    "category": "work",
+    "text": "Du prøver å ringe NAV for et enkelt spørsmål om skatteklasse. Den automatiserte stemmen sier du er nummer 412 i køen.",
+    "leftChoiceLabel": "Vent i 5 timer",
+    "rightChoiceLabel": "Legg på",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2326
+  },
+  {
+    "id": 2326,
+    "category": "work",
+    "text": "Du kommer endelig gjennom. Saksbehandleren sukker tungt og informerer om at du trenger 'Skjema 24-B', som må sendes via faks eller brevdue.",
+    "leftChoiceLabel": "Finn en faks",
+    "rightChoiceLabel": "Skrik inn i røret",
+    "leftEffect": {
+      "money": -100,
+      "social": 0,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 15
+    },
+    "nextScenarioId": 2327
+  },
+  {
+    "id": 2327,
+    "category": "culture",
+    "text": "Du fant en faks på et museum og sendte skjemaet. En uke senere får du brev om at du brukte blå penn i stedet for svart. Søknad avslått.",
+    "leftChoiceLabel": "Godta nederlaget",
+    "rightChoiceLabel": "Flytt til skogs",
+    "leftEffect": {
+      "money": -1000,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2328,
+    "category": "food",
+    "text": "Du tar med varm lunsj på kontoret i stedet for den tradisjonelle matpakka med tørt brød. Lukten fornærmer kollegene dine dypt.",
+    "leftChoiceLabel": "Spis med stolthet",
+    "rightChoiceLabel": "Kast maten",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": 20,
+      "heat": -15
+    },
+    "nextScenarioId": 2329
+  },
+  {
+    "id": 2329,
+    "category": "work",
+    "text": "HR sender ut et passiv-aggressivt skriv om 'sjenerende luktforstyrrelser'. Alle stirrer på mikro-fisken din.",
+    "leftChoiceLabel": "Si unnskyld",
+    "rightChoiceLabel": "Spis fisk i morgen",
+    "leftEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    },
+    "nextScenarioId": 2330
+  },
+  {
+    "id": 2330,
+    "category": "culture",
+    "text": "For å passe inn, bytter du til tørt Kneippbrød med en svett salamiskive. Sjelen din dør, men din sosiale status er gjenopprettet.",
+    "leftChoiceLabel": "Tygg pappen",
+    "rightChoiceLabel": "Gråt i brødet",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2331,
+    "category": "sport",
+    "text": "Din atletiske og irriterende blide kollega overbeviser deg om å bli med på isbading i Oslofjorden.",
+    "leftChoiceLabel": "Gjør det for IG",
+    "rightChoiceLabel": "Fake en hjertefeil",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2332
+  },
+  {
+    "id": 2332,
+    "category": "weather",
+    "text": "Du hopper ut i det iskalde vannet. Hjertet stopper et sekund. Kollegaen din trør vannet og diskuterer boligrenta.",
+    "leftChoiceLabel": "Smil og nikk",
+    "rightChoiceLabel": "Rop på mamma",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2333
+  },
+  {
+    "id": 2333,
+    "category": "social",
+    "text": "Du klatrer opp av vannet, skjelvende. En måke har fløyet av gårde med det eneste håndkleet ditt. Januarvinden hyler.",
+    "leftChoiceLabel": "Løp naken til bilen",
+    "rightChoiceLabel": "Spør om å dele",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2334,
+    "category": "culture",
+    "text": "Du booker et 48-timers cruise på Danskebåten kun for billig sprit og buffet. Skagerrak er ekstremt urolig og skipet krenger voldsomt.",
+    "leftChoiceLabel": "Gå for buffeten",
+    "rightChoiceLabel": "Gjem deg i lugaren",
+    "leftEffect": {
+      "money": -300,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2335
+  },
+  {
+    "id": 2335,
+    "category": "food",
+    "text": "Du er i buffeten. Skipet stuper ned en 10-meters bølge. Tallerkenen med sild og roastbiff flyr rett i fanget på kapteinen.",
+    "leftChoiceLabel": "Tilby en serviett",
+    "rightChoiceLabel": "Skyld på bølgene",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2336
+  },
+  {
+    "id": 2336,
+    "category": "money",
+    "text": "Du blir utvist fra buffeten. For å takle det, bruker du resten av turen på Tax-free for å kjøpe 40 kartonger røyk du ikke engang røyker.",
+    "leftChoiceLabel": "Begynn å røyke",
+    "rightChoiceLabel": "Selg på Finn.no",
+    "leftEffect": {
+      "money": -4000,
+      "social": -20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 2000,
+      "social": -10,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2337,
+    "category": "social",
+    "text": "Det er mai. En russebuss med et anlegg på 200 000 watt parkerer rett under vinduet ditt klokka 03:00.",
+    "leftChoiceLabel": "Ring politiet",
+    "rightChoiceLabel": "Bruk ørepropper",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2338
+  },
+  {
+    "id": 2338,
+    "category": "culture",
+    "text": "Politiet sier 'la barna feire'. Bassvibrasjonene løsner fyllingene dine. Du går ned i morgenkåpe for å konfrontere 25 fulle 18-åringer.",
+    "leftChoiceLabel": "Dra ut kontakten",
+    "rightChoiceLabel": "Spør høflig",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2339
+  },
+  {
+    "id": 2339,
+    "category": "social",
+    "text": "De filmet at du skrek i morgenkåpa. Du våkner som #1 trending på TikTok i Norge under emneknaggen #SinteNabo.",
+    "leftChoiceLabel": "Flytt til Svalbard",
+    "rightChoiceLabel": "Bli en influenser",
+    "leftEffect": {
+      "money": -15000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 500,
+      "social": 60,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2340,
+    "category": "money",
+    "text": "En kollega kjøper en kaffe til deg i kantina. Den koster nøyaktig 14 kr. De stirrer forventningsfullt på deg.",
+    "leftChoiceLabel": "Vipps 14 kr",
+    "rightChoiceLabel": "Si 'jeg tar neste'",
+    "leftEffect": {
+      "money": -14,
+      "social": 20,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -5
+    },
+    "nextScenarioId": 2341
+  },
+  {
+    "id": 2341,
+    "category": "social",
+    "text": "Du betalte ikke tilbake. Tre uker senere får du et Vipps-krav på 14 kr, pluss 2 kr i 'inflasjonsjustering'.",
+    "leftChoiceLabel": "Avvis kravet",
+    "rightChoiceLabel": "Betal 16 kr i skam",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -16,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2342
+  },
+  {
+    "id": 2342,
+    "category": "work",
+    "text": "Du avviste kravet. Kollegaen har sluttet å si 'hei' i korridoren. Hele kontoret har tatt deres side. Du er isolert.",
+    "leftChoiceLabel": "Si opp jobben",
+    "rightChoiceLabel": "Kjøp kake til alle",
+    "leftEffect": {
+      "money": -8000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -400,
+      "social": 50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2343,
+    "category": "sport",
+    "text": "Det er søndag. Det er praktisk talt ulovlig å ikke gå 'søndagstur'. Du passerer en fremmed på den gjørmete stien.",
+    "leftChoiceLabel": "Si et muntert 'Hei!'",
+    "rightChoiceLabel": "Stirr ned på skoa",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 5
+    },
+    "nextScenarioId": 2344
+  },
+  {
+    "id": 2344,
+    "category": "social",
+    "text": "Du sa 'Hei!' med altfor mye entusiasme. Den fremmede ser livredd ut og begynner å gå fort unna.",
+    "leftChoiceLabel": "Jogg etter og forklar",
+    "rightChoiceLabel": "La dem slippe unna",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2345
+  },
+  {
+    "id": 2345,
+    "category": "weather",
+    "text": "For å gjenvinne verdigheten, setter du deg på en stein for å spise Kvikk Lunsj og appelsin. Aggressive fjellmåker stuper etter sjokoladen din.",
+    "leftChoiceLabel": "Slåss mot fugla",
+    "rightChoiceLabel": "Gi fra deg tursnacksen",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 15
+    }
+  },
+  {
+    "id": 2346,
+    "category": "social",
+    "text": "Du har et mystisk, smertefullt utslett. Du prøver å bestille time hos fastlegen. Første ledige time er om 6 uker.",
+    "leftChoiceLabel": "Vent tålmodig",
+    "rightChoiceLabel": "Dra til Volvat",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -3000,
+      "social": 0,
+      "heat": 20
+    },
+    "nextScenarioId": 2347
+  },
+  {
+    "id": 2347,
+    "category": "social",
+    "text": "Du ventet i 6 uker. Utslettet dekker nå hele armen. Du ser endelig legen, som ser på det i 4 sekunder og foreskriver 'Ibux og Paracet'.",
+    "leftChoiceLabel": "Krev antibiotika",
+    "rightChoiceLabel": "Godta Ibuxen",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2348
+  },
+  {
+    "id": 2348,
+    "category": "work",
+    "text": "Du fornærmet legen. De skriver i journalen at du er 'dramatisk'. Du er nå svartelistet fra å få sykmelding.",
+    "leftChoiceLabel": "Kurere med barnål",
+    "rightChoiceLabel": "Dra til Sverige for dop",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": -10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2349,
+    "category": "money",
+    "text": "Du kjører i Oslofjordtunnelen. Du drifter 3 km/t over fartsgrensa. Et rødt blink blender deg. Fotoboksen tok deg.",
+    "leftChoiceLabel": "Panikk og brems",
+    "rightChoiceLabel": "Bann høyt",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -15
+    },
+    "nextScenarioId": 2350
+  },
+  {
+    "id": 2350,
+    "category": "money",
+    "text": "To uker senere kommer brevet i Altinn. Boten er på 3800 kr for å ha kjørt i 73 km/t i 70-sonen.",
+    "leftChoiceLabel": "Klag på boten",
+    "rightChoiceLabel": "Betal umiddelbart",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": -3800,
+      "social": 20,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2351,
+    "category": "culture",
+    "text": "Klagen din hevdet at 'vinden dyttet bilen'. Statens Vegvesen svarer med et matematisk bevis som viser at det er umulig, og legger til et administrasjonsgebyr på 500 kr.",
+    "leftChoiceLabel": "Innrøm nederlag",
+    "rightChoiceLabel": "Brenn brevet",
+    "leftEffect": {
+      "money": -4300,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2352,
+    "category": "work",
+    "text": "Den dyre italienske kaffemaskinen på kontoret er tom for bønner. Det er din tur til å fylle på, men du søler bønner over hele gulvet akkurat idet sjefen kommer gående.",
+    "leftChoiceLabel": "Spark dem under kjøleskapet",
+    "rightChoiceLabel": "Plukk dem opp én etter én",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2353
+  },
+  {
+    "id": 2353,
+    "category": "social",
+    "text": "Sjefen tråkker på de løse bønnene, sklir, og søler brennhet Earl Grey-te nedover sin egen skjorte. Hele kontoret gisper i kor.",
+    "leftChoiceLabel": "Tilby et papirlommetørkle",
+    "rightChoiceLabel": "Lat som ingenting",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2354
+  },
+  {
+    "id": 2354,
+    "category": "work",
+    "text": "Du blir degradert til arkivrommet i kjelleren. Din eneste selskap er en kaffetrakter fra 1995 som smaker batterisyre og elendighet.",
+    "leftChoiceLabel": "Ta med termos",
+    "rightChoiceLabel": "Drikk batterisyra",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2355,
+    "category": "culture",
+    "text": "Du bestemmer deg for å støvsuge leiligheten. Du sjekker klokka. Det er søndag. I Norge er det å bråke på en helligdag praktisk talt en krigsforbrytelse.",
+    "leftChoiceLabel": "Risker det i 5 minutter",
+    "rightChoiceLabel": "Lev i skitten",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -15
+    },
+    "nextScenarioId": 2356
+  },
+  {
+    "id": 2356,
+    "category": "social",
+    "text": "Du støvsugde. Tre minutter senere banker det rasende på døra. Det er den eldre naboen i etasjen under, Kjell, bevæpnet med en feiekost.",
+    "leftChoiceLabel": "Åpne døra",
+    "rightChoiceLabel": "Gjem deg under senga",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 15
+    },
+    "nextScenarioId": 2357
+  },
+  {
+    "id": 2357,
+    "category": "culture",
+    "text": "Kjell rapporterer deg til styret. Du blir innkalt til et møte hvor du må be offentlig om unnskyldning og love å kun vaske med lydløse mikrofiberkluter.",
+    "leftChoiceLabel": "Kjøp mikrofiber",
+    "rightChoiceLabel": "Støvsug på trass",
+    "leftEffect": {
+      "money": -150,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2358,
+    "category": "food",
+    "text": "Du blir invitert til et tradisjonelt lutefisklag. Du googler det og lærer at det er tørrfisk dynket i kaustisk lut – bokstavelig talt avløpsrens.",
+    "leftChoiceLabel": "Spis avløpsfisken",
+    "rightChoiceLabel": "Fake fiskeallergi",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2359
+  },
+  {
+    "id": 2359,
+    "category": "culture",
+    "text": "Lutefisken ankommer. Den skjelver på tallerkenen som en gjennomsiktig gelé med fiskelukt. Verten insisterer på at du spiser den med ribbefett og akevitt.",
+    "leftChoiceLabel": "Svelg uten å tygge",
+    "rightChoiceLabel": "Tygg sakte",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -50
+    },
+    "nextScenarioId": 2360
+  },
+  {
+    "id": 2360,
+    "category": "food",
+    "text": "Du svelget lut-fisken. Magen din starter umiddelbart et voldelig opprør. Du prøver å dra, men er snødd inne. Verten tilbyr mer fisk.",
+    "leftChoiceLabel": "Aksepter din skjebne",
+    "rightChoiceLabel": "Lås deg inne på badet",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2361,
+    "category": "work",
+    "text": "Det er juli. Den legendariske fellesferien har begynt. Hele landet har stengt. Vannrøret i leiligheten din eksploderer.",
+    "leftChoiceLabel": "Ring rørlegger",
+    "rightChoiceLabel": "Bruk gaffatape",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": 0,
+      "heat": -30
+    },
+    "nextScenarioId": 2362
+  },
+  {
+    "id": 2362,
+    "category": "social",
+    "text": "Du ringer 14 ulike rørleggere. Svareren på alle sier: 'Vi er på hytta til 15. august. Hvis vannet stiger, lær deg å svømme.'",
+    "leftChoiceLabel": "Gråt i vannmassene",
+    "rightChoiceLabel": "Bestikk noen på nett",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": 10,
+      "heat": 20
+    },
+    "nextScenarioId": 2363
+  },
+  {
+    "id": 2363,
+    "category": "money",
+    "text": "Du prøver å fikse røret selv med en YouTube-guide. Du feiler og oversvømmer leiligheten under, som tilhører styrelederen i borettslaget.",
+    "leftChoiceLabel": "Flykt fra landet",
+    "rightChoiceLabel": "Tilby deg å moppe",
+    "leftEffect": {
+      "money": -5000,
+      "social": -80,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": -20,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2364,
+    "category": "culture",
+    "text": "Du er snødd inne hos svigerforeldrene dine. De ser på 'Sakte-TV': En 12 timer lang sending av ved som brenner. Ingen musikk, ingen snakking.",
+    "leftChoiceLabel": "Stirr inn i flammene",
+    "rightChoiceLabel": "Sjekk mobilen",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2365
+  },
+  {
+    "id": 2365,
+    "category": "social",
+    "text": "Det er time 7 av brenningen. Du hallusinerer av kjedsomhet. Du foreslår å se en film i stedet. Rommet blir dødsstille og fornærmelsen er total.",
+    "leftChoiceLabel": "Beklag på det dypeste",
+    "rightChoiceLabel": "Stå for det",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "nextScenarioId": 2366
+  },
+  {
+    "id": 2366,
+    "category": "culture",
+    "text": "Som straff for din manglende tålmodighet, bytter svigerfar kanal til den 134 timer lange sendingen av Hurtigruten som seiler opp kysten.",
+    "leftChoiceLabel": "Gråt i stillhet",
+    "rightChoiceLabel": "Lat som du er i koma",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2367,
+    "category": "weather",
+    "text": "Du tar et billigfly til Svalbard i januar for å være litt alternativ. Det er bekmørkt 24/7, -30 grader, og de lokale krever at du bærer rifle mot isbjørn.",
+    "leftChoiceLabel": "Lei en rifle",
+    "rightChoiceLabel": "Stol på nevene dine",
+    "leftEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -50
+    },
+    "nextScenarioId": 2368
+  },
+  {
+    "id": 2368,
+    "category": "social",
+    "text": "Du utvikler en kraftig hoste. Den lokale legen får panikk og forteller deg at det er ulovlig å dø på øya fordi permafrosten dytter likene opp igjen.",
+    "leftChoiceLabel": "Lov at du ikke skal dø",
+    "rightChoiceLabel": "Host aggressivt",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "nextScenarioId": 2369
+  },
+  {
+    "id": 2369,
+    "category": "money",
+    "text": "Myndighetene tar ingen sjanser. Du blir deportert tilbake til fastlandet i et lastefly, fastspent ved siden av en neddopet hvalross.",
+    "leftChoiceLabel": "Klapp hvalrossen",
+    "rightChoiceLabel": "Aksepter din eksil",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 0,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2370,
+    "category": "culture",
+    "text": "For å passe inn med kollegene, takker du ja til en snus og legger den under overleppa. Du blir umiddelbart svimmel og kvalm.",
+    "leftChoiceLabel": "Behold den inne",
+    "rightChoiceLabel": "Spytt den ut",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2371
+  },
+  {
+    "id": 2371,
+    "category": "work",
+    "text": "Du prøvde å beholde den inne, men noen stilte deg et spørsmål og du svelget ved et uhell hele snusen under et budsjettmøte. Ansiktet ditt blir grått.",
+    "leftChoiceLabel": "Løp på do",
+    "rightChoiceLabel": "Svelg med stolthet",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -80
+    },
+    "nextScenarioId": 2372
+  },
+  {
+    "id": 2372,
+    "category": "work",
+    "text": "Du kaster opp spektakulært over hele kvartalsrapporten. For å redde ansikt, må du late som om dette var et dypt kunstnerisk uttrykk over den svake kronen.",
+    "leftChoiceLabel": "Gi tommel opp",
+    "rightChoiceLabel": "Besvim",
+    "leftEffect": {
+      "money": -500,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2373,
+    "category": "weather",
+    "text": "Det er 2. mars. Sola er fremme, men det er 2 grader. Kollegene dine insisterer på en 'utepils' for å feire våren.",
+    "leftChoiceLabel": "Sitt i skyggen",
+    "rightChoiceLabel": "Lat som du koser deg",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -120,
+      "social": 20,
+      "heat": -30
+    },
+    "nextScenarioId": 2374
+  },
+  {
+    "id": 2374,
+    "category": "money",
+    "text": "Du skjelver voldsomt. En måke sikter seg inn på din ekstremt dyre øl til 120 kr og velter den over den nye ullgenseren din.",
+    "leftChoiceLabel": "Gråt over ølen",
+    "rightChoiceLabel": "Kjøp en ny",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -120,
+      "social": 10,
+      "heat": 5
+    },
+    "nextScenarioId": 2375
+  },
+  {
+    "id": 2375,
+    "category": "work",
+    "text": "Du fikk lett hypotermi av utepilsen. Du prøver å ringe inn syk, men sjefen siterer: 'Det finnes ikke dårlig vær, bare dårlige klær.'",
+    "leftChoiceLabel": "Møt opp frossen",
+    "rightChoiceLabel": "Legg på og sov",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": -40,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2376,
+    "category": "food",
+    "text": "Det er desember. En nasjonal smørkrise rammer igjen. Butikkhyllene er helt tomme. Julebaksten er i fare.",
+    "leftChoiceLabel": "Bak med margarin",
+    "rightChoiceLabel": "Finn smør på svartebørsen",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": 10
+    },
+    "nextScenarioId": 2377
+  },
+  {
+    "id": 2377,
+    "category": "money",
+    "text": "Du møter en tvilsom type i et smug bak REMA 1000. Han selger deg 2 kg 'premium smør'. Hjemme innser du at det er billig svensk margarin malt gult.",
+    "leftChoiceLabel": "Spis den gule løgnen",
+    "rightChoiceLabel": "Jakt på dealeren",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -30
+    },
+    "nextScenarioId": 2378
+  },
+  {
+    "id": 2378,
+    "category": "social",
+    "text": "Du serverte det falske smøret til svigerfamilien. Svigermor merker det umiddelbart og kaller baksten din for 'et svik mot nasjonen'.",
+    "leftChoiceLabel": "Skyld på svenskene",
+    "rightChoiceLabel": "Be om nåde",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2379,
+    "category": "social",
+    "text": "Du setter deg ved siden av noen på toget. Dessverre er de fra Bergen. De begynner umiddelbart å snakke høyt til deg. I Norge er dette skremmende.",
+    "leftChoiceLabel": "Ta på hodetelefoner",
+    "rightChoiceLabel": "Nikk høflig",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "nextScenarioId": 2380
+  },
+  {
+    "id": 2380,
+    "category": "culture",
+    "text": "De ignorerer dine grenser og begynner å forklare lidenskapelig hvorfor det regner bedre i Bergen enn i Oslo. De forventer svar.",
+    "leftChoiceLabel": "Vær helt enig",
+    "rightChoiceLabel": "Forsvar Oslo intenst",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "nextScenarioId": 2381
+  },
+  {
+    "id": 2381,
+    "category": "social",
+    "text": "Bergenseren erklærer deg som en venn for livet og inviterer deg på fiskekaker på Bryggen. Du innser at du aldri kan ta dette toget igjen.",
+    "leftChoiceLabel": "Aksepter skjebnen",
+    "rightChoiceLabel": "Bytt identitet",
+    "leftEffect": {
+      "money": -800,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2382,
+    "category": "sport",
+    "text": "Du går en søndagstur i Nordmarka. Du går av stien i 5 sekunder for å se på en sopp og mister umiddelbart retningssansen.",
+    "leftChoiceLabel": "Følg mosen",
+    "rightChoiceLabel": "Sjekk Google Maps",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2383
+  },
+  {
+    "id": 2383,
+    "category": "weather",
+    "text": "Mobilen din dør fordi batteriet frøs i -5 grader. Du husker at Fjellvettreglene sier man skal grave seg ned i tide.",
+    "leftChoiceLabel": "Grav med nevene",
+    "rightChoiceLabel": "Bare fortsett å gå",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "nextScenarioId": 2384
+  },
+  {
+    "id": 2384,
+    "category": "social",
+    "text": "Du gravde en elendig snøhule. En pensjonist på langrennski stopper opp og spør om du 'nyter frisk luft'. Han tilbyr ikke hjelp.",
+    "leftChoiceLabel": "Trygle om redning",
+    "rightChoiceLabel": "Si 'Ja, deilig!'",
+    "leftEffect": {
+      "money": -500,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -30
+    },
+    "nextScenarioId": 2385
+  },
+  {
+    "id": 2385,
+    "category": "culture",
+    "text": "Du sa 'Ja, deilig!' for å redde ansikt. Pensjonisten går videre. Du er for stolt til å ringe etter hjelp nå. Du bor i snøhula.",
+    "leftChoiceLabel": "Spis en frossen Kvikk Lunsj",
+    "rightChoiceLabel": "Aksepter ditt nye liv",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2386,
+    "category": "culture",
+    "text": "Du skal dra fra hytta til en venn. Du får utlevert den hellige hytteboka. I Norge forventes det at du skriver et poetisk essay om turen.",
+    "leftChoiceLabel": "Skriv et dikt på 3 sider",
+    "rightChoiceLabel": "Skriv bare 'Takk'",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2387
+  },
+  {
+    "id": 2387,
+    "category": "social",
+    "text": "Verten leser ditt 'Takk'-innlegg. Han ser på deg som om du akkurat brant det norske flagget. Stillheten i hytta er øredøvende.",
+    "leftChoiceLabel": "Skyld på skrivesperre",
+    "rightChoiceLabel": "Fake en håndskade",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -25
+    },
+    "nextScenarioId": 2388
+  },
+  {
+    "id": 2388,
+    "category": "culture",
+    "text": "Du blir aldri invitert tilbake. Som straff må du tilbringe neste påske i et tomt, stille Oslo mens alle andre er på fjellet.",
+    "leftChoiceLabel": "Nyt freden",
+    "rightChoiceLabel": "Gråt på en stengt pub",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": -20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2389,
+    "category": "social",
+    "text": "Du går om bord i et charterfly til Syden for å flykte fra vinteren. Flyet lander trygt. Hele kabinen bryter ut i dundrende applaus.",
+    "leftChoiceLabel": "Klapp entusiastisk",
+    "rightChoiceLabel": "Nekt å klappe",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2390
+  },
+  {
+    "id": 2390,
+    "category": "food",
+    "text": "Du pakker ut på hotellet. Du innser at du pakket 3 Brunoster og 5 poser Toro-suppe, men glemte solkrem.",
+    "leftChoiceLabel": "Spis suppe på balkongen",
+    "rightChoiceLabel": "Gå ut ubeskyttet",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -40
+    },
+    "nextScenarioId": 2391
+  },
+  {
+    "id": 2391,
+    "category": "weather",
+    "text": "Du er solbrent som en kokt hummer etter dag 1. Andre norske turister peker og nikker i felles forståelse for smerten din.",
+    "leftChoiceLabel": "Smør på yoghurt",
+    "rightChoiceLabel": "Bli i sola",
+    "leftEffect": {
+      "money": -50,
+      "social": 10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -80
+    }
+  },
+  {
+    "id": 2392,
+    "category": "money",
+    "text": "Det er april. Skattemeldingen slippes. Altinn krasjer umiddelbart fordi 4 millioner mennesker sjekker den samtidig.",
+    "leftChoiceLabel": "Oppdater obsessivt",
+    "rightChoiceLabel": "Vent en uke",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2393
+  },
+  {
+    "id": 2393,
+    "category": "money",
+    "text": "Du kommer endelig inn. Skjermen lyser rødt. Du har fått 45 000 kr i baksmell. Hjertet stopper.",
+    "leftChoiceLabel": "Flykt til et skatteparadis",
+    "rightChoiceLabel": "Dobbeltsjekk tallene",
+    "leftEffect": {
+      "money": -5000,
+      "social": -80,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 20
+    },
+    "nextScenarioId": 2394
+  },
+  {
+    "id": 2394,
+    "category": "work",
+    "text": "Du skjønner at du glemte pendlerfradraget. Du retter det. Nå skylder staten DEG nøyaktig 12 kr.",
+    "leftChoiceLabel": "Invester de 12 kronene",
+    "rightChoiceLabel": "Ram inn kvitteringen",
+    "leftEffect": {
+      "money": 12,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": 30,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2395,
+    "category": "food",
+    "text": "Du besøker Fisketorget i Bergen. En enkelt fiskekake koster 250 kr fordi det er en turistfelle.",
+    "leftChoiceLabel": "Kjøp fiskekaka",
+    "rightChoiceLabel": "Kjøp frossenpizza",
+    "leftEffect": {
+      "money": -250,
+      "social": 10,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": -60,
+      "social": -10,
+      "heat": -5
+    },
+    "nextScenarioId": 2396
+  },
+  {
+    "id": 2396,
+    "category": "weather",
+    "text": "Før du rekker å bite i kasta til 250 kr, stuper en måke ned og stjeler den fra hendene dine.",
+    "leftChoiceLabel": "Skrik til fuglen",
+    "rightChoiceLabel": "Godta næringskjeden",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2397
+  },
+  {
+    "id": 2397,
+    "category": "social",
+    "text": "En tysk turist filmet at du skrek til måken. Du går viralt på TikTok som 'Angry Fish Man'.",
+    "leftChoiceLabel": "Selg merch",
+    "rightChoiceLabel": "Gjem deg for alltid",
+    "leftEffect": {
+      "money": 1500,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2398,
+    "category": "food",
+    "text": "Du inviterer kolleger på tacofredag. I stedet for Old El Paso-settet, bruker du 12 timer på langstekt svin og autentisk habanero-salsa.",
+    "leftChoiceLabel": "Server autentisk taco",
+    "rightChoiceLabel": "Få panikk og kjøp settet",
+    "leftEffect": {
+      "money": -500,
+      "social": -20,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2399
+  },
+  {
+    "id": 2399,
+    "category": "social",
+    "text": "Du serverte den autentiske tacoen. Kollegene stirrer på bordet i skrekk. Én spør: 'Hvor er maisboksen? Hvor er agurkterningene?'",
+    "leftChoiceLabel": "Forsvar meksikansk kultur",
+    "rightChoiceLabel": "Hakk en agurk kjapt",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -20
+    },
+    "nextScenarioId": 2400
+  },
+  {
+    "id": 2400,
+    "category": "food",
+    "text": "En kollega tar en bit av habanero-salsaen din. Hans nordiske gane takler ikke presset. Han får ikke puste.",
+    "leftChoiceLabel": "Tilby et glass melk",
+    "rightChoiceLabel": "Ring ambulanse",
+    "leftEffect": {
+      "money": -20,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": -80,
+      "heat": 50
+    }
+  },
+  {
+    "id": 2401,
+    "category": "weather",
+    "text": "Det er -15°C ute. Du har kledd deg i tykk Devold-ullgenser og superundertøy. Du kommer på kontoret, men termostaten er satt til tropiske 25°C.",
+    "leftChoiceLabel": "Behold ulla på",
+    "rightChoiceLabel": "Kast klærne i lobbyen",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "nextScenarioId": 2402
+  },
+  {
+    "id": 2402,
+    "category": "work",
+    "text": "Du beholdt ulla på. Du sitter nå i et to-timers budsjettmøte. Du svetter desperat. Ansiktet er lilla. Å ta av genseren betyr å blottlegge en flekkete singlet.",
+    "leftChoiceLabel": "Vis singleten",
+    "rightChoiceLabel": "Kok i stillhet",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 60
+    },
+    "nextScenarioId": 2403
+  },
+  {
+    "id": 2403,
+    "category": "social",
+    "text": "Du sniker deg ut på do, drar desperat av deg superundertøyet og prøver å stappe det ned i laptoppveska. Sjefen din kommer inn mens du står der halvnaken.",
+    "leftChoiceLabel": "Hold øyekontakt",
+    "rightChoiceLabel": "Skrik",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2404,
+    "category": "culture",
+    "text": "Du parkerte ved et uhell 2 centimeter over den hvite linja i borettslaget. Du finner en laminert, detaljert arkitekttegning av parkeringsreglene på frontruta.",
+    "leftChoiceLabel": "Flytt bilen",
+    "rightChoiceLabel": "Legg igjen mot-lapp",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 20
+    },
+    "nextScenarioId": 2405
+  },
+  {
+    "id": 2405,
+    "category": "social",
+    "text": "Du valgte krig. Du legger igjen en lapp som forklarer at linja er falmet og matematisk tvetydig. For å markere dominans, laminerer du lappen to ganger.",
+    "leftChoiceLabel": "Tape den på døra deres",
+    "rightChoiceLabel": "Legg den på bilen deres",
+    "leftEffect": {
+      "money": -50,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": -30,
+      "heat": 20
+    },
+    "nextScenarioId": 2406
+  },
+  {
+    "id": 2406,
+    "category": "money",
+    "text": "Neste morgen er bilen din fullstendig pakket inn i 400 meter med industriell plastfolie med en siste lapp: 'Paragraf 3: Respekter linja. Hilsen Styret.'",
+    "leftChoiceLabel": "Kjøp en kniv",
+    "rightChoiceLabel": "Ta bussen for alltid",
+    "leftEffect": {
+      "money": -200,
+      "social": -50,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 10,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2407,
+    "category": "social",
+    "text": "Du venter på heisen. Du hører den pratsomme naboen din nærme seg i korridoren. I Norge anses småprat i heis som tortur.",
+    "leftChoiceLabel": "Spam 'lukk dør'-knappen",
+    "rightChoiceLabel": "Ta trappa (8 etasjer)",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "nextScenarioId": 2408
+  },
+  {
+    "id": 2408,
+    "category": "social",
+    "text": "Du spamma knappen, men naboen stakk hånda inn i døra. Du er nå fanget i en 1,5 kvm metallboks med dem. De ser på deg og sier: 'Fint vær i dag.'",
+    "leftChoiceLabel": "Stirr på etasjenummerne",
+    "rightChoiceLabel": "Si 'Helt greit'",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 5
+    },
+    "nextScenarioId": 2409
+  },
+  {
+    "id": 2409,
+    "category": "culture",
+    "text": "De bryter protokollen og stiller et dypt personlig spørsmål om skilsmissen din. Norsk lov krever at du stirrer ut i tomrommet og mumler 'Uff da'.",
+    "leftChoiceLabel": "Si 'Uff da'",
+    "rightChoiceLabel": "Fortell alt",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2410,
+    "category": "culture",
+    "text": "Du besøker en 100 år gammel hytte. Toalettet er en 'snurredass'. Det er din tur til å manuelt rotere karusellen med menneskelig avfall under gulvet.",
+    "leftChoiceLabel": "Dra i den tunge spaken",
+    "rightChoiceLabel": "Hold deg i 3 dager",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 30
+    },
+    "nextScenarioId": 2411
+  },
+  {
+    "id": 2411,
+    "category": "work",
+    "text": "Du dro i spaken, men karusellen sitter fast. Hytteeieren gir deg en lang trepinne og sier: 'Du vet hva du må gjøre.'",
+    "leftChoiceLabel": "Stikk i møkkahaugen",
+    "rightChoiceLabel": "Nekt og dra hjem",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "nextScenarioId": 2412
+  },
+  {
+    "id": 2412,
+    "category": "weather",
+    "text": "Du prøver å løsne det fryktinngytende avfallsfjellet med pinnen. Du dytter for hardt. Pinnen knekker, og du mister den andre halvdelen ned i hullet.",
+    "leftChoiceLabel": "Stikk armen nedi",
+    "rightChoiceLabel": "Skyld på et spøkelse",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2413,
+    "category": "money",
+    "text": "Du biter i en frossen Grandiosa-skorpe og knekker en jeksel. I Norge er helsehjelp gratis, men tannlege for voksne koster din udødelige sjel.",
+    "leftChoiceLabel": "Dra til tannlegen",
+    "rightChoiceLabel": "Bruk superlim",
+    "leftEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": -30,
+      "heat": -40
+    },
+    "nextScenarioId": 2414
+  },
+  {
+    "id": 2414,
+    "category": "money",
+    "text": "Den norske tannlegen ser på tannen din, sukker tungt, og gir deg et overslag på 45 000 kr. Betaler du, eller bestiller du billigfly til Polen?",
+    "leftChoiceLabel": "Ta opp et lån",
+    "rightChoiceLabel": "Fly til Polen",
+    "leftEffect": {
+      "money": -15000,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 0,
+      "heat": -10
+    },
+    "nextScenarioId": 2415
+  },
+  {
+    "id": 2415,
+    "category": "social",
+    "text": "Du tok det billige flyet. Du våkner opp på klinikken i Polen med en perfekt porselenskrone, men oppdager et ferskt arr over venstre nyre.",
+    "leftChoiceLabel": "Godta byttehandelen",
+    "rightChoiceLabel": "Rop på politiet",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2416,
+    "category": "culture",
+    "text": "Du er lei av å betale 140 kr for en øl. Du kjøper et høyst ulovlig destillasjonsapparat av en fyr som heter Ronny på Finn.no for å lage hjemmebrent.",
+    "leftChoiceLabel": "Brygg i badekaret",
+    "rightChoiceLabel": "Brygg i skogen",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "nextScenarioId": 2417
+  },
+  {
+    "id": 2417,
+    "category": "food",
+    "text": "Badekarsbrygget er ferdig. Det lukter flybensin og ren elendighet. Du tar en slurk for å teste. Synet ditt blir helt svart i 45 sekunder.",
+    "leftChoiceLabel": "Tapp og selg det",
+    "rightChoiceLabel": "Hell det i vasken",
+    "leftEffect": {
+      "money": 5000,
+      "social": -30,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2418
+  },
+  {
+    "id": 2418,
+    "category": "social",
+    "text": "Du serverte flybensinen på en nabofest. Tre personer kommuniserer nå telepatisk, og styrelederen i borettslaget er ute og prøver å bokse med en elg.",
+    "leftChoiceLabel": "Bli med på elg-kampen",
+    "rightChoiceLabel": "Nekt for at du brygget det",
+    "leftEffect": {
+      "money": 0,
+      "social": 60,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2419,
+    "category": "work",
+    "text": "Du er på jobbintervju i Oslo. Panelet spør hva din største styrke er. Du sier: 'Jeg er ekstremt ambisiøs og en naturlig leder.' Panelet gisper i skrekk.",
+    "leftChoiceLabel": "Doble innsatsen",
+    "rightChoiceLabel": "Trekk tilbake utsagnet",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "nextScenarioId": 2420
+  },
+  {
+    "id": 2420,
+    "category": "culture",
+    "text": "Du har brutt Janteloven. For å redde intervjuet må du overbevise dem om at du egentlig er smertelig gjennomsnittlig og liker å spise havregrøt i stillhet.",
+    "leftChoiceLabel": "Pris middelmådighet",
+    "rightChoiceLabel": "Nekt å gi deg",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "nextScenarioId": 2421
+  },
+  {
+    "id": 2421,
+    "category": "work",
+    "text": "De tilbyr deg jobben, men for å sikre at du ikke tror du er noe, blir tittelen din 'Juniorassistent-synergist' og pulten din vender mot en grå vegg i kjelleren.",
+    "leftChoiceLabel": "Stirr på veggen",
+    "rightChoiceLabel": "Krev et vindu",
+    "leftEffect": {
+      "money": 2000,
+      "social": 10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2422,
+    "category": "weather",
+    "text": "Det er midten av januar. Sola har ikke vært sett siden november. Du kjøper en 10 000-lux dagslyslampe og stirrer direkte inn i den uten å blunke i 4 timer.",
+    "leftChoiceLabel": "Fortsett å stirre",
+    "rightChoiceLabel": "Skru den av",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -30
+    },
+    "nextScenarioId": 2423
+  },
+  {
+    "id": 2423,
+    "category": "social",
+    "text": "Det ekstreme lyset har utløst en manisk episode. Du går inn på en Joker klokka 3 om natta i shorts og krever aggressivt ferske jordbær.",
+    "leftChoiceLabel": "Skrik til kassereren",
+    "rightChoiceLabel": "Begynn å spise rå poteter",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2424
+  },
+  {
+    "id": 2424,
+    "category": "culture",
+    "text": "Den tenårige kassereren ignorerer sammenbruddet ditt fullstendig. Uten øyekontakt skanner de potetene dine og spør bare: 'Vil du ha pose?'",
+    "leftChoiceLabel": "Si 'Ja, takk'",
+    "rightChoiceLabel": "Kollaps på gulvet",
+    "leftEffect": {
+      "money": -5,
+      "social": 20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2425,
+    "category": "culture",
+    "text": "Det er desember. Svigermor spør tilfeldig om du er ferdig med de 'syv slagene'. Du har bare kjøpt en plastboks med pepperkaker.",
+    "leftChoiceLabel": "Lyv og si ja",
+    "rightChoiceLabel": "Innrøm nederlaget",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2426
+  },
+  {
+    "id": 2426,
+    "category": "food",
+    "text": "Du løy. Nå kommer hun på besøk for en smakstest. Du får panikk og prøver å frityrsteke fattigmann i en wok. Oljen eksploderer og kjøkkenet tar fyr.",
+    "leftChoiceLabel": "Kast mel på flammene",
+    "rightChoiceLabel": "Flykt ut i snøen",
+    "leftEffect": {
+      "money": -2000,
+      "social": -20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": -50,
+      "heat": -40
+    },
+    "nextScenarioId": 2427
+  },
+  {
+    "id": 2427,
+    "category": "social",
+    "text": "Brannvesenet slukker brannen og gir deg en bot på 5000 kr. Brannsjefen ser på den brente deigen din og spør: 'Hvor er de andre seks slagene?'",
+    "leftChoiceLabel": "Gråt i stillhet",
+    "rightChoiceLabel": "Tilby ham en brent bit",
+    "leftEffect": {
+      "money": -5000,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 20,
+      "heat": -15
+    }
+  },
+  {
+    "id": 2428,
+    "category": "sport",
+    "text": "Du går på langrenn i Nordmarka og føler deg sprek. Plutselig blir du aggressivt forbikjørt av en småbarnsfar som drar en pulk med to unger og en husky.",
+    "leftChoiceLabel": "Godta nederlaget",
+    "rightChoiceLabel": "Spurt for å ta ham",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -30
+    },
+    "nextScenarioId": 2429
+  },
+  {
+    "id": 2429,
+    "category": "sport",
+    "text": "Du valgte å spurte. Pulsen er 195. Du ser over og ser at de to ungene i pulken peker og ler av den elendige teknikken din.",
+    "leftChoiceLabel": "Skrik til barna",
+    "rightChoiceLabel": "Press deg gjennom smerten",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -50
+    },
+    "nextScenarioId": 2430
+  },
+  {
+    "id": 2430,
+    "category": "culture",
+    "text": "Du kollapser i snøen. Faren stopper, ser ned på deg, gir deg en lunken pølse fra en termos og ber deg 'holde deg til gåing'.",
+    "leftChoiceLabel": "Spis skam-pølsa",
+    "rightChoiceLabel": "Nekt av stolthet",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2431,
+    "category": "money",
+    "text": "Du er invitert til nevøens konfirmasjon. Du legger 500 kr i konvolutten, helt til du skjønner at standarden er 15 000 kr eller aksjeandeler.",
+    "leftChoiceLabel": "Gi de 500 kronene",
+    "rightChoiceLabel": "Ta opp et forbrukslån",
+    "leftEffect": {
+      "money": -500,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": 30,
+      "heat": -20
+    },
+    "nextScenarioId": 2432
+  },
+  {
+    "id": 2432,
+    "category": "social",
+    "text": "Du ga 500 kr. 15-åringen åpner konvolutten, sukker aggressivt og legger den i 'skuffelse-bunken' ved siden av sin nye Rolex.",
+    "leftChoiceLabel": "Krev et 'takk'",
+    "rightChoiceLabel": "Gjem deg ved buffeten",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -15
+    },
+    "nextScenarioId": 2433
+  },
+  {
+    "id": 2433,
+    "category": "culture",
+    "text": "Foreldrene til konfirmanten corner deg. Du må nå forsvare din økonomiske fattigdom foran hele slekta mens du spiser kald roastbiff.",
+    "leftChoiceLabel": "Skyld på økonomien",
+    "rightChoiceLabel": "Flykt gjennom et vindu",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2434,
+    "category": "money",
+    "text": "Du lander på Gardermoen. Du kjøpte nøyaktig én flaske vin over kvota. Du svetter kraftig idet du nærmer deg grønn sone.",
+    "leftChoiceLabel": "Gå fort og se ned",
+    "rightChoiceLabel": "Smil til vaktene",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "nextScenarioId": 2435
+  },
+  {
+    "id": 2435,
+    "category": "social",
+    "text": "En tollhund setter seg rett ved siden av bagen din. Sjelen forlater kroppen. Du forbereder deg mentalt på 10 år i fengsel.",
+    "leftChoiceLabel": "Tilstå alt",
+    "rightChoiceLabel": "Spill dum",
+    "leftEffect": {
+      "money": -2000,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "nextScenarioId": 2436
+  },
+  {
+    "id": 2436,
+    "category": "culture",
+    "text": "Tolleren åpner bagen. Han ignorerer vinen, men beslaglegger den ene rå poteten du pakket på grunn av strenge regler for import av landbruksprodukter.",
+    "leftChoiceLabel": "Argumenter for poteten",
+    "rightChoiceLabel": "Takk gud og dra",
+    "leftEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2437,
+    "category": "weather",
+    "text": "Du går hjem i mørket. En massiv elg står i oppkjørselen din og spiser gjærede epler. Den ser dritings og rasende ut.",
+    "leftChoiceLabel": "Snik deg forbi",
+    "rightChoiceLabel": "Lag høye lyder",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 20
+    },
+    "nextScenarioId": 2438
+  },
+  {
+    "id": 2438,
+    "category": "social",
+    "text": "Elgen angriper. Du husker et tips fra Reddit: 'Gjør deg stor og skrik.' Du bretter ut jakka og brøler norske banneord.",
+    "leftChoiceLabel": "Skrik 'FAEN!'",
+    "rightChoiceLabel": "Skrik 'HELVETE!'",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2439
+  },
+  {
+    "id": 2439,
+    "category": "money",
+    "text": "Elgen driter i deg. Den dytter deg ned i en snøfonn, spiser postkassa di og lunter av gårde. Forsikringen dekker ikke 'skade fra beruset skogsdyr'.",
+    "leftChoiceLabel": "Betal for ny postkasse",
+    "rightChoiceLabel": "Saksøk skogen",
+    "leftEffect": {
+      "money": -800,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2440,
+    "category": "work",
+    "text": "Du glemte særemnet i norsk om Ibsens 'Et dukkehjem'. Du bruker ChatGPT 5 minutter før fristen og leverer uten å lese et ord.",
+    "leftChoiceLabel": "Lever blindt",
+    "rightChoiceLabel": "Les kjapt gjennom",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2441
+  },
+  {
+    "id": 2441,
+    "category": "social",
+    "text": "Læreren kaller deg inn. De ber deg forklare oppgavens hovedtese: 'At Nora forlater Torvald representerer den uunngåelige veksten til Bitcoin.'",
+    "leftChoiceLabel": "Forsvar krypto-tesen",
+    "rightChoiceLabel": "Skyld på en hacker",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "nextScenarioId": 2442
+  },
+  {
+    "id": 2442,
+    "category": "work",
+    "text": "Du blir suspendert for fusk. Foreldrene dine kutter lommepengene. Du må nå overleve ved å måke tung, våt snø for hele nabolaget.",
+    "leftChoiceLabel": "Måk snøen",
+    "rightChoiceLabel": "Start en Spleis",
+    "leftEffect": {
+      "money": 500,
+      "social": 10,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2443,
+    "category": "money",
+    "text": "En giftig, neonfarget energidrikk promotert av YouTubere har akkurat kommet på Meny. En 12-åring på el-sparkesykkel hamstrer de siste 5 boksene.",
+    "leftChoiceLabel": "Slåss mot barnet",
+    "rightChoiceLabel": "Betal ham 600 kr",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": -600,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2444
+  },
+  {
+    "id": 2444,
+    "category": "food",
+    "text": "Du betalte 600 kr. Du styrter den radioaktive væsken rett før gymtimen. Hvilepulsen din når 210 og du kan bokstavelig talt smake farger.",
+    "leftChoiceLabel": "Løp Cooper-testen",
+    "rightChoiceLabel": "Ring Giftinformasjonen",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2445
+  },
+  {
+    "id": 2445,
+    "category": "sport",
+    "text": "Du kollapser under 3000-meteren. Gymlæreren, en tidligere olympisk skiløper uten empati, går over din skjelvende kropp og roper: 'Ikke skulk!'",
+    "leftChoiceLabel": "Krabb til mål",
+    "rightChoiceLabel": "Godta hjertestans",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2446,
+    "category": "social",
+    "text": "Du bestemmer deg for å filme en TikTok-dans midt på Oslo S i rushtiden for å bli kjent. Hundrevis av trøtte pendlere stirrer på deg.",
+    "leftChoiceLabel": "Dans i vei",
+    "rightChoiceLabel": "Ha litt verdighet",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2447
+  },
+  {
+    "id": 2447,
+    "category": "social",
+    "text": "Mens du gjør en spin, dytter du borti en gretten pendler som holder en kaffe til 75 kr. Den brennhete væsken spruter overalt.",
+    "leftChoiceLabel": "Fortsett å danse",
+    "rightChoiceLabel": "Tilby deg å betale",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 10,
+      "heat": -30
+    },
+    "nextScenarioId": 2448
+  },
+  {
+    "id": 2448,
+    "category": "culture",
+    "text": "Pendleren filmer deg. Du blir en nasjonal meme med tittelen 'Cringen på Oslo S'. Tenåringer peker og ler av deg på T-banen.",
+    "leftChoiceLabel": "Omfavn memen",
+    "rightChoiceLabel": "Flytt inn i en hule",
+    "leftEffect": {
+      "money": 500,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2449,
+    "category": "social",
+    "text": "Du gjemmer deg på skoletoalettet og tar en trekk av en mango-vape. Brannalarmen går plutselig av. 800 personer evakuerer ut i snøstormen.",
+    "leftChoiceLabel": "Snik deg ut med dem",
+    "rightChoiceLabel": "Gjem deg i båsen",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2450
+  },
+  {
+    "id": 2450,
+    "category": "social",
+    "text": "Rektor står ute med brannvesenet og ser på overvåkningsbilder for å se hvem som forlot doen sist. Du er hovedmistenkt.",
+    "leftChoiceLabel": "Skyld på en åttendeklassing",
+    "rightChoiceLabel": "Tilstå og gråt",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2451,
+    "category": "work",
+    "text": "Du klarte å legge skylda på en 13-åring. Skyldfølelsen eter deg opp. Sosialrådgiveren tror du er et godt forbilde og tvinger deg til å være mentor for barnet du akkurat ødela.",
+    "leftChoiceLabel": "Lær ham å vape",
+    "rightChoiceLabel": "Vær en faktisk mentor",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2452,
+    "category": "money",
+    "text": "Du prøver å flippe en 'vintage' Helly Hansen-jakke på Finn.no for 4000 kr. En kjøper som heter Sondre insisterer på å møtes på en luguber bensinstasjon kl. 23:30.",
+    "leftChoiceLabel": "Dra alene",
+    "rightChoiceLabel": "Ta med tung lommelykt",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2453
+  },
+  {
+    "id": 2453,
+    "category": "social",
+    "text": "Sondre viser seg å være en 45 år gammel mann som bare trenger noen å snakke med. Han fanger deg i en 2-timers samtale om hvorfor trance-scenen på 90-tallet var overlegen.",
+    "leftChoiceLabel": "Krev pengene",
+    "rightChoiceLabel": "Lytt til ham",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -50
+    },
+    "nextScenarioId": 2454
+  },
+  {
+    "id": 2454,
+    "category": "money",
+    "text": "Du går tomhendt hjem i øsregnet. Du stikker hånda i lomma og innser at Sondre har nappa med seg AirPodsa dine mens han forklarte den kulturelle betydningen av Darude - Sandstorm.",
+    "leftChoiceLabel": "Jakt ham ned",
+    "rightChoiceLabel": "Gråt på nattbussen",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2455,
+    "category": "culture",
+    "text": "Du er en respektert politiker på Gardermoen Tax-Free. Du ser et par Hugo Boss-solbriller. Trangen til å begå nasking overvelder din rasjonelle hjerne.",
+    "leftChoiceLabel": "Riv av alarmen",
+    "rightChoiceLabel": "Bare kjøp dem",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2456
+  },
+  {
+    "id": 2456,
+    "category": "social",
+    "text": "Du stjal dem. En høflig vekter stopper deg. Du hevder du var 'distrahert av statssaker'. Overvåkningsvideoen viser at du møysommelig tygger av alarmen med tennene.",
+    "leftChoiceLabel": "Skyld på stress",
+    "rightChoiceLabel": "Løp mot gaten",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -100,
+      "heat": 30
+    },
+    "nextScenarioId": 2457
+  },
+  {
+    "id": 2457,
+    "category": "work",
+    "text": "Du tvinges til å gå av i nasjonal vanære. Men siden dette er Norge, gir stortingsreglene deg 12 måneder med full etterlønn for å sitte hjemme og reflektere over brillevalget.",
+    "leftChoiceLabel": "Nyt ferien",
+    "rightChoiceLabel": "Start en podcast",
+    "leftEffect": {
+      "money": 15000,
+      "social": -30,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2458,
+    "category": "social",
+    "text": "Du er invitert til et kontroversielt kongelig bryllup i Geiranger. Brudgommen er en sjaman fra Hollywood. For å komme inn i teltet må du kjøpe hans 'åndelig-optimerende medaljong'.",
+    "leftChoiceLabel": "Betal 20 000 kr",
+    "rightChoiceLabel": "Snik deg inn fjorden",
+    "leftEffect": {
+      "money": -15000,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -30
+    },
+    "nextScenarioId": 2459
+  },
+  {
+    "id": 2459,
+    "category": "food",
+    "text": "Du kjøpte medaljongen. Den er laget av billig plast og gir deg umiddelbart et kraftig nakkeutslett. Sjamanen kommer bort og sier utslettet er 'mørke giftstoffer som forlater auraen din'.",
+    "leftChoiceLabel": "Takk ham ydmykt",
+    "rightChoiceLabel": "Krev refusjon",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "nextScenarioId": 2460
+  },
+  {
+    "id": 2460,
+    "category": "money",
+    "text": "Du krevde refusjon. Sjamanens PR-team truer med å saksøke deg for å forstyrre hans kosmiske vibrasjoner. Du må nå gå med utslett-medaljongen for å unngå konkurs.",
+    "leftChoiceLabel": "Godta utslettet",
+    "rightChoiceLabel": "Lei en åndelig advokat",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": 10,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2461,
+    "category": "money",
+    "text": "Den norske kronen har nådd et historisk lavmål. Du tar fergen til København for en 'billig' helg. Du bestiller to øl og en pølse. Regningen er på 350 danske kroner.",
+    "leftChoiceLabel": "Tæpp kortet",
+    "rightChoiceLabel": "Tilby deg å ta oppvasken",
+    "leftEffect": {
+      "money": -2500,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 15
+    },
+    "nextScenarioId": 2462
+  },
+  {
+    "id": 2462,
+    "category": "money",
+    "text": "Du tæppa kortet. Bankappen sender umiddelbart et svindelvarsel: 'ADVARSEL: 350 DKK tilsvarer nå omtrent et lite boliglån. Er du sikker?'",
+    "leftChoiceLabel": "Godkjenn kjøpet",
+    "rightChoiceLabel": "Flykt fra restauranten",
+    "leftEffect": {
+      "money": -3000,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "nextScenarioId": 2463
+  },
+  {
+    "id": 2463,
+    "category": "food",
+    "text": "Du returnerer til Norge økonomisk ruinert etter å ha kjøpt tre ting i Danmark. Du må nå leve av å sanke blåbær og drikke springvann frem til neste lønning.",
+    "leftChoiceLabel": "Spis bæra",
+    "rightChoiceLabel": "Be NAV om nødhjelp",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 500,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2464,
+    "category": "work",
+    "text": "Du blir utnevnt til statsråd for høyere utdanning. En 19 år gammel student oppdager at masteroppgaven din er kopiert ordrett fra Wikipedia og en Reddit-post fra 2014.",
+    "leftChoiceLabel": "Nekt for alt",
+    "rightChoiceLabel": "Skyld på 'tekstlikhet'",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2465
+  },
+  {
+    "id": 2465,
+    "category": "culture",
+    "text": "Du holder en pressekonferanse. Journalistene spør hvorfor oppgaven din inneholder setningen 'Edit: Thanks for the gold, kind stranger!' Du får panikk.",
+    "leftChoiceLabel": "Gråt aggressivt",
+    "rightChoiceLabel": "Si det er en metafor",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "nextScenarioId": 2466
+  },
+  {
+    "id": 2466,
+    "category": "work",
+    "text": "Du går av i skam. Men siden dette er Norge, får du umiddelbart en nyopprettet, bedre betalt jobb som 'Seniorrådgiver for akademisk integritet'.",
+    "leftChoiceLabel": "Godta hykleriet",
+    "rightChoiceLabel": "Nekt å ta jobben",
+    "leftEffect": {
+      "money": 10000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2467,
+    "category": "money",
+    "text": "Din lille tech-startup går med et ørlite overskudd. Livredd for den nye formuesskatten, gjør du som laksebaronene og flytter umiddelbart familien til en landsby i Sveits.",
+    "leftChoiceLabel": "Flykt til Luzern",
+    "rightChoiceLabel": "Bli og betal skatt",
+    "leftEffect": {
+      "money": 5000,
+      "social": -40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": 30,
+      "heat": 10
+    },
+    "nextScenarioId": 2468
+  },
+  {
+    "id": 2468,
+    "category": "food",
+    "text": "Du bor i en luksuriøs alpehytte og sparer 2 % i skatt. Men du er deprimert fordi du ikke finner Grandiosa eller Kvikk Lunsj. Sveitsisk sjokolade smaker 'for dyrt'.",
+    "leftChoiceLabel": "Gråt i en Ferrari",
+    "rightChoiceLabel": "Importer norsk drit",
+    "leftEffect": {
+      "money": -5000,
+      "social": -20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2469
+  },
+  {
+    "id": 2469,
+    "category": "culture",
+    "text": "Du betaler en smugler 50 000 kr for å bringe en blokk brunost over Alpene. Sveitsisk politi avskjærer pakken og klassifiserer den som et biologisk våpen.",
+    "leftChoiceLabel": "Bestikk vaktstyrken",
+    "rightChoiceLabel": "Nekt for at osten er din",
+    "leftEffect": {
+      "money": -15000,
+      "social": -10,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2470,
+    "category": "work",
+    "text": "USAs president Donald Trump kunngjør offisielt på direkten at han kjøper Svalbard for å bygge en arktisk golfbane. Statsministeren har panikk og spør deg om råd.",
+    "leftChoiceLabel": "Be ham selge",
+    "rightChoiceLabel": "Forsvar isbjørnene",
+    "leftEffect": {
+      "money": 10000,
+      "social": -80,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 20
+    },
+    "nextScenarioId": 2471
+  },
+  {
+    "id": 2471,
+    "category": "social",
+    "text": "Du rådet statsministeren til å selge. Transaksjonen går gjennom. Du får et massivt honorar i USD, men du er nå den mest hatede personen i norgeshistorien.",
+    "leftChoiceLabel": "Kjøp en bunker",
+    "rightChoiceLabel": "Flykt til Florida",
+    "leftEffect": {
+      "money": -8000,
+      "social": -100,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -100,
+      "heat": 50
+    },
+    "nextScenarioId": 2472
+  },
+  {
+    "id": 2472,
+    "category": "money",
+    "text": "Trump kansellerer sjekken. Han fant akkurat ut at Svalbard bare har et hvelv med frø og forbud mot å dø. Du sitter igjen med en massiv skatteregning på din 'hypotetiske' inntekt.",
+    "leftChoiceLabel": "Erklær konkurs",
+    "rightChoiceLabel": "Fake din egen død",
+    "leftEffect": {
+      "money": -15000,
+      "social": -20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2473,
+    "category": "money",
+    "text": "Kronen har kollapset så hardt at den danske kronen er verdt det dobbelte. En 14 år gammel dansk gutt bruker avisbud-pengene sine på å kjøpe hele bygården din i Oslo.",
+    "leftChoiceLabel": "Bukk for din nye herre",
+    "rightChoiceLabel": "Protester mot invasjonen",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "nextScenarioId": 2474
+  },
+  {
+    "id": 2474,
+    "category": "culture",
+    "text": "Den danske tenåringen krever at du betaler leie i 'Kamelåså' og Lego-sett. Når du spør hva en 'Kamelåså' er, truer han med utkastelse.",
+    "leftChoiceLabel": "Gjett hva det er",
+    "rightChoiceLabel": "Prøv å snakke dansk",
+    "leftEffect": {
+      "money": -1500,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2475
+  },
+  {
+    "id": 2475,
+    "category": "social",
+    "text": "Du stappet en bokstavelig talt varm potet i munnen for å herme etter dialekten. Du begynner umiddelbart å kveles og svimer av i gangen.",
+    "leftChoiceLabel": "Godta mørket",
+    "rightChoiceLabel": "Host den opp",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2476,
+    "category": "work",
+    "text": "Globale spenninger topper seg. Du blir uventet kalt inn til øvelse i Heimevernet. Du blir beordret til russegrensa på samme kveld som Eurovision-finalen.",
+    "leftChoiceLabel": "Møt opp til tjeneste",
+    "rightChoiceLabel": "Flykt til Sverige",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -80,
+      "heat": 10
+    },
+    "nextScenarioId": 2477
+  },
+  {
+    "id": 2477,
+    "category": "weather",
+    "text": "Du sitter i en frossen skyttergrav i Finnmark med en rifle fra 1982. GPS-jamming tuller med mobilen din, og Tinder-posisjonen sier du er i Murmansk.",
+    "leftChoiceLabel": "Sveip til høyre på spioner",
+    "rightChoiceLabel": "Skru av mobilen",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "nextScenarioId": 2478
+  },
+  {
+    "id": 2478,
+    "category": "culture",
+    "text": "Du fikk match med en fiendtlig agent. De tilbyr å bytte strengt hemmelige militær-opplysninger mot én pakke ekte Kviteseid-smør.",
+    "leftChoiceLabel": "Begå landssvik for smør",
+    "rightChoiceLabel": "Rapporter til befalet",
+    "leftEffect": {
+      "money": 5000,
+      "social": -100,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2479,
+    "category": "social",
+    "text": "Regjeringen tvinger din lille kommune til å slå seg sammen med nabobyen du hater. Den nye ordføreren forbyr umiddelbart alle lokale dialekter.",
+    "leftChoiceLabel": "Start et opprør",
+    "rightChoiceLabel": "Snakk fin-Oslo-mål",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    },
+    "nextScenarioId": 2480
+  },
+  {
+    "id": 2480,
+    "category": "weather",
+    "text": "Du starter et opprør bevæpnet med høygafler og tørt Kneippbrød. Opprørspolitiet ankommer i splitter nye elbiler, men batteriene dør umiddelbart i kulda.",
+    "leftChoiceLabel": "Le av elbilene deres",
+    "rightChoiceLabel": "Tilby dem strøm",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -15
+    },
+    "nextScenarioId": 2481
+  },
+  {
+    "id": 2481,
+    "category": "money",
+    "text": "Du lar politiet plugge bilene sine inn i huset ditt. Du krever nøyaktig 500 kr per kWh fordi du er en kynisk kapitalist.",
+    "leftChoiceLabel": "Tell pengene dine",
+    "rightChoiceLabel": "Dra ut kontakten halvveis",
+    "leftEffect": {
+      "money": 8000,
+      "social": -30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2482,
+    "category": "money",
+    "text": "EU vedtar et direktiv som krever at Norge eksporterer 95 % av vannkraften sin. Strømregningen din bikker 45 000 kr. Det er -15 grader i stua di.",
+    "leftChoiceLabel": "Tapp strøm fra gatelykta",
+    "rightChoiceLabel": "Frys for Europa",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": 20,
+      "heat": -50
+    },
+    "nextScenarioId": 2483
+  },
+  {
+    "id": 2483,
+    "category": "social",
+    "text": "Du koblet deg ulovlig på gatelykta. Det nyopprettede 'Strømpolitiet' raider leiligheten din iført taktiske varmesøkende briller.",
+    "leftChoiceLabel": "Skyld på naboen",
+    "rightChoiceLabel": "Overlever ovnen",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2484
+  },
+  {
+    "id": 2484,
+    "category": "work",
+    "text": "Du dømmes for 'energisvik'. Du må sone 400 timer med tvangsarbeid i et gigantisk hamsterhjul i kjelleren på Stortinget for å gi strøm til politikernes espressomaskiner.",
+    "leftChoiceLabel": "Løp med stolthet",
+    "rightChoiceLabel": "Saboter hjulet",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2485,
+    "category": "money",
+    "text": "Donald Trump innfører 500 % toll på norsk laks fordi statsministeren nektet å selge ham en fjord. Norsk økonomi krasjer umiddelbart.",
+    "leftChoiceLabel": "Kjøp billig laks",
+    "rightChoiceLabel": "Short den norske krona",
+    "leftEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 8000,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2486
+  },
+  {
+    "id": 2486,
+    "category": "work",
+    "text": "For å oppheve tollen gir regjeringen etter og tvinger ditt byggefirma til å reise et 50 etasjers gyllent 'Trump Tower' rett oppå Briksdalsbreen.",
+    "leftChoiceLabel": "Godta kontrakten",
+    "rightChoiceLabel": "Si opp i protest",
+    "leftEffect": {
+      "money": 15000,
+      "social": -80,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 60,
+      "heat": -10
+    },
+    "nextScenarioId": 2487
+  },
+  {
+    "id": 2487,
+    "category": "weather",
+    "text": "Breen smelter raskt på grunn av global oppvarming. Det halvferdige gylne tårnet sklir rett ut i fjorden. Presidenten skjeller deg ut på sosiale medier.",
+    "leftChoiceLabel": "Bytt identitet",
+    "rightChoiceLabel": "Beklag på CNN",
+    "leftEffect": {
+      "money": -10000,
+      "social": -30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2488,
+    "category": "culture",
+    "text": "VG avslører at ordføreren din i hemmelighet har brukt 3 millioner kr på å leie inn en 'åndelig aura-renser' for den kommunale reinsdyrflokken.",
+    "leftChoiceLabel": "Krev avgang",
+    "rightChoiceLabel": "Forsvar ordføreren",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    },
+    "nextScenarioId": 2489
+  },
+  {
+    "id": 2489,
+    "category": "work",
+    "text": "Du er ordførerens PR-rådgiver. Han nekter å gå av og hevder reinsdyrenes chakra-balanse er avgjørende for regional stabilitet. Pressen venter utenfor.",
+    "leftChoiceLabel": "Doble innsatsen",
+    "rightChoiceLabel": "Slutt i jobben",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -4000,
+      "social": 20,
+      "heat": 10
+    },
+    "nextScenarioId": 2490
+  },
+  {
+    "id": 2490,
+    "category": "social",
+    "text": "Du ba ordføreren stå på sitt. Han prøver å gjennomføre en TV-sendt aura-rensing på en svær reinsdyrbukk. Reinen sparker ordføreren rett i kjeven.",
+    "leftChoiceLabel": "Ring ambulanse",
+    "rightChoiceLabel": "Erklær det som suksess",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2491,
+    "category": "social",
+    "text": "Du er på isfiske i Finnmark. En mistenkelig, muskuløs hvithval med sele dukker opp og tilbyr deg 50 000 rubler for Wi-Fi-passordet ditt.",
+    "leftChoiceLabel": "Gi passordet",
+    "rightChoiceLabel": "Ring Forsvaret",
+    "leftEffect": {
+      "money": 5000,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2492
+  },
+  {
+    "id": 2492,
+    "category": "culture",
+    "text": "Du ga hvalen passordet. Neste morgen sparker PST inn døra di. Du blir siktet for 'bistand til akvatisk fremmed etterretning'.",
+    "leftChoiceLabel": "Spill uvitende",
+    "rightChoiceLabel": "Krev advokat",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2493
+  },
+  {
+    "id": 2493,
+    "category": "work",
+    "text": "For å unngå 15 års fengsel, rekrutterer PST deg som dobbeltagent. Oppdraget ditt er å infiltrere en fremmed flåtebase forkledd som en torsk.",
+    "leftChoiceLabel": "Ta på torskekostymet",
+    "rightChoiceLabel": "Velg fengsel",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2494,
+    "category": "social",
+    "text": "Du er invitert til en eksklusiv etterfest på Skaugum av kronprinsessens sønn. Du finner ham i ferd med å makulere dokumenter og støvsuge hvitt pulver.",
+    "leftChoiceLabel": "Hjelp ham å støvsuge",
+    "rightChoiceLabel": "Ring politiet",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 50
+    },
+    "nextScenarioId": 2495
+  },
+  {
+    "id": 2495,
+    "category": "work",
+    "text": "Du hjalp til. Plutselig banker Garden på døra og sier at politiet vil ankomme om nøyaktig 14 minutter for en 'spontan' razzia.",
+    "leftChoiceLabel": "Hopp ut vinduet",
+    "rightChoiceLabel": "Gjem deg i klesskapet",
+    "leftEffect": {
+      "money": -5000,
+      "social": -20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2496
+  },
+  {
+    "id": 2496,
+    "category": "culture",
+    "text": "Du gjemmer deg i det kongelige klesskapet. Du tråkker på en eske med sjamanens medaljonger. Lyden av plast som knuser varsler politiet.",
+    "leftChoiceLabel": "Si du er et gjenferd",
+    "rightChoiceLabel": "Bestikk dem med medaljonger",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": -20,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2497,
+    "category": "work",
+    "text": "Det er august. Du er på Arendalsuka, festivalen hvor PR-rådgivere later som de bryr seg om arbeiderklassen mens de drikker økologisk sider på yachter.",
+    "leftChoiceLabel": "Lei en yacht",
+    "rightChoiceLabel": "Del ut flygeblader",
+    "leftEffect": {
+      "money": -15000,
+      "social": 50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -15
+    },
+    "nextScenarioId": 2498
+  },
+  {
+    "id": 2498,
+    "category": "social",
+    "text": "Du leide yachten. Finansministeren kommer om bord. Han sier økonomien går strålende, og spør så om å få låne 500 kr til en kebab.",
+    "leftChoiceLabel": "Gi ham 500 kr",
+    "rightChoiceLabel": "Be ham sjekke Altinn",
+    "leftEffect": {
+      "money": -500,
+      "social": 40,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "nextScenarioId": 2499
+  },
+  {
+    "id": 2499,
+    "category": "culture",
+    "text": "Ministeren spiser kebaben din og lover deg støtte til din nye startup: en app som teller hvor mange ganger politikere sier 'vi må ta debatten'.",
+    "leftChoiceLabel": "Krev kontrakt",
+    "rightChoiceLabel": "Stol på systemet",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2500,
+    "category": "work",
+    "text": "En statsråd blir tatt for å ha kopiert 95 % av masteroppgaven sin. Du ansettes som krise-rådgiver. Media krever en forklaring på de identiske skrivefeilene.",
+    "leftChoiceLabel": "Hevde 'tekstlikhet'",
+    "rightChoiceLabel": "Si det er en hyllest",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2501,
+    "category": "social",
+    "text": "Du hevdet det var en 'tekstlikhet'. En journalist oppdager at statsråden til og med har kopiert en oppskrift på Toro Brun Saus inn i kapittel 4. Nasjonen koker.",
+    "leftChoiceLabel": "Skyld på AI-hallusinasjoner",
+    "rightChoiceLabel": "Si sausen er en metafor",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2502
+  },
+  {
+    "id": 2502,
+    "category": "money",
+    "text": "Statsråden tvinges til å gå av. Men som norsk tradisjon tilsier, blir de umiddelbart utnevnt til et høyt betalt styreverv i Vy. De tilbyr deg jobb.",
+    "leftChoiceLabel": "Godta korrupsjonen",
+    "rightChoiceLabel": "Behold moralen",
+    "leftEffect": {
+      "money": 12000,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 40,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2503,
+    "category": "sport",
+    "text": "Nordmenn elsker ubrukelige verdensrekorder. Du bestemmer deg for å slå rekorden for 'lengst gått på rulleski på asfalt i juli'. Du treffer E18.",
+    "leftChoiceLabel": "Gå i forbikjøringsfeltet",
+    "rightChoiceLabel": "Gå på veiskulderen",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2504
+  },
+  {
+    "id": 2504,
+    "category": "weather",
+    "text": "Asfalten smelter bokstavelig talt i 28 graders varme. Rulleskia dine synker ned i tjæra. En rasende lastebilsjåfør med 10 tonn frossen laks tuter på deg.",
+    "leftChoiceLabel": "Skrik 'Verdensrekord!'",
+    "rightChoiceLabel": "Dykke ned i grøfta",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2505
+  },
+  {
+    "id": 2505,
+    "category": "money",
+    "text": "Du overlevde grøfta, men politiet gir deg en bot på 12 000 kr for å hindre trafikken. Lokalavisa skriver: 'Lokal helt ranet for ære av staten'.",
+    "leftChoiceLabel": "Start en Spleis",
+    "rightChoiceLabel": "Ram inn boten",
+    "leftEffect": {
+      "money": 12000,
+      "social": -30,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -12000,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2506,
+    "category": "work",
+    "text": "Jens Stoltenberg har returnert fra NATO for å 'redde' norsk politikk. Hele nasjonen går inn i en transe av nostalgi. Du blir bedt om å sverge troskap.",
+    "leftChoiceLabel": "Saluter plakaten hans",
+    "rightChoiceLabel": "Si han er oppskrytt",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -90,
+      "heat": -20
+    },
+    "nextScenarioId": 2507
+  },
+  {
+    "id": 2507,
+    "category": "culture",
+    "text": "Du sa han er oppskrytt. Kollegene dine danner en sirkel rundt pulten din, messer gamle taler og drikker aggressivt Friele-kaffe til du ber om unnskyldning.",
+    "leftChoiceLabel": "Syng med",
+    "rightChoiceLabel": "Nekt å knele",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "nextScenarioId": 2508
+  },
+  {
+    "id": 2508,
+    "category": "social",
+    "text": "Du nektet. Du blir offisielt forvist til Sverige. Passet ditt inndras, og du tvinges til å montere IKEA-møbler for minstelønn mens du spiser surströmming.",
+    "leftChoiceLabel": "Godta svenskelivet",
+    "rightChoiceLabel": "Smugle deg selv tilbake",
+    "leftEffect": {
+      "money": -4000,
+      "social": -50,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": 20,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2509,
+    "category": "money",
+    "text": "Regjeringen innfører AI-styrte bomstasjoner som belaster deg basert på karbonavtrykk. Du sukker tungt i køen. AI-en registrerer det som 'karbon-tungt utpust'.",
+    "leftChoiceLabel": "Hold pusten",
+    "rightChoiceLabel": "Betal og gråt",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": 0
+    },
+    "nextScenarioId": 2510
+  },
+  {
+    "id": 2510,
+    "category": "weather",
+    "text": "Du holdt pusten for å unngå utslipp, besvimte og kræsjet i bomstasjonen. AI-en krever 2 millioner kr for 'uautorisert riving av statlig infrastruktur'.",
+    "leftChoiceLabel": "Saksøk staten",
+    "rightChoiceLabel": "Flykt til Sverige",
+    "leftEffect": {
+      "money": -15000,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -40,
+      "heat": -30
+    },
+    "nextScenarioId": 2511
+  },
+  {
+    "id": 2511,
+    "category": "social",
+    "text": "Sverige nekter deg asyl fordi du ikke har nok 'fika'-erfaring. Du deporteres tilbake til bomstasjonen, som nå krever en offentlig unnskyldning på NRK.",
+    "leftChoiceLabel": "Beklag til maskinen",
+    "rightChoiceLabel": "Knus den med slegge",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": 50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2512,
+    "category": "money",
+    "text": "En berømt norsk laksearving som flyktet til Sveits sniker seg inn i Oslo i forkledning fordi han savner Fjordland-middager. Du ser ham på Kiwi.",
+    "leftChoiceLabel": "Press ham for penger",
+    "rightChoiceLabel": "Rapporter til Skatteetaten",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "nextScenarioId": 2513
+  },
+  {
+    "id": 2513,
+    "category": "social",
+    "text": "Du krever 1 million kr for å holde kjeft. Han kontrer med å tilby deg 500 kg frossen laks og en rusten Rolex han påstår har tilhørt Kongen.",
+    "leftChoiceLabel": "Ta laksen",
+    "rightChoiceLabel": "Krev kontanter",
+    "leftEffect": {
+      "money": 200,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 5000,
+      "social": -50,
+      "heat": 20
+    },
+    "nextScenarioId": 2514
+  },
+  {
+    "id": 2514,
+    "category": "culture",
+    "text": "Du tok laksen og fylte den lille leiligheten din. Fryseren ryker. Lukten varsler borettslaget, som sender inn et team for biologisk sanering.",
+    "leftChoiceLabel": "Spis alt fort",
+    "rightChoiceLabel": "Si det er moderne kunst",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -60,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2515,
+    "category": "work",
+    "text": "NATO holder vinterøvelse i Troms. Amerikanske soldater ankommer uten vinterutstyr. Befalet beordrer deg til å lære dem overlevelse med kun Kvikk Lunsj og en pinne.",
+    "leftChoiceLabel": "Lær opp amerikanerne",
+    "rightChoiceLabel": "Nekt å adlyde",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2516
+  },
+  {
+    "id": 2516,
+    "category": "social",
+    "text": "En amerikansk general misforstår, spiser pinnen og prøver å skyte Kvikk Lunsj med rifla. Han skjeller deg ut for å sabotere de allierte styrkene.",
+    "leftChoiceLabel": "Beklag på engelsk",
+    "rightChoiceLabel": "Pek på manualen",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 20
+    },
+    "nextScenarioId": 2517
+  },
+  {
+    "id": 2517,
+    "category": "work",
+    "text": "Manualen er skrevet på nynorsk. Pentagon antar det er en hemmelig russisk kode. Du blir midlertidig anholdt av CIA i en snøfonn.",
+    "leftChoiceLabel": "Tilstå ingenting",
+    "rightChoiceLabel": "Syng 'Ja vi elsker'",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2518,
+    "category": "money",
+    "text": "For å stoppe nordmenn fra Harryhandel, bygger Sverige en mur og krever at Norge betaler den med olje. Du prøver å grave en tunnel for å få billig Pepsi Max.",
+    "leftChoiceLabel": "Grav fortere",
+    "rightChoiceLabel": "Betal norsk pris",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2519
+  },
+  {
+    "id": 2519,
+    "category": "social",
+    "text": "Tunnelen kollapser. Du dukker opp midt inne i et svensk Systembolaget. Sjefen stirrer på deg mens du står der med spaden i hånda.",
+    "leftChoiceLabel": "Spør etter billig vodka",
+    "rightChoiceLabel": "Lat som du er en muldvarp",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2520
+  },
+  {
+    "id": 2520,
+    "category": "culture",
+    "text": "Sjefen tvinger deg til å montere en IKEA-hylle med 400 deler før han lar deg gå uten å ringe tollerene. Du har mistet unbrakonøkkelen.",
+    "leftChoiceLabel": "Bruk tennene",
+    "rightChoiceLabel": "Gråt på svensk",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2521,
+    "category": "work",
+    "text": "Stortinget erstatter en skandale-minister med en AI for å spare penger. AI-en innfører umiddelbart skatt på 'lykke' for å balansere budsjettet.",
+    "leftChoiceLabel": "Betal lykkeskatten",
+    "rightChoiceLabel": "Spill deprimert",
+    "leftEffect": {
+      "money": -3000,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2522
+  },
+  {
+    "id": 2522,
+    "category": "social",
+    "text": "Du spilte deprimert. AI-en registrerer det og melder deg automatisk på en obligatorisk 6-måneders 'skogsterapi-leir' i Hedmark.",
+    "leftChoiceLabel": "Omfavn skogen",
+    "rightChoiceLabel": "Hakk AI-en",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 30
+    },
+    "nextScenarioId": 2523
+  },
+  {
+    "id": 2523,
+    "category": "weather",
+    "text": "På skogsleiren må du klemme bjørketrær 12 timer om dagen. Myggen er på størrelse med småfugl. Du skjønner at dette er statens plan for å løse pensjonskrisa.",
+    "leftChoiceLabel": "Klem trærne hardere",
+    "rightChoiceLabel": "Flykt til sivilisasjonen",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": 20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2524,
+    "category": "work",
+    "text": "Du får jobb med å styre en liten del av Oljefondet. Du investerer ved et uhell 500 milliarder kr i en meme-coin basert på et bilde av en svensk hund.",
+    "leftChoiceLabel": "Panikkselg",
+    "rightChoiceLabel": "Hold linja",
+    "leftEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2525
+  },
+  {
+    "id": 2525,
+    "category": "work",
+    "text": "Meme-coinen krasjer 99 %. Du må forklare Stortinget hvorfor pensjonen til de neste tre generasjonene nå er fullstendig borte.",
+    "leftChoiceLabel": "Skyld på hackere",
+    "rightChoiceLabel": "Foreslå å selge Bergen",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2526
+  },
+  {
+    "id": 2526,
+    "category": "culture",
+    "text": "Du foreslo å selge Bergen til en tech-milliardær for å dekke tapet. Stortinget er enstemmig. Din status i Oslo skyter i været, men Bergen raser.",
+    "leftChoiceLabel": "Feire i Oslo",
+    "rightChoiceLabel": "Flykt fra landet",
+    "leftEffect": {
+      "money": 10000,
+      "social": 60,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2527,
+    "category": "money",
+    "text": "Du kjører elbil over grensa med 50 kg ulovlig bacon gjemt i batterirommet. En tolledrone ser at bilen din subber nedi asfalten.",
+    "leftChoiceLabel": "Gi gass",
+    "rightChoiceLabel": "Dump baconet",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2528
+  },
+  {
+    "id": 2528,
+    "category": "social",
+    "text": "Tollerne stopper deg. De bruker spesialtrente hunder som kun sniffer etter ikke-avgiftsbelagt svinekjøtt. Hundene omringer bilen.",
+    "leftChoiceLabel": "Bestikk hundene",
+    "rightChoiceLabel": "Tilstå alt",
+    "leftEffect": {
+      "money": -500,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2529
+  },
+  {
+    "id": 2529,
+    "category": "food",
+    "text": "Du dømmes for 'baconsvik'. Du må tilbringe fem år i fengsel med en diett bestående kun av kokt torsk uten krydder for å rense ganen.",
+    "leftChoiceLabel": "Godta torsken",
+    "rightChoiceLabel": "Start fangeopprør",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2530,
+    "category": "culture",
+    "text": "Du er rasende over de nye bomprisene. Du protesterer ved å lime hendene dine fast til en bomstasjon i Oslo i rushtiden.",
+    "leftChoiceLabel": "Skrik om rettferdighet",
+    "rightChoiceLabel": "Krev gratis passering",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2531
+  },
+  {
+    "id": 2531,
+    "category": "weather",
+    "text": "Temperaturen faller til -15 grader. Superlimet fryser fast. Du sitter fast i bommen mens sinte pendlere kaster frosne mynter i hodet på deg.",
+    "leftChoiceLabel": "Samle myntene",
+    "rightChoiceLabel": "Ring brannvesenet",
+    "leftEffect": {
+      "money": 1500,
+      "social": -20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2532
+  },
+  {
+    "id": 2532,
+    "category": "money",
+    "text": "Du tjente faktisk 5000 kr på myntkastingen. Skatteetaten ankommer og omklassifiserer din frosne kropp som en kommersiell bomstasjon.",
+    "leftChoiceLabel": "Betal 80 % skatt",
+    "rightChoiceLabel": "Bli sittende fast",
+    "leftEffect": {
+      "money": -4000,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2533,
+    "category": "work",
+    "text": "Du er reindriftssame i Finnmark. En av reinene dine krysser russegrensa. Russland krever 50 millioner rubler for 'ulovlig beiting og spionasje'.",
+    "leftChoiceLabel": "Betal boten",
+    "rightChoiceLabel": "Ignorer brevet",
+    "leftEffect": {
+      "money": -10000,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 30
+    },
+    "nextScenarioId": 2534
+  },
+  {
+    "id": 2534,
+    "category": "social",
+    "text": "Du ignorerte boten. En diplomatisk krise bryter ut. Statsministeren trygler deg om å snike deg over grensa for å hente reinen før det blir krig.",
+    "leftChoiceLabel": "Snik deg inn i Russland",
+    "rightChoiceLabel": "Nekt oppdraget",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    },
+    "nextScenarioId": 2535
+  },
+  {
+    "id": 2535,
+    "category": "culture",
+    "text": "Du snek deg inn. Du finner reinen, men den har på seg en russisk generaluniform og nekter å bli med tilbake til Norge.",
+    "leftChoiceLabel": "Kidnapp den uansett",
+    "rightChoiceLabel": "Saluter reinen",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2536,
+    "category": "money",
+    "text": "Den norske stat overfører ved et uhell hele nasjonalbudsjettet for kultur til din private bankkonto. Det er 800 millioner kroner.",
+    "leftChoiceLabel": "Rapporter feilen",
+    "rightChoiceLabel": "Flykt til Dubai",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 15000,
+      "social": -100,
+      "heat": 40
+    },
+    "nextScenarioId": 2537
+  },
+  {
+    "id": 2537,
+    "category": "social",
+    "text": "Du flyktet. Staten sender et eliteteam av kulturkritikere for å jakte deg ned og forelese om moderne scenedans.",
+    "leftChoiceLabel": "Lei inn livvakter",
+    "rightChoiceLabel": "Gjem deg på et mall",
+    "leftEffect": {
+      "money": -5000,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2538
+  },
+  {
+    "id": 2538,
+    "category": "culture",
+    "text": "Kritikerne corner deg. De tvinger deg til å se et 6 timer langt stykke om angsten ved å spise brunost. Du gir tilbake pengene for å slippe unna.",
+    "leftChoiceLabel": "Gi alt tilbake",
+    "rightChoiceLabel": "Klør ut øynene dine",
+    "leftEffect": {
+      "money": -15000,
+      "social": 50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2539,
+    "category": "culture",
+    "text": "Du arver en hytte som ligger nøyaktig på russegrensa. Vladimir Putin rir over grensa i bar overkropp og erklærer badstua di for russisk territorium.",
+    "leftChoiceLabel": "Kjemp for badstua",
+    "rightChoiceLabel": "Tilby ham et håndkle",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2540
+  },
+  {
+    "id": 2540,
+    "category": "social",
+    "text": "Han takker nei til håndkleet og utfordrer deg til en 10-timers isbade-konkurranse i Pasvikelva for å avgjøre hvem som eier den.",
+    "leftChoiceLabel": "Godta utfordringen",
+    "rightChoiceLabel": "Ring lensmannen",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2541
+  },
+  {
+    "id": 2541,
+    "category": "money",
+    "text": "Lensmannen kommer, men sier han ikke kan gripe inn fordi Putin akkurat har betalt eiendomsskatten via Vipps. Du er kastet ut.",
+    "leftChoiceLabel": "Flytt til Svalbard",
+    "rightChoiceLabel": "Betal leie til Putin",
+    "leftEffect": {
+      "money": -15000,
+      "social": -40,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2542,
+    "category": "food",
+    "text": "Kim Jong Un besøker Oslo i hemmelighet for å studere Pizza Grandiosa. Regjeringen utnevner deg til hans offisielle pizza-guide.",
+    "leftChoiceLabel": "Server den rå",
+    "rightChoiceLabel": "Stek den perfekt",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": 20,
+      "heat": 0
+    },
+    "nextScenarioId": 2543
+  },
+  {
+    "id": 2543,
+    "category": "weather",
+    "text": "Du stekte den perfekt. Han tar en kjempebit rett fra ovnen og brenner ganen. Rasende strekker han seg etter atomknappen.",
+    "leftChoiceLabel": "Gi ham Solo",
+    "rightChoiceLabel": "Be ham tåle det",
+    "leftEffect": {
+      "money": -30,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 50
+    },
+    "nextScenarioId": 2544
+  },
+  {
+    "id": 2544,
+    "category": "money",
+    "text": "Sukkerrushet fra Soloen roer ham ned. Nå krever han å få kjøpe hele Grandiosa-fabrikken med ulovlig krypto.",
+    "leftChoiceLabel": "Hjelp med avtalen",
+    "rightChoiceLabel": "Beskytt pizzaen",
+    "leftEffect": {
+      "money": 50000,
+      "social": -80,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 80,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2545,
+    "category": "social",
+    "text": "President Erdogan blokkerer Norges NATO-initiativ til Norge beklager for eksistensen til fårikål. Du må uttale deg.",
+    "leftChoiceLabel": "Forsvar nasjonalretten",
+    "rightChoiceLabel": "Beklag umiddelbart",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    },
+    "nextScenarioId": 2546
+  },
+  {
+    "id": 2546,
+    "category": "work",
+    "text": "Du forsvarte gryta. Erdogan svarer med å forby nordmenn å reise til Alanya. Millioner av solbrente nordmenn gjør opprør i Oslo.",
+    "leftChoiceLabel": "Bli med i opprøret",
+    "rightChoiceLabel": "Gjem deg i kjelleren",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "nextScenarioId": 2547
+  },
+  {
+    "id": 2547,
+    "category": "culture",
+    "text": "For å stoppe kaoset, tvinges du til Ankara for å spise tre boller med hvitløksdressing mens du synger den tyrkiske nasjonalsangen.",
+    "leftChoiceLabel": "Spis dressingen",
+    "rightChoiceLabel": "Nekt og start krig",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 80
+    }
+  },
+  {
+    "id": 2548,
+    "category": "work",
+    "text": "Donald Trump hevder vindmøllene i Trøndelag dreper skallede ørner som ikke finnes. Han sender amerikanske advokater for å rive dem.",
+    "leftChoiceLabel": "Saboter advokatene",
+    "rightChoiceLabel": "Hjelp dem å pakke",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 5000,
+      "social": -80,
+      "heat": -10
+    },
+    "nextScenarioId": 2549
+  },
+  {
+    "id": 2549,
+    "category": "food",
+    "text": "Du saboterte dem ved å servere 2 år gammel rakfisk. Alle havner på sykehus med hallusinasjoner om sosialistiske spøkelser.",
+    "leftChoiceLabel": "Si det er en delikatesse",
+    "rightChoiceLabel": "Løp til skogs",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2550
+  },
+  {
+    "id": 2550,
+    "category": "money",
+    "text": "Trump blokkerer all norsk eksport. Landet går i oppløsning når de strategiske nasjonale reservene av Pepsi Max går tomme på 48 timer.",
+    "leftChoiceLabel": "Hamstre Pepsi Max",
+    "rightChoiceLabel": "Bytt til vann",
+    "leftEffect": {
+      "money": -8000,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2551,
+    "category": "social",
+    "text": "FN starter et utvekslingsprogram for diktatorer. Din kommune må huse en beryktet leder som krever militærparade ned Karl Johan.",
+    "leftChoiceLabel": "Gi ham paraden",
+    "rightChoiceLabel": "Send ham på dugnad",
+    "leftEffect": {
+      "money": -50000,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "nextScenarioId": 2552
+  },
+  {
+    "id": 2552,
+    "category": "culture",
+    "text": "Du sender ham på vårdugnad. Han får en rusten rake og beskjed om å fjerne vått løv av en 70 år gammel styreleder.",
+    "leftChoiceLabel": "Se ham lide",
+    "rightChoiceLabel": "Hjelp ham å rake",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2553
+  },
+  {
+    "id": 2553,
+    "category": "work",
+    "text": "Diktatorens vilje brytes av passiv-aggressiv norsk borettslagsstyring. Han går av og søker jobb på den lokale Kiwi-butikken.",
+    "leftChoiceLabel": "Ansett ham",
+    "rightChoiceLabel": "Avslå søknaden",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2554,
+    "category": "work",
+    "text": "Elon Musk kjøper et fjell i Lofoten for å bygge serverfarm. Han krever at du jobber 100-timers uker. I Norge er dette en krigsforbrytelse.",
+    "leftChoiceLabel": "Jobb 100 timer",
+    "rightChoiceLabel": "Ring Arbeidstilsynet",
+    "leftEffect": {
+      "money": 20000,
+      "social": -80,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "nextScenarioId": 2555
+  },
+  {
+    "id": 2555,
+    "category": "work",
+    "text": "Du ringte Arbeidstilsynet. De ankommer i en treig el-båt med en lovpålagt tidsplan for vaffelpauser.",
+    "leftChoiceLabel": "Server vafler",
+    "rightChoiceLabel": "Gjem dem for Elon",
+    "leftEffect": {
+      "money": -200,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "nextScenarioId": 2556
+  },
+  {
+    "id": 2556,
+    "category": "social",
+    "text": "Musk prøver å sparke inspektørene via Twitter. Regjeringen svarer med å sette ham i et rom til han har montert en IKEA-pult uten bruksanvisning.",
+    "leftChoiceLabel": "Hjelp ham",
+    "rightChoiceLabel": "Livestream fiaskoen",
+    "leftEffect": {
+      "money": 5000,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 1000,
+      "social": 60,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2557,
+    "category": "culture",
+    "text": "Kong Charles besøker Oslo. Mens han vinker fra en yacht, mister han kronen i fjorden. Han peker på deg og ber deg hente den.",
+    "leftChoiceLabel": "Hopp i fjorden",
+    "rightChoiceLabel": "Lat som ingenting",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    },
+    "nextScenarioId": 2558
+  },
+  {
+    "id": 2558,
+    "category": "social",
+    "text": "Du hentet kronen, men en laks har allerede lagt egg i den. Kongen blir kvalm og truer med sanksjoner mot norsk fisk.",
+    "leftChoiceLabel": "Vask den med skjorta",
+    "rightChoiceLabel": "Forsvar laksen",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    },
+    "nextScenarioId": 2559
+  },
+  {
+    "id": 2559,
+    "category": "work",
+    "text": "Du tilbyr kongen en brunost for å unngå krig. Han tar en bit, tror det er fudge, brekker seg og erklærer krig mot Norge.",
+    "leftChoiceLabel": "Flykt til fjells",
+    "rightChoiceLabel": "Beklag til Camilla",
+    "leftEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2560,
+    "category": "weather",
+    "text": "En svensk klimaaktivist blokkerer Vinmonopolet. Det er fredag kl. 17:30. Hvis du ikke får vinen din nå, er helga ødelagt.",
+    "leftChoiceLabel": "Brøyt deg vei",
+    "rightChoiceLabel": "Hør på talen",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2561
+  },
+  {
+    "id": 2561,
+    "category": "culture",
+    "text": "Hun ser posen din med uresirkulerte batterier og driter deg ut foran 4 millioner seere på en livestream.",
+    "leftChoiceLabel": "Gråt foran kamera",
+    "rightChoiceLabel": "Spis et batteri",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -80
+    },
+    "nextScenarioId": 2562
+  },
+  {
+    "id": 2562,
+    "category": "social",
+    "text": "Du må bli med i protesten for å redde imaget. Du mister tacofredagen og må bo i et vinddrevet telt utenfor Stortinget.",
+    "leftChoiceLabel": "Omfavn teltlivet",
+    "rightChoiceLabel": "Sniki deg ut for kebab",
+    "leftEffect": {
+      "money": -500,
+      "social": 40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": -60,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2563,
+    "category": "social",
+    "text": "Joe Biden går seg bort på Nationaltheatret stasjon under et NATO-besøk. Han ser forvirret ut.",
+    "leftChoiceLabel": "Hjelp ham med veien",
+    "rightChoiceLabel": "Selg ham en billett",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 40,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2564
+  },
+  {
+    "id": 2564,
+    "category": "food",
+    "text": "Du finner ham spisende på en gammel baconpølse fra Narvesen. Secret Service mistenker at den er forgiftet med 'sosialisert medisin'.",
+    "leftChoiceLabel": "Forklar helsevesenet",
+    "rightChoiceLabel": "Overgi deg",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "nextScenarioId": 2565
+  },
+  {
+    "id": 2565,
+    "category": "money",
+    "text": "CIA holder deg tilbake. Du må bestikke dem med ditt nød-lager av Kvikk Lunsj for å slippe fri.",
+    "leftChoiceLabel": "Gi fra deg sjokoladen",
+    "rightChoiceLabel": "Dø for snacksen",
+    "leftEffect": {
+      "money": -100,
+      "social": -10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -60
+    }
+  },
+  {
+    "id": 2566,
+    "category": "social",
+    "text": "Du besøker Kristiansand. Du banner høyt når du mister softisen din. Hele byen stopper opp og stirrer.",
+    "leftChoiceLabel": "Beklag til gud",
+    "rightChoiceLabel": "Bann igjen",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    },
+    "nextScenarioId": 2567
+  },
+  {
+    "id": 2567,
+    "category": "culture",
+    "text": "Ordføreren arresterer deg for 'moralsk forfall'. Du dømmes til 40 timer med obligatorisk kirkekor-øvelse.",
+    "leftChoiceLabel": "Syng med",
+    "rightChoiceLabel": "Lat som du er hes",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2568
+  },
+  {
+    "id": 2568,
+    "category": "work",
+    "text": "Du prøver å krydre salmen med heavy metal-vokal. Sinte bestemødre med tresleiver jager deg ut av fylket.",
+    "leftChoiceLabel": "Løp for livet",
+    "rightChoiceLabel": "Slåss mot bestemor",
+    "leftEffect": {
+      "money": -500,
+      "social": -20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2569,
+    "category": "culture",
+    "text": "Xi Jinping gir Norge to pandaer. Mattilsynet stopper dem på Gardermoen fordi de mangler dokumentasjon på rabies.",
+    "leftChoiceLabel": "Slipp dem inn",
+    "rightChoiceLabel": "Følg reglene",
+    "leftEffect": {
+      "money": -1000,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2570
+  },
+  {
+    "id": 2570,
+    "category": "work",
+    "text": "Mattilsynet truer med avlivning. Den kinesiske ambassaden forbereder økonomisk krigføring mot Norge.",
+    "leftChoiceLabel": "Gjem pandaene",
+    "rightChoiceLabel": "Stå på ditt",
+    "leftEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -80
+    },
+    "nextScenarioId": 2571
+  },
+  {
+    "id": 2571,
+    "category": "money",
+    "text": "Pandaene spiser opp bambusparketten din. Du er blakk, men har avverget tredje verdenskrig.",
+    "leftChoiceLabel": "Krev leie av Kina",
+    "rightChoiceLabel": "Godta skaden",
+    "leftEffect": {
+      "money": 50000,
+      "social": -80,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -20000,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2572,
+    "category": "social",
+    "text": "Macron flykter fra franske pensjonsopprør og søker asyl hos NAV. Han krever luksus-pensjon som 62-åring.",
+    "leftChoiceLabel": "Gi ham skjemaene",
+    "rightChoiceLabel": "Le på norsk",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "nextScenarioId": 2573
+  },
+  {
+    "id": 2573,
+    "category": "work",
+    "text": "Du forklarer at pensjonsalderen er 67. Han prøver å starte et voldelig opprør i NAV-kantina.",
+    "leftChoiceLabel": "Ring vektere",
+    "rightChoiceLabel": "Se ham prøve",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2574
+  },
+  {
+    "id": 2574,
+    "category": "culture",
+    "text": "Opprøret feiler. Norske pensjonister ignorerer ham og venter på sitt kønummer. Han bryter sammen.",
+    "leftChoiceLabel": "Tilby kaffe",
+    "rightChoiceLabel": "Snik i køen",
+    "leftEffect": {
+      "money": -20,
+      "social": 10,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2575,
+    "category": "social",
+    "text": "Justin Trudeau dukker opp i corpses-paint på en middag i Oslo for å virke 'norsk'.",
+    "leftChoiceLabel": "Skryt av sminken",
+    "rightChoiceLabel": "Nekt ham inngang",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "nextScenarioId": 2576
+  },
+  {
+    "id": 2576,
+    "category": "culture",
+    "text": "Han tenner et seremonielt lys og setter fyr på den 300 år gamle ballsalen.",
+    "leftChoiceLabel": "Redd Kongen",
+    "rightChoiceLabel": "Redd buffeten",
+    "leftEffect": {
+      "money": 0,
+      "social": 80,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": -100,
+      "heat": 40
+    },
+    "nextScenarioId": 2577
+  },
+  {
+    "id": 2577,
+    "category": "money",
+    "text": "Du må betale 40 millioner kr eller sone 5 år i Halden fengsel.",
+    "leftChoiceLabel": "Betal gjelda",
+    "rightChoiceLabel": "Gå i luksus-fengsel",
+    "leftEffect": {
+      "money": -40000,
+      "social": 20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 50
+    }
+  },
+  {
+    "id": 2578,
+    "category": "culture",
+    "text": "Paven besøker Nidarosdomen og forveksler oblater med tynne skiver Gudbrandsdalsost.",
+    "leftChoiceLabel": "Stopp messen",
+    "rightChoiceLabel": "La gud bestemme",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2579
+  },
+  {
+    "id": 2579,
+    "category": "social",
+    "text": "Osten klistrer seg til pavens gane. Han får ikke frem et ord. Folket tror det er en guddommelig åpenbaring.",
+    "leftChoiceLabel": "Kneel i ærefrykt",
+    "rightChoiceLabel": "Gi ham vann",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 30
+    },
+    "nextScenarioId": 2580
+  },
+  {
+    "id": 2580,
+    "category": "money",
+    "text": "Vatikanet erklærer brunost som en hellig relikvie. Prisen stiger til 5000 kr per kilo.",
+    "leftChoiceLabel": "Selg lageret ditt",
+    "rightChoiceLabel": "Spis den hellige osten",
+    "leftEffect": {
+      "money": 15000,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 40,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2581,
+    "category": "work",
+    "text": "Trump ringer for å pitche et casino på Svalbard. Han lover å få isbjørnene til å betale for muren.",
+    "leftChoiceLabel": "Legg på",
+    "rightChoiceLabel": "Viderekoble samtalen",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2582
+  },
+  {
+    "id": 2582,
+    "category": "work",
+    "text": "Du må avvise ham med norsk konsulent-sjargong.",
+    "leftChoiceLabel": "Si 'Vi tar det til etterretning'",
+    "rightChoiceLabel": "Skrik 'Fake News'",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    },
+    "nextScenarioId": 2583
+  },
+  {
+    "id": 2583,
+    "category": "money",
+    "text": "Trump sender Navy SEALs for å konfiskere sparepengene dine. Du mister 412 kr.",
+    "leftChoiceLabel": "Gråt åpenlyst",
+    "rightChoiceLabel": "Krev dem tilbake i mynt",
+    "leftEffect": {
+      "money": -412,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -412,
+      "social": 20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2584,
+    "category": "work",
+    "text": "Greta Thunberg limer seg fast til oljeplattformen din og krever full stans.",
+    "leftChoiceLabel": "Ring Kystvakten",
+    "rightChoiceLabel": "Tilby vafler",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2585
+  },
+  {
+    "id": 2585,
+    "category": "food",
+    "text": "Hun spør om vaflene er veganske. Du brukte meierismør og får kjeft i megafon.",
+    "leftChoiceLabel": "Tilstå smøret",
+    "rightChoiceLabel": "Lyv og si de er veganske",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    },
+    "nextScenarioId": 2586
+  },
+  {
+    "id": 2586,
+    "category": "work",
+    "text": "Du blir kansellert og får bot for feilmerking av bakverk.",
+    "leftChoiceLabel": "Gråt på lugaren",
+    "rightChoiceLabel": "Bli oljelobbyist",
+    "leftEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 15000,
+      "social": -80,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2587,
+    "category": "social",
+    "text": "Boris Johnson skyller i land på stranda di og trygler om en fisk-for-smør-avtale.",
+    "leftChoiceLabel": "Selg ham torsken",
+    "rightChoiceLabel": "Dytt ham ut igjen",
+    "leftEffect": {
+      "money": 500,
+      "social": -10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "nextScenarioId": 2588
+  },
+  {
+    "id": 2588,
+    "category": "money",
+    "text": "Han betaler i britiske pund og gir deg en våt kopi av biografien sin.",
+    "leftChoiceLabel": "Godta handelen",
+    "rightChoiceLabel": "Krev NOK",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "nextScenarioId": 2589
+  },
+  {
+    "id": 2589,
+    "category": "money",
+    "text": "Banken tilbyr deg en halv Kvikk Lunsj for alle pundene dine.",
+    "leftChoiceLabel": "Ta sjokoladen",
+    "rightChoiceLabel": "Behold pundene",
+    "leftEffect": {
+      "money": -5000,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2590,
+    "category": "work",
+    "text": "Du skal vokte en beslaglagt russisk yacht. Oligarken tilbyr deg 20 millioner kr for å ta en blund.",
+    "leftChoiceLabel": "Ta bestikkelsen",
+    "rightChoiceLabel": "Stå vakt",
+    "leftEffect": {
+      "money": 20000,
+      "social": -60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "nextScenarioId": 2591
+  },
+  {
+    "id": 2591,
+    "category": "culture",
+    "text": "Yachten prøver å flykte, men treffer et skjær og synker.",
+    "leftChoiceLabel": "Redd oligarken",
+    "rightChoiceLabel": "La ham svømme",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 30
+    },
+    "nextScenarioId": 2592
+  },
+  {
+    "id": 2592,
+    "category": "social",
+    "text": "Dere havner i Halden fengsel. Han klager på at TV-en bare er 40 tommer.",
+    "leftChoiceLabel": "Be om overføring",
+    "rightChoiceLabel": "Slåss mot ham",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2593,
+    "category": "culture",
+    "text": "EU krever at brunost får navnet 'Brun søt melkeblokk'.",
+    "leftChoiceLabel": "Brenn EU-flagget",
+    "rightChoiceLabel": "Følg loven",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -20
+    },
+    "nextScenarioId": 2594
+  },
+  {
+    "id": 2594,
+    "category": "money",
+    "text": "EU svarer med laksestopp. Fjordene renner over av deprimert fisk.",
+    "leftChoiceLabel": "Spis laks daglig",
+    "rightChoiceLabel": "Dump det i Sverige",
+    "leftEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -40,
+      "heat": 30
+    },
+    "nextScenarioId": 2595
+  },
+  {
+    "id": 2595,
+    "category": "food",
+    "text": "Huden din blir oransje av all laksen etter tre uker.",
+    "leftChoiceLabel": "Godta din nye form",
+    "rightChoiceLabel": "Trygle EU om nåde",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2596,
+    "category": "culture",
+    "text": "Zuckerberg vil kjøpe reinbeite-området ditt for en serverfarm.",
+    "leftChoiceLabel": "Selg landet",
+    "rightChoiceLabel": "Nekt øgla",
+    "leftEffect": {
+      "money": 15000,
+      "social": -60,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "nextScenarioId": 2597
+  },
+  {
+    "id": 2597,
+    "category": "social",
+    "text": "Han truer med å slette Facebook-kontoen din og borettslagsgruppa.",
+    "leftChoiceLabel": "Gi etter og selg",
+    "rightChoiceLabel": "Slett appen",
+    "leftEffect": {
+      "money": 15000,
+      "social": -80,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": 30
+    },
+    "nextScenarioId": 2598
+  },
+  {
+    "id": 2598,
+    "category": "work",
+    "text": "Reinen din tygger over fiberkabelen og tar ned Facebook i 48 timer. Du er en helt.",
+    "leftChoiceLabel": "Klapp reinen",
+    "rightChoiceLabel": "Gjem deg for Mark",
+    "leftEffect": {
+      "money": 0,
+      "social": 60,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -40
+    }
   }
 ]

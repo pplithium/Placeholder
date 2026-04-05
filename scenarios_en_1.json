@@ -20398,6 +20398,6154 @@
       "social": 25,
       "heat": 0
     }
+  },
+  {
+    "id": 2251,
+    "category": "culture",
+    "text": "You inherit a 'charming' traditional Norwegian cabin deep in the mountains. Do you inspect it first, or just accept the keys blindly?",
+    "leftChoiceLabel": "Inspect it",
+    "rightChoiceLabel": "Accept blindly",
+    "leftEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 0
+    },
+    "nextScenarioId": 2252
+  },
+  {
+    "id": 2252,
+    "category": "culture",
+    "text": "You arrive at your new cabin. The roof is leaking, there is no electricity, and a sheep is sleeping in the kitchen. Do you hire a Norwegian carpenter or fix it yourself?",
+    "leftChoiceLabel": "Hire Carpenter",
+    "rightChoiceLabel": "DIY",
+    "leftEffect": {
+      "money": -8000,
+      "social": 10,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2253
+  },
+  {
+    "id": 2253,
+    "category": "weather",
+    "text": "You fixed the roof, but now the outhouse is frozen solid. It is -20 degrees outside.",
+    "leftChoiceLabel": "Use the woods",
+    "rightChoiceLabel": "Hold it until Tuesday",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -50
+    },
+    "nextScenarioId": 2254
+  },
+  {
+    "id": 2254,
+    "category": "money",
+    "text": "You finally return to civilization. The toll booths on the way back charge you 800 NOK because you drove a diesel car.",
+    "leftChoiceLabel": "Pay and weep",
+    "rightChoiceLabel": "Ram the barrier",
+    "leftEffect": {
+      "money": -800,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2255,
+    "category": "social",
+    "text": "You are invited to the housing cooperative's spring Dugnad (mandatory community labor). You hate raking leaves.",
+    "leftChoiceLabel": "Fake an injury",
+    "rightChoiceLabel": "Show up in rain gear",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2256
+  },
+  {
+    "id": 2256,
+    "category": "food",
+    "text": "You are at the Dugnad, but you brought store-bought muffins instead of homemade waffles. The neighborhood committee board is glaring at you.",
+    "leftChoiceLabel": "Claim they are vegan",
+    "rightChoiceLabel": "Eat them aggressively",
+    "leftEffect": {
+      "money": -100,
+      "social": 15,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2257
+  },
+  {
+    "id": 2257,
+    "category": "work",
+    "text": "To redeem yourself with the neighbors, you are assigned the worst job: cleaning the communal gutters filled with mysterious black sludge.",
+    "leftChoiceLabel": "Do it crying",
+    "rightChoiceLabel": "Bribe a local kid",
+    "leftEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": -45
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -35,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2258,
+    "category": "work",
+    "text": "Your boss demands you work overtime on a Friday. In Norway, the office empties at exactly 15:00. Do you stay or leave?",
+    "leftChoiceLabel": "Stay and work",
+    "rightChoiceLabel": "Flee at 14:55",
+    "leftEffect": {
+      "money": 1500,
+      "social": -30,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 20,
+      "heat": 15
+    },
+    "nextScenarioId": 2259
+  },
+  {
+    "id": 2259,
+    "category": "social",
+    "text": "You are 'burnt out' from working 37.5 hours a week. You get a 'Sykmelding' (paid sick leave). What do you do with your time off?",
+    "leftChoiceLabel": "Go cross-country skiing",
+    "rightChoiceLabel": "Watch TV in the dark",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -20
+    },
+    "nextScenarioId": 2260
+  },
+  {
+    "id": 2260,
+    "category": "work",
+    "text": "You posted a picture of yourself skiing in the Alps while on sick leave. Your boss saw it. You are now dealing directly with NAV.",
+    "leftChoiceLabel": "Claim medical necessity",
+    "rightChoiceLabel": "Beg for your job back",
+    "leftEffect": {
+      "money": -1000,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2261,
+    "category": "social",
+    "text": "It is December. The legendary company Julebord (Christmas Party) approaches. The theme is 'Ugly Sweaters and Aquavit'.",
+    "leftChoiceLabel": "Drink heavily",
+    "rightChoiceLabel": "Stay sober",
+    "leftEffect": {
+      "money": -800,
+      "social": 30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2262
+  },
+  {
+    "id": 2262,
+    "category": "culture",
+    "text": "You are severely intoxicated at the Julebord. The CEO is giving a boring speech about Q3 profits. You feel the urge to interrupt.",
+    "leftChoiceLabel": "Grab the microphone",
+    "rightChoiceLabel": "Bite your tongue",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -25
+    },
+    "nextScenarioId": 2263
+  },
+  {
+    "id": 2263,
+    "category": "weather",
+    "text": "You wake up the next day in a snowbank holding a half-eaten frozen kebab. You have 30 missed calls from HR.",
+    "leftChoiceLabel": "Change your identity",
+    "rightChoiceLabel": "Answer and cry",
+    "leftEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2264
+  },
+  {
+    "id": 2264,
+    "category": "work",
+    "text": "HR insists you attend a mandatory 'workplace boundaries' seminar, held in a windowless basement in Drammen.",
+    "leftChoiceLabel": "Accept your fate",
+    "rightChoiceLabel": "Resign on the spot",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": -20,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2265,
+    "category": "culture",
+    "text": "It is May 16th. You realize your traditional Bunad is two sizes too small or you don't own one. The national pressure to look perfect is suffocating.",
+    "leftChoiceLabel": "Buy a designer suit",
+    "rightChoiceLabel": "Rent a 'Costume'",
+    "leftEffect": {
+      "money": -9000,
+      "social": 15,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": -35,
+      "heat": 5
+    },
+    "nextScenarioId": 2266
+  },
+  {
+    "id": 2266,
+    "category": "social",
+    "text": "It's 7:00 AM on the 17th of May. You are at a 'Champagne Breakfast'. You've already had four glasses and need to give a speech to people you barely know.",
+    "leftChoiceLabel": "Keep drinking",
+    "rightChoiceLabel": "Switch to Farris",
+    "leftEffect": {
+      "money": -200,
+      "social": 25,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 10
+    },
+    "nextScenarioId": 2267
+  },
+  {
+    "id": 2267,
+    "category": "social",
+    "text": "You are in the middle of the parade crowd. Your bladder is screaming. Every public toilet has a 45-minute queue of crying children and angry parents.",
+    "leftChoiceLabel": "Use a dark alleyway",
+    "rightChoiceLabel": "Internalize the pain",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -45
+    },
+    "nextScenarioId": 2268
+  },
+  {
+    "id": 2268,
+    "category": "money",
+    "text": "The parade is over. You lost your wallet and the trains are canceled. Your only way home is a 'Buss for Tog' that may never arrive.",
+    "leftChoiceLabel": "Black market Taxi",
+    "rightChoiceLabel": "Wait 4 hours for bus",
+    "leftEffect": {
+      "money": -1500,
+      "social": 0,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2269,
+    "category": "social",
+    "text": "November hits. The 'Great Darkness' has arrived. You decide to find a partner on Tinder purely to have someone to share the soaring electricity bills with.",
+    "leftChoiceLabel": "Super Like everyone",
+    "rightChoiceLabel": "Lower your standards",
+    "leftEffect": {
+      "money": -300,
+      "social": 10,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": -15
+    },
+    "nextScenarioId": 2270
+  },
+  {
+    "id": 2270,
+    "category": "culture",
+    "text": "Your first date is a 10km hike in pitch darkness with headlamps. They ask if you enjoy putting 'Gudbrandsdalsost' on your waffles.",
+    "leftChoiceLabel": "Lie and say 'Elsker det!'",
+    "rightChoiceLabel": "Admit it's weird",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2271
+  },
+  {
+    "id": 2271,
+    "category": "food",
+    "text": "The date went well. You are meeting their parents in a remote village. They serve 'Smalahove' (boiled sheep's head). Your date's father is watching you.",
+    "leftChoiceLabel": "Eat the eye",
+    "rightChoiceLabel": "Politely decline",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -70,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2272,
+    "category": "sport",
+    "text": "You bought 12,000 NOK worth of carbon-fiber ski gear to look professional at Sognsvann. A 5-year-old child in a 20-year-old jacket just overtakes you uphill.",
+    "leftChoiceLabel": "Sprint to catch up",
+    "rightChoiceLabel": "Fake a ski malfunction",
+    "leftEffect": {
+      "money": 0,
+      "social": 5,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2273
+  },
+  {
+    "id": 2273,
+    "category": "weather",
+    "text": "While trying to out-ski the 5-year-old, you lose control and crash into a frozen birch tree. You are lying in a snowbank and your pride is shattered.",
+    "leftChoiceLabel": "Blame the 'Dårlig smøring'",
+    "rightChoiceLabel": "Cry silently",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2274,
+    "category": "money",
+    "text": "You fly to Tromsø in January specifically to see the Northern Lights. It has been cloudy for 14 days and a small beer costs 165 NOK.",
+    "leftChoiceLabel": "Buy the beer",
+    "rightChoiceLabel": "Drink melted snow",
+    "leftEffect": {
+      "money": -165,
+      "social": 10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "nextScenarioId": 2275
+  },
+  {
+    "id": 2275,
+    "category": "culture",
+    "text": "You pay for a 'Professional Aurora Chase' bus. The guide drives you to a dark parking lot behind a REEMA 1000 and tells you to 'wait and pray'.",
+    "leftChoiceLabel": "Pray loudly",
+    "rightChoiceLabel": "Demand a refund",
+    "leftEffect": {
+      "money": -2500,
+      "social": 5,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "nextScenarioId": 2276
+  },
+  {
+    "id": 2276,
+    "category": "weather",
+    "text": "You finally see a faint, blurry green smudge in the sky. Is it the Aurora Borealis or just light pollution from a nearby fish factory?",
+    "leftChoiceLabel": "Post to Instagram",
+    "rightChoiceLabel": "Cry with joy",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2277,
+    "category": "social",
+    "text": "It is raining sideways. You drop your kid off at the Barnehage and realize you forgot their 'Regntøy' (rain gear). The head teacher looks at you like a criminal.",
+    "leftChoiceLabel": "Run to the mall",
+    "rightChoiceLabel": "Blame your spouse",
+    "leftEffect": {
+      "money": -1200,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2278
+  },
+  {
+    "id": 2278,
+    "category": "culture",
+    "text": "You bought the most expensive Helly Hansen gear to prove you're a good parent. Now you must label every single item with the kid's name or they will be lost forever in the 'Glemt-kassen'.",
+    "leftChoiceLabel": "Label everything",
+    "rightChoiceLabel": "Leave it to fate",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -25
+    },
+    "rightEffect": {
+      "money": -1200,
+      "social": -10,
+      "heat": 20
+    },
+    "nextScenarioId": 2279
+  },
+  {
+    "id": 2279,
+    "category": "weather",
+    "text": "The gear is labeled and on the kid. 5 minutes later, they jump into a knee-deep mud puddle. The waterproof seal fails immediately.",
+    "leftChoiceLabel": "Laugh hysterically",
+    "rightChoiceLabel": "Quit parenting",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2280,
+    "category": "food",
+    "text": "Friday night. You decide to perform the sacred Norwegian ritual: Eating a 'Pizza Grandiosa'. Do you add extra cheese or eat it as the ancestors intended?",
+    "leftChoiceLabel": "Extra Cheese",
+    "rightChoiceLabel": "Keep it Authentic",
+    "leftEffect": {
+      "money": -50,
+      "social": 0,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": 5
+    },
+    "nextScenarioId": 2281
+  },
+  {
+    "id": 2281,
+    "category": "food",
+    "text": "You are performing the second part of the ritual: meticulously picking off the tiny red bell pepper bits because nobody actually likes them.",
+    "leftChoiceLabel": "Throw them away",
+    "rightChoiceLabel": "Eat one for a dare",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -20
+    },
+    "nextScenarioId": 2282
+  },
+  {
+    "id": 2282,
+    "category": "money",
+    "text": "You finished the pizza. You realize you left the oven on for 3 hours. Your smart-meter app shows the electricity price just spiked to 8 NOK per kWh.",
+    "leftChoiceLabel": "Sell a kidney",
+    "rightChoiceLabel": "Move to a tent",
+    "leftEffect": {
+      "money": -4000,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 2000,
+      "social": -40,
+      "heat": -60
+    }
+  },
+  {
+    "id": 2283,
+    "category": "culture",
+    "text": "It is Saturday, 14:45. The Vinmonopolet closes in 15 minutes. If you fail now, you will be sober at tonight’s party while everyone else discusses their mortgage.",
+    "leftChoiceLabel": "Run like a Viking",
+    "rightChoiceLabel": "Accept sobriety",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2284
+  },
+  {
+    "id": 2284,
+    "category": "social",
+    "text": "You made it inside at 14:59. You grab a random bottle of red wine. At the register, the clerk asks for your ID. You are 38 years old, but forgot your wallet in the car.",
+    "leftChoiceLabel": "Argue logic",
+    "rightChoiceLabel": "Beg for mercy",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2285
+  },
+  {
+    "id": 2285,
+    "category": "money",
+    "text": "The clerk refused you. You walk out empty-handed. A 'friendly' teenager outside offers to buy you a bottle for a 500 NOK 'convenience fee'.",
+    "leftChoiceLabel": "Pay the bribe",
+    "rightChoiceLabel": "Stay thirsty",
+    "leftEffect": {
+      "money": -1200,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2286,
+    "category": "culture",
+    "text": "Your hallway is blocked by three massive bags of empty beer cans. Your partner is threatening to leave you unless you 'Pant' them today.",
+    "leftChoiceLabel": "Go to the store",
+    "rightChoiceLabel": "Hide them in the cellar",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -25,
+      "heat": 5
+    },
+    "nextScenarioId": 2287
+  },
+  {
+    "id": 2287,
+    "category": "money",
+    "text": "You are at the recycling machine. It's working perfectly until the last can, which causes a 'System Error: Call Staff'. A line of five angry pensioners forms behind you.",
+    "leftChoiceLabel": "Wait for help",
+    "rightChoiceLabel": "Run away in shame",
+    "leftEffect": {
+      "money": 150,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "nextScenarioId": 2288
+  },
+  {
+    "id": 2288,
+    "category": "social",
+    "text": "The machine is fixed. You have a receipt for 142 NOK. Do you keep the money or press the 'Pantelotteriet' button to donate it for a 0.0001% chance at a million?",
+    "leftChoiceLabel": "Keep the cash",
+    "rightChoiceLabel": "Gamble for charity",
+    "leftEffect": {
+      "money": 142,
+      "social": 0,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -142,
+      "social": 30,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2289,
+    "category": "work",
+    "text": "You enter the office kitchen and find a half-eaten 'Matpakke' left inside the microwave. The smell is… biological. Do you clean it?",
+    "leftChoiceLabel": "Clean it up",
+    "rightChoiceLabel": "Leave it for HR",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 10
+    },
+    "nextScenarioId": 2290
+  },
+  {
+    "id": 2290,
+    "category": "social",
+    "text": "You left a passive-aggressive Post-it note on the microwave: 'Whoever did this is a monster.' Ten minutes later, your boss is crying at their desk.",
+    "leftChoiceLabel": "Apologize",
+    "rightChoiceLabel": "Double down",
+    "leftEffect": {
+      "money": 0,
+      "social": 5,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 15
+    },
+    "nextScenarioId": 2291
+  },
+  {
+    "id": 2291,
+    "category": "work",
+    "text": "Your boss calls a mandatory 'Kitchen Culture' workshop. You must spend 4 hours discussing how to 'share the space' with a certified Norwegian consultant.",
+    "leftChoiceLabel": "Listen intently",
+    "rightChoiceLabel": "Draw on the whiteboard",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2292,
+    "category": "sport",
+    "text": "Your colleagues are all signing up for the 'Birkebeiner'—a 54km ski race over a mountain. To avoid looking weak, you sign up too. You haven't skied since 2014.",
+    "leftChoiceLabel": "Buy 20k NOK gear",
+    "rightChoiceLabel": "Intense YouTube training",
+    "leftEffect": {
+      "money": -20000,
+      "social": 15,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -15
+    },
+    "nextScenarioId": 2293
+  },
+  {
+    "id": 2293,
+    "category": "weather",
+    "text": "It's race day. The temperature is exactly 0 degrees—the waxer's nightmare. Your skis are sticking to the snow like industrial Velcro. Everyone is gliding past you.",
+    "leftChoiceLabel": "Scrape skis with teeth",
+    "rightChoiceLabel": "Cry in the tracks",
+    "leftEffect": {
+      "money": 0,
+      "social": -25,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2294
+  },
+  {
+    "id": 2294,
+    "category": "culture",
+    "text": "You finish the race 9 hours late. The finish line is being dismantled. A frostbitten volunteer hands you a participation medal that looks like a bottle cap.",
+    "leftChoiceLabel": "Wear it with pride",
+    "rightChoiceLabel": "Throw it in the fjord",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 0
+    }
+  },
+  {
+    "id": 2295,
+    "category": "money",
+    "text": "You are hunting for an apartment in Oslo. You find a 'studio' for 16,000 NOK. The bed is in the kitchen and you have to share a shower with a family of four.",
+    "leftChoiceLabel": "Take it immediately",
+    "rightChoiceLabel": "Negotiate (Lol)",
+    "leftEffect": {
+      "money": -16000,
+      "social": 10,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2296
+  },
+  {
+    "id": 2296,
+    "category": "social",
+    "text": "Your landlord, a man named Thor who wears socks with sandals, informs you that 'guests' are prohibited and the internet is limited to checking the weather.",
+    "leftChoiceLabel": "Accept the solitude",
+    "rightChoiceLabel": "Smuggle a friend in",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 30,
+      "heat": 5
+    },
+    "nextScenarioId": 2297
+  },
+  {
+    "id": 2297,
+    "category": "culture",
+    "text": "Thor catches you using a toaster after 21:00, which 'disturbs the communal peace'. He invokes a secret clause in your contract to raise the rent.",
+    "leftChoiceLabel": "Pay the 'Toaster Tax'",
+    "rightChoiceLabel": "Move into a trailer",
+    "leftEffect": {
+      "money": -3000,
+      "social": 0,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 5000,
+      "social": -60,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2298,
+    "category": "social",
+    "text": "You board an empty bus. Distracted by your phone, you sit in the double seat right next to the only other passenger. You feel their soul leave their body in terror.",
+    "leftChoiceLabel": "Pretend to be blind",
+    "rightChoiceLabel": "Say 'Hi' to fix it",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    },
+    "nextScenarioId": 2299
+  },
+  {
+    "id": 2299,
+    "category": "culture",
+    "text": "The passenger is so uncomfortable they get off the bus 4 kilometers before their actual stop just to escape the 'Bus Talker'.",
+    "leftChoiceLabel": "Follow to apologize",
+    "rightChoiceLabel": "Enjoy the extra space",
+    "leftEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2300
+  },
+  {
+    "id": 2300,
+    "category": "social",
+    "text": "A video of your 'Bus Incident' goes viral on a Norwegian subreddit. You are now known as 'The Personal Space Invader'.",
+    "leftChoiceLabel": "Wear a disguise",
+    "rightChoiceLabel": "Move to Sweden",
+    "leftEffect": {
+      "money": -500,
+      "social": 5,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2301,
+    "category": "work",
+    "text": "Your boss approves a 'Hyttekontor' (working from the cabin). You drive 5 hours into the wilderness, promising to be 'fully available' on Slack.",
+    "leftChoiceLabel": "Pack extra coffee",
+    "rightChoiceLabel": "Pack extra Gin",
+    "leftEffect": {
+      "money": -200,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -600,
+      "social": 5,
+      "heat": 15
+    },
+    "nextScenarioId": 2302
+  },
+  {
+    "id": 2302,
+    "category": "culture",
+    "text": "A massive blizzard hits. The 4G tower freezes over exactly 2 minutes before your 'Strategic Alignment' presentation with the board of directors.",
+    "leftChoiceLabel": "Climb the roof for signal",
+    "rightChoiceLabel": "Blame the Russians",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    },
+    "nextScenarioId": 2303
+  },
+  {
+    "id": 2303,
+    "category": "work",
+    "text": "The internet is back, but you are now on a local news segment titled 'The Idiot on the Roof' after a neighbor filmed your signal-hunting attempt.",
+    "leftChoiceLabel": "Claim it was Art",
+    "rightChoiceLabel": "Delete LinkedIn",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2304,
+    "category": "food",
+    "text": "It is 'Smalahove' season. Your traditionalist in-laws serve you a scorched sheep's head. The eye is staring directly into your soul.",
+    "leftChoiceLabel": "Eat the eye first",
+    "rightChoiceLabel": "Hide it in your napkin",
+    "leftEffect": {
+      "money": 0,
+      "social": 60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2305
+  },
+  {
+    "id": 2305,
+    "category": "culture",
+    "text": "To wash down the sheep's head, your father-in-law pours you a triple shot of room-temperature Linje Akevitt. He won't blink until you finish it.",
+    "leftChoiceLabel": "Down it in one",
+    "rightChoiceLabel": "Sip it politely",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "nextScenarioId": 2306
+  },
+  {
+    "id": 2306,
+    "category": "social",
+    "text": "The combination of sheep fat and Akevitt has triggered a biological emergency. The only bathroom is right next to the dining table with paper-thin walls.",
+    "leftChoiceLabel": "Turn on the tap loud",
+    "rightChoiceLabel": "Face the music",
+    "leftEffect": {
+      "money": -50,
+      "social": -10,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2307,
+    "category": "money",
+    "text": "Electricity prices are at an all-time high. Your 'Smart Home' app tells you the cheapest time to use the washing machine is Tuesday at 03:15 AM.",
+    "leftChoiceLabel": "Set the alarm",
+    "rightChoiceLabel": "Pay the premium",
+    "leftEffect": {
+      "money": 500,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -1200,
+      "social": 0,
+      "heat": 15
+    },
+    "nextScenarioId": 2308
+  },
+  {
+    "id": 2308,
+    "category": "weather",
+    "text": "You are doing laundry in the dark at 3 AM to save 4 NOK. You trip over a stray wool sock and fall into the cold, damp basement floor.",
+    "leftChoiceLabel": "Sleep there until dawn",
+    "rightChoiceLabel": "Cry for help",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2309
+  },
+  {
+    "id": 2309,
+    "category": "social",
+    "text": "Your neighbor saw you lying on the basement floor through the window. They didn't help, but they did post about 'suspicious activity' in the neighborhood Facebook group.",
+    "leftChoiceLabel": "Explain the savings",
+    "rightChoiceLabel": "Move to a new district",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2310,
+    "category": "culture",
+    "text": "You are at an office lunch. You use a regular knife to slice the communal block of 'Brunost' (Brown Cheese) instead of the sacred Ostehøvel (cheese slicer). The room gasps in horror.",
+    "leftChoiceLabel": "Chop a thick block",
+    "rightChoiceLabel": "Apologize to the cheese",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "nextScenarioId": 2311
+  },
+  {
+    "id": 2311,
+    "category": "work",
+    "text": "HR calls you in for a 'cultural realignment' meeting. They place three different cheese slicers on the desk and demand you identify the specific 'Fløtemysost' slicer.",
+    "leftChoiceLabel": "Guess blindly",
+    "rightChoiceLabel": "Cry in English",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2312
+  },
+  {
+    "id": 2312,
+    "category": "culture",
+    "text": "You failed the cheese slicer test. As penance, your boss sends you to a remote mountain farm to hand-carve a wooden Ostehøvel from a birch tree.",
+    "leftChoiceLabel": "Embrace the wood",
+    "rightChoiceLabel": "Flee to Denmark",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -3000,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2313,
+    "category": "money",
+    "text": "It is a long weekend. You embark on a 'Harrytur' (cross-border shopping trip to Sweden) to buy cheap bacon, snus, and Pepsi Max.",
+    "leftChoiceLabel": "Buy 50kg of bacon",
+    "rightChoiceLabel": "Just buy some candy",
+    "leftEffect": {
+      "money": -2500,
+      "social": -10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": -5
+    },
+    "nextScenarioId": 2314
+  },
+  {
+    "id": 2314,
+    "category": "culture",
+    "text": "Your trunk is packed with 80 liters of cheap Swedish energy drinks. You approach the Norwegian border toll. The customs officer (Toller) makes direct eye contact.",
+    "leftChoiceLabel": "Act completely natural",
+    "rightChoiceLabel": "Panic and accelerate",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 40
+    },
+    "nextScenarioId": 2315
+  },
+  {
+    "id": 2315,
+    "category": "money",
+    "text": "You are pulled over. You are over the legal import quota by 12 liters of soda and 4 kg of meat. The Toller starts writing a massive ticket.",
+    "leftChoiceLabel": "Drink it all right now",
+    "rightChoiceLabel": "Pay the massive fine",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": -8500,
+      "social": 0,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2316,
+    "category": "social",
+    "text": "You live in a block of flats. You are exactly 3 minutes late to retrieve your clothes from the communal 'Vaskekjeller'. A neighbor has already placed your wet underwear on top of the machine.",
+    "leftChoiceLabel": "Leave an angry note",
+    "rightChoiceLabel": "Accept the shame",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 25
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -20
+    },
+    "nextScenarioId": 2317
+  },
+  {
+    "id": 2317,
+    "category": "social",
+    "text": "You left a passive-aggressive Post-it note. The next day, there is a fully laminated, two-page reply citing 'Paragraph 4, Section B' of the building's laundry bylaws.",
+    "leftChoiceLabel": "Call a tenant meeting",
+    "rightChoiceLabel": "Burn the laminated note",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "nextScenarioId": 2318
+  },
+  {
+    "id": 2318,
+    "category": "social",
+    "text": "At the 'Sameiemøte' (tenant meeting), nobody brings up the laundry war. Instead, the entire building spends 3 hours debating if the gravel in the driveway should be 'grey' or 'dark grey'.",
+    "leftChoiceLabel": "Scream about laundry",
+    "rightChoiceLabel": "Vote for 'dark grey'",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2319,
+    "category": "food",
+    "text": "It is only October 15th. The local Kiwi supermarket just put out the first batch of 'Julebrus' (Christmas Soda). A grown man is frantically hoarding 40 crates.",
+    "leftChoiceLabel": "Fight him for a crate",
+    "rightChoiceLabel": "Wait until December",
+    "leftEffect": {
+      "money": -300,
+      "social": -20,
+      "heat": 25
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -10
+    },
+    "nextScenarioId": 2320
+  },
+  {
+    "id": 2320,
+    "category": "food",
+    "text": "You secured a single glass bottle of Dahls Julebrus. You step outside and immediately drop it on the icy asphalt. It shatters. A crowd gathers, taking off their beanies in mourning.",
+    "leftChoiceLabel": "Lick the icy asphalt",
+    "rightChoiceLabel": "Sing a solemn hymn",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -15
+    },
+    "nextScenarioId": 2321
+  },
+  {
+    "id": 2321,
+    "category": "culture",
+    "text": "A local newspaper writes an article about your 'Julebrus Tragedy'. You are forced to go on national TV and debate the most dangerous topic in Norway: Is Brown or Red Julebrus superior?",
+    "leftChoiceLabel": "Declare RED is best",
+    "rightChoiceLabel": "Declare BROWN is best",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2322,
+    "category": "money",
+    "text": "Tired of paying massive toll ring fees, you buy a brand new Tesla. It costs your entire life savings, but you feel incredibly morally superior.",
+    "leftChoiceLabel": "Smug on Facebook",
+    "rightChoiceLabel": "Stay humble",
+    "leftEffect": {
+      "money": -15000,
+      "social": 20,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": 0,
+      "heat": 10
+    },
+    "nextScenarioId": 2323
+  },
+  {
+    "id": 2323,
+    "category": "weather",
+    "text": "You are driving your EV to a remote cabin. It is -25°C. The battery suddenly drops from 40% to 2% in three minutes. You are in the middle of nowhere.",
+    "leftChoiceLabel": "Turn off the heater",
+    "rightChoiceLabel": "Floor it and pray",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 10
+    },
+    "nextScenarioId": 2324
+  },
+  {
+    "id": 2324,
+    "category": "culture",
+    "text": "Your EV dies. You are rescued by a local farmer driving a massive, polluting 1998 diesel Volvo. He tows you back to civilization while laughing loudly at you.",
+    "leftChoiceLabel": "Pay him 2000 NOK",
+    "rightChoiceLabel": "Argue about emissions",
+    "leftEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2325,
+    "category": "work",
+    "text": "You try to call NAV (the welfare administration) to ask a simple question about your tax bracket. The automated voice says you are number 412 in the queue.",
+    "leftChoiceLabel": "Wait 5 hours",
+    "rightChoiceLabel": "Hang up",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2326
+  },
+  {
+    "id": 2326,
+    "category": "work",
+    "text": "You finally get through. The representative sighs heavily and informs you that you need 'Form 24-B', which must be submitted via fax or pigeon.",
+    "leftChoiceLabel": "Find a fax machine",
+    "rightChoiceLabel": "Scream into the phone",
+    "leftEffect": {
+      "money": -100,
+      "social": 0,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 15
+    },
+    "nextScenarioId": 2327
+  },
+  {
+    "id": 2327,
+    "category": "culture",
+    "text": "You found a fax machine in a museum and sent the form. A week later, you receive a letter stating you filled it out in blue ink instead of black. Claim denied.",
+    "leftChoiceLabel": "Accept defeat",
+    "rightChoiceLabel": "Move to the forest",
+    "leftEffect": {
+      "money": -1000,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2328,
+    "category": "food",
+    "text": "You bring a hot lunch to the office instead of the traditional 'Matpakke' (dry bread with cheese). The smell of warm food deeply offends your colleagues.",
+    "leftChoiceLabel": "Eat it proudly",
+    "rightChoiceLabel": "Throw it away",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": 20,
+      "heat": -15
+    },
+    "nextScenarioId": 2329
+  },
+  {
+    "id": 2329,
+    "category": "work",
+    "text": "HR issues a passive-aggressive memo about 'odorous food disruptions.' Everyone is staring at your microwaved fish.",
+    "leftChoiceLabel": "Apologize",
+    "rightChoiceLabel": "Eat fish again tomorrow",
+    "leftEffect": {
+      "money": 0,
+      "social": 25,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    },
+    "nextScenarioId": 2330
+  },
+  {
+    "id": 2330,
+    "category": "culture",
+    "text": "To conform, you switch to eating dry Kneippbrød with a single, sweating slice of Salami. Your soul is dying, but your social standing is fully restored.",
+    "leftChoiceLabel": "Chew the cardboard",
+    "rightChoiceLabel": "Cry into the bread",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2331,
+    "category": "sport",
+    "text": "Your athletic, overly-cheerful colleague convinces you to join them for an 'Isbading' (ice bathing) session in the Oslo fjord.",
+    "leftChoiceLabel": "Do it for the gram",
+    "rightChoiceLabel": "Fake a heart condition",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2332
+  },
+  {
+    "id": 2332,
+    "category": "weather",
+    "text": "You jump into the freezing water. Your heart stops for a second. Your colleague is casually treading ice and discussing mortgage rates.",
+    "leftChoiceLabel": "Nod and smile",
+    "rightChoiceLabel": "Scream for your mother",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2333
+  },
+  {
+    "id": 2333,
+    "category": "social",
+    "text": "You climb out of the water, shivering violently. You realize a seagull just flew away with your only towel. The brutal January wind howls.",
+    "leftChoiceLabel": "Run naked to the car",
+    "rightChoiceLabel": "Ask to share a towel",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2334,
+    "category": "culture",
+    "text": "You book a 48-hour cruise on the 'Danskebåten' purely for cheap alcohol and the buffet. The Skagerrak sea is extremely rough and the ship is violently swaying.",
+    "leftChoiceLabel": "Hit the buffet anyway",
+    "rightChoiceLabel": "Hide in your cabin",
+    "leftEffect": {
+      "money": -300,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2335
+  },
+  {
+    "id": 2335,
+    "category": "food",
+    "text": "You are at the buffet. The ship drops violently over a 10-meter wave. Your plate of pickled herring and roast beef flies directly into the Captain's lap.",
+    "leftChoiceLabel": "Offer him a napkin",
+    "rightChoiceLabel": "Blame the waves",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2336
+  },
+  {
+    "id": 2336,
+    "category": "money",
+    "text": "You are banned from the buffet. To cope, you spend the rest of the trip in the duty-free shop buying 40 cartons of cigarettes you don't even smoke.",
+    "leftChoiceLabel": "Start smoking",
+    "rightChoiceLabel": "Sell on Finn.no",
+    "leftEffect": {
+      "money": -4000,
+      "social": -20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 2000,
+      "social": -10,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2337,
+    "category": "social",
+    "text": "It is May. A 'Russebuss' (party bus for graduating 18-year-olds) with a 200,000-Watt sound system parks directly under your apartment window at 03:00 AM.",
+    "leftChoiceLabel": "Call the police",
+    "rightChoiceLabel": "Put in earplugs",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2338
+  },
+  {
+    "id": 2338,
+    "category": "culture",
+    "text": "The police say 'let the kids celebrate'. The bass is vibrating your teeth. You go down in your bathrobe to confront 25 drunk teenagers.",
+    "leftChoiceLabel": "Unplug the generator",
+    "rightChoiceLabel": "Ask them politely",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2339
+  },
+  {
+    "id": 2339,
+    "category": "social",
+    "text": "They filmed you screaming in your bathrobe. You wake up as the #1 trending TikTok in Norway under the hashtag #SinteNabo (Angry Neighbor).",
+    "leftChoiceLabel": "Move to Svalbard",
+    "rightChoiceLabel": "Lean into the fame",
+    "leftEffect": {
+      "money": -15000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 500,
+      "social": 60,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2340,
+    "category": "money",
+    "text": "A colleague buys you a single black coffee from the canteen. It cost exactly 14 NOK. They stare at you expectantly.",
+    "leftChoiceLabel": "Vipps them 14 NOK",
+    "rightChoiceLabel": "Say 'I'll get the next'",
+    "leftEffect": {
+      "money": -14,
+      "social": 20,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -5
+    },
+    "nextScenarioId": 2341
+  },
+  {
+    "id": 2341,
+    "category": "social",
+    "text": "You didn't pay them back. Three weeks later, you receive a Vipps request for 14 NOK, plus a passive-aggressive 2 NOK 'inflation adjustment'.",
+    "leftChoiceLabel": "Decline the request",
+    "rightChoiceLabel": "Pay 16 NOK in shame",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -16,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2342
+  },
+  {
+    "id": 2342,
+    "category": "work",
+    "text": "You declined the request. The colleague has now stopped saying 'Hei' in the hallway. The entire office has taken their side. You are isolated.",
+    "leftChoiceLabel": "Quit your job",
+    "rightChoiceLabel": "Buy everyone a cake",
+    "leftEffect": {
+      "money": -8000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -400,
+      "social": 50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2343,
+    "category": "sport",
+    "text": "It is Sunday. It is practically illegal not to go for a 'Søndagstur' (Sunday hike). You pass a stranger on the muddy trail.",
+    "leftChoiceLabel": "Say a cheerful 'Hei!'",
+    "rightChoiceLabel": "Stare at your boots",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 5
+    },
+    "nextScenarioId": 2344
+  },
+  {
+    "id": 2344,
+    "category": "social",
+    "text": "You said 'Hei!' with way too much enthusiasm. The stranger looks terrified, assuming you are a serial killer, and begins to speed-walk away.",
+    "leftChoiceLabel": "Jog after to explain",
+    "rightChoiceLabel": "Let them escape",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2345
+  },
+  {
+    "id": 2345,
+    "category": "weather",
+    "text": "To recover your dignity, you sit on a rock to eat your mandatory Kvikk Lunsj and orange. A flock of aggressive mountain seagulls targets your chocolate.",
+    "leftChoiceLabel": "Fight the birds",
+    "rightChoiceLabel": "Surrender the snack",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 15
+    }
+  },
+  {
+    "id": 2346,
+    "category": "social",
+    "text": "You have a mysterious, painful rash. You try to book an appointment with your 'Fastlege' (General Practitioner). The first available slot is in 6 weeks.",
+    "leftChoiceLabel": "Wait patiently",
+    "rightChoiceLabel": "Go to private clinic",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -3000,
+      "social": 0,
+      "heat": 20
+    },
+    "nextScenarioId": 2347
+  },
+  {
+    "id": 2347,
+    "category": "social",
+    "text": "You waited 6 weeks. The rash is now covering your entire arm. You finally see the doctor, who looks at it for 4 seconds and prescribes 'Ibux and Paracet'.",
+    "leftChoiceLabel": "Demand antibiotics",
+    "rightChoiceLabel": "Accept the Ibux",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2348
+  },
+  {
+    "id": 2348,
+    "category": "work",
+    "text": "You offended the doctor. They write a note in your permanent medical file stating you are 'dramatisk'. You are now permanently blacklisted from getting sick notes.",
+    "leftChoiceLabel": "Cure it with pine needles",
+    "rightChoiceLabel": "Go to Sweden for meds",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": -10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2349,
+    "category": "money",
+    "text": "You are driving through the sub-sea Oslofjord tunnel. You accidentally drift 3 km/h over the speed limit. A red flash blinds you. The 'Fotoboks' got you.",
+    "leftChoiceLabel": "Panic and brake",
+    "rightChoiceLabel": "Swear loudly",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -15
+    },
+    "nextScenarioId": 2350
+  },
+  {
+    "id": 2350,
+    "category": "money",
+    "text": "Two weeks later, the physical letter arrives in your digital 'Altinn' mailbox. The fine is 3800 NOK for going 73 km/h in a 70 zone.",
+    "leftChoiceLabel": "Appeal the ticket",
+    "rightChoiceLabel": "Pay it immediately",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": -3800,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2351
+  },
+  {
+    "id": 2351,
+    "category": "culture",
+    "text": "Your appeal claimed 'the wind pushed the car'. Statens Vegvesen replies with a mathematical proof showing that is impossible, and adds a 500 NOK administration fee.",
+    "leftChoiceLabel": "Admit defeat",
+    "rightChoiceLabel": "Burn the letter",
+    "leftEffect": {
+      "money": -4300,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2352,
+    "category": "work",
+    "text": "The expensive Italian office coffee machine is out of beans. It is your turn to refill it, but you spill beans all over the floor right as the CEO walks in.",
+    "leftChoiceLabel": "Kick them under the fridge",
+    "rightChoiceLabel": "Pick them up one by one",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2353
+  },
+  {
+    "id": 2353,
+    "category": "social",
+    "text": "The CEO steps on the loose beans, slips, and spills their scalding hot Earl Grey tea down their own shirt. The entire open-plan office gasps.",
+    "leftChoiceLabel": "Offer them a tissue",
+    "rightChoiceLabel": "Pretend you didn't see",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2354
+  },
+  {
+    "id": 2354,
+    "category": "work",
+    "text": "You are demoted to the basement archive room. Your only companion is a 1995 filter coffee machine that tastes like battery acid and despair.",
+    "leftChoiceLabel": "Bring a thermos",
+    "rightChoiceLabel": "Drink the battery acid",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2355,
+    "category": "culture",
+    "text": "You decide to vacuum your apartment. You check your watch. It is Sunday. In Norway, making noise on a 'Helligdag' (Holy day) is practically a war crime.",
+    "leftChoiceLabel": "Risk it for 5 minutes",
+    "rightChoiceLabel": "Live in filth",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -15
+    },
+    "nextScenarioId": 2356
+  },
+  {
+    "id": 2356,
+    "category": "social",
+    "text": "You vacuumed. Three minutes later, there is a furious knocking on your door. It is the elderly downstairs neighbor, Kjell, wielding a broom.",
+    "leftChoiceLabel": "Open the door",
+    "rightChoiceLabel": "Hide under the bed",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 15
+    },
+    "nextScenarioId": 2357
+  },
+  {
+    "id": 2357,
+    "category": "culture",
+    "text": "Kjell reports you to the housing board. You are summoned to a tribunal. You must publicly apologize and promise to only clean with silent microfiber cloths.",
+    "leftChoiceLabel": "Buy microfiber",
+    "rightChoiceLabel": "Vacuum out of spite",
+    "leftEffect": {
+      "money": -150,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2358,
+    "category": "food",
+    "text": "You are invited to a traditional pre-Christmas 'Lutefisk' dinner. You casually google it and learn it is dried cod soaked in caustic lye—literally drain cleaner.",
+    "leftChoiceLabel": "Eat the drain fish",
+    "rightChoiceLabel": "Fake a fish allergy",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2359
+  },
+  {
+    "id": 2359,
+    "category": "culture",
+    "text": "The Lutefisk arrives. It jiggles on the plate like a translucent, fish-scented jelly. The host insists you eat it the traditional way: drowned in bacon fat and aquavit.",
+    "leftChoiceLabel": "Swallow without chewing",
+    "rightChoiceLabel": "Chew it slowly",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -50
+    },
+    "nextScenarioId": 2360
+  },
+  {
+    "id": 2360,
+    "category": "food",
+    "text": "You swallowed the lye-fish. Your stomach immediately initiates a violent rebellion. You try to leave, but you are snowed in. The host offers you more fish.",
+    "leftChoiceLabel": "Accept your doom",
+    "rightChoiceLabel": "Lock yourself in the bath",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2361,
+    "category": "work",
+    "text": "It is July. The legendary 'Fellesferie' (Collective Vacation) has begun. The entire country has shut down. Your apartment's water pipe explodes.",
+    "leftChoiceLabel": "Call a plumber",
+    "rightChoiceLabel": "Use duct tape",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": 0,
+      "heat": -30
+    },
+    "nextScenarioId": 2362
+  },
+  {
+    "id": 2362,
+    "category": "social",
+    "text": "You call 14 different plumbers. The voicemail for every single one says: 'We are at the cabin until August 15th. If the water is rising, learn to swim.'",
+    "leftChoiceLabel": "Cry in the rising water",
+    "rightChoiceLabel": "Bribe someone online",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": 10,
+      "heat": 20
+    },
+    "nextScenarioId": 2363
+  },
+  {
+    "id": 2363,
+    "category": "money",
+    "text": "You attempt to fix the plumbing yourself using a YouTube tutorial. You fail and flood the apartment below yours, which belongs to the head of the housing board.",
+    "leftChoiceLabel": "Flee the country",
+    "rightChoiceLabel": "Offer to mop",
+    "leftEffect": {
+      "money": -5000,
+      "social": -80,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": -20,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2364,
+    "category": "culture",
+    "text": "You are snowed in with your Norwegian in-laws. They are watching 'Sakte-TV' (Slow TV): A live, 12-hour broadcast of firewood burning. No music, no talking.",
+    "leftChoiceLabel": "Stare at the fire",
+    "rightChoiceLabel": "Check your phone",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2365
+  },
+  {
+    "id": 2365,
+    "category": "social",
+    "text": "It is Hour 7 of the fire broadcast. You are hallucinating from boredom. You casually suggest watching a movie instead. The room falls dead silent in extreme offense.",
+    "leftChoiceLabel": "Apologize profusely",
+    "rightChoiceLabel": "Double down",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "nextScenarioId": 2366
+  },
+  {
+    "id": 2366,
+    "category": "culture",
+    "text": "As punishment for your lack of attention span, your father-in-law switches the channel to the 134-hour broadcast of the Hurtigruten ship going up the coast.",
+    "leftChoiceLabel": "Weep silently",
+    "rightChoiceLabel": "Fake a coma",
+    "leftEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2367,
+    "category": "weather",
+    "text": "You take a cheap flight to Svalbard in January to be edgy. It is pitch black 24/7, -30 degrees, and the locals require you to carry a rifle for polar bears.",
+    "leftChoiceLabel": "Rent a rifle",
+    "rightChoiceLabel": "Rely on your fists",
+    "leftEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -50
+    },
+    "nextScenarioId": 2368
+  },
+  {
+    "id": 2368,
+    "category": "social",
+    "text": "You develop a severe, lingering cough. The local Svalbard doctor looks panicked and tells you it is literally illegal to die on the island because the permafrost pushes bodies back up.",
+    "leftChoiceLabel": "Swear you won't die",
+    "rightChoiceLabel": "Cough aggressively",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "nextScenarioId": 2369
+  },
+  {
+    "id": 2369,
+    "category": "money",
+    "text": "The authorities are not taking any chances. You are deported back to the mainland on a cargo plane, strapped in next to a sedated walrus.",
+    "leftChoiceLabel": "Pet the walrus",
+    "rightChoiceLabel": "Accept your exile",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 0,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2370,
+    "category": "culture",
+    "text": "To fit in with your colleagues, you accept a pouch of 'Snus' (Nordic chewing tobacco) and put it under your upper lip. You immediately feel dizzy and nauseous.",
+    "leftChoiceLabel": "Keep it in",
+    "rightChoiceLabel": "Spit it out",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2371
+  },
+  {
+    "id": 2371,
+    "category": "work",
+    "text": "You tried to keep it in, but someone asked you a question and you accidentally swallowed the entire Snus pouch during a budget meeting. Your face turns gray.",
+    "leftChoiceLabel": "Run to the bathroom",
+    "rightChoiceLabel": "Swallow it proudly",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -80
+    },
+    "nextScenarioId": 2372
+  },
+  {
+    "id": 2372,
+    "category": "work",
+    "text": "You vomit spectacularly all over the quarterly financial reports. To save face, you must pretend this was a profound, artistic statement on the weak Norwegian Krone.",
+    "leftChoiceLabel": "Give a thumbs up",
+    "rightChoiceLabel": "Pass out",
+    "leftEffect": {
+      "money": -500,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2373,
+    "category": "weather",
+    "text": "It is March 2nd. The sun is out, but it is 2 degrees. Your colleagues insist on an 'Utepils' (outdoor beer) to celebrate spring.",
+    "leftChoiceLabel": "Sit in the shade",
+    "rightChoiceLabel": "Pretend you enjoy it",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -120,
+      "social": 20,
+      "heat": -30
+    },
+    "nextScenarioId": 2374
+  },
+  {
+    "id": 2374,
+    "category": "money",
+    "text": "You are shivering violently. A seagull targets your extremely expensive 120 NOK beer and knocks it all over your new wool sweater.",
+    "leftChoiceLabel": "Cry over the beer",
+    "rightChoiceLabel": "Buy another one",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -120,
+      "social": 10,
+      "heat": 5
+    },
+    "nextScenarioId": 2375
+  },
+  {
+    "id": 2375,
+    "category": "work",
+    "text": "You caught mild hypothermia from the Utepils. You try to call in sick, but your boss quotes the proverb: 'There is no bad weather, only bad clothes.'",
+    "leftChoiceLabel": "Show up freezing",
+    "rightChoiceLabel": "Hang up and sleep",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": -40,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2376,
+    "category": "food",
+    "text": "It is December. A national 'Smørkrise' (Butter Crisis) strikes again. The grocery store shelves are completely empty. Your Christmas baking is ruined.",
+    "leftChoiceLabel": "Bake with margarine",
+    "rightChoiceLabel": "Seek black market butter",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": 10
+    },
+    "nextScenarioId": 2377
+  },
+  {
+    "id": 2377,
+    "category": "money",
+    "text": "You meet a shady guy in an alley behind REMA 1000. He sells you 2kg of 'premium butter'. At home, you realize it is just cheap Swedish margarine painted yellow.",
+    "leftChoiceLabel": "Eat the yellow lie",
+    "rightChoiceLabel": "Hunt the dealer down",
+    "leftEffect": {
+      "money": 0,
+      "social": -15,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -30
+    },
+    "nextScenarioId": 2378
+  },
+  {
+    "id": 2378,
+    "category": "social",
+    "text": "You served the fake butter to your in-laws. Your mother-in-law notices immediately and calls your baking 'a crime against the nation'.",
+    "leftChoiceLabel": "Blame the Swedes",
+    "rightChoiceLabel": "Beg for forgiveness",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2379,
+    "category": "social",
+    "text": "You sit next to someone on the train. Unfortunately, they are from Bergen. They immediately start talking to you loudly. In Norway, this is terrifying.",
+    "leftChoiceLabel": "Put on headphones",
+    "rightChoiceLabel": "Nod politely",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "nextScenarioId": 2380
+  },
+  {
+    "id": 2380,
+    "category": "culture",
+    "text": "They ignore your clear boundaries and start passionately explaining why it rains better in Bergen than it does in Oslo. They expect a response.",
+    "leftChoiceLabel": "Agree completely",
+    "rightChoiceLabel": "Defend Oslo fiercely",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "nextScenarioId": 2381
+  },
+  {
+    "id": 2381,
+    "category": "social",
+    "text": "The Bergenser declares you a lifelong friend and invites you to eat 'Fiskekaker' at Bryggen. You realize you can never ride this train route again.",
+    "leftChoiceLabel": "Accept your fate",
+    "rightChoiceLabel": "Change your identity",
+    "leftEffect": {
+      "money": -800,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2382,
+    "category": "sport",
+    "text": "You go for a casual Sunday hike in Nordmarka. You step off the path for 5 seconds to look at a weird mushroom and instantly lose all sense of direction.",
+    "leftChoiceLabel": "Follow the moss",
+    "rightChoiceLabel": "Check Google Maps",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2383
+  },
+  {
+    "id": 2383,
+    "category": "weather",
+    "text": "Your phone dies because the battery froze at -5 degrees. You remember the 'Mountain Code' (Fjellvettreglene) says to dig a snow cave.",
+    "leftChoiceLabel": "Dig with bare hands",
+    "rightChoiceLabel": "Just keep walking",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "nextScenarioId": 2384
+  },
+  {
+    "id": 2384,
+    "category": "social",
+    "text": "You dug a miserable snow cave. A Norwegian pensioner on cross-country skis stops by and asks if you are 'enjoying the fresh air'. They do not offer help.",
+    "leftChoiceLabel": "Beg for rescue",
+    "rightChoiceLabel": "Say 'Ja, deilig!'",
+    "leftEffect": {
+      "money": -500,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -30
+    },
+    "nextScenarioId": 2385
+  },
+  {
+    "id": 2385,
+    "category": "culture",
+    "text": "You said 'Ja, deilig!' to save face. The pensioner skies away. You are too proud to call for help now. You live in the snow cave.",
+    "leftChoiceLabel": "Eat a frozen Kvikk Lunsj",
+    "rightChoiceLabel": "Accept your new life",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2386,
+    "category": "culture",
+    "text": "You are leaving a friend's cabin. You are handed the sacred 'Hyttebok' (Cabin Guestbook). In Norway, you are expected to write a poetic essay about how magical the trip was.",
+    "leftChoiceLabel": "Write a 3-page poem",
+    "rightChoiceLabel": "Just write 'Thanks'",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2387
+  },
+  {
+    "id": 2387,
+    "category": "social",
+    "text": "Your host reads your two-word 'Thanks' entry. They look at you as if you just burned the Norwegian flag. The silence in the cabin is deafening.",
+    "leftChoiceLabel": "Blame writer's block",
+    "rightChoiceLabel": "Fake a hand injury",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -25
+    },
+    "nextScenarioId": 2388
+  },
+  {
+    "id": 2388,
+    "category": "culture",
+    "text": "You are never invited back. As punishment, you are forced to spend your next Easter in the empty, silent, ghost-town city of Oslo while everyone else is in the mountains.",
+    "leftChoiceLabel": "Enjoy the peace",
+    "rightChoiceLabel": "Cry in a closed pub",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": -20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2389,
+    "category": "social",
+    "text": "You board a Norwegian charter flight to 'Syden' (Gran Canaria) to escape the winter. The plane touches down safely. The entire cabin erupts into thunderous applause.",
+    "leftChoiceLabel": "Clap enthusiastically",
+    "rightChoiceLabel": "Refuse to clap",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2390
+  },
+  {
+    "id": 2390,
+    "category": "food",
+    "text": "You unpack at the hotel. You realize you packed 3 logs of Brunost and 5 packs of Toro soup, but you forgot sunscreen.",
+    "leftChoiceLabel": "Eat soup on the balcony",
+    "rightChoiceLabel": "Go out unprotected",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -40
+    },
+    "nextScenarioId": 2391
+  },
+  {
+    "id": 2391,
+    "category": "weather",
+    "text": "You are sunburnt to a crisp on Day 1. You look like a boiled lobster. Other Norwegian tourists point and nod in solemn, shared understanding of your pain.",
+    "leftChoiceLabel": "Apply cold yogurt",
+    "rightChoiceLabel": "Stay in the sun",
+    "leftEffect": {
+      "money": -50,
+      "social": 10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -80
+    }
+  },
+  {
+    "id": 2392,
+    "category": "money",
+    "text": "It is April. The annual 'Skattemelding' (Tax Return) is released. The Altinn website crashes immediately because 4 million people are checking it at the exact same second.",
+    "leftChoiceLabel": "Refresh obsessively",
+    "rightChoiceLabel": "Wait a week",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2393
+  },
+  {
+    "id": 2393,
+    "category": "money",
+    "text": "You finally log in. The screen glows red. You owe 45,000 NOK in 'Baksmell' (Back-tax). Your heart stops. Your vision blurs.",
+    "leftChoiceLabel": "Flee to a tax haven",
+    "rightChoiceLabel": "Double-check the math",
+    "leftEffect": {
+      "money": -5000,
+      "social": -80,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 20
+    },
+    "nextScenarioId": 2394
+  },
+  {
+    "id": 2394,
+    "category": "work",
+    "text": "You realize you forgot to claim your 'Pendlerfradrag' (Commuter deduction). You adjust the form. Now the government owes YOU exactly 12 NOK.",
+    "leftChoiceLabel": "Invest the 12 NOK",
+    "rightChoiceLabel": "Frame the receipt",
+    "leftEffect": {
+      "money": 12,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": 30,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2395,
+    "category": "food",
+    "text": "You visit the famous Bergen Fish Market. A single, mediocre fish cake costs 250 NOK because it is a highly engineered tourist trap.",
+    "leftChoiceLabel": "Buy the fish cake",
+    "rightChoiceLabel": "Buy a frozen pizza",
+    "leftEffect": {
+      "money": -250,
+      "social": 10,
+      "heat": 5
+    },
+    "rightEffect": {
+      "money": -60,
+      "social": -10,
+      "heat": -5
+    },
+    "nextScenarioId": 2396
+  },
+  {
+    "id": 2396,
+    "category": "weather",
+    "text": "Before you can take a bite of your 250 NOK fish cake, a massive coastal seagull dive-bombs you, steals the food, and laughs in bird.",
+    "leftChoiceLabel": "Scream at the bird",
+    "rightChoiceLabel": "Accept the food chain",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2397
+  },
+  {
+    "id": 2397,
+    "category": "social",
+    "text": "A German tourist filmed you screaming at the seagull. You go viral on TikTok as the 'Angry Fish Man'.",
+    "leftChoiceLabel": "Sell merch",
+    "rightChoiceLabel": "Hide your face forever",
+    "leftEffect": {
+      "money": 1500,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2398,
+    "category": "food",
+    "text": "You invite your Norwegian colleagues over for 'Taco Friday'. Instead of using the sacred Old El Paso kit, you spend 12 hours slow-roasting pork and making authentic habanero salsa.",
+    "leftChoiceLabel": "Serve authentic tacos",
+    "rightChoiceLabel": "Panic and buy Old El Paso",
+    "leftEffect": {
+      "money": -500,
+      "social": -20,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2399
+  },
+  {
+    "id": 2399,
+    "category": "social",
+    "text": "You served the authentic tacos. Your colleagues stare at the table in absolute horror. One of them asks, with trembling lips, 'Where is the canned sweet corn? Where are the cucumber cubes?'",
+    "leftChoiceLabel": "Defend Mexican culture",
+    "rightChoiceLabel": "Chop a cucumber fast",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": -20
+    },
+    "nextScenarioId": 2400
+  },
+  {
+    "id": 2400,
+    "category": "food",
+    "text": "A colleague bravely bites into your authentic habanero salsa. Their Nordic palate, adapted only to boiled potatoes, immediately shatters. They are hyperventilating.",
+    "leftChoiceLabel": "Offer them a glass of milk",
+    "rightChoiceLabel": "Call an ambulance",
+    "leftEffect": {
+      "money": -20,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": -80,
+      "heat": 50
+    }
+  },
+  {
+    "id": 2401,
+    "category": "weather",
+    "text": "It is -15°C outside. You dress in a thick Devold wool sweater and thermal 'Superundertøy' (long johns). You arrive at the office, but the thermostat is set to a tropical 25°C.",
+    "leftChoiceLabel": "Keep the wool on",
+    "rightChoiceLabel": "Strip in the lobby",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "nextScenarioId": 2402
+  },
+  {
+    "id": 2402,
+    "category": "work",
+    "text": "You kept the wool on. You are now in a 2-hour budget meeting. You are sweating profusely. Your face is purple. Taking off the sweater means exposing your stained undershirt.",
+    "leftChoiceLabel": "Expose the undershirt",
+    "rightChoiceLabel": "Boil alive silently",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 60
+    },
+    "nextScenarioId": 2403
+  },
+  {
+    "id": 2403,
+    "category": "social",
+    "text": "You excuse yourself to the bathroom, desperately strip off your thermal long johns, and try to stuff them into your laptop bag. Your boss walks in while you are half-naked.",
+    "leftChoiceLabel": "Maintain eye contact",
+    "rightChoiceLabel": "Scream",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2404,
+    "category": "culture",
+    "text": "You accidentally parked 2 centimeters over the white line in the housing co-op. You find a laminated, highly detailed architectural schematic of the parking rules on your windshield.",
+    "leftChoiceLabel": "Move the car",
+    "rightChoiceLabel": "Leave a counter-note",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 20
+    },
+    "nextScenarioId": 2405
+  },
+  {
+    "id": 2405,
+    "category": "social",
+    "text": "You chose war. You leave a counter-note explaining that the line is faded and mathematically ambiguous. To establish dominance, you laminate your note twice.",
+    "leftChoiceLabel": "Tape it to their door",
+    "rightChoiceLabel": "Put it on their car",
+    "leftEffect": {
+      "money": -50,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": -30,
+      "heat": 20
+    },
+    "nextScenarioId": 2406
+  },
+  {
+    "id": 2406,
+    "category": "money",
+    "text": "The next morning, your car is entirely encased in 400 meters of industrial shrink wrap with a final note: 'Paragraph 3: Respect the Line. Sincerely, The Board.'",
+    "leftChoiceLabel": "Buy a knife",
+    "rightChoiceLabel": "Take the bus forever",
+    "leftEffect": {
+      "money": -200,
+      "social": -50,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 10,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2407,
+    "category": "social",
+    "text": "You are waiting for the elevator. You hear your very talkative neighbor approaching down the hall. In Norway, making small talk in an elevator is considered torture.",
+    "leftChoiceLabel": "Spam the 'Close Door' button",
+    "rightChoiceLabel": "Take the stairs (8 floors)",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "nextScenarioId": 2408
+  },
+  {
+    "id": 2408,
+    "category": "social",
+    "text": "You spammed 'Close', but they stuck their hand in the door. You are now trapped in a 1.5 square meter metal box with them. They look at you and say 'Nice weather today.'",
+    "leftChoiceLabel": "Stare at the floor numbers",
+    "rightChoiceLabel": "Say 'It is okay'",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 15,
+      "heat": 5
+    },
+    "nextScenarioId": 2409
+  },
+  {
+    "id": 2409,
+    "category": "culture",
+    "text": "They break protocol. They ask a deeply personal question about your recent divorce. Norwegian law requires you to stare into the middle distance and simply mumble 'Uff da'.",
+    "leftChoiceLabel": "Say 'Uff da'",
+    "rightChoiceLabel": "Tell them everything",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -5
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2410,
+    "category": "culture",
+    "text": "You are visiting a 100-year-old cabin. The toilet is a 'Snurredass' (a giant composting carousel of human waste under the floor). It is your turn to manually spin the wheel.",
+    "leftChoiceLabel": "Pull the heavy lever",
+    "rightChoiceLabel": "Hold it for 3 days",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 30
+    },
+    "nextScenarioId": 2411
+  },
+  {
+    "id": 2411,
+    "category": "work",
+    "text": "You pull the lever, but the carousel is jammed. The cabin owner hands you a long, dark wooden stick and says 'You know what to do.'",
+    "leftChoiceLabel": "Poke the mountain",
+    "rightChoiceLabel": "Refuse and leave",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "nextScenarioId": 2412
+  },
+  {
+    "id": 2412,
+    "category": "weather",
+    "text": "You attempt to unjam the terrifying waste-mountain with the stick. You push too hard. The stick breaks in half. You drop the other half down the hole.",
+    "leftChoiceLabel": "Reach your arm down",
+    "rightChoiceLabel": "Blame a ghost",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2413,
+    "category": "money",
+    "text": "You bite into a frozen Grandiosa pizza crust and crack your molar in half. In Norway, healthcare is free, but adult dental care costs your mortal soul.",
+    "leftChoiceLabel": "Go to the dentist",
+    "rightChoiceLabel": "Use industrial superglue",
+    "leftEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": -30,
+      "heat": -40
+    },
+    "nextScenarioId": 2414
+  },
+  {
+    "id": 2414,
+    "category": "money",
+    "text": "The Norwegian dentist looks at your tooth, sighs deeply, and hands you an estimate for 45,000 NOK. Do you pay it or book a cheap RyanAir flight to a clinic in Poland?",
+    "leftChoiceLabel": "Take out a massive loan",
+    "rightChoiceLabel": "Fly to Poland",
+    "leftEffect": {
+      "money": -15000,
+      "social": 0,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 0,
+      "heat": -10
+    },
+    "nextScenarioId": 2415
+  },
+  {
+    "id": 2415,
+    "category": "social",
+    "text": "You took the cheap flight. You wake up in the Polish clinic with a perfect, shining ceramic crown. However, you notice a fresh surgical scar over your left kidney.",
+    "leftChoiceLabel": "Accept the trade",
+    "rightChoiceLabel": "Scream for the police",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2416,
+    "category": "culture",
+    "text": "You are tired of paying 140 NOK for a single beer. You buy a highly illegal copper distillation kit from a guy named 'Ronny' on Finn.no to brew 'Hjemmebrent' (moonshine).",
+    "leftChoiceLabel": "Brew in the bathtub",
+    "rightChoiceLabel": "Brew in the deep forest",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "nextScenarioId": 2417
+  },
+  {
+    "id": 2417,
+    "category": "food",
+    "text": "Your bathtub moonshine is finished. It smells like aviation fuel and pure despair. You take a sip to test it. Your vision immediately goes completely black for 45 seconds.",
+    "leftChoiceLabel": "Bottle it and sell it",
+    "rightChoiceLabel": "Pour it down the drain",
+    "leftEffect": {
+      "money": 5000,
+      "social": -30,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2418
+  },
+  {
+    "id": 2418,
+    "category": "social",
+    "text": "You served the aviation-moonshine at a neighborhood party. Three people are now communicating telepathically and the housing board president is outside trying to fistfight a moose.",
+    "leftChoiceLabel": "Join the moose fight",
+    "rightChoiceLabel": "Deny you brewed it",
+    "leftEffect": {
+      "money": 0,
+      "social": 60,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2419,
+    "category": "work",
+    "text": "You are at a job interview in Oslo. The panel asks what your greatest strength is. You accidentally say 'I am highly ambitious and a natural leader.' The panel gasps in absolute horror.",
+    "leftChoiceLabel": "Double down",
+    "rightChoiceLabel": "Retract the statement",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "nextScenarioId": 2420
+  },
+  {
+    "id": 2420,
+    "category": "culture",
+    "text": "You have violated the Law of Jante. To recover the interview, you must convince them you are actually painfully average and enjoy eating unseasoned oatmeal in silence.",
+    "leftChoiceLabel": "Praise mediocrity",
+    "rightChoiceLabel": "Refuse to yield",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "nextScenarioId": 2421
+  },
+  {
+    "id": 2421,
+    "category": "work",
+    "text": "They offer you the job, but to ensure you do not think you are special, your title is 'Junior Assistant Synergist' and your desk faces a blank grey wall in the basement.",
+    "leftChoiceLabel": "Stare at the wall",
+    "rightChoiceLabel": "Demand a window",
+    "leftEffect": {
+      "money": 2000,
+      "social": 10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2422,
+    "category": "weather",
+    "text": "It is mid-January. The sun has not been seen since November. You buy a 10,000-lux anti-depression lamp and stare directly into it without blinking for 4 hours.",
+    "leftChoiceLabel": "Keep staring",
+    "rightChoiceLabel": "Turn it off",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -30
+    },
+    "nextScenarioId": 2423
+  },
+  {
+    "id": 2423,
+    "category": "social",
+    "text": "The extreme light exposure has triggered a manic episode. You walk into a Joker grocery store at 3 AM wearing only shorts and aggressively demand fresh strawberries.",
+    "leftChoiceLabel": "Scream at the cashier",
+    "rightChoiceLabel": "Start eating raw potatoes",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2424
+  },
+  {
+    "id": 2424,
+    "category": "culture",
+    "text": "The teenage cashier completely ignores your manic, half-naked breakdown. Without making eye contact, they scan your potatoes and simply ask: 'Vil du ha pose?' (Do you want a bag?)",
+    "leftChoiceLabel": "Say 'Ja, takk'",
+    "rightChoiceLabel": "Collapse on the floor",
+    "leftEffect": {
+      "money": -5,
+      "social": 20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2425,
+    "category": "culture",
+    "text": "It is December. Your mother-in-law casually asks if you have finished baking the 'Syv Slag' (7 traditional types of Christmas cookies). You only bought a plastic tub of Pepperkaker.",
+    "leftChoiceLabel": "Lie and say yes",
+    "rightChoiceLabel": "Admit your failure",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2426
+  },
+  {
+    "id": 2426,
+    "category": "food",
+    "text": "You lied. Now she is coming over for a taste test. You panic and try to deep-fry 'Fattigmann' dough in a wok. The boiling oil violently erupts, setting your kitchen curtains on fire.",
+    "leftChoiceLabel": "Throw flour on it",
+    "rightChoiceLabel": "Flee into the snow",
+    "leftEffect": {
+      "money": -2000,
+      "social": -20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": -50,
+      "heat": -40
+    },
+    "nextScenarioId": 2427
+  },
+  {
+    "id": 2427,
+    "category": "social",
+    "text": "The fire department puts out the blaze and fines you 5000 NOK. The Fire Chief steps over the ashes, looks at your burnt dough, and asks: 'Where are the other 6 cookies?'",
+    "leftChoiceLabel": "Cry silently",
+    "rightChoiceLabel": "Offer him a burnt piece",
+    "leftEffect": {
+      "money": -5000,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 20,
+      "heat": -15
+    }
+  },
+  {
+    "id": 2428,
+    "category": "sport",
+    "text": "You are cross-country skiing in Nordmarka, feeling athletic. Suddenly, a Norwegian dad aggressively overtakes you while dragging a 'Pulk' (sled) containing two toddlers and a Husky.",
+    "leftChoiceLabel": "Accept defeat",
+    "rightChoiceLabel": "Sprint to overtake him",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -30
+    },
+    "nextScenarioId": 2429
+  },
+  {
+    "id": 2429,
+    "category": "sport",
+    "text": "You chose to sprint. Your heart rate hits 195. You look over and the two toddlers in the sled are pointing and laughing at your terrible ski technique.",
+    "leftChoiceLabel": "Scream at the toddlers",
+    "rightChoiceLabel": "Push through the pain",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -50
+    },
+    "nextScenarioId": 2430
+  },
+  {
+    "id": 2430,
+    "category": "culture",
+    "text": "You collapse into the snow, coughing up a lung. The dad stops, looks down at you, hands you a lukewarm hotdog from a thermos, and tells you to 'stick to walking'.",
+    "leftChoiceLabel": "Eat the shame-dog",
+    "rightChoiceLabel": "Refuse out of pride",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2431,
+    "category": "money",
+    "text": "You are invited to your nephew's 'Konfirmasjon' (coming-of-age ceremony). You put 500 NOK in an envelope. You then learn the standard gift is 15,000 NOK or stock options.",
+    "leftChoiceLabel": "Give the 500 NOK",
+    "rightChoiceLabel": "Take out a quick loan",
+    "leftEffect": {
+      "money": -500,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": 30,
+      "heat": -20
+    },
+    "nextScenarioId": 2432
+  },
+  {
+    "id": 2432,
+    "category": "social",
+    "text": "You handed over the 500 NOK. The 15-year-old opens the envelope, sighs aggressively, and places it in the 'disappointment pile' next to his new Rolex.",
+    "leftChoiceLabel": "Demand a 'Thank you'",
+    "rightChoiceLabel": "Hide by the buffet",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -15
+    },
+    "nextScenarioId": 2433
+  },
+  {
+    "id": 2433,
+    "category": "culture",
+    "text": "The teenager's parents corner you. You must now defend your financial poverty in front of the entire extended family while eating cold roast beef and potato salad.",
+    "leftChoiceLabel": "Blame the economy",
+    "rightChoiceLabel": "Flee through a window",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2434,
+    "category": "money",
+    "text": "You land at Gardermoen airport from abroad. You bought exactly 1 bottle of wine over the legal Tax-Free limit. You are sweating profusely as you approach the green 'Nothing to Declare' gate.",
+    "leftChoiceLabel": "Walk fast and look down",
+    "rightChoiceLabel": "Smile at the guards",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "nextScenarioId": 2435
+  },
+  {
+    "id": 2435,
+    "category": "social",
+    "text": "A massive Customs Dog (Tollhund) sits directly next to your bag. Your soul leaves your body. You mentally prepare yourself for 10 years in a high-security fjord prison.",
+    "leftChoiceLabel": "Confess everything",
+    "rightChoiceLabel": "Play dumb",
+    "leftEffect": {
+      "money": -2000,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "nextScenarioId": 2436
+  },
+  {
+    "id": 2436,
+    "category": "culture",
+    "text": "The officer unzips your bag. He completely ignores the illegal wine, but confiscates the single non-declared raw potato you packed because of 'strict agricultural import terrorism laws'.",
+    "leftChoiceLabel": "Argue for the potato",
+    "rightChoiceLabel": "Thank God and leave",
+    "leftEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2437,
+    "category": "weather",
+    "text": "You are walking home in the pitch-black winter. A massive, 500kg Moose (Elg) is standing in your driveway eating fermented apples. It looks drunk and furious.",
+    "leftChoiceLabel": "Sneak past it",
+    "rightChoiceLabel": "Make loud noises",
+    "leftEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 0,
+      "heat": 20
+    },
+    "nextScenarioId": 2438
+  },
+  {
+    "id": 2438,
+    "category": "social",
+    "text": "The drunk moose charges at you. You remember a tip from Reddit: 'Make yourself big and scream.' You open your jacket like a bat and yell Norwegian swear words.",
+    "leftChoiceLabel": "Scream 'FAEN!'",
+    "rightChoiceLabel": "Scream 'HELVETE!'",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2439
+  },
+  {
+    "id": 2439,
+    "category": "money",
+    "text": "The moose doesn't care. It knocks you into a snowbank, eats your mailbox, and wanders off. Your insurance company claims 'Acts of Drunk Forest Gods' are not covered.",
+    "leftChoiceLabel": "Pay for a new mailbox",
+    "rightChoiceLabel": "Sue the forest",
+    "leftEffect": {
+      "money": -800,
+      "social": 0,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2440,
+    "category": "work",
+    "text": "You forgot your final Norwegian literature essay on Ibsen's 'A Doll's House'. You panic and use ChatGPT to write it 5 minutes before the deadline, submitting it without reading a single word.",
+    "leftChoiceLabel": "Submit blindly",
+    "rightChoiceLabel": "Read it quickly",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2441
+  },
+  {
+    "id": 2441,
+    "category": "social",
+    "text": "Your teacher calls you in. They ask you to explain your essay's core thesis: 'Nora leaving Torvald represents the inevitable rise of Bitcoin and the blockchain.'",
+    "leftChoiceLabel": "Defend the crypto thesis",
+    "rightChoiceLabel": "Blame a hacker",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "nextScenarioId": 2442
+  },
+  {
+    "id": 2442,
+    "category": "work",
+    "text": "You are suspended for 'Aggressive Digital Plagiarism'. Your parents cancel your weekly allowance. You must now survive by shoveling heavy, wet snow for the entire neighborhood.",
+    "leftChoiceLabel": "Shovel the snow",
+    "rightChoiceLabel": "Start a GoFundMe",
+    "leftEffect": {
+      "money": 500,
+      "social": 10,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2443,
+    "category": "money",
+    "text": "A highly-toxic, neon-colored energy drink promoted by YouTubers just dropped at Meny. A 12-year-old on a scooter is hoarding the last 5 cans in his basket.",
+    "leftChoiceLabel": "Fight the child",
+    "rightChoiceLabel": "Pay him 600 NOK",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": -600,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2444
+  },
+  {
+    "id": 2444,
+    "category": "food",
+    "text": "You paid the 12-year-old. You chug the radioactive liquid right before gym class. Your resting heart rate hits 210 BPM and you can literally taste colors.",
+    "leftChoiceLabel": "Run the Cooper test",
+    "rightChoiceLabel": "Call Poison Control",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -200,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2445
+  },
+  {
+    "id": 2445,
+    "category": "sport",
+    "text": "You collapse during the 3000-meter run. The gym teacher, a former Olympic cross-country skier with zero empathy, steps over your shaking body and yells 'Stop slacking!'",
+    "leftChoiceLabel": "Crawl to the finish",
+    "rightChoiceLabel": "Accept cardiac arrest",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2446,
+    "category": "social",
+    "text": "You decide to film a trending TikTok dance in the middle of Oslo Central Station during rush hour to achieve internet fame. Hundreds of tired commuters are staring.",
+    "leftChoiceLabel": "Throw it back",
+    "rightChoiceLabel": "Have some self-respect",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2447
+  },
+  {
+    "id": 2447,
+    "category": "social",
+    "text": "While doing a spin, you accidentally smack a grumpy commuter holding a 75 NOK Narvesen coffee. The scalding liquid goes everywhere.",
+    "leftChoiceLabel": "Keep dancing (for views)",
+    "rightChoiceLabel": "Offer to pay them",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 10,
+      "heat": -30
+    },
+    "nextScenarioId": 2448
+  },
+  {
+    "id": 2448,
+    "category": "culture",
+    "text": "The commuter films you. You become a national meme titled 'The Cringe of Oslo S'. Teenagers point and laugh at you on the subway.",
+    "leftChoiceLabel": "Lean into the meme",
+    "rightChoiceLabel": "Move into a cave",
+    "leftEffect": {
+      "money": 500,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2449,
+    "category": "social",
+    "text": "You are hiding in the school bathroom hitting a mango-flavored vape. The fire alarm suddenly triggers. 800 people are now evacuating into the -15°C blizzard outside.",
+    "leftChoiceLabel": "Sneak out with them",
+    "rightChoiceLabel": "Hide in the stall",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2450
+  },
+  {
+    "id": 2450,
+    "category": "social",
+    "text": "The principal is standing outside with the fire department reviewing security footage to see who left the bathroom last. You are prime suspect number one.",
+    "leftChoiceLabel": "Frame a freshman",
+    "rightChoiceLabel": "Confess and cry",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2451
+  },
+  {
+    "id": 2451,
+    "category": "work",
+    "text": "You successfully framed a 13-year-old. The guilt eats your soul. The school counselor, thinking you are a good influence, forces you to mentor the kid you just ruined.",
+    "leftChoiceLabel": "Teach him to vape",
+    "rightChoiceLabel": "Actually mentor him",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2452,
+    "category": "money",
+    "text": "You try to flip a 'vintage' 90s Helly Hansen jacket on Finn.no for 4000 NOK. A buyer named 'Sondre' insists on meeting at a sketchy gas station at 23:30.",
+    "leftChoiceLabel": "Go alone",
+    "rightChoiceLabel": "Bring a heavy flashlight",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2453
+  },
+  {
+    "id": 2453,
+    "category": "social",
+    "text": "'Sondre' turns out to be a 45-year-old man who just wants to talk. He traps you in a 2-hour conversation about how the 90s trance music scene was superior. He hasn't looked at the jacket.",
+    "leftChoiceLabel": "Demand the money",
+    "rightChoiceLabel": "Listen to him vent",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -50
+    },
+    "nextScenarioId": 2454
+  },
+  {
+    "id": 2454,
+    "category": "money",
+    "text": "You walk away empty-handed in the freezing rain. You reach into your pocket and realize Sondre pickpocketed your AirPods while explaining the cultural impact of Darude Sandstorm.",
+    "leftChoiceLabel": "Hunt him down",
+    "rightChoiceLabel": "Cry on the night bus",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2455,
+    "category": "culture",
+    "text": "You are a respected politician at the Gardermoen Airport Tax-Free. You see a pair of Hugo Boss sunglasses. The urge to commit petty theft overwhelms your rational brain.",
+    "leftChoiceLabel": "Rip off the tag",
+    "rightChoiceLabel": "Just buy them",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2456
+  },
+  {
+    "id": 2456,
+    "category": "social",
+    "text": "You stole them. A polite security guard stops you. You claim you were 'distracted by state affairs.' The security footage shows you meticulously chewing the security tag off with your teeth.",
+    "leftChoiceLabel": "Blame the stress",
+    "rightChoiceLabel": "Run for the gate",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -100,
+      "heat": 30
+    },
+    "nextScenarioId": 2457
+  },
+  {
+    "id": 2457,
+    "category": "work",
+    "text": "You are forced to resign in national disgrace. On the bright side, the Norwegian parliamentary rules grant you 12 months of full pay to sit at home and reflect on your eyewear.",
+    "leftChoiceLabel": "Enjoy the paid vacation",
+    "rightChoiceLabel": "Start a podcast",
+    "leftEffect": {
+      "money": 15000,
+      "social": -30,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2458,
+    "category": "social",
+    "text": "You are invited to a highly controversial Royal Wedding in Geiranger. The groom is a Hollywood Shaman. To enter the tent, you must buy his 'Spirit-Optimizing Medallion'.",
+    "leftChoiceLabel": "Pay 20,000 NOK",
+    "rightChoiceLabel": "Sneak through the fjord",
+    "leftEffect": {
+      "money": -15000,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -30
+    },
+    "nextScenarioId": 2459
+  },
+  {
+    "id": 2459,
+    "category": "food",
+    "text": "You bought the medallion. It is made of cheap plastic and immediately gives you a severe neck rash. The Shaman approaches and says the rash is 'dark toxins leaving your aura'.",
+    "leftChoiceLabel": "Thank him profusely",
+    "rightChoiceLabel": "Demand a refund",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "nextScenarioId": 2460
+  },
+  {
+    "id": 2460,
+    "category": "money",
+    "text": "You demanded a refund. The Shaman's PR team immediately threatens to sue you for disrupting his cosmic vibrations. You must now wear the rash-medallion forever to avoid bankruptcy.",
+    "leftChoiceLabel": "Accept the rash",
+    "rightChoiceLabel": "Hire a spiritual lawyer",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": 10,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2461,
+    "category": "money",
+    "text": "The Norwegian Krone (NOK) has hit a historic low. You take the ferry to Copenhagen for a 'cheap' weekend. You order two beers and a hotdog. The bill is 350 Danish Kroner.",
+    "leftChoiceLabel": "Tap your card",
+    "rightChoiceLabel": "Offer to wash dishes",
+    "leftEffect": {
+      "money": -2500,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 15
+    },
+    "nextScenarioId": 2462
+  },
+  {
+    "id": 2462,
+    "category": "money",
+    "text": "You tapped your card. Your Norwegian bank app sends an immediate fraud alert: 'WARNING: 350 DKK is now roughly equivalent to a small mortgage. Are you sure?'",
+    "leftChoiceLabel": "Approve transaction",
+    "rightChoiceLabel": "Flee the restaurant",
+    "leftEffect": {
+      "money": -3000,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    },
+    "nextScenarioId": 2463
+  },
+  {
+    "id": 2463,
+    "category": "food",
+    "text": "You return to Norway financially ruined from buying three items in Denmark. You must now sustain yourself entirely on foraging wild blueberries and drinking tap water until next payday.",
+    "leftChoiceLabel": "Eat the berries",
+    "rightChoiceLabel": "Beg NAV for help",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 500,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2464,
+    "category": "work",
+    "text": "You are appointed as the Minister of Higher Education. A 19-year-old student discovers your Master's thesis is entirely copy-pasted from Wikipedia and a 2014 Reddit post.",
+    "leftChoiceLabel": "Deny everything",
+    "rightChoiceLabel": "Blame 'Text Anomalies'",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2465
+  },
+  {
+    "id": 2465,
+    "category": "culture",
+    "text": "You hold a press conference. The journalists ask why your thesis includes the phrase 'Edit: Thanks for the gold, kind stranger!' You panic.",
+    "leftChoiceLabel": "Cry aggressively",
+    "rightChoiceLabel": "Say it's a metaphor",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "nextScenarioId": 2466
+  },
+  {
+    "id": 2466,
+    "category": "work",
+    "text": "You resign in disgrace. However, this is Norway. The government immediately gives you a newly created, higher-paying job as the 'Senior Consultant of Academic Integrity'.",
+    "leftChoiceLabel": "Accept the hypocrisy",
+    "rightChoiceLabel": "Refuse the job",
+    "leftEffect": {
+      "money": 10000,
+      "social": -50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2467,
+    "category": "money",
+    "text": "Your small tech startup makes a tiny profit. Terrified of the new Norwegian 'Wealth Tax', you copy the billionaires and immediately relocate your family to a tiny village in Switzerland.",
+    "leftChoiceLabel": "Flee to Lucerne",
+    "rightChoiceLabel": "Stay and pay taxes",
+    "leftEffect": {
+      "money": 5000,
+      "social": -40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": 30,
+      "heat": 10
+    },
+    "nextScenarioId": 2468
+  },
+  {
+    "id": 2468,
+    "category": "food",
+    "text": "You live in a massive Swiss chalet, saving 2% on taxes. But you are deeply depressed because you can't find Grandiosa or Kvikk Lunsj anywhere. The Swiss chocolate tastes 'too rich'.",
+    "leftChoiceLabel": "Cry in a Ferrari",
+    "rightChoiceLabel": "Import Norwegian junk",
+    "leftEffect": {
+      "money": -5000,
+      "social": -20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2469
+  },
+  {
+    "id": 2469,
+    "category": "culture",
+    "text": "You pay a smuggler 50,000 NOK to bring you a single block of Brunost across the Alps. The Swiss police intercept the package and classify it as an illegal biological weapon.",
+    "leftChoiceLabel": "Bribe the Swiss Guard",
+    "rightChoiceLabel": "Deny the cheese is yours",
+    "leftEffect": {
+      "money": -15000,
+      "social": -10,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2470,
+    "category": "work",
+    "text": "US President Donald Trump officially announces on live TV that he is buying Svalbard to build an Arctic golf course. The Norwegian Prime Minister is panicking and asks for your advice.",
+    "leftChoiceLabel": "Tell him to sell",
+    "rightChoiceLabel": "Defend the polar bears",
+    "leftEffect": {
+      "money": 10000,
+      "social": -80,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 20
+    },
+    "nextScenarioId": 2471
+  },
+  {
+    "id": 2471,
+    "category": "social",
+    "text": "You advised the Prime Minister to sell. The transaction clears. You are given a massive finder's fee in USD, but you are now the most hated person in Norwegian history.",
+    "leftChoiceLabel": "Buy a bunker",
+    "rightChoiceLabel": "Flee to Florida",
+    "leftEffect": {
+      "money": -8000,
+      "social": -100,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -100,
+      "heat": 50
+    },
+    "nextScenarioId": 2472
+  },
+  {
+    "id": 2472,
+    "category": "money",
+    "text": "Trump cancels the check. He just found out Svalbard only has a frozen seed vault and a ban on dying. You are left with the massive Norwegian tax bill on your 'hypothetical' income.",
+    "leftChoiceLabel": "Declare bankruptcy",
+    "rightChoiceLabel": "Fake your own death",
+    "leftEffect": {
+      "money": -15000,
+      "social": -20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2473,
+    "category": "money",
+    "text": "The Norwegian Krone has crashed so drastically that the Danish Krone is worth double. A 14-year-old Danish kid uses his paper route savings to buy your entire apartment building in Oslo.",
+    "leftChoiceLabel": "Bow to your new overlord",
+    "rightChoiceLabel": "Protest the Danish invasion",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "nextScenarioId": 2474
+  },
+  {
+    "id": 2474,
+    "category": "culture",
+    "text": "The Danish teenager demands you pay your rent in 'Kamelåså' and Lego sets. When you ask what a 'Kamelåså' is, he threatens to evict you.",
+    "leftChoiceLabel": "Guess what it is",
+    "rightChoiceLabel": "Try to speak Danish",
+    "leftEffect": {
+      "money": -1500,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "nextScenarioId": 2475
+  },
+  {
+    "id": 2475,
+    "category": "social",
+    "text": "You shoved a literal hot potato in your mouth to mimic the Danish accent and appease your landlord. You immediately choke and pass out in the hallway.",
+    "leftChoiceLabel": "Accept the darkness",
+    "rightChoiceLabel": "Cough it up",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2476,
+    "category": "work",
+    "text": "Global tensions are peaking. You are unexpectedly drafted into 'Heimevernet' (The Home Guard). You are ordered to deploy to the Russian border on the same night as the Eurovision finale.",
+    "leftChoiceLabel": "Report for duty",
+    "rightChoiceLabel": "Flee to Sweden",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -80,
+      "heat": 10
+    },
+    "nextScenarioId": 2477
+  },
+  {
+    "id": 2477,
+    "category": "weather",
+    "text": "You are in a frozen trench in Finnmark holding a rifle from 1982. Foreign GPS jammers are messing with your phone, and your Tinder location says you are in Murmansk.",
+    "leftChoiceLabel": "Swipe right on spies",
+    "rightChoiceLabel": "Turn off your phone",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "nextScenarioId": 2478
+  },
+  {
+    "id": 2478,
+    "category": "culture",
+    "text": "You matched with an enemy operative. They offer to trade highly classified state military secrets for a single package of genuine Norwegian 'Kviteseid Smør' (premium butter).",
+    "leftChoiceLabel": "Commit treason for butter",
+    "rightChoiceLabel": "Report to commander",
+    "leftEffect": {
+      "money": 5000,
+      "social": -100,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2479,
+    "category": "social",
+    "text": "The government forces your tiny municipality to merge with the neighboring town you despise. The new Mayor immediately bans all local dialects and mandates 'Standard Eastern Norwegian'.",
+    "leftChoiceLabel": "Start a local rebellion",
+    "rightChoiceLabel": "Speak posh Oslo dialect",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    },
+    "nextScenarioId": 2480
+  },
+  {
+    "id": 2480,
+    "category": "weather",
+    "text": "You start a rebellion armed with pitchforks and stale Kneippbrød. The riot police arrive in their brand-new electric squad cars, but the batteries instantly die in the -20 degree cold.",
+    "leftChoiceLabel": "Laugh at their EVs",
+    "rightChoiceLabel": "Offer to charge them",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -15
+    },
+    "nextScenarioId": 2481
+  },
+  {
+    "id": 2481,
+    "category": "money",
+    "text": "You agree to let the police plug their squad cars into your house. You charge them exactly 500 NOK per kWh because you are a brutal capitalist.",
+    "leftChoiceLabel": "Count your money",
+    "rightChoiceLabel": "Unplug them halfway",
+    "leftEffect": {
+      "money": 8000,
+      "social": -30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -50
+    }
+  },
+  {
+    "id": 2482,
+    "category": "money",
+    "text": "The EU passes a green directive requiring Norway to export 95% of its hydropower to the continent. Your monthly electricity bill hits 45,000 NOK. It is -15 degrees inside your living room.",
+    "leftChoiceLabel": "Tap a streetlamp",
+    "rightChoiceLabel": "Freeze for Europe",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": 20,
+      "heat": -50
+    },
+    "nextScenarioId": 2483
+  },
+  {
+    "id": 2483,
+    "category": "social",
+    "text": "You illegally tapped into the municipal streetlamp to run a tiny 400-watt heater. The newly formed 'Strømpoliti' (Electricity Police) raid your apartment wearing tactical thermal goggles.",
+    "leftChoiceLabel": "Blame your neighbor",
+    "rightChoiceLabel": "Surrender the heater",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2484
+  },
+  {
+    "id": 2484,
+    "category": "work",
+    "text": "You are found guilty of 'Energy Treason'. You are sentenced to 400 hours of forced labor running on a giant hamster wheel in the Parliament basement to power the politicians' espresso machines.",
+    "leftChoiceLabel": "Run with pride",
+    "rightChoiceLabel": "Sabotage the wheel",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2485,
+    "category": "money",
+    "text": "Donald Trump imposes a 500% tariff on Norwegian salmon because the Prime Minister refused to sell him a famous fjord for a golf resort. The Norwegian economy instantly crashes.",
+    "leftChoiceLabel": "Buy cheap salmon",
+    "rightChoiceLabel": "Short the NOK",
+    "leftEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 8000,
+      "social": -40,
+      "heat": -10
+    },
+    "nextScenarioId": 2486
+  },
+  {
+    "id": 2486,
+    "category": "work",
+    "text": "To lift the tariff, the government caves in and forces your construction firm to build a massive, 50-story golden 'Trump Tower' directly on top of the fragile Briksdal glacier.",
+    "leftChoiceLabel": "Accept the contract",
+    "rightChoiceLabel": "Resign in protest",
+    "leftEffect": {
+      "money": 15000,
+      "social": -80,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 60,
+      "heat": -10
+    },
+    "nextScenarioId": 2487
+  },
+  {
+    "id": 2487,
+    "category": "weather",
+    "text": "Global warming accelerates. The glacier melts rapidly, sending the half-built golden tower sliding directly into the deep fjord. The US President blames you personally on social media.",
+    "leftChoiceLabel": "Change your identity",
+    "rightChoiceLabel": "Apologize on CNN",
+    "leftEffect": {
+      "money": -10000,
+      "social": -30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2488,
+    "category": "culture",
+    "text": "VG newspaper exposes your local Mayor for secretly spending 3 million NOK in taxpayer money to hire a 'spiritual aura cleanser' for the municipal reindeer herd.",
+    "leftChoiceLabel": "Demand resignation",
+    "rightChoiceLabel": "Defend the Mayor",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    },
+    "nextScenarioId": 2489
+  },
+  {
+    "id": 2489,
+    "category": "work",
+    "text": "You are the Mayor's PR advisor. They refuse to step down, claiming the reindeer's chakra alignment is absolutely vital for regional stability. The national press is waiting outside.",
+    "leftChoiceLabel": "Double down",
+    "rightChoiceLabel": "Quit your job",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -4000,
+      "social": 20,
+      "heat": 10
+    },
+    "nextScenarioId": 2490
+  },
+  {
+    "id": 2490,
+    "category": "social",
+    "text": "You told the Mayor to double down. They attempt to perform a live, televised aura-cleansing on a massive bull reindeer. The reindeer immediately kicks the Mayor directly in the jaw.",
+    "leftChoiceLabel": "Call an ambulance",
+    "rightChoiceLabel": "Declare it a success",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2491,
+    "category": "social",
+    "text": "You are ice fishing in Finnmark. A highly suspicious, muscular Beluga whale wearing a tactical harness surfaces and offers you 50,000 Rubles for your Wi-Fi password.",
+    "leftChoiceLabel": "Give the password",
+    "rightChoiceLabel": "Call the military",
+    "leftEffect": {
+      "money": 5000,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2492
+  },
+  {
+    "id": 2492,
+    "category": "culture",
+    "text": "You gave the whale your Wi-Fi. The next morning, PST (Norwegian Intelligence Service) kicks down your door. You are formally charged with 'Aiding an Aquatic Foreign Operative'.",
+    "leftChoiceLabel": "Claim ignorance",
+    "rightChoiceLabel": "Demand a lawyer",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2493
+  },
+  {
+    "id": 2493,
+    "category": "work",
+    "text": "To avoid a 15-year treason sentence, PST recruits you as a double agent. Your mission is to infiltrate a foreign naval base by swimming across the freezing border in a highly realistic Cod costume.",
+    "leftChoiceLabel": "Put on the Cod suit",
+    "rightChoiceLabel": "Choose prison",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2494,
+    "category": "social",
+    "text": "You are invited to an exclusive 'afterparty' at the Royal Estate by the Crown Princess's adult son. You arrive to find him frantically shredding documents and vacuuming white powder off a priceless antique rug.",
+    "leftChoiceLabel": "Help him vacuum",
+    "rightChoiceLabel": "Call the police",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 50
+    },
+    "nextScenarioId": 2495
+  },
+  {
+    "id": 2495,
+    "category": "work",
+    "text": "You helped vacuum. Suddenly, a high-ranking Royal Guard knocks on the door and tells you the police will arrive in exactly 14 minutes for a 'completely unannounced and spontaneous' raid.",
+    "leftChoiceLabel": "Jump out the window",
+    "rightChoiceLabel": "Hide in the closet",
+    "leftEffect": {
+      "money": -5000,
+      "social": -20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2496
+  },
+  {
+    "id": 2496,
+    "category": "culture",
+    "text": "You are hiding in the royal closet. You accidentally step on a crate of the Shaman's 'Spirit-Optimizing Medallions'. The loud plastic crunch alerts the police.",
+    "leftChoiceLabel": "Claim you are a ghost",
+    "rightChoiceLabel": "Bribe them with medallions",
+    "leftEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": -20,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2497,
+    "category": "work",
+    "text": "It is August. You are at 'Arendalsuka', the massive political festival where PR consultants pretend to care about the working class while drinking 200 NOK organic cider on yachts.",
+    "leftChoiceLabel": "Rent a yacht",
+    "rightChoiceLabel": "Hand out flyers",
+    "leftEffect": {
+      "money": -15000,
+      "social": 50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -15
+    },
+    "nextScenarioId": 2498
+  },
+  {
+    "id": 2498,
+    "category": "social",
+    "text": "You rented the yacht. The Minister of Finance steps aboard. He tells you the economy is doing great, then immediately asks to borrow 500 NOK for a late-night kebab.",
+    "leftChoiceLabel": "Give him 500 NOK",
+    "rightChoiceLabel": "Tell him to check Altinn",
+    "leftEffect": {
+      "money": -500,
+      "social": 40,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "nextScenarioId": 2499
+  },
+  {
+    "id": 2499,
+    "category": "culture",
+    "text": "The Minister eats your kebab and promises you a government grant for your new startup: an app that tracks how many times politicians say 'Vi må ta debatten' (We must take the debate).",
+    "leftChoiceLabel": "Demand a contract",
+    "rightChoiceLabel": "Trust the system",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": 10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2500,
+    "category": "work",
+    "text": "A major government minister is caught copying 95% of their Master's thesis. You are hired as their crisis PR manager. The media is demanding an explanation for the identical typos.",
+    "leftChoiceLabel": "Claim 'Text Anomaly'",
+    "rightChoiceLabel": "Say it is a tribute",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2501
+  },
+  {
+    "id": 2501,
+    "category": "social",
+    "text": "You claimed it was a 'Text Anomaly'. A journalist discovers the minister even copied a recipe for Toro Brown Sauce into chapter 4. The nation is in an uproar.",
+    "leftChoiceLabel": "Blame AI hallucinations",
+    "rightChoiceLabel": "Say the sauce is a metaphor",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2502
+  },
+  {
+    "id": 2502,
+    "category": "money",
+    "text": "The minister is forced to resign in disgrace. But as is Norwegian tradition, they are immediately appointed to a highly paid board position at the state railway company. They offer you a job.",
+    "leftChoiceLabel": "Accept the corruption",
+    "rightChoiceLabel": "Keep your morals",
+    "leftEffect": {
+      "money": 12000,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 40,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2503,
+    "category": "sport",
+    "text": "Norwegians love useless World Records. You decide to break the record for 'Longest Distance Skied on Asphalt in July'. You put on roller skis and hit the E18 highway.",
+    "leftChoiceLabel": "Ski in the fast lane",
+    "rightChoiceLabel": "Ski on the shoulder",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2504
+  },
+  {
+    "id": 2504,
+    "category": "weather",
+    "text": "The asphalt is literally melting in the 28-degree heat. Your roller skis sink into the tar. An angry truck driver hauling 10 tons of frozen salmon is honking at you.",
+    "leftChoiceLabel": "Scream 'World Record!'",
+    "rightChoiceLabel": "Dive into the ditch",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2505
+  },
+  {
+    "id": 2505,
+    "category": "money",
+    "text": "You survived the ditch, but the police give you a 12,000 NOK fine for disrupting traffic. The local newspaper runs a front-page story: 'Local Hero Robbed of Glory by The State.'",
+    "leftChoiceLabel": "Start a GoFundMe",
+    "rightChoiceLabel": "Frame the fine",
+    "leftEffect": {
+      "money": 12000,
+      "social": -30,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": -12000,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2506,
+    "category": "work",
+    "text": "Jens Stoltenberg has dramatically returned from NATO to 'save' Norwegian politics. The entire nation enters a trance-like state of nostalgia. You are asked to swear allegiance to the 'Stoltenback'.",
+    "leftChoiceLabel": "Salute his poster",
+    "rightChoiceLabel": "Say he is overrated",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -90,
+      "heat": -20
+    },
+    "nextScenarioId": 2507
+  },
+  {
+    "id": 2507,
+    "category": "culture",
+    "text": "You said he is overrated. Your coworkers form a circle around your desk, chanting his old speeches and aggressively drinking Friele coffee until you publicly apologize.",
+    "leftChoiceLabel": "Sing along",
+    "rightChoiceLabel": "Refuse to kneel",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    },
+    "nextScenarioId": 2508
+  },
+  {
+    "id": 2508,
+    "category": "social",
+    "text": "You refused. You are officially exiled to Sweden. Your Norwegian passport is revoked, and you are forced to assemble IKEA furniture for minimum wage while eating fermented herring.",
+    "leftChoiceLabel": "Accept Swedish life",
+    "rightChoiceLabel": "Smuggle yourself back",
+    "leftEffect": {
+      "money": -4000,
+      "social": -50,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -15000,
+      "social": 20,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2509,
+    "category": "money",
+    "text": "The government introduces AI-powered 'Bompenger' (toll booths) that charge you based on your carbon footprint. You sigh heavily in traffic. The AI registers your sigh as a 'carbon-heavy exhalation' and charges you 500 NOK.",
+    "leftChoiceLabel": "Hold your breath",
+    "rightChoiceLabel": "Pay and cry",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": 0
+    },
+    "nextScenarioId": 2510
+  },
+  {
+    "id": 2510,
+    "category": "weather",
+    "text": "You held your breath to avoid emissions, passed out, and crashed into the toll booth. The AI charges you 2 million NOK for 'unauthorized demolition of state infrastructure'.",
+    "leftChoiceLabel": "Sue the state",
+    "rightChoiceLabel": "Flee to Sweden",
+    "leftEffect": {
+      "money": -15000,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -40,
+      "heat": -30
+    },
+    "nextScenarioId": 2511
+  },
+  {
+    "id": 2511,
+    "category": "social",
+    "text": "Sweden denies your asylum because you do not have enough 'fika' experience. You are deported back to the AI toll booth, which is now demanding a public apology on national TV.",
+    "leftChoiceLabel": "Apologize to the machine",
+    "rightChoiceLabel": "Smash it with a hammer",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -10000,
+      "social": 50,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2512,
+    "category": "money",
+    "text": "A famous Norwegian salmon billionaire who fled to Switzerland sneaks back into Oslo in disguise because he misses 'Fjordland' microwave meals. You spot him at the local Kiwi.",
+    "leftChoiceLabel": "Blackmail him",
+    "rightChoiceLabel": "Report him to Skatteetaten",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "nextScenarioId": 2513
+  },
+  {
+    "id": 2513,
+    "category": "social",
+    "text": "You demand 1 million NOK to keep quiet. He counters by offering you 500 kg of frozen salmon and a rusty Rolex he claims was owned by the King.",
+    "leftChoiceLabel": "Take the salmon",
+    "rightChoiceLabel": "Demand cash",
+    "leftEffect": {
+      "money": 200,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 5000,
+      "social": -50,
+      "heat": 20
+    },
+    "nextScenarioId": 2514
+  },
+  {
+    "id": 2514,
+    "category": "culture",
+    "text": "You took the salmon and filled your tiny Oslo apartment with it. The freezer breaks. The horrific smell alerts the housing board, who deploy a biological hazmat team.",
+    "leftChoiceLabel": "Eat it all quickly",
+    "rightChoiceLabel": "Claim it's modern art",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -60,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2515,
+    "category": "work",
+    "text": "NATO hosts a massive winter drill in Troms. US Marines arrive without winter gear. The Norwegian commander orders you to teach them how to survive using only a Kvikk Lunsj and a stick.",
+    "leftChoiceLabel": "Teach the Americans",
+    "rightChoiceLabel": "Refuse the order",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2516
+  },
+  {
+    "id": 2516,
+    "category": "social",
+    "text": "An American general misunderstands your instruction, eats the stick, and tries to fire the Kvikk Lunsj from his rifle. He aggressively blames you for sabotaging allied forces.",
+    "leftChoiceLabel": "Apologize in English",
+    "rightChoiceLabel": "Point at the manual",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 20
+    },
+    "nextScenarioId": 2517
+  },
+  {
+    "id": 2517,
+    "category": "work",
+    "text": "The manual is written in heavily dialected Nynorsk. The Pentagon assumes it is a secret Russian cipher. You are temporarily detained by the CIA in a snowbank.",
+    "leftChoiceLabel": "Confess to nothing",
+    "rightChoiceLabel": "Sing the national anthem",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2518,
+    "category": "money",
+    "text": "To stop Norwegians from buying cheap bacon, Sweden builds a massive wall and tries to make Norway pay for it in oil. You attempt to dig a tunnel under it to get cheap Pepsi Max.",
+    "leftChoiceLabel": "Dig faster",
+    "rightChoiceLabel": "Pay full Norwegian price",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": 10
+    },
+    "nextScenarioId": 2519
+  },
+  {
+    "id": 2519,
+    "category": "social",
+    "text": "Your tunnel collapses. You emerge directly inside a Swedish Systembolaget (liquor store). The Swedish manager stares at you, covered in dirt and holding a shovel.",
+    "leftChoiceLabel": "Ask for cheap vodka",
+    "rightChoiceLabel": "Pretend you are a mole",
+    "leftEffect": {
+      "money": -200,
+      "social": 10,
+      "heat": 0
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "nextScenarioId": 2520
+  },
+  {
+    "id": 2520,
+    "category": "culture",
+    "text": "The manager forces you to assemble a 400-piece IKEA shelving unit before he lets you leave without calling the border guards. You realize you lost the Allen wrench.",
+    "leftChoiceLabel": "Use your teeth",
+    "rightChoiceLabel": "Cry in Swedish",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2521,
+    "category": "work",
+    "text": "The Norwegian Parliament replaces a scandal-ridden minister with an AI language model to save money. The AI immediately raises taxes on 'happiness' to balance the budget.",
+    "leftChoiceLabel": "Pay the happiness tax",
+    "rightChoiceLabel": "Act deeply depressed",
+    "leftEffect": {
+      "money": -3000,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "nextScenarioId": 2522
+  },
+  {
+    "id": 2522,
+    "category": "social",
+    "text": "You acted depressed to avoid the tax. The AI registers your depression and automatically enrolls you in a mandatory 6-month 'Forest Therapy' camp in the deep woods of Hedmark.",
+    "leftChoiceLabel": "Embrace the forest",
+    "rightChoiceLabel": "Hack the AI",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 30
+    },
+    "nextScenarioId": 2523
+  },
+  {
+    "id": 2523,
+    "category": "weather",
+    "text": "At the forest camp, you are forced to hug birch trees 12 hours a day. The mosquitoes are the size of small birds. You realize this is the government's true plan to solve the pension crisis.",
+    "leftChoiceLabel": "Hug the trees harder",
+    "rightChoiceLabel": "Flee to civilization",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": -1000,
+      "social": 20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2524,
+    "category": "work",
+    "text": "You get a job managing a small portfolio for the Norwegian Sovereign Wealth Fund. You accidentally invest 500 billion NOK into a meme coin based on a picture of a Swedish dog.",
+    "leftChoiceLabel": "Panic sell",
+    "rightChoiceLabel": "Hold the line",
+    "leftEffect": {
+      "money": -5000,
+      "social": -50,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -40
+    },
+    "nextScenarioId": 2525
+  },
+  {
+    "id": 2525,
+    "category": "work",
+    "text": "The meme coin crashes 99%. You must explain to Parliament why the national pension fund for the next three generations is now completely worthless.",
+    "leftChoiceLabel": "Blame Russian hackers",
+    "rightChoiceLabel": "Suggest selling Bergen",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2526
+  },
+  {
+    "id": 2526,
+    "category": "culture",
+    "text": "You suggested selling the entire city of Bergen to a tech billionaire to recoup the losses. Parliament unanimously agrees. Your social standing skyrockets in Oslo, though Bergen is furious.",
+    "leftChoiceLabel": "Celebrate in Oslo",
+    "rightChoiceLabel": "Flee the country",
+    "leftEffect": {
+      "money": 10000,
+      "social": 60,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2527,
+    "category": "money",
+    "text": "You are driving an electric car across the Swedish border with 50kg of cheap bacon hidden in the battery compartment. A customs drone spots your suspension sagging heavily.",
+    "leftChoiceLabel": "Speed up",
+    "rightChoiceLabel": "Dump the bacon",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": -1500,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2528
+  },
+  {
+    "id": 2528,
+    "category": "social",
+    "text": "The customs officers stop you. They deploy elite dogs trained specifically to sniff out non-taxed Swedish pork products. The dogs surround your car and bark aggressively.",
+    "leftChoiceLabel": "Bribe the dogs",
+    "rightChoiceLabel": "Confess everything",
+    "leftEffect": {
+      "money": -500,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -8000,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2529
+  },
+  {
+    "id": 2529,
+    "category": "food",
+    "text": "You are found guilty of 'Bacon Treason'. You must spend the next five years eating exclusively Norwegian boiled cod without any seasoning to cleanse your palate.",
+    "leftChoiceLabel": "Accept the cod",
+    "rightChoiceLabel": "Riot in prison",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2530,
+    "category": "culture",
+    "text": "You are furious at the new toll road prices. You protest by supergluing your hands to a major 'Bompenger' toll booth in Oslo during the morning rush hour.",
+    "leftChoiceLabel": "Scream for justice",
+    "rightChoiceLabel": "Demand free passage",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2531
+  },
+  {
+    "id": 2531,
+    "category": "weather",
+    "text": "The temperature drops to -15 degrees. The superglue freezes solid. You are now permanently attached to the toll booth as angry commuters drive by, throwing frozen coins at your head.",
+    "leftChoiceLabel": "Collect the coins",
+    "rightChoiceLabel": "Call the fire department",
+    "leftEffect": {
+      "money": 1500,
+      "social": -20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2532
+  },
+  {
+    "id": 2532,
+    "category": "money",
+    "text": "You actually made 5000 NOK in thrown coins. The Tax Authority (Skatteetaten) immediately arrives and reclassifies your frozen body as a commercial toll operator.",
+    "leftChoiceLabel": "Pay 80% tax",
+    "rightChoiceLabel": "Stay glued forever",
+    "leftEffect": {
+      "money": -4000,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2533,
+    "category": "work",
+    "text": "You are a reindeer herder in Finnmark. One of your reindeer crosses the Russian border. The Russian state demands a 50 million Ruble fine for 'illegal grazing and espionage'.",
+    "leftChoiceLabel": "Pay the fine",
+    "rightChoiceLabel": "Ignore the letter",
+    "leftEffect": {
+      "money": -10000,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": 30
+    },
+    "nextScenarioId": 2534
+  },
+  {
+    "id": 2534,
+    "category": "social",
+    "text": "You ignored the fine. A diplomatic crisis erupts. The Norwegian Prime Minister begs you to sneak across the border at night to retrieve the reindeer to avoid a global conflict.",
+    "leftChoiceLabel": "Sneak into Russia",
+    "rightChoiceLabel": "Refuse the mission",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    },
+    "nextScenarioId": 2535
+  },
+  {
+    "id": 2535,
+    "category": "culture",
+    "text": "You sneak into the Russian military camp. You find your reindeer, but it is now wearing a tiny Russian general's uniform and refuses to return to the Norwegian side.",
+    "leftChoiceLabel": "Kidnap it anyway",
+    "rightChoiceLabel": "Salute the reindeer",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2536,
+    "category": "money",
+    "text": "The Norwegian government accidentally transfers the entire national arts budget to your personal bank account. It is 800 million NOK.",
+    "leftChoiceLabel": "Report the error",
+    "rightChoiceLabel": "Flee to Dubai",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 15000,
+      "social": -100,
+      "heat": 40
+    },
+    "nextScenarioId": 2537
+  },
+  {
+    "id": 2537,
+    "category": "social",
+    "text": "You fled to Dubai with the arts budget. The Norwegian state sends an elite team of cultural critics to hunt you down and lecture you on modern theatrical dance.",
+    "leftChoiceLabel": "Hire bodyguards",
+    "rightChoiceLabel": "Hide in a mall",
+    "leftEffect": {
+      "money": -5000,
+      "social": 10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2538
+  },
+  {
+    "id": 2538,
+    "category": "culture",
+    "text": "The cultural critics corner you. They force you to watch a 6-hour avant-garde performance piece about the anxiety of eating brown cheese. You surrender the money to make it stop.",
+    "leftChoiceLabel": "Give it back",
+    "rightChoiceLabel": "Claw your eyes out",
+    "leftEffect": {
+      "money": -15000,
+      "social": 50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    }
+  },
+  {
+    "id": 2539,
+    "category": "culture",
+    "text": "You inherit a cabin in Finnmark, sitting exactly on the Russian border. Vladimir Putin crosses the border shirtless on a horse and declares your wooden sauna sovereign Russian territory.",
+    "leftChoiceLabel": "Fight for the sauna",
+    "rightChoiceLabel": "Offer him a towel",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2540
+  },
+  {
+    "id": 2540,
+    "category": "social",
+    "text": "You offered him a towel. He refuses, citing Western weakness, and challenges you to a 10-hour ice-bathing contest in the freezing Pasvik river to determine the true owner.",
+    "leftChoiceLabel": "Accept the challenge",
+    "rightChoiceLabel": "Call the local sheriff",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -80
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2541
+  },
+  {
+    "id": 2541,
+    "category": "money",
+    "text": "The local sheriff (Lensmann) arrives, but says he cannot intervene because Putin just paid his Norwegian municipal property tax on the sauna via the Vipps app. You are legally evicted.",
+    "leftChoiceLabel": "Move to Svalbard",
+    "rightChoiceLabel": "Pay rent to Putin",
+    "leftEffect": {
+      "money": -15000,
+      "social": -40,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2542,
+    "category": "food",
+    "text": "Kim Jong Un visits Oslo in secret to study the mind-control properties of the 'Pizza Grandiosa'. The government assigns you as his official pizza guide to avoid an international incident.",
+    "leftChoiceLabel": "Serve it raw",
+    "rightChoiceLabel": "Bake it perfectly",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -50,
+      "social": 20,
+      "heat": 0
+    },
+    "nextScenarioId": 2543
+  },
+  {
+    "id": 2543,
+    "category": "weather",
+    "text": "You served it perfectly. He takes a massive bite immediately out of the oven and suffers third-degree burns on the roof of his mouth. Furious, he reaches for the nuclear launch button.",
+    "leftChoiceLabel": "Give him Solo soda",
+    "rightChoiceLabel": "Tell him to endure it",
+    "leftEffect": {
+      "money": -30,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 50
+    },
+    "nextScenarioId": 2544
+  },
+  {
+    "id": 2544,
+    "category": "money",
+    "text": "The extreme sugar rush of the Norwegian Solo soda calms him down. However, he now demands to buy the entire Stabburet pizza factory using illicit crypto.",
+    "leftChoiceLabel": "Facilitate the deal",
+    "rightChoiceLabel": "Protect the pizza",
+    "leftEffect": {
+      "money": 50000,
+      "social": -80,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 80,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2545,
+    "category": "social",
+    "text": "President Erdogan blocks Norway's latest NATO initiative until the Norwegian government formally apologizes for the existence of 'Fårikål' (the national sheep and cabbage stew).",
+    "leftChoiceLabel": "Defend the stew",
+    "rightChoiceLabel": "Apologize instantly",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -60,
+      "heat": -20
+    },
+    "nextScenarioId": 2546
+  },
+  {
+    "id": 2546,
+    "category": "work",
+    "text": "You defended the stew on national TV. Erdogan responds by banning all Norwegians from traveling to Alanya for their cheap summer holidays. Millions of sunburned Norwegians riot in Oslo.",
+    "leftChoiceLabel": "Join the riot",
+    "rightChoiceLabel": "Hide in your basement",
+    "leftEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "nextScenarioId": 2547
+  },
+  {
+    "id": 2547,
+    "category": "culture",
+    "text": "To stop the riots, the Prime Minister forces you to travel to Ankara and personally eat three massive bowls of garlic kebab sauce while singing the Turkish national anthem to apologize.",
+    "leftChoiceLabel": "Eat the sauce",
+    "rightChoiceLabel": "Refuse and cause WW3",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": 80
+    }
+  },
+  {
+    "id": 2548,
+    "category": "work",
+    "text": "Donald Trump claims the Norwegian wind turbines in Trøndelag are killing non-existent bald eagles. He sends a team of aggressive American lawyers to legally dismantle the wind farm.",
+    "leftChoiceLabel": "Sabotage the lawyers",
+    "rightChoiceLabel": "Help them pack up",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 5000,
+      "social": -80,
+      "heat": -10
+    },
+    "nextScenarioId": 2549
+  },
+  {
+    "id": 2549,
+    "category": "food",
+    "text": "You sabotaged the lawyers by feeding them 2-year-old expired 'Rakfisk' (fermented trout). They are all hospitalized with severe hallucinations, claiming they saw socialist ghosts.",
+    "leftChoiceLabel": "Say it's a delicacy",
+    "rightChoiceLabel": "Run for the hills",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "nextScenarioId": 2550
+  },
+  {
+    "id": 2550,
+    "category": "money",
+    "text": "Trump is furious and places a total embargo on all Norwegian exports. The country descends into complete anarchy as the strategic national reserves of Pepsi Max run dry in just 48 hours.",
+    "leftChoiceLabel": "Hoard Pepsi Max",
+    "rightChoiceLabel": "Switch to water",
+    "leftEffect": {
+      "money": -8000,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2551,
+    "category": "social",
+    "text": "The UN initiates a 'Dictator Exchange Program'. Your small municipality is forced to host a notorious authoritarian leader for a week. He demands a massive military parade down Karl Johan street.",
+    "leftChoiceLabel": "Give him the parade",
+    "rightChoiceLabel": "Give him a 'Dugnad'",
+    "leftEffect": {
+      "money": -50000,
+      "social": -60,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "nextScenarioId": 2552
+  },
+  {
+    "id": 2552,
+    "category": "culture",
+    "text": "You force the dictator to participate in the spring 'Dugnad' (community labor). He is handed a rusty rake and ordered to clear wet leaves by a terrifying 70-year-old housing board president.",
+    "leftChoiceLabel": "Watch him suffer",
+    "rightChoiceLabel": "Help him rake",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -10
+    },
+    "nextScenarioId": 2553
+  },
+  {
+    "id": 2553,
+    "category": "work",
+    "text": "The dictator's spirit is completely broken by the relentless passive-aggression of Norwegian community management. He resigns his presidency and applies for a job at the local Kiwi supermarket.",
+    "leftChoiceLabel": "Hire him",
+    "rightChoiceLabel": "Deny his application",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2554,
+    "category": "work",
+    "text": "Elon Musk buys a pristine mountain in Lofoten to build a massive server farm. He hires you and demands you work a 100-hour 'hardcore' week. In Norway, this is a crime against humanity.",
+    "leftChoiceLabel": "Work the 100 hours",
+    "rightChoiceLabel": "Call Arbeidstilsynet",
+    "leftEffect": {
+      "money": 20000,
+      "social": -80,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": 10
+    },
+    "nextScenarioId": 2555
+  },
+  {
+    "id": 2555,
+    "category": "work",
+    "text": "You called the Labor Authority (Arbeidstilsynet). They arrive in a slow electric boat, armed with clipboards and a legally mandated 30-minute waffle break schedule.",
+    "leftChoiceLabel": "Serve them waffles",
+    "rightChoiceLabel": "Hide them from Elon",
+    "leftEffect": {
+      "money": -200,
+      "social": 40,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "nextScenarioId": 2556
+  },
+  {
+    "id": 2556,
+    "category": "social",
+    "text": "Musk tries to fire the inspectors via a late-night tweet. The Norwegian government responds by putting him in a 'timeout room' until he successfully builds an IKEA desk without a manual.",
+    "leftChoiceLabel": "Help him build it",
+    "rightChoiceLabel": "Livestream his failure",
+    "leftEffect": {
+      "money": 5000,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 1000,
+      "social": 60,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2557,
+    "category": "culture",
+    "text": "King Charles is visiting Oslo. While waving from a yacht in the Oslofjord, he drops a priceless royal crown into the freezing water. He points directly at you to fetch it.",
+    "leftChoiceLabel": "Dive into the fjord",
+    "rightChoiceLabel": "Pretend you didn't see",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -60
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 20
+    },
+    "nextScenarioId": 2558
+  },
+  {
+    "id": 2558,
+    "category": "social",
+    "text": "You dive in and retrieve the crown, but a territorial Norwegian salmon has already laid eggs inside it. The King is disgusted and threatens to sanction all Norwegian fish exports.",
+    "leftChoiceLabel": "Clean it with your shirt",
+    "rightChoiceLabel": "Defend the salmon",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 10
+    },
+    "nextScenarioId": 2559
+  },
+  {
+    "id": 2559,
+    "category": "work",
+    "text": "To prevent a British trade war, you offer the King a massive block of 'Brunost'. He bites into it thinking it is sweet fudge, immediately gags, and declares war on Norway.",
+    "leftChoiceLabel": "Flee to the mountains",
+    "rightChoiceLabel": "Apologize to the Queen",
+    "leftEffect": {
+      "money": -2000,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -500,
+      "social": 10,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2560,
+    "category": "weather",
+    "text": "A famous Swedish climate activist blocks the entrance to the Vinmonopolet (liquor store). It is Friday at 17:30. If you don't get your wine now, your weekend is ruined.",
+    "leftChoiceLabel": "Push past her",
+    "rightChoiceLabel": "Listen to her speech",
+    "leftEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "nextScenarioId": 2561
+  },
+  {
+    "id": 2561,
+    "category": "culture",
+    "text": "You stop to listen. She spots your plastic bag full of non-recycled batteries and singles you out. You are globally shamed on a livestream watched by 4 million people.",
+    "leftChoiceLabel": "Cry on camera",
+    "rightChoiceLabel": "Eat a battery to assert dominance",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -80
+    },
+    "nextScenarioId": 2562
+  },
+  {
+    "id": 2562,
+    "category": "social",
+    "text": "To recover your public image, you are forced to join her protest. You miss your sacred Friday Taco night and must now live in a wind-powered tent outside Stortinget.",
+    "leftChoiceLabel": "Embrace the tent life",
+    "rightChoiceLabel": "Sneak out for a kebab",
+    "leftEffect": {
+      "money": -500,
+      "social": 40,
+      "heat": -40
+    },
+    "rightEffect": {
+      "money": -150,
+      "social": -60,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2563,
+    "category": "social",
+    "text": "US President Joe Biden visits Oslo for a NATO summit. He wanders away from his security detail and gets hopelessly lost in the Nationaltheatret subway station.",
+    "leftChoiceLabel": "Help him find his way",
+    "rightChoiceLabel": "Sell him a subway ticket",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 40,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2564
+  },
+  {
+    "id": 2564,
+    "category": "food",
+    "text": "You find him eating a stale, 3-day-old bacon hotdog from Narvesen. The Secret Service suddenly surrounds you, demanding to know if the hotdog is poisoned with 'socialized medicine'.",
+    "leftChoiceLabel": "Explain Norwegian healthcare",
+    "rightChoiceLabel": "Surrender immediately",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -40
+    },
+    "nextScenarioId": 2565
+  },
+  {
+    "id": 2565,
+    "category": "money",
+    "text": "The CIA detains you in a black SUV. To buy your freedom, you must bribe the agents with your emergency stash of Kvikk Lunsj. They put you on a permanent American snack-smuggler watch list.",
+    "leftChoiceLabel": "Give up the chocolate",
+    "rightChoiceLabel": "Die with your snacks",
+    "leftEffect": {
+      "money": -100,
+      "social": -10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -60
+    }
+  },
+  {
+    "id": 2566,
+    "category": "social",
+    "text": "You visit Kristiansand, the heart of the Norwegian 'Bible Belt'. You accidentally swear loudly when you drop your soft-serve ice cream. The entire town gasps and stops moving.",
+    "leftChoiceLabel": "Apologize to God",
+    "rightChoiceLabel": "Swear again",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 20
+    },
+    "nextScenarioId": 2567
+  },
+  {
+    "id": 2567,
+    "category": "culture",
+    "text": "The local conservative mayor arrests you for 'moral decay'. You are sentenced to 40 hours of mandatory church choir practice to cleanse your corrupted urban soul.",
+    "leftChoiceLabel": "Sing the hymns",
+    "rightChoiceLabel": "Pretend to lose your voice",
+    "leftEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "nextScenarioId": 2568
+  },
+  {
+    "id": 2568,
+    "category": "work",
+    "text": "You get bored during choir practice and try to spice up the solemn hymn with a heavy metal vocal growl. You are violently chased out of the county by angry grandmothers wielding wooden spoons.",
+    "leftChoiceLabel": "Run for your life",
+    "rightChoiceLabel": "Fight the grandmas",
+    "leftEffect": {
+      "money": -500,
+      "social": -20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -100,
+      "heat": -30
+    }
+  },
+  {
+    "id": 2569,
+    "category": "culture",
+    "text": "Chinese President Xi Jinping gifts Norway two giant pandas as a diplomatic token. They arrive at Gardermoen, but Mattilsynet (Food Safety Authority) intercepts them for lacking the correct EU rabies documentation.",
+    "leftChoiceLabel": "Let the pandas in",
+    "rightChoiceLabel": "Follow the rules",
+    "leftEffect": {
+      "money": -1000,
+      "social": -30,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -20
+    },
+    "nextScenarioId": 2570
+  },
+  {
+    "id": 2570,
+    "category": "work",
+    "text": "You followed the rules. Mattilsynet threatens to euthanize the pandas to protect the local ecosystem. The Chinese embassy immediately prepares for total economic warfare.",
+    "leftChoiceLabel": "Hide the pandas",
+    "rightChoiceLabel": "Stand your ground",
+    "leftEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": 40
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -80
+    },
+    "nextScenarioId": 2571
+  },
+  {
+    "id": 2571,
+    "category": "money",
+    "text": "You hide the pandas in your tiny Oslo apartment while forging their paperwork. They consume your expensive bamboo flooring and destroy your deposit. You are now broke, but have averted WW3.",
+    "leftChoiceLabel": "Charge China rent",
+    "rightChoiceLabel": "Accept the damage",
+    "leftEffect": {
+      "money": 50000,
+      "social": -80,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -20000,
+      "social": 40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2572,
+    "category": "social",
+    "text": "French President Emmanuel Macron flees the violent Paris pension riots and seeks asylum in Norway. He shows up at a local NAV office demanding a luxury retirement package at age 62.",
+    "leftChoiceLabel": "Give him the forms",
+    "rightChoiceLabel": "Laugh in Norwegian",
+    "leftEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": 10
+    },
+    "nextScenarioId": 2573
+  },
+  {
+    "id": 2573,
+    "category": "work",
+    "text": "You hand Macron 'Form 11-C' and inform him the Norwegian retirement age is 67. Furious, he attempts to incite a violent riot in the NAV lobby.",
+    "leftChoiceLabel": "Call security",
+    "rightChoiceLabel": "Watch him try",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2574
+  },
+  {
+    "id": 2574,
+    "category": "culture",
+    "text": "The riot fails. The Norwegian retirees in the lobby completely ignore him, drinking stale filter coffee and waiting for their queue number. Macron's spirit breaks and he sits down quietly.",
+    "leftChoiceLabel": "Offer him a coffee",
+    "rightChoiceLabel": "Skip his queue number",
+    "leftEffect": {
+      "money": -20,
+      "social": 10,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -20
+    }
+  },
+  {
+    "id": 2575,
+    "category": "social",
+    "text": "Canadian PM Justin Trudeau visits Oslo. To painfully over-pander to the locals, he shows up to a formal diplomatic dinner wearing full Black Metal corpse paint and a spiked collar.",
+    "leftChoiceLabel": "Compliment his makeup",
+    "rightChoiceLabel": "Deny him entry",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 30,
+      "heat": -20
+    },
+    "nextScenarioId": 2576
+  },
+  {
+    "id": 2576,
+    "category": "culture",
+    "text": "He gets inside. Trying to prove his 'Norwegian authenticity', Trudeau lights a ceremonial candle. He accidentally sets the 300-year-old wooden banquet hall on fire.",
+    "leftChoiceLabel": "Save the King",
+    "rightChoiceLabel": "Save the buffet",
+    "leftEffect": {
+      "money": 0,
+      "social": 80,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": -100,
+      "heat": 40
+    },
+    "nextScenarioId": 2577
+  },
+  {
+    "id": 2577,
+    "category": "money",
+    "text": "You saved the buffet but the hall burned down. The state blames you for letting Trudeau in. You must pay 40 million NOK or serve 5 years in Halden Prison.",
+    "leftChoiceLabel": "Pay the debt forever",
+    "rightChoiceLabel": "Go to luxury prison",
+    "leftEffect": {
+      "money": -40000,
+      "social": 20,
+      "heat": -50
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 50
+    }
+  },
+  {
+    "id": 2578,
+    "category": "culture",
+    "text": "Pope Francis visits Nidaros Cathedral. During a massive public mass, his assistant makes a horrible mistake and replaces the communion wafers with thin slices of Gudbrandsdalsost (Brown Cheese).",
+    "leftChoiceLabel": "Stop the mass",
+    "rightChoiceLabel": "Let God decide",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "nextScenarioId": 2579
+  },
+  {
+    "id": 2579,
+    "category": "social",
+    "text": "The Pope eats the cheese. It immediately sticks to the roof of his mouth. He cannot speak for 15 minutes, sweating profusely. The crowd assumes he is having a profound divine revelation.",
+    "leftChoiceLabel": "Kneel in awe",
+    "rightChoiceLabel": "Offer him water",
+    "leftEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -10,
+      "heat": 30
+    },
+    "nextScenarioId": 2580
+  },
+  {
+    "id": 2580,
+    "category": "money",
+    "text": "The Vatican officially declares Brunost a holy relic. The price skyrockets to 5000 NOK per kilo overnight. You are financially ruined, but spiritually fulfilled.",
+    "leftChoiceLabel": "Sell your stash",
+    "rightChoiceLabel": "Eat your holy cheese",
+    "leftEffect": {
+      "money": 15000,
+      "social": -30,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -5000,
+      "social": 40,
+      "heat": 20
+    }
+  },
+  {
+    "id": 2581,
+    "category": "work",
+    "text": "Donald Trump discovers the Norwegian Sovereign Wealth Fund has 1.5 trillion dollars. He calls the Prime Minister at 3 AM to pitch a 'tremendous, very beautiful' casino in Svalbard.",
+    "leftChoiceLabel": "Hang up",
+    "rightChoiceLabel": "Transfer the call",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 10
+    },
+    "nextScenarioId": 2582
+  },
+  {
+    "id": 2582,
+    "category": "work",
+    "text": "The Prime Minister panicked and transferred the call to you. Trump promises to make the polar bears 'pay for the wall'. You must politely decline using Norwegian corporate jargon.",
+    "leftChoiceLabel": "Say 'Vi tar det til etterretning'",
+    "rightChoiceLabel": "Yell 'Fake News'",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -15
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    },
+    "nextScenarioId": 2583
+  },
+  {
+    "id": 2583,
+    "category": "money",
+    "text": "Trump takes immense personal offense to your corporate jargon. He sends Navy SEALs to confiscate your personal checking account. You lose your entire life savings of 412 NOK.",
+    "leftChoiceLabel": "Weep openly",
+    "rightChoiceLabel": "Demand it back in coins",
+    "leftEffect": {
+      "money": -412,
+      "social": -10,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": -412,
+      "social": 20,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2584,
+    "category": "work",
+    "text": "Greta Thunberg boards your North Sea oil rig in a rubber dinghy. She superglues herself to the main drill and demands you shut down all Norwegian oil production immediately.",
+    "leftChoiceLabel": "Call Coast Guard",
+    "rightChoiceLabel": "Offer her Waffles",
+    "leftEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": -100,
+      "social": 10,
+      "heat": -10
+    },
+    "nextScenarioId": 2585
+  },
+  {
+    "id": 2585,
+    "category": "food",
+    "text": "You offer her waffles to defuse the tension. She takes a bite and asks if they are vegan. You used 'Tine Meierismør' (real butter). She begins screaming through a megaphone.",
+    "leftChoiceLabel": "Confess to the butter",
+    "rightChoiceLabel": "Lie and say it's vegan",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 40
+    },
+    "nextScenarioId": 2586
+  },
+  {
+    "id": 2586,
+    "category": "work",
+    "text": "You lied about the butter. A coworker exposes you on TikTok. You are fired by Equinor, canceled globally, and fined by the Food Safety Authority for mislabeling baked goods.",
+    "leftChoiceLabel": "Cry in your cabin",
+    "rightChoiceLabel": "Become an oil lobbyist",
+    "leftEffect": {
+      "money": -5000,
+      "social": -40,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 15000,
+      "social": -80,
+      "heat": 10
+    }
+  },
+  {
+    "id": 2587,
+    "category": "social",
+    "text": "Former UK PM Boris Johnson washes ashore on your private beach in southern Norway in a dinghy. He begs for a secret, post-Brexit trade deal involving only raw cod and butter.",
+    "leftChoiceLabel": "Sell him the cod",
+    "rightChoiceLabel": "Push him back out",
+    "leftEffect": {
+      "money": 500,
+      "social": -10,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -20
+    },
+    "nextScenarioId": 2588
+  },
+  {
+    "id": 2588,
+    "category": "money",
+    "text": "You sell him 500kg of cod. He pays you entirely in devalued British Pounds and gives you a signed, waterlogged copy of his biography.",
+    "leftChoiceLabel": "Accept the trade",
+    "rightChoiceLabel": "Demand NOK",
+    "leftEffect": {
+      "money": 0,
+      "social": 10,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": 20
+    },
+    "nextScenarioId": 2589
+  },
+  {
+    "id": 2589,
+    "category": "money",
+    "text": "You take the Pounds to a Norwegian bank. The teller laughs uncontrollably, calls her manager over to laugh, and offers you a single half-eaten Kvikk Lunsj for the cash.",
+    "leftChoiceLabel": "Take the chocolate",
+    "rightChoiceLabel": "Keep the pounds",
+    "leftEffect": {
+      "money": -5000,
+      "social": -20,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -40,
+      "heat": -10
+    }
+  },
+  {
+    "id": 2590,
+    "category": "work",
+    "text": "A sanctioned Russian Oligarch's 500-foot mega-yacht is seized in the Oslofjord. The state assigns you to guard it. The oligarch offers you 20 million NOK to 'take a nap'.",
+    "leftChoiceLabel": "Take the bribe",
+    "rightChoiceLabel": "Stand your ground",
+    "leftEffect": {
+      "money": 20000,
+      "social": -60,
+      "heat": -30
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": 10
+    },
+    "nextScenarioId": 2591
+  },
+  {
+    "id": 2591,
+    "category": "culture",
+    "text": "You took the bribe and napped. The yacht attempts to flee but immediately crashes into a tiny, invisible Norwegian underwater rock (skjær). It is sinking rapidly.",
+    "leftChoiceLabel": "Rescue the oligarch",
+    "rightChoiceLabel": "Let him swim",
+    "leftEffect": {
+      "money": 0,
+      "social": 20,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 30
+    },
+    "nextScenarioId": 2592
+  },
+  {
+    "id": 2592,
+    "category": "social",
+    "text": "You rescue him, but the authorities catch you both. You are thrown into Halden Prison. The oligarch complains daily to you that the flat-screen TV in his cell is only 40 inches.",
+    "leftChoiceLabel": "Ask for a transfer",
+    "rightChoiceLabel": "Fight him",
+    "leftEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": 40
+    }
+  },
+  {
+    "id": 2593,
+    "category": "culture",
+    "text": "EU President Ursula von der Leyen decrees that Norwegian 'Brunost' must be legally renamed to 'Brown Sweet Milk Block' because it is technically not cheese.",
+    "leftChoiceLabel": "Burn the EU flag",
+    "rightChoiceLabel": "Comply with the law",
+    "leftEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": 20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -80,
+      "heat": -20
+    },
+    "nextScenarioId": 2594
+  },
+  {
+    "id": 2594,
+    "category": "money",
+    "text": "You burned the flag. The EU retaliates by embargoing all Norwegian salmon. The fjords are now overflowing with millions of unsold, deeply depressed fish.",
+    "leftChoiceLabel": "Eat salmon daily",
+    "rightChoiceLabel": "Dump it in Sweden",
+    "leftEffect": {
+      "money": -500,
+      "social": 0,
+      "heat": -10
+    },
+    "rightEffect": {
+      "money": -2000,
+      "social": -40,
+      "heat": 30
+    },
+    "nextScenarioId": 2595
+  },
+  {
+    "id": 2595,
+    "category": "food",
+    "text": "To solve the crisis, you mandate your family must eat 5kg of salmon daily. After three weeks, your skin turns bright orange and you constantly crave the ocean.",
+    "leftChoiceLabel": "Accept your new form",
+    "rightChoiceLabel": "Beg the EU for mercy",
+    "leftEffect": {
+      "money": 0,
+      "social": -50,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -30,
+      "heat": -40
+    }
+  },
+  {
+    "id": 2596,
+    "category": "culture",
+    "text": "Mark Zuckerberg visits Finnmark. He offers you a lifetime Metaverse premium subscription if you sell him your sacred reindeer grazing land for a massive server farm.",
+    "leftChoiceLabel": "Sell the land",
+    "rightChoiceLabel": "Refuse the lizard",
+    "leftEffect": {
+      "money": 15000,
+      "social": -60,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 40,
+      "heat": -10
+    },
+    "nextScenarioId": 2597
+  },
+  {
+    "id": 2597,
+    "category": "social",
+    "text": "You refuse. Zuckerberg threatens to permanently delete your Facebook account. You panic, realizing the local housing cooperative group is your only source of human drama.",
+    "leftChoiceLabel": "Cave in and sell",
+    "rightChoiceLabel": "Delete the app",
+    "leftEffect": {
+      "money": 15000,
+      "social": -80,
+      "heat": -20
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": 50,
+      "heat": 30
+    },
+    "nextScenarioId": 2598
+  },
+  {
+    "id": 2598,
+    "category": "work",
+    "text": "You caved and sold. The massive server farm is built. However, your angry reindeer chew through the main fiber optic cable, taking down global Facebook for 48 hours. You are a national hero.",
+    "leftChoiceLabel": "Pet the reindeer",
+    "rightChoiceLabel": "Hide from Mark",
+    "leftEffect": {
+      "money": 0,
+      "social": 60,
+      "heat": 10
+    },
+    "rightEffect": {
+      "money": 0,
+      "social": -20,
+      "heat": -40
+    }
   }
-
 ]
