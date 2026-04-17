@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Account | Driv</title>
+    <style>
+        :root {
+            --accent: #B388FF; /* Surge Purple */
+            --danger: #FF5252; /* Apex Red */
+            --bg: #0A0C0F;
+            --card: #14171A;
+            --text: #A0AEC0;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background: var(--card);
+            padding: 40px;
+            border-radius: 24px;
+            max-width: 450px;
+            width: 100%;
+            border: 1px solid rgba(255,255,255,0.05);
+            text-align: center;
+        }
+        h1 { color: #fff; font-size: 1.5rem; letter-spacing: 2px; margin-bottom: 10px; }
+        .warning-box {
+            background: rgba(255, 82, 82, 0.1);
+            border: 1px solid var(--danger);
+            padding: 15px;
+            border-radius: 12px;
+            margin: 20px 0;
+            text-align: left;
+            font-size: 0.85rem;
+        }
+        input {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            background: #1A1D21;
+            border: 1px solid #2D3748;
+            border-radius: 8px;
+            color: #fff;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 15px;
+            background: var(--danger);
+            color: #000;
+            border: none;
+            border-radius: 12px;
+            font-weight: 900;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 20px;
+            transition: transform 0.2s;
+        }
+        button:hover { transform: scale(1.02); }
+        .lang-switch { margin-top: 30px; font-size: 0.7rem; color: var(--accent); cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="container" id="content">
+        <h1>DELETE ACCOUNT</h1>
+        <p>Request permanent removal of your Driv profile.</p>
+        
+        <div class="warning-box">
+            <strong>PERMANENT LOSS:</strong><br>
+            • All earned Lux balance will be void.<br>
+            • Current League standing and tier will be erased.<br>
+            • Active streaks and history cannot be recovered.
+        </div>
+
+        <form action="mailto:canerkaya.gp@gmail.com" method="post" enctype="text/plain">
+            <input type="email" name="Email" placeholder="Your account email" required>
+            <input type="text" name="UID" placeholder="Firebase UID (Optional)">
+            <button type="submit">Execute Deletion</button>
+        </form>
+
+        <div class="lang-switch" onclick="toggleLang()">NO / EN</div>
+    </div>
+
+    <script>
+        let isNo = false;
+        function toggleLang() {
+            const h1 = document.querySelector('h1');
+            const p = document.querySelector('p');
+            const warning = document.querySelector('.warning-box');
+            const btn = document.querySelector('button');
+
+            if (!isNo) {
+                h1.innerText = "SLETT KONTO";
+                p.innerText = "Be om permanent fjerning av din Driv-profil.";
+                warning.innerHTML = "<strong>PERMANENT TAP:</strong><br>• All opptjent Lux-saldo blir ugyldig.<br>• Nåværende liga-plassering blir slettet.<br>• Aktive streaks og historikk kan ikke gjenopprettes.";
+                btn.innerText = "UTFØR SLETTING";
+            } else {
+                location.reload();
+            }
+            isNo = !isNo;
+        }
+    </script>
+</body>
+</html>
