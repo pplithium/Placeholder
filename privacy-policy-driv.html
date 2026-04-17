@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Driv</title>
+    <style>
+        :root {
+            --primary-accent: #B388FF; /* Surge Purple */
+            --bg-dark: #0A0C0F;
+            --card-bg: #14171A;
+            --text-main: #A0AEC0;
+            --text-heading: #FFFFFF;
+            --border-glow: rgba(179, 136, 255, 0.15);
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, system-ui, sans-serif;
+            line-height: 1.8;
+            color: var(--text-main);
+            background-color: var(--bg-dark);
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1A1D21 0%, #050608 100%);
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.8rem;
+            font-weight: 900;
+            letter-spacing: -0.05em;
+            text-transform: uppercase;
+        }
+
+        .header p {
+            margin: 15px 0 0;
+            font-size: 1rem;
+            color: var(--primary-accent);
+            font-weight: 700;
+            letter-spacing: 0.2em;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: -40px auto 80px;
+            background: var(--card-bg);
+            padding: 60px;
+            border-radius: 24px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+
+        h2 {
+            color: var(--text-heading);
+            margin-top: 2.5em;
+            margin-bottom: 1em;
+            font-size: 1.4rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            border-left: 4px solid var(--primary-accent);
+            padding-left: 15px;
+        }
+
+        p { margin-bottom: 1.5em; }
+
+        ul { margin-bottom: 2em; padding-left: 20px; list-style: none; }
+        li { margin-bottom: 0.8em; position: relative; }
+        li::before {
+            content: "•";
+            color: var(--primary-accent);
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        a { color: var(--primary-accent); text-decoration: none; font-weight: 600; }
+        a:hover { text-decoration: underline; }
+
+        .effective-date {
+            background-color: rgba(179, 136, 255, 0.1);
+            color: var(--primary-accent);
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 30px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            margin-bottom: 30px;
+            border: 1px solid var(--border-glow);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 40px;
+            color: #4A5568;
+            font-size: 0.8rem;
+            letter-spacing: 0.05em;
+        }
+
+        @media (max-width: 768px) {
+            .container { margin: -20px 15px 40px; padding: 30px; }
+            .header h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Privacy Policy</h1>
+        <p>DRIV — THE ARENA AWAITS</p>
+    </div>
+
+    <div class="container">
+        <div class="effective-date">EFFECTIVE AS OF APRIL 17, 2026</div>
+        
+        <p>This Privacy Policy governs the <strong>Driv</strong> mobile application (the "Application") developed by <strong>Caner Kaya</strong> ("Service Provider") as a Freemium fitness and competition platform. This Application is designed to track physical activity and facilitate competitive leagues.</p>
+
+        <h2>1. Information Collection and Use</h2>
+        <p>Driv collects specific data points required to maintain your competitive standing and provide economic rewards (Lux). This includes:</p>
+        <ul>
+            <li><strong>Authentication Data:</strong> Your email address and unique User ID (UID) provided via Firebase Authentication.</li>
+            <li><strong>Fitness Data:</strong> Step counts and workout durations retrieved from Apple Health, Google Health Connect, or Strava.</li>
+            <li><strong>Identity:</strong> A custom nickname if you have reached the "Surge" tier or higher.</li>
+            <li><strong>Competition Data:</strong> Your weekly league scores, tier history, and cohort assignments.</li>
+            <li><strong>Notification Data:</strong> Firebase Cloud Messaging (FCM) tokens used to send streak warnings and league updates.</li>
+        </ul>
+
+        <h2>2. Third-Party Integrations</h2>
+        <p>Driv interacts with trusted third-party services to ensure accurate tracking and reliable infrastructure:</p>
+        <ul>
+            <li><strong>Firebase:</strong> Used for secure authentication and push notifications.</li>
+            <li><strong>Cloudflare:</strong> Used to manage our backend database and league logic.</li>
+            <li><strong>Fitness Providers:</strong> Integration with Strava, Apple Health, and Google Health Connect is used solely to calculate your daily Lux and league standing. We do not sell this health data to third parties.</li>
+        </ul>
+
+        <h2>3. Data Handling and Display</h2>
+        <p>To provide a social competitive experience, your display name (either a masked email or a custom nickname) and your weekly score are visible to the 29 other athletes in your assigned league cohort.</p>
+
+        <h2>4. Data Retention and Deletion</h2>
+        <p>We retain your progress, Lux balance, and transaction history for as long as your account is active. You may delete your account and all associated personal data directly within the Application settings at any time. Alternatively, you may contact the Service Provider at <a href="mailto:canerkaya.gp@gmail.com">canerkaya.gp@gmail.com</a> for manual deletion requests.</p>
+
+        <h2>5. Children's Privacy</h2>
+        <p>Driv does not knowingly collect data from children under the age of 13. We encourage parents to monitor their children's mobile activity. If you believe a child has provided us with personal data, please contact us for immediate removal.</p>
+
+        <h2>6. Security</h2>
+        <p>We implement professional-grade electronic and procedural safeguards to protect your fitness data and account balance. While no system is 100% secure, we utilize industry-standard encryption for all data transmitted to our Cloudflare and Firebase backends.</p>
+
+        <h2>7. Contact</h2>
+        <p>For any inquiries regarding your data or this policy, please reach out to the Service Provider at <a href="mailto:canerkaya.gp@gmail.com">canerkaya.gp@gmail.com</a>.</p>
+    </div>
+
+    <div class="footer">
+        &copy; 2026 CANER KAYA. ALL RIGHTS RESERVED.
+    </div>
+
+</body>
+</html>
