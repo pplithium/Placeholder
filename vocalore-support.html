@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support - VocaLore</title>
+    <style>
+        :root {
+            --primary-navy: #18354A; 
+            --accent-mint: #A0C5A8;
+            --bg-cream: #FDFCF8;
+            --card-warm: #F3E8C8;
+            --text-dark: #18354A;
+            --text-muted: #64748b;
+            --card-bg: #ffffff;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.7;
+            color: var(--text-dark);
+            background-color: var(--bg-cream);
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .header {
+            background-color: var(--primary-navy);
+            color: var(--bg-cream);
+            padding: 80px 20px 100px;
+            text-align: center;
+            border-bottom-left-radius: 40px;
+            border-bottom-right-radius: 40px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 3rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+        }
+
+        .header p {
+            margin: 12px 0 0;
+            font-size: 1.2rem;
+            color: var(--accent-mint);
+            font-weight: 500;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: -60px auto 80px;
+            background: var(--card-bg);
+            padding: 50px 60px;
+            border-radius: 32px;
+            box-shadow: 0 20px 40px rgba(24, 53, 74, 0.08), 0 4px 12px rgba(24, 53, 74, 0.03);
+            position: relative;
+        }
+
+        h2 {
+            color: var(--primary-navy);
+            margin-top: 1.8em;
+            margin-bottom: 0.8em;
+            font-size: 1.8rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        h2::before {
+            content: "";
+            display: block;
+            width: 8px;
+            height: 24px;
+            background-color: var(--accent-mint);
+            border-radius: 4px;
+        }
+
+        p {
+            margin-bottom: 1.2em;
+            color: var(--text-muted);
+            font-size: 1.05rem;
+        }
+
+        ul {
+            margin-bottom: 2em;
+            padding-left: 0;
+            list-style: none;
+        }
+
+        li {
+            margin-bottom: 1.2em;
+            background-color: var(--card-warm);
+            background-opacity: 0.3;
+            padding: 20px;
+            border-radius: 16px;
+            color: var(--primary-navy);
+        }
+
+        li strong {
+            display: block;
+            font-size: 1.1rem;
+            margin-bottom: 4px;
+            color: var(--primary-navy);
+        }
+
+        .support-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--primary-navy);
+            color: white;
+            padding: 16px 32px;
+            border-radius: 16px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-top: 20px;
+            transition: all 0.2s ease;
+            box-shadow: 0 8px 16px rgba(24, 53, 74, 0.15);
+        }
+
+        .support-button:hover {
+            background-color: var(--accent-mint);
+            color: var(--primary-navy);
+            transform: translateY(-2px);
+            box-shadow: 0 12px 20px rgba(160, 197, 168, 0.3);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-bottom: 30px;
+            font-weight: 500;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: -40px 20px 40px;
+                padding: 40px 30px;
+                border-radius: 24px;
+            }
+            .header {
+                padding: 60px 20px 80px;
+                border-bottom-left-radius: 32px;
+                border-bottom-right-radius: 32px;
+            }
+            .header h1 {
+                font-size: 2.2rem;
+            }
+            h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>VocaLore Support</h1>
+        <p>Premium Multilingual Immersion Reader</p>
+    </div>
+
+    <div class="container">
+        <h2>How can we help?</h2>
+        <p>Welcome to the official support page for VocaLore. Whether you are experiencing technical difficulties, need assistance with your premium access, or have questions about our stories, we are here to ensure your language journey is seamless.</p>
+
+        <h2>Common Inquiries</h2>
+        <ul>
+            <li>
+                <strong>Purchase & Restoration Issues</strong>
+                Problems unlocking VocaLore Pro, purchasing individual story packs, or restoring your past purchases on a new device.
+            </li>
+            <li>
+                <strong>Audio & Playback</strong>
+                Issues with narrations not playing, text not syncing properly with the audio, or downloading story assets.
+            </li>
+            <li>
+                <strong>Progress & Settings</strong>
+                Questions about resetting your reading progress, changing the application language, or managing your account.
+            </li>
+        </ul>
+
+        <h2>Contact Us</h2>
+        <p>The most effective way to reach us is by emailing our support team directly. We typically respond within 24 to 48 hours to help get you back to your stories.</p>
+
+        <a href="mailto:canerkaya.gp@gmail.com" class="support-button">Contact Support Team</a>
+    </div>
+
+    <div class="footer">
+        &copy; 2026 CK Studios. All rights reserved.
+    </div>
+
+</body>
+</html>
